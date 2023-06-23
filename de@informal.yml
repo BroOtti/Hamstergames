@@ -291,3 +291,71 @@ d26ce2e5-4fc6-4154-be1f-b38e6294e81b.tab.ani.2.1: '&fʙᴇᴛʀᴇᴛᴇ ᴜɴs�
   sᴇʀᴠᴇʀ ғᴜ̈ʀ ᴜᴘᴅᴀᴛᴇs'
 cdfc1726-588a-44ee-b69a-b725b2a93048.uar.restart.subtitle: '&fNeustart in'
 9957252b-687d-4801-8fcc-52d9ad4f337b.tab.ani.3.2: '&fsᴘɪᴇʟᴛ ᴅᴇʀᴢᴇɪᴛ ᴀᴜғ ᴛɪʟɢɪs!'
+0a81e4b8-1467-446e-a9b9-4d1f10504e3d.mycmd.broadcast-alone: '&7Niemand hat diese Nachricht
+  erhalten'
+84322162-8aa5-4f0b-af47-88a571e55004.uar.EVENT_RESTART_DELAY_GLOBAL.subtitle: Der
+  Neustart hat sich verzögert um
+9488f6a1-b689-4598-99b4-b1cff79d553d.uar.EVENT_RESTART_GLOBAL.subtitleContent: Bitte
+  warte, wir verbinden dich!
+482c134c-fd27-4c16-b3f4-572870100aeb.mycmd.npc.delay: '&7Du musst &c%s Sekunden&7
+  warten, um wieder zu interagieren'
+21e4c6c8-14b8-4143-9490-415222b6e258.mycmd.skipped-execute: '&7Du hast die Prüfung
+  des Befehlsausführungsmodus übersprungen.'
+cd4a4611-a5cf-4768-813a-1d5e70681b11.uar.COMMAND_FORCE_RESTART.subtitle: Erzwinge
+  einen Neustart. Neustart in
+8206a62e-2c44-460d-bf7e-209e483a55b7.uar.restart.title: NEUSTARTEN
+8b2d00ca-9bb0-43da-b6d5-8f3e203c5fc1.tab.ani.welcome: ᴡɪʟʟᴋᴏᴍᴍᴇɴ
+29baa872-b8d5-4c76-ac86-28b7a4818750.mycmd.console-deny: '&7Dieser Befehl kann nicht
+  über die Konsole ausgeführt werden'
+174cee1a-430d-47ae-a8d3-9cbf61e21647.mycmd.minute: 'Minute '
+9a4cab7c-d85b-4729-9304-b274334da104.mycmd.lines-empty: '&7Alle Zeilen sind leer.'
+45575dd6-ea41-4022-8695-8bc3fcda8b6b.tab.sb.points: '&7Punkte:'
+8a934d4a-df77-4b21-8ec3-ecf7a6554862.mycmd.itemnoset: '&7Es gibt keine Befehle für
+  diesen Artikel'
+9c42929b-f1fb-46e9-8b14-e964b1d5deee.mycmd.noperms: '&7Dazu haben Sie keine Berechtigung!'
+eed6dff9-d1ca-422d-a44a-5553d0b23b87.tab.ani.3.3: '&fᴋᴀᴜғᴇ ʀᴀ̈ɴɢᴇ ᴜɴᴅ ᴘᴜɴᴋᴛᴇ ɪɴ ᴜɴsᴇʀᴇᴍ
+  sʜᴏᴘ!'
+e4fa4f8f-e394-4b1d-9237-bf54bc8f2931.mycmd.cmds.args.l1: '&7Nicht genug Argumente...
+  Du hast getippt '
+c730d548-3ddd-4039-af68-6fab4ace235c.uar.COMMAND_USER_VIEWINTERVAL.chatMessage: Server-Neustart
+  in
+f01f4e13-e26f-4b7a-bcdb-f2b50b0e66d4.mycmd.minutes: 'Minuten '
+d3e65b82-01bb-4872-8392-6dcfc68d4ad7.mycmd.console_output: '&7Überprüfe die Konsole
+  auf die Ausgabe.'
+50088488-67dd-4d23-ac52-d8368147a2e5.mycmd.block-removed: '&7Block entfernt!'
+efaf23c5-6744-4cd2-b075-8e32b91c09d6.tab.ani.2.3: '&fᴋᴀᴜғᴇ ʙᴇғᴇʜʟᴇ, ᴠᴇʀɢᴜ̈ɴsᴛɪɢᴜɴɢᴇɴ,
+  ᴋᴏsᴍᴇᴛɪᴋᴀ ᴜɴᴅ ᴍᴇʜʀ ᴀᴜғ'
+768ccf05-0c6d-45e6-b873-a8bb44c0afad.uar.restart.chatmessage: Server-Neustart in
+81f94e86-0928-40bf-94b1-b0d05f19c209.mycmd.days: 'Tage '
+38c0458e-ca91-45fc-adba-6aee962906c5.mycmd.sign-created: '&7Schild erstellt! Weitere
+  Optionen finden Sie unter &b/mycmd-signset &7.'
+cbf0103e-f88e-4ee6-8151-5832a4044276.uar.COMMAND_FORCE_RESTART.title: NEUSTART ERZWUNGEN
+a5bcf5b6-ae93-461e-90ea-3674607891e0.uar.COMMAND_USER_VIEWINTERVAL.title: AM NEUSTARTEN
+5ba3e6e7-837a-4bb9-bcd5-da102e6df732.tab.ani.3.1: '&fɢᴇᴡɪɴɴsᴘɪᴇʟᴇ, ᴀɴᴋᴜ̈ɴᴅɪɢᴜɴɢᴇɴ
+  ᴜɴᴅ ᴠɪᴇʟᴇs ᴍᴇʜʀ!'
+2a104129-f8f0-4723-909e-133a6ee77a4e.mycmd.cooldown1: '&7Warte:&c %1%2%3%4 &7bevor
+  du diesen Befehl erneut verwenden kannst'
+0ce2f1c9-51b3-436f-a3f4-944fea593286.mycmd.day: Tag
+ca1bb488-a7dd-405a-9bc5-7f8497945a8a.uar.EVENT_RESTART_DELAY_STAFF.chat: Der Neustart
+  des Servers verzögert sich um
+5885bbb5-cfe1-4510-a296-97289f099e28.mycmd.sign-removed: '&7Zeichen entfernt!'
+0f01c37a-4f8a-49b0-a3e4-ead84a8b60ce.mycmd.nomoney: '&7Du brauchst &c%1&l$&7 um diesen
+  Befehl auszuführen.'
+1d0755a5-ef43-4361-a62c-c3799a982a38.mycmd.cmds.l2: '&8-> &7Ausgabebefehl(e) :'
+cdaca2a2-9b0e-4b4c-913d-837ced6e1368.tab.ani.store: sʜᴏᴘ
+3f315c9d-fc0a-4615-947d-40b8ae9f316c.mycmd.char-not-allowed: '&7Deine Eingabe enthält
+  unzulässige Zeichen.'
+8bcefd8b-a620-48d9-b24c-69e1473baf0d.uar.COMMAND_FORCE_RESTART_GLOBAL.chatMessage: Erzwungener
+  Neustart des Servers in
+9749347b-147c-4854-b749-458e85498502.mycmd.warmup3: '&7Du wärmst dich bereits für
+  diesen Befehl auf. Warte &c%1 Sekunden'
+4fa87da2-3811-4b77-81c8-71bf5f9ed69e.mycmd.nodata: KEINE DATEN
+b6e96ecc-0f50-45c1-8953-fdf232f0735b.mycmd.debug.execute: '&7Ausführen: '
+9f46e8e4-3e75-44ca-a658-84e023976f34.tab.ani.3.4: '&fᴅᴜʀᴄʜ ᴠᴏᴛᴇɴ ғᴜ̈ʀ ᴜɴsᴇʀᴇɴ sᴇʀᴠᴇʀ
+  ᴍɪᴛ /VOTE!'
+bbf836a2-0680-42ed-8672-bef5dd3589f9.mycmd.hour: 'Stunde '
+4f4944d2-0b46-4e9a-b6cf-9b472fc345e0.uar.EVENT_RESTART_DELAY_STAFF.subtitle: Der Neustart
+  hat sich verzögert um
+43440cbb-6054-491a-8c78-638f3c6aa4f7.uar.EVENT_RESTART_DELAY_GLOBAL.chatMessage: Der
+  Neustart des Servers verzögert sich um
+e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '&7Welt:'
