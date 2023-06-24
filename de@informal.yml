@@ -13,8 +13,8 @@ c2596c7c-75de-4c99-89d1-d157b14464c5.gsitMessages.action-sit-info: '&aNutze dein
   nicht, &6 wir verbinden dich erneut!'
 d72ed0a5-52ce-436c-be38-d96fa7a70a06.gsitMessages.action-sit-now-error: '[P]&c Du
   kannst gerade nicht sitzen!'
-33c77d75-9c45-4a90-9cac-bd975a1ec38f.gsitMessages.command-gsit-playertoggle-off: '[P]&a
-  Du hast Klick-Interaktionen für Spieler-sitzen deaktiviert.'
+33c77d75-9c45-4a90-9cac-bd975a1ec38f.gsitMessages.command-gsit-playertoggle-off: '[P]&7
+  Du hast &c&l✘&c Deaktiviert:&7 Klick-Interaktionen für playersit! &8&o(/toggle)'
 4b3b0989-d096-4054-bffc-65b68b687632.alonsotags.Tag-selected: Du hast den &f%1&7-Tag
   ausgewählt!
 7e3739a4-0c05-49f1-98c1-33b79212791f.gsitMessages.action-sit-world-error: '[P]&7 Du
@@ -156,8 +156,8 @@ bd83bfdc-5ce1-431a-962c-82f6443f98fa.ia.2.1: Fordern Sie Ihre verfügbaren Kits 
 265a72c0-4c53-46fc-8f5a-fb4300527741.gsitMessages.action-pose-safe-error: '[P]&c Es
   ist nicht sicher, hier zu posieren!'
 27a7be73-cda5-4fc2-8325-579fb58027b5.perms: Dir fehlen leider die Berechtigungen dafür!
-b80f4f23-1345-4693-bc11-4ca3a48419ed.gsitMessages.command-gsit-toggle-on: '[P]&a Du
-  hast Klick-Interaktionen für Sitzen aktiviert.'
+b80f4f23-1345-4693-bc11-4ca3a48419ed.gsitMessages.command-gsit-toggle-on: '[P]&7 Du
+  hast &a&l✔ &aAktiviert:&7 Klick-Interaktionen für Sitzen! &8&o(/toggle)'
 0d415b59-b8ca-46ec-8a41-e1a560464ef0.ia.4.1: Sehen Sie sich Ihre Spielzeit
 ef2e88e8-f29b-4544-8d05-21295f04451e.chatcolor.gui-click-to-toggle: '&bKlick &8|&7
   Umschalten'
@@ -199,10 +199,10 @@ c4645f69-c0eb-44fd-b518-1be148468ee6.ia.8.1: Laden Sie Ihre Freunde zum Spielen 
 95279f9f-eb5c-4394-b05b-d2dab34c5f50.mpdb.noPermission: '&7Sie haben keine Berechtigung.'
 065330db-285b-4279-ad3d-a8df014f9409.chatmanger.mention.footer: '#E6E6E6Du wurdest
   erwähnt von'
-bf422279-295c-4041-ac16-e8612591f3ca.gsitMessages.command-gsit-playertoggle-on: '[P]&a
-  Du hast Klick-Interaktionen für Spieler-sitzen aktiviert.'
-27caaa24-a1c8-411b-ae5a-a61ebda583dc.gsitMessages.command-gsit-toggle-off: '[P]&a
-  Du hast Klick-Interaktionen für Sitzen deaktiviert.'
+bf422279-295c-4041-ac16-e8612591f3ca.gsitMessages.command-gsit-playertoggle-on: '[P]&7
+  Du hast &a&l✔ &aAktiviert:&7 Klick-Interaktionen für playersit! &8&o(/toggle)'
+27caaa24-a1c8-411b-ae5a-a61ebda583dc.gsitMessages.command-gsit-toggle-off: '[P]&7
+  Du hast &c&l✘ &cDeaktiviert:&7 Klick-Interaktionen für sitzen! &8&o(/toggle)'
 c5c78938-b9f9-4342-9284-40e9024ec263.alonsotags.Tag-purchased: Sie haben das Tag &f%1&7
   erfolgreich gekauft!
 56d67910-a5c8-49b9-9886-d022778335f5.chatcolor.gui-title: '&8Chatcolor Auswählen'
@@ -222,8 +222,8 @@ bfed87ff-eee1-480b-9b0d-5ad5f0743dbb.gsitPlugin.plugin-reload: '[P]&a Das Plugin
 7a8ea03c-72e1-47b3-aeb0-dcd8ac5ddad6.alonsotags.active.lore: "&bBeschreibung\n &b|\
   \ &7Hier können Sie ein Tag anzeigen\n &b| &7das Sie ausgewählt haben.\n\n&bInformation\n\
   \ &b| &7Tag ausgewählt: %1\n &b| &7Status: &a&l✔\n\n&b&| &bᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴇɴᴛғᴇʀɴᴇɴ"
-304eecf5-ab97-4e7d-bffc-a022e8f2ce1a.gsitMessages.command-version-error: '[P]&c Du
-  kannst diese Funktion mit dieser Serverversion nicht nutzen! (&b%Version%&c)'
+304eecf5-ab97-4e7d-bffc-a022e8f2ce1a.gsitMessages.command-version-error: '[P]&7 Du
+  kannst diese Funktion mit dieser Serverversion nicht nutzen! &c%Version%&7!'
 70f54379-393e-462b-b745-1bc975bc8547.ia.3.2: Entsorgen Sie Ihre Gegenstände und retten
   Sie die Erde!
 fb402023-821e-4d2e-9479-a3b353e3d6ab.ia.10.2: Schützen Sie sich vor Betrügern
@@ -359,3 +359,71 @@ bbf836a2-0680-42ed-8672-bef5dd3589f9.mycmd.hour: 'Stunde '
 43440cbb-6054-491a-8c78-638f3c6aa4f7.uar.EVENT_RESTART_DELAY_GLOBAL.chatMessage: Der
   Neustart des Servers verzögert sich um
 e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '&7Welt:'
+c3275e6f-533a-4cf1-9a78-c7defd84ed95.playerpoints.command-reset-usage: '&cAnwendung:
+  &b/points reset &3<Spieler>'
+f90ab21c-56dc-451c-9bde-0bf938ae1a8b.playerpoints.command-set-success: '&7Setze den
+  &b%1 &7von &b%2 &7zu &b%3&7.'
+bcae4ea3-37e1-4aad-a2eb-8c4b135589b6.playerpoints.command-take-usage: '&cAnwendung:
+  &b/points take &3<Spieler> <Menge>'
+e9946006-6c14-4d6c-bcce-e79e96693cc3.playerpoints.noperm: Dazu fehlt ihnen die Berechtigung
+bb3a7d07-a74d-44b1-8d8d-e5968dfb0d32.playerpoints.command-give-received: "'&7Du hast\
+  \ erhalten:"
+a8f13995-1b81-4601-961c-5f4fec61dac8.playerpoints.command-help-title: '&bVerfügbare
+  Befehle:'
+e67ac88a-c487-4b0a-8a08-a423a5dd8872.playerpoints.command-look-description: '&8 -
+  &b/points look &3<Spieler> &8- &fSiehe die Punkte eines Spielers'
+39cf9ff4-482f-44f4-9f98-5af8e953ed57.playerpoints.command-giveall-usage: '&cAnwendung:
+  &b/points giveall &3<Menge>'
+346825be-ced3-45f6-b20c-928fc7dcd0cb.playerpoints.command-give-description: '&8 -
+  &b/points give &3<Spieler> <Menge> &8- &fVergebe Punkte an einen Spieler'
+b7704ff0-e16f-4c0c-a606-a8736d628eba.playerpoints.command-reset-success: '&7Setze
+  den &b%1&7 für &b%2&7 zurück.'
+bd2b66ba-0484-4943-8c49-ccbb285be0a3.playerpoints.command-take-description: '&8 -
+  &b/points take &3<Spieler> <Menge> &8- &fEntnehme Punkte von einem Spieler'
+d7481d9f-438a-43c1-8022-8be4bac0801f.playerpoints.command-reset-description: '&8 -
+  &b/points reset &3<Spieler>  &8- &fSetze die Punkte eines Spielers zurück'
+fe62e35e-2b4e-4a8e-9738-06f38e63a334.playerpoints.command-me-success: '&7Du hast &b&l%1&b%2&7.'
+f27e9ff1-d25f-47a1-9eee-d5c4e027c96e.playerpoints.command-pay-usage: '&cAnwendung:
+  &b/points pay &3<Spieler> <Menge>'
+09d808c1-3ba0-43c2-829b-e68fe80fc908.playerpoints.command-set-description: '&8 - &b/points
+  set &3<Spieler> <Menge> &8- &fSetze die Punkte eines Spielers'
+59d35e5b-db08-4343-ac6e-facfedb352ef.playerpoints.command-me-usage: '&cAnwendung:
+  &b/points me'
+d7663dd2-5904-47ad-9189-dec6566fa10e.playerpoints.command-lead-usage: '&cAnwendung:
+  &b/points lead'
+5ced4c47-e664-43a0-8696-8c664d07e895.playerpoints.base-command-help: '&7Benutze &b/points
+  help &7für Informationen zu den Befehlen.'
+606c1113-acfc-4abf-993e-ada0a1ab9197.playerpoints.command-help-description: '&8 -
+  &b/points help &8- &fZeigt das Hilfemenü an... Du bist angekommen'
+0e65acd6-e94a-415b-8497-bfe150fadba4.playerpoints.command-give-usage: '&cAnwendung:
+  &b/points give '
+7eba699f-29dc-4ff4-ac22-be6cd1069a4e.playerpoints.unknown-player: 'Der Spieler konnte
+  nicht gefunden werden: '
+2533fc85-81e6-42d6-a26d-92e80b703b2b.playerpoints.unknown-command: 'Unbekannter Befehl: '
+a7467a92-54ff-4a94-8614-7ba95be1efd2.playerpoints.command-giveall-description: '&8
+  - &b/points giveall &3<Menge> &8-&f Gibt allen Online-Spielern Punkte'
+06f9e736-e571-4e02-9ee4-137e5bb7ac49.playerpoints.command-take-lacking-funds: '&b%1
+  &7hat nicht genug &b&l%1&7 dafür, also wurde ihr Saldo auf &b0&7 gesetzt.'
+d199f929-71ab-401c-bf2a-c16f6f0e9b23.playerpoints.command-giveall-success: '&7Gebe
+  &b&l%1&b%2&7 an alle Online-Spieler.'
+20412212-f754-4ea3-bfdc-7178039e2cea.playerpoints.command-pay-description: '&8 - &b/points
+  pay &3<Spieler> <Menge> &8- &fBezahle einen Spieler'
+e040daa5-510d-4e05-91a9-febb0c5c1830.playerpoints.command-lead-title: '&b&lPunkte
+  &8&l➦ &bBestenliste:'
+97ecc17d-969a-45c0-9225-05a73b770d93.playerpoints.command-take-success: '&7Nahm &b&l%1&b%2&7
+  von &b%3&7.'
+144d2779-bb0b-4d03-ab34-af9f19448efb.palyerpoints.command-give-success: '&7wurde gegeben'
+3d1a6cf8-094a-4f34-a432-120a4c854897.playerpoints.command-pay-lacking-funds: '&7Dafür
+  hast du nicht genug &b%1&7.'
+9a5ce02f-d1c0-4e8a-a6fc-4e75ec1814e4.playerpoints.command-look-usage: '&cAnwendung:
+  &b/points look &3<Spieler>'
+c05bd0e6-cc69-4f3c-a543-28899db41d94.playerpoints.command-me-description: '&8 - &b/points
+  me &8- &fSehe dir deine Punkte an'
+ef8b040c-af85-48a5-a807-4432ef02c1b9.playerpoints.command-pay-sent: '&7Du hast &b%1
+  &b&l%2&b%3&7 bezahlt.'
+f2b97046-5b46-4ac3-a353-190e1aee8b78.playerpoints.command-lead-description: '&8 -
+  &b/points lead &3%1&8- &fSehe dir die Bestenliste an'
+5a09d2ac-2a53-4f20-8a1e-47f2c6809a22.playerpoints.invalid-amoun: Der Betrag muss eine
+  positive ganze Zahl sein.
+244f8abb-b1da-4a88-8364-000e833b9c6b.playerpoints.command-set-usage: '&cAnwendung:
+  &b/points set &3<Spieler> <Menge>'
