@@ -373,3 +373,77 @@ bbf836a2-0680-42ed-8672-bef5dd3589f9.mycmd.hour: 'hour '
 43440cbb-6054-491a-8c78-638f3c6aa4f7.uar.EVENT_RESTART_DELAY_GLOBAL.chatMessage: Server
   reboot is delayed by
 e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '&7World:'
+c3275e6f-533a-4cf1-9a78-c7defd84ed95.playerpoints.command-reset-usage: '&cUsage: &b/points
+  reset &3<player>'
+f90ab21c-56dc-451c-9bde-0bf938ae1a8b.playerpoints.command-set-success: '&7Set the
+  &b%1 &7of &b%2 &7to &b%3&7.'
+bcae4ea3-37e1-4aad-a2eb-8c4b135589b6.playerpoints.command-take-usage: '&cUsage: &b/points
+  take &3<player> <amount>'
+e9946006-6c14-4d6c-bcce-e79e96693cc3.playerpoints.noperm: You don't have a permission
+  to do that
+bb3a7d07-a74d-44b1-8d8d-e5968dfb0d32.playerpoints.command-give-received: "'&7You have\
+  \ received"
+a8f13995-1b81-4601-961c-5f4fec61dac8.playerpoints.command-help-title: '&bAvailable
+  Commands:'
+e67ac88a-c487-4b0a-8a08-a423a5dd8872.playerpoints.command-look-description: "&8 -\
+  \ &b/points look &3<player> &8- &fView a player's points"
+39cf9ff4-482f-44f4-9f98-5af8e953ed57.playerpoints.command-giveall-usage: '&cUsage:
+  &b/points giveall &3<amount>'
+346825be-ced3-45f6-b20c-928fc7dcd0cb.playerpoints.command-give-description: '&8 -
+  &b/points give &3<player> <amount> &8- &fGive a player points'
+b7704ff0-e16f-4c0c-a606-a8736d628eba.playerpoints.command-reset-success: '&7Reset
+  the &b%1&7 for &b%2&7.'
+bd2b66ba-0484-4943-8c49-ccbb285be0a3.playerpoints.command-take-description: '&8 -
+  &b/points take &3<player> <amount> &8- &fTake points from a player'
+d7481d9f-438a-43c1-8022-8be4bac0801f.playerpoints.command-reset-description: "&8 -\
+  \ &b/points reset &3<player>  &8- &fReset a player''s points"
+f6f7c2e8-00f3-4595-ac81-327e503aff91.playerpoints.command-pay-received: '&7You were
+  paid &b&l%1&b%2&7 by &b%3&7.'
+fe62e35e-2b4e-4a8e-9738-06f38e63a334.playerpoints.command-me-success: '&7You have
+  &b&l%1&b%2&7.'
+4ff99f51-4edf-435c-8cf0-e015c85f5b58.playerpoints.command-look-success: '&b%1 &7has
+  &b&l%2&b%3&7.'
+f27e9ff1-d25f-47a1-9eee-d5c4e027c96e.playerpoints.command-pay-usage: '&cUsage: &b/points
+  pay &3<player> <amount>'
+09d808c1-3ba0-43c2-829b-e68fe80fc908.playerpoints.command-set-description: "&8 - &b/points\
+  \ set &3<player> <amount> &8- &fSet a player''s points"
+59d35e5b-db08-4343-ac6e-facfedb352ef.playerpoints.command-me-usage: '&cUsage: &b/points
+  me'
+d7663dd2-5904-47ad-9189-dec6566fa10e.playerpoints.command-lead-usage: '&cUsage: &b/points
+  lead'
+5ced4c47-e664-43a0-8696-8c664d07e895.playerpoints.base-command-help: '&7Use &b/points
+  help &7for command information.'
+606c1113-acfc-4abf-993e-ada0a1ab9197.playerpoints.command-help-description: '&8 -
+  &b/points help &8- &fDisplays the help menu... You have arrived'
+0e65acd6-e94a-415b-8497-bfe150fadba4.playerpoints.command-give-usage: '&cUsage: &b/points
+  give '
+7eba699f-29dc-4ff4-ac22-be6cd1069a4e.playerpoints.unknown-player: 'Player could not
+  be found: '
+2533fc85-81e6-42d6-a26d-92e80b703b2b.playerpoints.unknown-command: 'Unknown command: '
+a7467a92-54ff-4a94-8614-7ba95be1efd2.playerpoints.command-giveall-description: '&8
+  - &b/points giveall &3<amount> &8-&f Gives all online players points'
+06f9e736-e571-4e02-9ee4-137e5bb7ac49.playerpoints.command-take-lacking-funds: '&b%1
+  &7does not have enough &b&l%1&7 for that, so their balance was set to &b0&7.'
+d199f929-71ab-401c-bf2a-c16f6f0e9b23.playerpoints.command-giveall-success: '&7Gave
+  &b&l%1&b%2&7 to all online players.'
+20412212-f754-4ea3-bfdc-7178039e2cea.playerpoints.command-pay-description: '&8 - &b/points
+  pay &3<player> <amount> &8- &fPay a player'
+e040daa5-510d-4e05-91a9-febb0c5c1830.playerpoints.command-lead-title: '&b&lPoints
+  &8&l➦ &bLeaderboard:'
+97ecc17d-969a-45c0-9225-05a73b770d93.playerpoints.command-take-success: '&7Took &b&l%1&b%2&7
+  from &b%3&7.'
+144d2779-bb0b-4d03-ab34-af9f19448efb.palyerpoints.command-give-success: '&7was given'
+3d1a6cf8-094a-4f34-a432-120a4c854897.playerpoints.command-pay-lacking-funds: '&7You
+  do not have enough &b%1&7 for that.'
+9a5ce02f-d1c0-4e8a-a6fc-4e75ec1814e4.playerpoints.command-look-usage: '&cUsage: &b/points
+  look &3<player>'
+c05bd0e6-cc69-4f3c-a543-28899db41d94.playerpoints.command-me-description: '&8 - &b/points
+  me &8- &fView your points'
+ef8b040c-af85-48a5-a807-4432ef02c1b9.playerpoints.command-pay-sent: '&7You paid &b%1
+  &b&l%2&b%3&7.'
+f2b97046-5b46-4ac3-a353-190e1aee8b78.playerpoints.command-lead-description: '&8 -
+  &b/points lead &3%1&8- &fView the leaderboard'
+5a09d2ac-2a53-4f20-8a1e-47f2c6809a22.playerpoints.invalid-amoun: Amount must be a
+  positive whole number.
+244f8abb-b1da-4a88-8364-000e833b9c6b.playerpoints.command-set-usage: '&cUsage: &b/points
+  set &3<player> <amount>'
