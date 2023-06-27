@@ -427,3 +427,7 @@ f2b97046-5b46-4ac3-a353-190e1aee8b78.playerpoints.command-lead-description: '&8 
   positive ganze Zahl sein.
 244f8abb-b1da-4a88-8364-000e833b9c6b.playerpoints.command-set-usage: '&cAnwendung:
   &b/points set &3<Spieler> <Menge>'
+40016405-ed73-48ae-a64f-637d071deedf.tempflycommand.base.remove.0: entfernen
+635b18c3-c616-4969-b1da-8fc96ac92c67.tempflygeneral.requirement.fail.default_other: '%1
+  &f%2 &7kann derzeit nicht fliegen!'
+5f786c3f-f502-4fd8-8c04-2efee5a4f5aa.PlayerParticlesgui-edit-data-color-brown: '#8b4513Braun'
