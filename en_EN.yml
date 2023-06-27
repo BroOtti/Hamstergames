@@ -1145,3 +1145,742 @@ b811b891-d657-4489-b599-865516d5101a.PlayerParticlesfixed-edit-invalid-coords: '
   about commands with &b/pp help'
 1ab969d0-abd6-48bd-b045-b3cec2421d3d.tempflygeneral.invalid.command: '%1 &7Command
   not found! &b"/help"&7 for more information!'
+525b9f49-19b7-4c62-a5e1-e1a6b63dd8ad.excellentcratesCrate.Open.Error.Cost.Exp.2: '#d4d9d8You
+  need #fd5e5e%1 Levels #d4d9d8 to open it!'
+7f76a1e9-cc3c-4628-bf5f-f5d60d41d500.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.3: '#ffed6a&lCurrent:'
+df97bc25-c2e5-497b-ab11-464d99ed8797.excellentenchantmentsCommand.Enchant.Done: '&aSuccessfully
+  enchanted!'
+d9c19cca-46be-410b-b707-69c4c0f50f63.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.12: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aAdd Text'
+5d56c134-c3f2-4a46-99d0-9f9e518f89b3.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Name: '#ffed6a&lVirtual'
+7c2f1695-b144-41a4-81d5-8f874c1bf4ab.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.6: '#bbff6a&lActions:'
+1f091d5f-b3e8-4ed7-a255-cc9edee90fc1.excellentcratesCommand.Key.GiveAll.Done: '#d4d9d8Given
+  #fdf35ex%1#d4d9d8 of #fdf35e%2#d4d9d8 key(s) to #fdf35eAll Players#d4d9d8.'
+48db42d4-b8e1-4a77-ac23-ffb5bcbcd327.excellentcratesCommand.Key.Set.Notify: "#d4d9d8Your\
+  \ #fdf35e%1#d4d9d8's amount has been changed to #fdf35ex%2#d4d9d8."
+084f746d-3d51-4db1-ba1c-3b33441f11df.excellentcratesEditor.Crate.BlockPushback.Lore.0: '#bdc8c9Sets
+  whether player will be pushed'
+ce620f0d-6013-4f64-b8da-ab1196c02d87.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.8: '#bbff6a&lActions:'
+07e680a3-d1c5-4f69-8929-44f7756d62d1.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Lore.5: '#ffed6a▪
+  #bdc8c9Enabled: #ffed6a%1'
+f92649af-7e51-407f-b32e-4fc40ec4d41b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Name: '#ffed6a&lDisplay
+  Name'
+acc24171-96ef-42b7-84a9-f37ebbcdffee.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.0: '#bdc8c9Automatically
+  sorts rewards in'
+d7df123f-0531-401b-b2d5-ff371559a7d7.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.10: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aChange'
+320d1ff2-1bec-4617-a489-0c8b2959c4b8.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Name: '#ffed6a&lChance'
+65bcde5a-d539-4c2e-82cc-fad1b3e24564.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.0: '#bdc8c9Chance:
+  &f%1%'
+44574c83-b7e2-4e30-a416-5753ddc1b036.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Name: '#ffed6a&lKeys'
+24366b74-240d-44bc-99f0-2d8edb756d52.menu.bank.menu.info: "\n&bInformation\n&b| &7Username:\
+  \ &f%1\n&b| &7Interest: &f⌚%2\n\n&b| &7Balance: &b%3\n&b| &7Bank: &b$%4\n\n&b| &7Registered\
+  \ User(s): &3%5"
+77af42ce-7792-473f-bac9-aa5dbf670d32.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.4: '#ffed6a▪
+  #bdc8c9Required: #ffed6a%1'
+2702a2b8-fb22-428a-80ef-e5d27d3f9ab8.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.8: '#bbff6a&lActions:'
+ee56387a-b803-4617-84ca-5fa1acb42bff.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.3: '#ffed6a▪
+  #bdc8c9Is Virtual: #ffed6a%1'
+2febbaaa-ef7b-40a0-9c73-4318a4907252.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Lore.0: '#bdc8c9A
+  list of items given'
+df7051c9-0398-45b7-ab1f-bc2c1125400c.excellentcratesCommand.Preview.Desc: Open crate
+  preview.
+29bd3a3d-8ccc-4dae-850a-141be36c6ee4.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Name: '#ffed6a&lPreview
+  & Animation'
+85cfe347-b82a-40d4-a026-ed56a6cac759.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.0: '#bdc8c9Players
+  having any permission'
+de0974e8-d40d-4b2f-aefd-325f9d256881.excellentcratesEditor.CrateEditorType.Reward.Rarity.Lore.7: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aChange'
+917c3a43-d241-4155-9c86-7165f1a9d38b.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.11: '#bbff6a&lActions:'
+6dd5e262-41cf-448b-be0b-31fb20d6a57a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.11: '#bbff6a▪
+  #bdc8c9[Q/Drop] Key: #bbff6aDisable All'
+6c134544-ada2-4962-ad02-8b626ea67672.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.11: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aClear List'
+d806ba2d-08d7-4ad9-b2ec-de19eeb488ab.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.9: '#bbff6a&lActions:'
+f8bd1fcb-6fdf-467f-805d-aa5df4f76380.excellentcratesCrate.Open.Reward.Broadcast.0: <!
+  prefix:"false" sound:"BLOCK_NOTE_BLOCK_BELL" !>
+9de142b1-3032-4432-8e41-1d1bdeb978b8.clearlag.will-removed-in: '&b&lWARNING!&b ᴀʟʟ
+  ɪᴛᴇᴍꜱ/ᴇɴᴛɪᴛɪᴇꜱ ᴡɪʟʟ ʙᴇ ʀᴇᴍᴏᴠᴇᴅ ɪɴ:'
+14a974fc-6d7e-422c-96b9-5a1462ead25b.excellentcratesEditor.Reward.Enter.Permissions: '#d4d9d8Enter
+  #aefd5e[Permission Node]'
+fc29f7df-7b94-443a-a298-326103fb65be.excellentcratesEditor.CrateEditorType.Reward.Rarity.Lore.3: '#ffed6a&lCurrent:'
+394c5f2e-88e4-428f-a663-325711f73102.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.2: '#bdc8c9open
+  this crate.'
+573d5aa9-e294-4bde-a803-f5f2dea2a0e8.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.4: '#ffa76a▪
+  #bdc8c9Use item with premade name, lore, etc.'
+3e4fb967-fe31-4553-8f79-371d9b4f17de.excellentenchantmentsFitItemType.SWORD: Sword
+24b026d9-baf9-435e-8d45-e2f0d1d84f0b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.4: '#ffed6a&lCurrent:'
+9e6317ef-bd4e-47ee-893b-f9f7b2db3615.excellentcratesCrate.Open.Error.NoKey.1: '#fd5e5e&lWhoops!'
+44584943-c6a9-4266-8902-83ed58eb40f8.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.12: '#bbff6a▪
+  #bdc8c9Shift-Left: #bbff6aSet for Preview'
+6e0f0af5-f923-4398-be2a-ef4a85276ed5.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Lore.3: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aOpen'
+ab1d137a-4aca-4e77-9929-21ec07a833d9.excellentcratesCommand.Open.Notify: '#d4d9d8You
+  have been forced to open #fdf35e%1#d4d9d8.'
+037024e3-ff54-422e-9cf5-944785aeb307.excellentcratesEditor.Crate.BlockPushback.Name: '#ffed6a&lBlock
+  Pushback'
+8efc9964-ac0b-4775-b104-93c43a771d96.excellentcratesCrate.Error.Invalid: '#fd5e5eInvalid
+  crate!'
+87ca85e0-c84a-4144-9414-a2559436576d.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Name: '#ffed6a&lPermission
+  Restrictions'
+8b04ebf7-12ad-4492-bb3e-7ae40d9af0e0.excellentcratesEditor.CrateEditorType.KEY_OBJECT.Lore.0: '#ffed6a▪
+  #bdc8c9Virtual: #ffed6a%1'
+8d80cec4-efda-4fa2-bfe9-d262728c3174.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.1: '#bdc8c9to
+  open this crate.'
+38cf02be-9578-46d0-815c-f0f1525c6a84.menu.bank.withdrew.title: '&eWithdrew Money'
+11541c0c-67d6-40d2-a034-67e557142863.excellentcratesCommand.Give.Usage: '%1 %2 [amount]
+  [-s]'
+fb578ebb-28c2-4504-b6bc-049187301bdc.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.9: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aToggle'
+808529c7-0bc7-4981-af3d-1162200bc5a0.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.4: '#ffed6a▪
+  #bdc8c9Opening: #ffed6a%1'
+3915237f-8382-4a54-9d8f-afb24f04eb5a.excellentcratesEditor.CrateEditorType.Reward.Rarity.Lore.6: '#bbff6a&lActions:'
+00917f93-4a95-473b-9c95-5a99a8f37fc0.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Lore.1: '#bdc8c9when
+  player obtains this reward.'
+0d3e3e9c-5950-4af8-9db0-e53540bda333.excellentcratesEditor.Reward.Enter.WinLimit.Cooldown: '#d4d9d8Enter
+  #aefd5e[Seconds Amount]'
+bb617f9f-5c92-4d5d-a596-13c5821bd0ff.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.1: '#bdc8c9can
+  be used to open this crate.'
+9be3699d-3c0a-432c-8b62-fe9c8fdfebcf.excellentcratesCommand.Drop.Usage: '%1 %2 %3
+  %4 %5'
+9800e2b4-1fd9-4fa7-be3d-37c6bd51be93.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.9: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aChange'
+5184fee0-d33d-41fa-9fd6-44f09c80aac8.menu.bank.menu.deposit: "\n    - '&aDescription\n\
+  \    - ' &a| &7Click to open a deposit\n    - ' &a| &7menu for you to keep\n   \
+  \ - ' &a| &7your money to the bank.\n\n&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+b587b958-da54-47ca-b7e8-97561bc2534a.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.6: '#bbff6a&lActions:'
+f689acc1-8818-488a-9073-f81694a19cc2.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.6: '#ffed6a▪
+  #bdc8c9Enabled: #ffed6a%1'
+dc88127c-6c4f-499d-af91-1002d1c9843f.excellentcratesCrate.Open.Error.Cooldown.OneTimed.2: '#d4d9d8You
+  already have opened this one-timed crate!'
+3dd56804-1a84-4d9d-be31-cd12f861824a.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.9: '#bbff6a&lActions:'
+069a5efa-7883-4143-b5b7-17ac0c3fe9ed.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.0: '#bdc8c9A
+  list of commands to run'
+0bbe0ca8-11f8-4c03-9b76-4faf588621de.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.2: '#ffa76a&lNotes:'
+dada90bc-7cb6-4b76-a60b-d91510dbdd49.excellentcratesEditor.CrateEditorType.CRATE_OBJECT.Name: '#ffed6a&l%1
+  &7(ID: &f%2&7)'
+91b3a225-63aa-4681-88eb-4c57e5cb05ae.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.7: '#bbff6a▪
+  #bdc8c9[Q/Drop] Key: #bbff6aDelete #ff6a6a(No Undo)'
+b3eb57b9-5c2d-408c-a95d-48fb78f4b2b8.excellentcratesEditor.Crate.Enter.Block.Location: '#d4d9d8Click
+  a #aefd5e[Block] #d4d9d8 to make it crate.'
+9ec00104-3f44-4eba-a628-129b3720a689.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.8: '#ffa76a▪
+  #bdc8c9Previews are located in #ffa76a/previews/#bdc8c9 sub-folder.'
+20bcacd9-2c57-4d92-9480-e50c6bf759d0.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.4: '#ff6a6a▪
+  #bdc8c9This item is #ff6a6aNOT#bdc8c9 given to players!'
+581a2d39-6e21-4661-ba9e-bf1e0e90ff33.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Lore.6: '#bbff6a&lActions:'
+e3aa3ef5-a0ae-42e2-acd9-f8ffd0bb8560.excellentcratesCommand.ResetCooldown.Desc: Reset
+  player's crate open cooldown.
+c9606f76-0763-4afc-8698-bdb02452d2aa.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.2: '#ffed6a&lCurrent:'
+4027f72e-de89-400a-938b-bfdb69640d8f.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.5: '#bdc8c9%1'
+13604518-9e49-4fa2-9307-aa1937a8e463.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Lore.2: '#bbff6a&lActions:'
+aba1aa16-956e-41ef-9ffc-17801aa804e6.excellentenchantmentsCommand.TierBook.Done: Given
+  &6%1&7 enchanted book to &6%2&7.
+ec3e513a-1625-4834-ba0b-0fcbe7fce809.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.6: '#bbff6a▪
+  #bdc8c9[Num 3]: #bbff6aBy Name'
+9513e856-4993-45a3-8d66-f52f2f9356e1.excellentenchantmentsCommand.Enchant.Desc: Enchants
+  the item in your hand.
+3ff5cf63-7fd3-403f-8ebd-5010f1396558.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.13: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aDisable Opening'
+6484579f-7243-41af-89ad-729fcfdc6595.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Lore.7: '#bbff6a&lActions:'
+9b7ff383-388f-41db-ba79-f5a16e33a587.excellentcratesEditor.Crate.BlockPushback.Lore.2: '#bdc8c9unable
+  to open it.'
+e22f4d4c-2298-4835-8996-b2a122c6af3d.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.7: '#bbff6a&lActions:'
+02a91cda-e2b6-4dc3-b691-0a80cf1a19e4.excellentenchantmentsFitItemType.SHOVEL: Shovel
+0656cded-dc9a-48c0-a4db-628838050929.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.1: "#bdc8c9It's\
+  \ used in GUIs & messages."
+d9b5f7cf-221b-4181-be94-909c099adc40.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.7: '#ff6a6a▪
+  #bdc8c9This is #ff6a6aNOT#bdc8c9 reward item name!'
+a7686a9f-978d-48f9-9ad4-c84dc8e60b37.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Name: '#ffed6a&lAttached
+  Blocks'
+fbfad255-0adb-4c75-a8dc-302c0133d19a.excellentcratesCommand.Key.Usage: '[help]'
+6c223038-d909-480e-b39d-f4cb6cf34ffc.excellentcratesEditor.CrateEditorType.CRATE_CREATE.Lore.1: '#bbff6a&lActions:'
+c4423a12-f578-4c37-977d-c3cff0d3a5ff.excellentcratesCommand.Key.Give.Notify: '#d4d9d8You
+  recieved #fdf35ex%1#d4d9d8 of #fdf35e%2#d4d9d8!'
+e73c8454-c17c-48ec-9a00-65fe800e5998.excellentcratesCrate.Open.Error.NoHoldKey.1: '#fd5e5e&lWhoops!'
+565e9075-4f5e-48be-86aa-9f475dbdc59a.excellentcratesCommand.Key.Take.Desc: Take key
+  from a player.
+8f2dcadd-b81a-429f-a74d-687ec3a22ed6.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.4: '#ffed6a▪
+  #bdc8c9Display Name: #ffed6a%1'
+1ed1d1e1-5f8c-42fe-97fa-321849d3472d.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.14: '#bbff6a▪
+  #bdc8c9Shift-Left: #bbff6aChange Preview'
+4de844f6-e0a9-4eda-b3a4-c48df1e538ad.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Name: '#ffed6a&lCrate
+  Item'
+651be845-adb7-44ca-a460-0a83f1ab913d.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Name: '#ffed6a&lKey
+  Item'
+b3a26c2f-4492-4ae8-bb2e-933363a60625.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.8: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aGet Copy'
+bed33c40-df74-48f5-a21e-684c31ff0ff3.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.15: '#bbff6a▪
+  #bdc8c9Shift-Right: #bbff6aChange Y Offset'
+1c832922-35be-4a63-88cb-3c569c2a6161.menu.bank.deposit: "\n&aDescription\n&a| &7Deposit\
+  \ your money\n&a| &7to the bank\n\n&a| &7Deposit: &f$%1\n\n&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴅᴇᴘᴏꜱɪᴛ"
+97477f6f-1f60-4eb8-bb84-5c8ee1db7936.excellentcratesEditor.Crate.BlockPushback.Lore.1: '#bdc8c9back
+  from the crate block when'
+c82eaf59-7f3d-4f4f-be82-b0ee60452226.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Name: '#ffed6a&lDisplay
+  Name'
+75b55c5c-b2ff-42fc-8d81-1a6118faf6b9.excellentcratesEditor.Crate.Enter.PreviewConfig: '#d4d9d8Enter
+  #aefd5e[Preview Name]'
+b66c6fb3-c929-42de-be51-2bf8a53dc53c.excellentcratesCrate.Open.Error.InventorySpace.2: '#d4d9d8Clean
+  up inventory slots to open the crate!'
+209d378a-2920-465f-82c6-2fcab5e8de9d.excellentenchantmentsCommand.TierBook.Error: '&cInvalid
+  tier!'
+c3f228d2-3063-4010-92be-9cdcc9a7c650.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.6: '#ff6a6a&lWarning:'
+17116b74-327f-4364-bcc8-ab25bc8ecb76.excellentcratesCrate.Open.Error.Cooldown.OneTimed.0: <!
+  type:"titles:20:80:20" sound:"ENTITY_VILLAGER_NO" !>
+163135e6-2637-42d6-806b-c5d9c22c7dcb.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.8: '#ff6a6a▪
+  #bdc8c9If invalid keys provided, you will be unable to open crate!'
+7f795320-81c3-4fbc-9a24-c8105b45c9f7.excellentcratesCommand.ResetCooldown.Done: "#d4d9d8Reset\
+  \ #fdf35e%1#d4d9d8's open cooldown for #fdf35e%2#d4d9d8."
+0a101927-870c-4c0a-acde-4fd0bb976149.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Lore.4: '#bbff6a▪
+  #bdc8c9Drag & Drop: #bbff6aFast Creation'
+6f1869d6-dd9d-4720-8080-980a4b1f8d47.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.12: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aChange Opening'
+50e6770f-6677-4317-8f93-481da17aa88c.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Lore.8: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aToggle'
+a18c88dd-6b04-4a9b-99ee-7ca825a4d43b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.5: '#ffed6a▪
+  #bdc8c9Money: #ffed6a%1'
+1b91a56e-8af0-4f04-96d0-e83c0c64bbbf.excellentcratesCrate.Open.Reward.Broadcast.1: '#d4d9d8'
+338d03cb-01b6-4209-a8c8-775648c12715.excellentcratesCommand.ResetLimit.Desc: Reset
+  reward win limit for specified crate and reward.
+e3126160-f5cb-4d68-98b0-f8644b788945.excellentcratesEditor.CrateEditorType.EDITOR_CRATES.Name: '#ffed6a&lCrates'
+79bc8486-3e8d-4306-8836-081acdfbf935.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Lore.2: '#bdc8c9someone
+  obtains this reward.'
+76a30780-6ac1-4c7a-8237-61db9208d1b6.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.0: '#bdc8c9Sets
+  the crate display name.'
+4a88808c-53e7-4583-ace6-51be331d2030.menu.bank.menu.interest.title: '&bBank Interest'
+b2595b19-a406-42a8-8622-cfe87b06129f.excellentcratesCommand.Give.Done: '#d4d9d8Given
+  #fdf35ex%1#d4d9d8 of #fdf35e%2#d4d9d8 crate(s) to #fdf35e%3#d4d9d8.'
+e491f4e4-3f2a-4678-a711-16d0ed4b180e.excellentcratesCrate.Open.Error.NoRewards.2: '#d4d9d8There
+  are no rewards for you! Try later.'
+68fc7f46-0971-4aae-9f9d-868c0b4bfab7.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Name: '#ffed6a&lOpen
+  Cooldown'
+bd0d47b3-e030-4db2-904f-504501434a0c.excellentcratesCommand.ResetLimit.Done.Reward: '#d4d9d8Reset
+  #fdf35e%1#d4d9d8 win limit for #fdf35e%2#d4d9d8 reward of #fdf35e%3#d4d9d8.'
+0a13f292-8b95-43ad-a001-7f25232287bc.excellentenchantmentsCommand.Book.Done: Given
+  &6%1&7 enchanted book to &6%2&7.
+cdf41f09-3872-4961-b496-b8aaeb9b72c1.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.14: '#bbff6a▪
+  #bdc8c9Shift-Left: #bbff6aToggle'
+4d6d15b5-cdbc-4f76-a356-05980fe0af26.excellentcratesCrate.Open.Error.Cost.Money.0: <!
+  type:"titles:20:80:20" sound:"ENTITY_VILLAGER_NO" !>
+21034ce2-0571-4deb-b3e4-c736229f7c22.excellentcratesCommand.Menu.Usage: '[menu]'
+dbd7629d-dde4-4249-a4f4-5584e9ea2a4e.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.11: '#bbff6a&lActions:'
+80b82f60-3eb5-46d5-91e7-603d9351a7ce.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.6: '#ffed6a▪
+  #bdc8c9Exp Levels: #ffed6a%1'
+c98ecd5a-64da-4dbb-ae13-27c3289a73da.excellentcratesCommand.Key.Give.Desc: Give key
+  to a player.
+a9f345e3-e9e4-4604-bc19-996c55ffd861.excellentcratesEditor.CrateEditorType.KEY_CREATE.Lore.2: '#bbff6a&lActions:'
+82c773d3-f974-4e79-9b67-6f39777e470b.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.0: '#bdc8c9Sets
+  how often & how many times player'
+9441b785-bc11-4245-8118-ea13553c24dd.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.5: '#ffed6a▪
+  #bdc8c9Particle: #ffed6a%1'
+9a6f0dd4-30d6-4116-a2db-08b4222abe9b.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.6: '#ff6a6a&lWarning:'
+f4cacba0-1722-4c0b-b38a-9391d2ffcd81.excellentcratesEditor.Reward.Enter.Command: '#d4d9d8Enter
+  #aefd5e[Command]'
+b489e079-2e06-4881-85e0-6a0e56d9cf3a.excellentcratesCommand.Key.Set.Desc: Set keys
+  amount for a player.
+5a5c2daa-8242-43e9-a27c-8f7a30133efc.excellentcratesCrate.Open.Error.NoHoldKey.0: <!
+  type:"titles:20:80:20" sound:"ENTITY_VILLAGER_NO" !>
+ff3c25b3-bacc-4cca-93f3-6025f6ff52b0.excellentcratesEditor.Reward.Enter.Id: '#d4d9d8Enter
+  #aefd5e[Reward Identifier]'
+1b27590a-a2d0-4679-a4ca-2375a82ea858.excellentenchantmentsError.NoEnchant: '&cInvalid
+  enchantment.'
+8cacf16a-224c-4db6-862a-90c5c03f38c9.excellentcratesCommand.Menu.Done.Others: '#d4d9d8Opened
+  #fdf35e%1#d4d9d8 crate menu for #fdf35e%2#d4d9d8.'
+fba14d8f-56e1-4948-9221-bd06d97d21d7.excellentcratesMenu.Invalid: '#fd5e5eMenu does
+  not exist!'
+31990252-b654-42de-9fdb-3f1f2ab80c19.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Name: '#ffed6a&lBlock
+  Effects'
+f5a0be37-15f1-4c89-980c-df5dc4759132.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.4: '#ffed6a&lCurrent:'
+d5b8846e-219b-45a5-81ab-8b7b715bf28a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.7: '#bbff6a&lActions:'
+b9e86347-31b3-4fc4-8b69-bb043db0e123.excellentenchantmentsFitItemType.ARMOR: Armor
+92e1232e-74a5-4fcc-871b-85758f590161.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.10: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aAdd Command'
+7fca2fbb-8769-4715-ada9-b9fe477af4eb.excellentcratesCommand.Key.Show.Format.List.2: '&7'
+fc9f57b3-25f0-4f24-bdb1-0c9bc4981503.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Name: '#ffed6a&lRun
+  Commands'
+7255b834-b573-4940-afdc-7f9b52a9704e.clearlag.autoremoval: '&c&l| &cᴛʜᴇʀᴇ ᴀʀᴇ &4%1&c
+  ᴇɴᴛɪᴛɪᴇꜱ ᴏɴ ᴛʜᴇ ɢʀᴏᴜɴᴅ ʀᴇᴍᴏᴠᴇᴅ!'
+799d7d0c-7b71-4462-9d65-285127d22793.excellentenchantmentsFitItemType.PICKAXE: Pickaxe
+b1205123-48be-47b9-82da-308c1187abe1.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.1: '#bdc8c9Rarity:
+  &f%1'
+438ca918-82f2-442b-a267-a619d963063b.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.8: '#bbff6a&lActions:'
+4979bb80-c91f-46bc-9865-15cfa549fe8b.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.5: '#ffa76a&lNotes:'
+58f43545-d1c1-447f-88fb-f8958f019dc9.excellentcratesEditor.CrateEditorType.CRATE_CREATE.Lore.0: '#bdc8c9Creates
+  a new crate.'
+b74e6675-3e2b-4481-b459-78dda018fb74.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Name: '#ffed6a&lBlock
+  Hologram'
+e1e06c68-f792-4d7b-a435-6f55ddb3d74f.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.4: '#ffed6a▪
+  #bdc8c9Amount: #ffed6a%1'
+8e7d87cc-563e-4ce1-8a12-b568ab32b28f.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.1: '#bdc8c9to
+  open this crate again.'
+c2edf57f-b98c-41ee-b82c-0a7afc43469f.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.5: '#ffed6a&lCurrent:'
+a13aade1-db89-4cb5-8759-75ea380232b2.excellentcratesCrate.Open.Reward.Broadcast.4: '#d4d9d8Do
+  you wanna too? Purchase keys now: <? open_url:"http://samplesmp.com/store" ?>#aefd5e[Open
+  Store]</>'
+7d65bc43-10d4-4cf0-b61e-3d5050a11f55.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Name: '#ffed6a&lWin
+  Limits'
+c2e32fe9-9c01-494a-baf0-8eda3d7d1ed2.excellentcratesEditor.CrateEditorType.CRATE_OBJECT.Lore.1: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aEdit'
+d27c6b12-9399-4867-84b7-d5b137aa207c.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.6: '#ffa76a&lNotes:'
+14871dc8-1503-4344-baae-e3cfd758c88d.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.2: '#bdc8c9to
+  obtain this reward.'
+b3a34a5f-aded-41be-82fc-107124751a59.excellentcratesEditor.Reward.Enter.Rarity: '#d4d9d8Enter
+  #aefd5e[Rarity]'
+f73bb8c3-3467-45e5-bbb8-911a1edc3f21.excellentcratesCrate.Open.Error.Cooldown.Temporary.2: '#d4d9d8You
+  can open in #fd5e5e%1'
+72cb42a7-7e20-4d21-a4bd-ce3e90462f72.menu.bank.interest.title: '&bYour next Interest'
+093b2aaa-319e-4cc8-9bd0-bd2597807037.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.4: '#ffa76a&lNotes:'
+e004e105-5be5-4e36-9351-9b19e1f371cc.menu.bank.menu.interest: "\n&bDescription\n &b|\
+  \ &7This is a bank, here you can\n&b| &f&nDeposit&7 and &f&nWithdrew\n&b| &7funds\
+  \ from your bank account\n&b| &7or your account.\n\n&b| &7With the &b&nInterest&7\
+  \ feature\n&b| &7your monet will continue to increase\n&b| &7for every &f5 Hours&7!\n\
+  \n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+86fa623b-4bad-4d51-9946-05643df7197d.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.4: '#bdc8c9%1'
+ed27448f-fda2-49bf-8995-688d8164c7d9.excellentcratesCrate.Open.Error.Cooldown.OneTimed.1: '#fd5e5e&lWhoops!'
+314f68af-bce6-4b86-8ce4-897a59a08a76.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.6: '#bbff6a▪
+  #bdc8c9Shift-Right: #bbff6aMove Backward'
+cdf559c0-4661-4d83-9c12-871c877a996e.excellentenchantmentsCommand.List.Desc: List
+  of all custom enchantments.
+c8ab7b8c-55b3-4ba6-b6b0-3f0dbdd9d198.excellentcratesCommand.Give.Desc: Gives crate
+  to a player.
+91969594-74a5-4bfa-b8ff-903f1b6e2153.excellentcratesCommand.Key.Set.Done: '#d4d9d8Set
+  #fdf35ex%1#d4d9d8 of #fdf35e%2#d4d9d8 key(s) for #fdf35e%3#d4d9d8.'
+b466c093-af30-4e3a-8746-5049b38749e6.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.0: '#bdc8c9Sets
+  whether or not the key is virtual.'
+e9cfe079-6296-4dff-9362-1d7e92d4f48d.excellentenchantmentsFitItemType.ELYTRA: Elytra
+836037ec-4447-4484-b01c-86fd07c3457f.excellentcratesCrate.Open.Error.NoKey.2: "#d4d9d8You\
+  \ don't have a key for this crate!"
+dce19286-4310-41db-a975-6e5cc8b6b730.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.2: '#bdc8c9Sets
+  the Y offset for'
+d8f686a0-68f1-425e-bfff-4aedb8340437.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Lore.0: '#bdc8c9Creates
+  a new reward for crate.'
+67cd462c-7bdf-4971-9c01-45cea700a166.excellentcratesEditor.Crate.BlockPushback.Lore.7: '#bbff6a&lActions:'
+a2cdb094-3dd2-4b86-b34a-dcf92ac95523.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.3: '#bdc8c9hologram
+  location'
+5af9b6d9-60d2-4526-8a5d-25313ec9387e.excellentenchantmentsCommand.TierBook.Usage: '%1
+  %2 %3'
+e4c1a13e-8a1c-4787-8cc2-4a5cfd155d91.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.1: '#bdc8c9around
+  crate blocks.'
+98d5b5e5-6f37-4f19-b200-b08928011efd.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Name: '#ffed6a&lAttached
+  Keys'
+8a7831ea-6604-4f8f-90f6-05ef9a556664.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.3: '#ffed6a&lCurrent:'
+23f78bc5-10a7-4017-a1c8-75ba5a236a66.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.8: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aToggle'
+36404ef4-167e-4469-8157-7c93fef21d68.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.9: '#ffa76a▪
+  #bdc8c9Openings are located in #ffa76a/openings/#bdc8c9 sub-folder.'
+c59d5052-c183-4887-adf3-5eb78e221966.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.3: '#bbff6a&lActions:'
+bb004c63-2f88-40f6-bd5c-b24c44248ebf.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.7: '#ffed6a▪
+  #bdc8c9Y Offset: #ffed6a%1'
+14ce14fe-30a0-4a02-9870-98f7db4a9a75.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.9: '#bbff6a&lActions:'
+9a955078-1589-4e8c-b967-57ace8873d84.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.4: '#ffed6a▪
+  #bdc8c9IDs: #ffed6a%1'
+950abf26-7ced-4503-b549-471b664046c2.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.7: '#ffa76a&lNotes:'
+adba8262-39fe-40ae-814c-bb179fb50c77.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.1: "#bdc8c9from\
+  \ the list won't be able"
+e295e951-a309-453a-846d-e73cacdb804c.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Name: '#ffed6a&lCreate
+  Reward'
+fc33cbfa-1b8b-4a74-8ad9-cc1f9738100f.excellentcratesCommand.ResetLimit.Usage: '%1
+  %2 [reward]'
+cbcf45b6-8a43-48f5-9fa9-0fc8c10db5dc.excellentcratesCommand.Open.Done: '#d4d9d8Forced
+  #fdf35e%1#d4d9d8 to open #fdf35e%2#d4d9d8.'
+f3808b82-6440-4ebd-bdcb-681bdb8ace8c.excellentcratesCrate.Open.Error.Cooldown.Temporary.0: <!
+  type:"titles:20:80:20" sound:"ENTITY_VILLAGER_NO" !>
+e558d8e9-2dd2-4433-b2d2-7306c4746e28.excellentcratesEditor.CrateEditorType.EDITOR_CRATES.Lore.0: '#bdc8c9Create
+  & manage your crates here!'
+b125cb1d-84a6-4917-985f-f1debba6cd05.excellentcratesCommand.Menu.Desc: Open crate
+  menu.
+7f9a1fbb-27f6-4698-af04-6efb1f0c9025.excellentcratesCommand.Give.Notify: '#d4d9d8You
+  recieved #fdf35ex%1#d4d9d8 of #fdf35e%2#d4d9d8.'
+769805f0-2aae-43b6-8789-df33cc388ba7.excellentcratesCommand.Key.Desc: Manage player's
+  keys.
+d5c40324-70dc-49e2-ae55-14280f0a5bbd.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.1: '#bdc8c9when
+  player obtains this reward.'
+54320013-c1f0-4b97-80c4-dd5a8361ca51.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.9: '#bdc8c9%1'
+3aedc852-97af-4e6d-938c-57de30fa9f12.excellentcratesCommand.Preview.Done.Others: '#d4d9d8Opened
+  #fdf35e%1#d4d9d8 preview for #fdf35e%2#d4d9d8.'
+0a035aab-3bb6-481d-a09e-afebdd1ca244.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.6: '#ffa76a▪
+  #bdc8c9Virtual keys stored in database, not in inventories.'
+440a13dc-5c48-4be3-b4b1-f69bc812eb65.excellentcratesCommand.Drop.Desc: Drop crate
+  at specified location in the world.
+75730dfd-0a59-44e7-b813-e90dba84515e.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Lore.2: '#bbff6a&lActions:'
+1b494445-736d-4928-b715-f50399f12ac5.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.0: '#bdc8c9Sets
+  whether hologram will be added'
+52a819f0-debe-4da5-8d1a-d97594a48063.excellentcratesEditor.CrateEditorType.KEY_CREATE.Name: '#ffed6a&lCreate
+  Key'
+665e5c47-ae72-4638-a7e6-13c8947e80d7.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.10: '#bbff6a&lActions:'
+00590fbf-6a24-4d14-ab47-a9e2592f5d43.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.6: '#ff6a6a▪
+  #bdc8c9This is #ff6a6aNOT#bdc8c9 crate item name!'
+27da4307-964a-4af5-a7a2-d704a2942b3a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Name: '#ffed6a&lPermission
+  Requirement'
+7535d66c-74ab-4344-8bac-9726e0c4e414.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.3: '#ffed6a&lCurrent:'
+21b663fa-d825-4571-80be-9198d58980ad.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.6: '#ffa76a&lNotes:'
+9018d335-b5e0-4d1e-98d0-61c628fea214.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.3: '#ffed6a▪
+  #bdc8c9Preview: #ffed6a%1'
+05105a0e-9bf5-4d7f-b363-b39a53088932.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.0: '#bdc8c9Sets
+  the inventory crate item.'
+ccca7a2c-c00e-43e9-b381-1a02e2500230.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.4: '#bbff6a▪
+  #bdc8c9[Num 1]: #bbff6aBy Chance'
+9aa06bca-7571-4278-b6b4-e5b10bd19fd4.excellentenchantmentsFitItemType.BOOTS: Boots
+68d8da3d-88f9-4e09-ba83-81972ea5ce4e.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.12: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aChange Amount'
+cb123489-3268-4660-ac3d-88a327dac21d.menu.goback: '&b&l⤊ &bGoBack'
+5689fdf0-fa50-49aa-98cb-c67681761c72.excellentcratesCrate.Open.Error.NoRewards.0: <!
+  type:"titles:20:80:20" sound:"ENTITY_VILLAGER_NO" !>
+67f78c98-b8a8-4312-b3db-e6ec9cb25d74.excellentcratesEditor.Crate.Enter.Id: '#d4d9d8Enter
+  #aefd5e[Crate Identifier]'
+ffc14298-9afc-4987-a754-30b2468e2091.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Name: '#ffed6a&l%1
+  &7(ID: &f%2&7)'
+9397ad59-d46d-478e-9cf3-584628ea74fe.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.3: '#ff6a6a&lWarning:'
+cb740eb9-fb9c-4f48-b300-e8d5b02fbe77.excellentcratesCommand.Preview.Usage: '%1 [player]'
+f84779b8-553d-46a4-a7db-e55b71c05462.excellentcratesEditor.CrateEditorType.CRATE_CREATE.Name: '#ffed6a&lCreate
+  a Crate'
+e52dd131-45c3-4c25-878d-aab1dc29e248.menu.bank.menu.withdraw: "\n&eDescription\n&e|\
+  \ &7Click to open a withdrew\n&e| &7menu if you want to take\n&e| &7your money from\
+  \ the bank.\n\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+c980cae0-da82-4e23-8653-ec3fe635c226.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.9: '#bbff6a&lActions:'
+55f57317-2c81-4a1e-b980-cf6cde734b50.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.10: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aChange'
+94064c85-94ce-4a51-8b92-e1095d80a3cc.excellentcratesEditor.CrateEditorType.KEY_OBJECT.Name: '#ffed6a&l%1#bdc8c9
+  (ID: #6adbff%2#bdc8c9)'
+f3a8eee1-f63d-4deb-8920-f0bade2174d9.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.7: '#ffa76a▪
+  #bdc8c9Use #ffa76a%1#bdc8c9 placeholder for player name.'
+93c7d312-c9ee-43aa-ae01-46272e400f3d.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.10: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aChange Data'
+8b20673f-1875-40ba-a1da-deffe3fee47c.excellentcratesEditor.Crate.Enter.DisplayName: '#d4d9d8Enter
+  crate #aefd5e[Display Name]'
+269dbc42-4e94-49b7-96b8-d1683273b39b.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.5: '#ffed6a▪
+  #bdc8c9Cooldown: #ffed6a%1'
+f5160c49-84b5-4a7e-8094-ee922ecaf408.excellentenchantmentsFitItemType.BOW: Bow
+c0285d29-d061-42a5-ab7f-0a1dc0fb9eb1.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.4: '#ffed6a&lCurrent:'
+e3b94d49-6ce8-43fa-8967-fdeae922b745.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_REWARDS.Name: '#ffed6a&lRewards'
+e79f1a7c-1b6d-4ea2-b4f4-9b64a7d7158e.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.8: '#bbff6a&lActions:'
+76f40ef7-0ffb-4481-90e6-4f43c656a021.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.1: "#bdc8c9It's\
+  \ used in messages & GUIs."
+4fd4d5cb-fa9b-4c3c-bcfb-c3dc0ad9c04a.excellentcratesEditor.Crate.BlockPushback.Lore.4: '#ffed6a&lCurrent:'
+9e19e1b5-0c28-4aea-a478-4a19ad74715f.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Name: '#ffed6a&lDisplay
+  Name'
+0eef555b-280c-4634-86bb-fc0ba926c7f1.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.0: '#bdc8c9This
+  item will represent the reward'
+97db8f4b-f0db-4690-a9d4-5051737eed0d.excellentcratesCrate.Open.Error.NoHoldKey.2: '#d4d9d8You
+  must hold a key to open crates!'
+585cbf47-6b2d-429e-b17e-083ac579993d.excellentcratesEditor.CrateEditorType.EDITOR_CRATES.Lore.2: '#bbff6a&lActions:'
+f316b912-1bbe-44f4-bd18-454ed4af1837.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.11: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aAttach Key'
+35859711-5591-443d-b7e6-c50871beeaff.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.8: '#bbff6a▪
+  #bdc8c9Drag & Drop: #bbff6aReplace'
+fbc752ba-b9c2-41b9-8061-e080db0a332e.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.0: '#bdc8c9Defines
+  the look of the crate'
+e69d9e02-86e0-4f6e-b3e7-f621021acd89.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.3: '#ffa76a▪
+  #bdc8c9This option is useless for virtual keys.'
+39312e68-e0db-463b-8609-a4dc556cb513.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.7: '#ff6a6a▪
+  #bdc8c9This is #ff6a6aNOT#bdc8c9 actual key item name!'
+c4ad4500-69d6-4e33-a6d1-2a7806e577be.excellentenchantmentsFitItemType.HOE: Hoe
+39d0e66e-e1f4-46b7-bd5a-2e3cd6bc82f7.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.7: '#bbff6a&lActions:'
+8a108238-fc7c-417c-8e93-5eef89e085c2.excellentcratesEditor.Reward.Enter.WinLimit.Amount: '#d4d9d8Enter
+  #aefd5e[Limit Amount]'
+0152ef35-63f0-4974-9558-5fd705b823e0.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.0: '#bdc8c9Sets
+  how much money/exp player'
+68dfc95f-c53b-4c16-ada1-0cb407723c16.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Lore.7: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aOpen'
+42ddde40-b842-4cf1-8052-9b67d6093c54.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Lore.1: '#bdc8c9be
+  sent to everyone when'
+08d5b722-2030-42d0-89db-e9263d4aceba.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.3: '#bbff6a&lActions:'
+9fabff96-0c43-42a6-a10b-b6adf13be243.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.9: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aClear List'
+0d8f289d-f670-41fa-9f60-cc59dd18b028.excellentcratesCrate.Open.Error.NoKey.0: <! type:"titles:20:80:20"
+  sound:"ENTITY_VILLAGER_NO" !>
+9e1be449-66e0-4a12-a446-bde55b938f49.excellentcratesEditor.Crate.Enter.Particle.Data: '#d4d9d8Enter
+  #aefd5e[Particle Options]'
+cf5df50c-9d4c-4324-a45f-8f3e6bb74023.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.4: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aEdit'
+0eac825d-5de3-4c8c-8e97-ba0972ca0590.excellentcratesCommand.Key.Take.Usage: '%1 %2
+  %3 [-s]'
+4915c45d-7c31-49e1-969c-b096cfe8fa02.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.1: '#bdc8c9this
+  crate to open or preview'
+8979341a-8331-4265-9698-e8edbdf269b7.excellentcratesCrate.Open.Error.NoRewards.1: '#fd5e5e&lWhoops!'
+7e791111-b1e0-4ea9-a3bc-50b6ed4a5aed.excellentenchantmentsCommand.Enchant.Usage: '%1
+  %2'
+593bcf78-5d77-4874-938b-b3b35c9b21ee.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.15: '#bbff6a▪
+  #bdc8c9Shift-Right: #bbff6aDisable Preview'
+18cf42ab-22f3-455d-aa59-fb5ad824a26b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.5: '#ffed6a▪
+  #bdc8c9Node: #ffed6a%1'
+6ac8b0ef-5030-4a2c-9da9-1ee9f6aa4449.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.9: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aClear List'
+869a0afb-c529-4473-af14-8547bdf25559.excellentcratesCrate.Open.Error.InventorySpace.0: <!
+  type:"titles:20:80:20" sound:"ENTITY_VILLAGER_NO" !>
+c3e9a018-10a1-47ef-8fea-e6ab0ff0e393.excellentcratesCrate.Key.Error.Exists: '#fd5e5eKey
+  with such id is already exists!'
+b75f4151-7d47-436f-82b0-6c2fe12fbddc.excellentcratesEditor.Crate.Enter.AnimationConfig: '#d4d9d8Enter
+  #aefd5e[Animation Name]'
+128f728e-10e8-44b9-99bc-cf0e0351725d.excellentcratesEditor.Crate.Enter.OpenCost.Exp: '#d4d9d8Enter
+  #aefd5e[Levels Amount]'
+0911618d-8962-4712-868b-7858cee32517.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_REWARDS.Lore.0: '#bdc8c9Create
+  & manage rewards here!'
+acf56e3d-a874-413e-b8e5-809a3e26b9ad.excellentcratesCrate.Open.Reward.Broadcast.5: '#d4d9d8'
+9b23d8d5-4310-4714-bc6f-ffe48aa1f01e.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.9: '#ffa76a▪
+  #bdc8c9Set cooldown to #ffa76a-1#bdc8c9 for one-timed.'
+aa936419-f44c-498f-bbc1-d3a77898d65c.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.11: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aSync from Preview'
+06243861-9295-4d0d-8a93-4361b2678a41.excellentcratesEditor.Crate.Enter.Block.Hologram.Text: '#d4d9d8Enter
+  #aefd5e[Text]'
+e375d0be-c157-455c-8865-bfa5c26fce58.excellentcratesEditor.CrateEditorType.KEY_CREATE.Lore.0: '#bdc8c9Creates
+  a new crates key.'
+9fb55997-f3e8-4041-9821-3a046a3b4f95.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.1: '#bdc8c9when
+  previewing and opening crate.'
+6cfdc84b-1482-4857-8a78-ffae726dd843.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.8: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aAttach Block'
+aad00c43-1cfb-4243-8f4e-841fdfa9c388.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_REWARDS.Lore.3: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aOpen'
+c5d3d9a3-3875-41a3-aba0-4e70d0a79ec8.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.11: '#bbff6a&lActions:'
+76ff0322-202c-47ab-ab37-a1d780213507.excellentcratesEditor.CrateEditorType.Reward.Rarity.Lore.0: '#bdc8c9Sets
+  the reward rarity.'
+7205c862-0750-4912-85b2-9d8862c6e16c.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.2: '#bdc8c9and
+  in crate menus.'
+c0ff24e7-b95e-44d4-bdcd-af9894b9617d.excellentcratesCommand.Open.Desc: Makes [player]
+  to [force] open a crate.
+37441c0a-795f-4f2d-9dab-93b3e9da6783.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.8: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aAdd Permission'
+2bd80c92-950c-4c5b-9555-2392e2233b9a.excellentcratesCommand.Key.Give.Done: '#d4d9d8Given
+  #fdf35ex%1#d4d9d8 of #fdf35e%2#d4d9d8 key(s) to #fdf35e%3#d4d9d8.'
+3e122210-b6c9-4219-b406-c0194c0bee9e.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Lore.0: '#bdc8c9Create
+  & manage your keys here!'
+82bf34df-2964-4a9b-9302-289c85e6b8dc.excellentenchantmentsFitItemType.TRIDENT: Trident
+8749f687-baa2-4f01-9b9c-822017ce2cb7.excellentcratesCommand.ResetLimit.Done.Crate: '#d4d9d8Reset
+  #fdf35e%1#d4d9d8 win limit for all rewards of #fdf35e%2#d4d9d8.'
+d32166fb-5fa9-4c90-b18a-0dd6444d9273.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.3: '#ffed6a&lCurrent:'
+d86bc626-68fe-413d-9bdd-a287207917e2.menu.bank.deposit.title: '&aDeposit Money'
+8a391874-3b80-49ed-9f93-10e2cea913a3.excellentcratesEditor.CrateEditorType.REWARD_SORT.Name: '#ffed6a&lSort
+  Rewards'
+122ef877-43be-40f9-b477-04ceda61c864.excellentcratesCrate.Open.Reward.Broadcast.2: '#aefd5e&lWOW!#d4d9d8
+  Player #aefd5e%1#d4d9d8 just won #aefd5e%2#d4d9d8 from #aefd5e%3#d4d9d8!'
+f853102f-82dc-41a3-bc2f-959d102c64b7.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.6: '#ffed6a▪
+  #bdc8c9Data: #ffed6a%1'
+8aa8a191-6b69-44e8-bd43-4270efa0cd57.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Lore.3: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aManual Creation'
+fc980123-ed61-4e46-a3bf-2705dd458c71.excellentcratesCommand.Key.Take.Notify: '#d4d9d8You
+  lost #fd5e5ex%1 %2#d4d9d8.'
+ca0c1751-3188-4d75-b526-9f29a008c07a.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.1: '#bdc8c9Learn
+  more about reward chances on the plugin wiki.'
+e3652b96-5538-4e72-b3d4-fc13855a06b6.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.7: '#bbff6a▪
+  #bdc8c9Drag & Drop: #bbff6aReplace'
+c81a9ccc-65e8-4b7e-8076-7de227be2a41.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.9: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aChange Particle'
+e5d39733-e0f9-4e5e-b9b6-226ed9e53ade.excellentenchantmentsFitItemType.LEGGINGS: Leggings
+d7fe1984-2f55-464d-b91f-2b3f8722fc34.excellentcratesCommand.Key.Give.Usage: '%1 %2
+  %3 [-s]'
+a3906af4-2f92-4b82-a37f-6c0a6836bb50.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.6: '#bbff6a&lActions:'
+22afb5bb-2cfc-45ec-9c6e-a2a2f349ffe0.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.8: '#ffa76a▪
+  #bdc8c9Set amount to #ffa76a-1#bdc8c9 for unlimit.'
+b38f2a6a-38ab-4b83-8310-1ba435065608.excellentcratesEditor.CrateEditorType.Reward.Rarity.Lore.4: '#ffed6a▪
+  #bdc8c9Rarity: #ffed6a%1'
+a47f625f-365a-4af3-821d-ad891938cf66.excellentenchantmentsFitItemType.UNIVERSAL: Universal
+eb18b1a6-8826-4456-9b1b-e1dd67d5ca61.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.8: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aObtain'
+04d08786-2419-4f9d-a24d-c04384fb452a.excellentcratesEditor.CrateEditorType.Reward.Rarity.Lore.1: '#bdc8c9Learn
+  more about it on the plugin wiki.'
+9ff9afe7-eb9c-4837-a5d3-b445ecf79bcb.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Lore.4: '#ffa76a▪
+  #bdc8c9Use #ffa76aESC#bdc8c9 to save & return here.'
+43bc9f69-93b6-4080-a682-2bf8a0516567.excellentcratesEditor.CrateEditorType.CRATE_CREATE.Lore.2: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aCreate'
+baab14b8-3f84-420a-8000-2a2fe71814eb.excellentcratesEditor.CrateEditorType.EDITOR_CRATES.Lore.3: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aOpen'
+1f15d911-9828-4597-b496-fe1926d9bf36.menu.bank.withdrew: "\n&eDescription\n&e| &7Withdrew\
+  \ your money\n &e| &7to the bank\n\n&e| &7Withdrew: &f$%1\n\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ᴡɪᴛʜᴅʀᴇᴡ"
+32008c67-a584-484b-912f-885eabd17845.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.10: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aChange'
+5911ef87-c0a7-4d39-8586-cba422609708.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Name: '#ffed6a&lGiven
+  Items'
+7dddf5f5-44da-49e6-8cb8-3fe5a7a9a7f3.excellentcratesEditor.CrateEditorType.KEY_CREATE.Lore.3: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aCreate'
+a17d8514-c552-4f57-8afb-e93ec08e6042.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.7: '#bbff6a▪
+  #bdc8c9[Num 4]: #bbff6aBy Rarity'
+d7c1dc60-4616-47c1-b661-af1ed5e3deb4.excellentcratesCommand.Editor.Desc: Open crates
+  & keys editor.
+f57ac9fa-dc5b-4ace-96d5-19294c2ce7d9.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.3: '#ffed6a&lCurrent:'
+da378925-4020-4601-a435-cb7a64a682cf.excellentcratesCrate.Open.Error.Cost.Money.1: '#fd5e5e&lWhoops!'
+a8b47715-b9d1-4d06-ac01-d7a97c48d144.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.11: '#bbff6a▪
+  #bdc8c9[Q/Drop] Key: #bbff6aToggle Model'
+7a1a2643-d602-4b88-bbf8-498dcfb7ae62.excellentcratesEditor.Crate.Enter.Particle.Name: '#d4d9d8Enter
+  #aefd5e[Particle Name]'
+ae494d2e-150e-4ae3-a45b-5de991b63035.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.13: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aChange Cooldown'
+ada46cd6-d80c-451d-81e3-bb3bd33534a7.excellentcratesCrate.Error.Exists: '#fd5e5eCrate
+  with such id is already exists!'
+3f811bd3-15ba-4d00-a6d3-b19c70e62fb3.excellentcratesEditor.Crate.BlockPushback.Lore.8: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aToggle'
+7e0559bf-923c-4607-9852-9a0c81a08ad3.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.5: '#ffa76a▪
+  #bdc8c9Use item with premade name, lore, model, etc.'
+7e8c44ee-057a-483c-b720-9329e2b9646e.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.0: '#bdc8c9Sets
+  how much time player have to wait'
+f318bf62-77e8-48fc-ab28-add428d4a134.excellentenchantmentsCommand.Book.Usage: '%1
+  %2 %3'
+cae1c393-076e-484e-b7e3-775946fac5c3.excellentcratesCommand.Key.Set.Usage: '%1 %2
+  %3 [-s]'
+e039ea63-00d4-4eaf-8fd1-d2f8e987a04f.excellentcratesEditor.Reward.Enter.DisplayName: '#d4d9d8Enter
+  #aefd5e[Display Name]'
+826aa5f7-b418-47ed-9051-77a43bb48584.excellentcratesCrate.Open.Error.Cost.Exp.0: <!
+  type:"titles:20:80:20" sound:"ENTITY_VILLAGER_NO" !>
+2d1ccccd-1543-4b84-88b9-edf5adab1bca.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.1: '#bdc8c9above
+  the crate block with specified text.'
+b75747b9-7b25-42da-9eb8-c7d79a7171de.excellentcratesCommand.Open.Usage: '%1 [player]
+  [-f] [-s]'
+4905d6a7-ca4f-4a74-84ef-fd5ae2f1bb68.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.13: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aClear Text'
+ba83fcae-4963-4ecb-ba77-f6ce7c52e460.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_REWARDS.Lore.2: '#bbff6a&lActions:'
+d271d188-5243-499a-b065-353b1edf0e19.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Lore.3: '#ffa76a&lNotes:'
+b3aa6a6e-10a6-4fce-a9a2-f0db29f01da0.bank.menu.interest: "\n&bInformation\n&b| &7Interest:\
+  \ &f%bankplus_interest_cooldown%\n"
+021b03ff-2778-4899-b4d8-44d5f5d71a4a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.9: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aObtain'
+88f3b510-714e-471e-a67d-e3c043c0c10b.excellentcratesCrate.Open.Reward.Broadcast.3: '#d4d9d8'
+8b8316e9-8f4b-4846-b8b0-97e8936587d8.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.0: '#bdc8c9Sets
+  the key display name.'
+14e6ba3c-4ea6-4dc9-a79b-6a64ef53136c.excellentcratesEditor.Crate.Enter.OpenCost.Money: '#d4d9d8Enter
+  #aefd5e[Money Amount]'
+1859becb-4668-4343-bf52-76e6b670bb14.excellentcratesCommand.Key.Take.Done: '#d4d9d8Taken
+  #fdf35ex%1#d4d9d8 of #fdf35e%2#d4d9d8 key(s) from #fdf35e%3#d4d9d8.'
+995961a8-4217-4de8-a0e3-6eaba3d7485d.excellentcratesCommand.Key.GiveAll.Usage: '%1
+  %2 %3 [-s]'
+8e10d106-b8e3-4ec4-bb75-9e16ab4e02b6.excellentenchantmentsFitItemType.HELMET: Helmet
+cb9c9171-43ff-4dff-89bd-0e65e2213787.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.10: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aChange Exp'
+16f67468-81c1-4bfb-b371-f5163d3dabb0.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.5: '#bbff6a▪
+  #bdc8c9[Num 2]: #bbff6aBy Type'
+c6680c2c-fd18-4481-86fe-d674e8dd829a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.12: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aClear List'
+6ad9fb66-1775-4df3-9409-e515f3e1ebec.excellentcratesEditor.Reward.Enter.Chance: '#d4d9d8Enter
+  #aefd5e[Chance]'
+124db999-21c8-41d1-8fff-f0ceffa19ca2.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.3: '#ffed6a&lCurrent:'
+6ab55c61-aee6-4909-962d-e196c4efcf42.excellentcratesCommand.Drop.Done: '#d4d9d8Dropped
+  #fdf35e%1#d4d9d8 at #fdf35e%2, %3, %4#d4d9d8 in #fdf35e%5#d4d9d8.'
+09f74142-dc7e-422b-a752-c5bacfb9e763.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.12: '#bbff6a▪
+  #bdc8c9[Q/Drop] Key: #bbff6aOne-Timed'
+a5324e82-41f2-42ca-974f-d3d8d807e8dc.excellentcratesCrate.Open.Error.Cost.Money.2: '#d4d9d8You
+  need $#fd5e5e%1#d4d9d8 to open it!'
+cff25232-f6b5-44fe-ba28-c5fdbf82e0d2.excellentcratesEditor.Crate.Enter.KeyId: '#d4d9d8Enter
+  #aefd5e[Key Identifier]'
+4f86df2a-ebe5-44b4-a100-b2e0371c8a5e.excellentcratesCommand.Key.GiveAll.Desc: Give
+  key to all online players.
+0130cd5c-6377-498e-884c-ca9f41b2e3d2.excellentcratesCommand.Key.Show.Format.List.3: '&6▸
+  &e%1: &6%2'
+14a5191b-c1c9-465e-ac63-0075d82a8b68.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.1: '#bdc8c9specified
+  order.'
+d3c79301-0f7e-4e06-ab5a-dd43e96563b7.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.3: '#ffed6a&lCurrent:'
+32305193-3ad8-4f4b-9506-e4f8be17dd89.excellentcratesEditor.Reward.Error.Create.Exist: '#fd5e5eReward
+  with such id is already exists!'
+427c8ec6-5741-481d-ac84-47b537a0aa1b.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.7: '#bbff6a&lActions:'
+891847ff-bb49-4260-8f7f-9b0db304bc32.excellentenchantmentsCommand.TierBook.Desc: Gives
+  an enchanted book.
+f7f69853-6a29-435e-99b1-636ab63d830a.excellentcratesCrate.Key.Error.Invalid: '#fd5e5eInvalid
+  key!'
+0b211979-d802-459f-8755-04209cb0faf7.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.14: '#bbff6a▪
+  #bdc8c9Shift-Left: #bbff6aOne-Timed'
+9d1d9c66-4a23-4615-9caf-82d79e18b46e.excellentenchantmentsFitItemType.CHESTPLATE: Chestplate
+5efa4e50-6ef7-4f68-8530-3c4ea48f3725.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.8: '#ffed6a▪
+  #bdc8c9Text: #ffed6a'
+c47be06e-04dc-4408-a7b4-65420a503c93.excellentcratesEditor.Crate.Enter.Block.Hologram.Offset: '#d4d9d8Enter
+  #aefd5e[Offset Value]'
+5f48290a-cf90-44ac-a2f0-5b0859f6947d.excellentcratesCommand.Key.Show.Format.List.0: <!prefix:"false"!>
+ea01d6ff-35f6-450b-869b-a479e87e484b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.0: '#bdc8c9Sets
+  which keys'
+71ce08a9-01f0-407b-935e-c0f55f9ab73d.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Name: '#ffed6a&lWin
+  Broadcast'
+04d87002-1307-44b1-89b5-e57786d44b5c.excellentcratesEditor.CrateEditorType.KEY_OBJECT.Lore.2: '#bbff6a&lActions:'
+10c0507f-61e6-4756-ad49-2ef54ef7891c.excellentcratesEditor.CrateEditorType.KEY_OBJECT.Lore.4: '#bbff6a▪
+  #bdc8c9Shift-Right: #bbff6aDelete #ff6a6a(No Undo)'
+a5cf0bbe-6a8d-4adf-8b60-179af9c2c89b.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.5: '#bbff6a▪
+  #bdc8c9Shift-Left: #bbff6aMove Forward'
+eef869ef-8605-4b17-9da5-aa976b91cc6f.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Lore.4: '#ffed6a&lCurrent:'
+2c3abdcd-adaa-422d-96cb-c71cea498874.excellentcratesCommand.ResetCooldown.Usage: '%1
+  %2'
+26ceedff-ff14-409e-ab61-c9f391b0cc3a.menu.bank.menu.info.title: '&bYour Information'
+a1461f0c-154a-43ec-a03e-78b5274cba1f.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.7: '#ffa76a▪
+  #bdc8c9Negative value will make crate one-timed!'
+1631ce3d-cf77-4f2f-a5bb-fcd14b060361.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.0: '#bdc8c9Sets
+  a particle effect to play'
+ca1a2360-baf7-4b56-a80f-800c2d467ef3.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.0: '#bdc8c9Sets
+  whether or not permission is required'
+6380135d-ae4b-4162-a34a-9d4b54b4df87.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.15: '#bbff6a▪
+  #bdc8c9Shift-Right: #bbff6aDisable All'
+1de6ed9c-950a-441c-a557-a56c870ca2a4.excellentenchantmentsCommand.Book.Desc: Gives
+  custom enchanted book.
+3dc9b7bd-1560-42a9-b9af-7b8b81211ed9.excellentcratesCrate.Open.Reward.Info: '<! prefix:"false"
+  !>#d4d9d8You won #aefd5e%1#d4d9d8 from the #aefd5e%2#d4d9d8!'
+24e858e2-9553-4810-9528-4784fe41db81.excellentenchantmentsFitItemType.CROSSBOW: Crossbow
+ede30369-c353-433f-bdd7-6927b0d1765a.excellentenchantmentsFitItemType.TOOL: Tool
+0a58c7c3-4aaa-4d70-b8c7-e3bd1f44df7e.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Name: '#ffed6a&lOpen
+  Cost'
+75cb2270-57a4-4f65-a901-fb3e6199e631.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.1: '#bdc8c9have
+  to pay in order to'
+9d2166d1-e37e-46cd-8973-aef2bd8c7e0d.excellentcratesEditor.CrateEditorType.Reward.Rarity.Name: '#ffed6a&lRarity'
+55ea7082-904a-4e0b-9802-4fd981d70085.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.4: '#ffed6a▪
+  #bdc8c9Cooldown: #ffed6a%1'
+9f4dc0a9-c509-426e-822b-1acdd3c2fefb.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.0: '#bdc8c9Sets
+  the physical key item.'
+d6207e94-b6ad-4512-aa92-c34419dcba8a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.9: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aChange Money'
+88fdbd7d-0291-4ec6-a557-540446f1a291.menu.close: '&c&l❌ &cClose'
+f71f976d-17b3-49fe-a1be-14b7ab0216a0.excellentcratesCommand.Key.Show.Desc: Show amount
+  of your or other player keys.
+7b6a3b83-125a-4acb-8502-e000937c107b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.3: '#ffed6a&lCurrent:'
+aca3c2ce-8630-49ca-ba45-8626f505132a.excellentcratesEditor.Crate.BlockPushback.Lore.5: '#ffed6a▪
+  #bdc8c9Enabled: #ffed6a%1'
+ace22fd2-fd46-4a4f-aa4e-adc00e9ba29e.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.4: '#ffed6a▪
+  #bdc8c9Display Name: #ffed6a%1'
+133fef28-5f21-4169-84c1-3abd23da9aaf.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.1: "#bdc8c9It's\
+  \ used in GUIs & messages."
+fb6aefac-a8f4-4407-b963-b989949cce99.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.0: '#bdc8c9Sets
+  the reward win chance (weight).'
+6cf14535-e5a7-4f01-b705-9a5f907fd787.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.3: '#ffed6a&lCurrent:'
+0d31e8a8-1a1e-4fa9-aba3-397e498f2d7f.excellentcratesCrate.Open.Error.InventorySpace.1: '#fd5e5e&lWhoops!'
+841f742d-5c20-4236-9c72-ef43052d08c3.excellentcratesEditor.CrateEditorType.CRATE_OBJECT.Lore.0: '#bbff6a&lActions:'
+cf2da1aa-31e3-495d-a246-e7e69a06ae1d.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.11: '#bbff6a▪
+  #bdc8c9Right-Click: #bbff6aDisable'
+0f31effe-fc50-4bd6-afb7-ef286a7d3f40.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.7: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aChange'
+44c931d4-50a2-4b4b-88bf-abfb619a9371.excellentcratesCommand.Key.Show.Usage: '[player]'
+03c5a730-0ea5-4501-b3d3-067a17c08809.excellentcratesCommand.Key.Show.Format.List.1: '&6&m              &6&l[
+  &a%1 &e&lCrate Keys &6&l]&6&m              &6'
+0fe5c2ce-9c26-4230-b1c5-9847de8d98fd.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.0: '#bdc8c9Sets
+  the reward display name.'
+aeb829a6-28b8-4020-bbd7-7a9a00d214f9.excellentcratesEditor.Crate.Enter.Cooldown: '#d4d9d8Enter
+  #aefd5e[Seconds Amount]'
+cefaee0b-74d9-416f-bed2-cc484c50cdd6.excellentcratesCrate.Open.Error.Cooldown.Temporary.1: '#fd5e5e&lCrate
+  on Cooldown!'
+f091d8b1-2251-410e-8782-195b9b7988f9.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.7: '#ff6a6a▪
+  #bdc8c9If no keys are set, crate can be opened without them!'
+2cffbb51-2757-446f-878f-eb9b27d4c3e0.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.4: '#ffed6a▪
+  #bdc8c9Display Name: #ffed6a%1'
+e873a642-6f9d-4ddd-8d63-e6cc74205e75.excellentcratesCrate.Open.Error.Cost.Exp.1: '#fd5e5e&lWhoops!'
+c5ec662a-3d72-490e-8dd1-c8ca6d6cc786.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.4: '#ffed6a▪
+  #bdc8c9Chance: #ffed6a%1%'
+c4a5d6b5-57dd-40d5-b39a-7bbf37f423a3.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.1: "#bdc8c9It's\
+  \ used when you give crates to players"
+ef67cbe3-62e5-49a2-a33f-590b036fdc26.excellentenchantmentsFitItemType.FISHING_ROD: Fishing
+  Rod
+ccb69ffc-6c89-4e40-932e-b3db08c5c094.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.1: '#bdc8c9#ffed6apreview
+  #bdc8c9and #ffed6aanimation #bdc8c9GUIs.'
+4bc71628-6b8a-4529-a46b-3b50268afc9f.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.2: '#ffed6a&lCurrent:'
+bb4f134a-451b-42b4-bf76-5250d81ec0b9.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.5: '#bdc8c9#ffed6a%1'
+f0fb4c2d-1ef0-4865-a8f7-16797b4b97b3.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Lore.0: '#bdc8c9Sets
+  whether or not a broadcast message will'
+1c87d6a1-4f14-4999-a0af-db5d4bc8255b.excellentenchantmentsFitItemType.WEAPON: Weapon
+66b63415-7f30-4c0c-96d9-75cdaf9ffeb0.excellentenchantmentsFitItemType.AXE: Axe
+4d1258c9-4fbd-4704-801b-e58432ed26bb.excellentcratesEditor.CrateEditorType.KEY_OBJECT.Lore.3: '#bbff6a▪
+  #bdc8c9Left-Click: #bbff6aEdit'
+5c3e9157-59e8-4710-9587-e1e1471f0220.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.0: '#bdc8c9A
+  set of blocks attached to'
+4a7dd24f-ed4a-47c5-b4fd-04dd6c8140cf.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.2: '#bdc8c9it
+  when interacted.'
+ff3535d1-b338-4cab-bfbe-cbd68ffad22d.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Name: '#ffed6a&lPreview
+  Item'
+73c30a93-763c-41e2-94ab-83a800a5de24.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.1: '#bdc8c9can
+  obtain this reward again.'
+71b94e5b-6984-44c4-b3d4-236a182e17d1.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.7: '#ffa76a&lNotes:'
+5a281d54-036f-46ef-b657-dd9390d3f1c9.excellentcratesEditor.CrateEditorType.CRATE_OBJECT.Lore.2: '#bbff6a▪
+  #bdc8c9Shift-Right: #bbff6aDelete #ff6a6a(No Undo)'
+470ec9df-0bc2-4a42-a4dd-4242991f388e.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.3: '#ffed6a&lCurrent:'
+eefadd41-ae4c-4390-a43f-48331f058877.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.6: '#ff6a6a&lWarning:'
+056362b2-84f6-4814-9d18-b56eb9c8f20a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.4: '#ffed6a▪
+  #bdc8c9Model: #ffed6a%1'
+33ade2df-d622-405f-97e6-ee29792e9012.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.7: '#bbff6a▪
+  #bdc8c9Drag & Drop: #bbff6aReplace'
