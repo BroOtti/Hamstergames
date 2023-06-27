@@ -7,3 +7,349 @@
   \ ne peux pas t'assoir dans ce monde!"
 b8f3f280-e9e4-49d6-85f0-a3f59ad56d5d.gsitMessages.action-pose-world-error: '[P]&7
   Tu ne peux pas poser de bloque dans ce monde !'
+205f21cb-d3d7-4bcb-bb4a-466473298966.gsitMessages.action-pose-now-error: '[P]&7 Vous
+  ne pouvez pas poser maintenant !'
+a2e9566e-1e9a-4b63-ab82-596f9f596300.bungee.stop: Notre serveur a été arrêté, veuillez
+  vous reconnecter dans quelques instants !
+d3bf9104-2b4e-4e76-8299-03caa23caed0.hub.move: Vous avez été envoyé au &6Lobby§7 !
+357b44df-d93d-49f6-8192-fb547e608f80.dh.your-points: '&fVos points :'
+3bc8567f-db4f-4db3-83a7-c302f0c84f20.alonsotags.inactive.lore: "&bDescription\n &b|\
+  \ &7Vous pouvez ici visualiser une balise\n &b| &7que vous avez sélectionné.\n\n\
+  &bInformation\n &b| &7Tag sélectionné : &7N/A\n &b| &7Status : &c&l❌\n\n&c&l| &cᴛʜᴇʀᴇ\
+  \ ᴀʀᴇ ɴᴏᴛ ᴛᴀɢꜱ ꜱᴇʟᴇᴄᴛᴇᴅ"
+c87a33af-da67-44cb-a6fd-6f9f5ec2c5f1.ia.2.2: ou débloquer plus de kits pour jouer
+  sur ce serveur
+a901e3f2-5f88-41a8-a34f-ec0f1d82d51a.mpdb.syncInProgress: '&cData sync en cours !
+  Veuillez patienter...'
+6f461b68-71bf-4785-b731-8d812ebcce03.alonsotags.Vault-not-available: La chambre forte
+  ne semble pas être disponible sur ce serveur !
+2973914a-7aa5-45a8-82ba-584eb32592a6.alonsotags.Disabled-world: Vous ne pouvez pas
+  utiliser cette commande dans ce monde. Essayez plus tard !
+2c3da0a9-4fbc-4a36-97df-65f18b8a0802.dh.points-lb.title: '[Top 10 des joueurs les
+  plus pointus]'
+c5d93e84-9308-46d0-b80d-fd64b785377f.dh.money-lb.title: '[Les 10 joueurs les plus
+  riches]'
+45c68131-453d-4287-951e-f13dfc106e7a.chatmanager.motd: '&7&o(Tout nouveau et la meilleure
+  communauté)'
+733aff92-e7b5-4e83-a197-81a2450b954b.chatmanger.mention.header: '#FFFF00@ &lMENTIONED
+  #FFFF00@'
+86697c9a-00da-4d2b-91b6-159badd99ddd.chatcolor.gui-selected: '&eSélectionné'
+2c93db2c-fcf2-4dd0-b897-c7baed3a212f.gsitMessages.action-crawl-info: '&7Utilisez votre&f
+  touche Shift&7 pour vous lever.'
+180db7d5-06ea-4088-823e-596570ba031b.gsitPlugin.plugin-disabled: '[P]&7 Le plugin
+  a été désactivé avec succès.'
+ff651667-d558-4471-ac65-117f4d1ac07b.ia.9.1: Rejoignez notre communauté
+d139121e-a03b-4316-8b41-ae83d16dc52b.ia.toggle-sound-off: "&7Vous avez désactivé &c&l❌\
+  \ &cDisabled&7 l'annonce sonore &8&o(/toggle)"
+46c94e38-5c71-4bfb-975f-bdb3f6311c20.gsitMessages.action-pose-region-error: '[P]&7
+  Vous ne pouvez pas poser dans cette région !'
+6dabf468-e902-4ffa-be73-34d6cfaa2721.gsitMessages.action-pose-location-error: '[P]&7
+  Vous ne pouvez pas poser ici !'
+33c77d75-9c45-4a90-9cac-bd975a1ec38f.gsitMessages.command-gsit-playertoggle-off: '[P]&7
+  Vous avez &c&l✘&c Désactivé&7 les interactions par clic pour playersit ! &8&o(/toggle)'
+4b3b0989-d096-4054-bffc-65b68b687632.alonsotags.Tag-selected: Vous avez sélectionné
+  la balise &f%1&7 !
+32762da6-870c-4010-9ae9-bae297315e48.chatmanager.msg.reply: '&bCliquez &7pour répondre.'
+86e9c49e-574c-4bd1-8e35-5df6bc19b93c.gsitPlugin.plugin-link: '[P]&7 Lien avec&f %Link%&7
+  réussi !'
+b346f9a6-ab10-4635-8733-80fda5d83636.dh.your-money: '&fVotre équilibre :'
+2e430b91-c25c-45fa-81aa-8b09ca0c47ce.gsitMessages.action-emote-stop: "[P]&a Vous avez\
+  \ cessé d'émettre."
+294e884d-716a-4ec4-b721-dcc725974e26.bungee.restart.connect.title: '&bLe serveur démarre
+  actuellement.'
+78063a85-641e-44aa-b4ec-dfad56b1aeac.ia.6.2: Vous pouvez vendre des produits ici !
+c9e54d23-43e9-4f29-a6ef-5e4286054ab0.alonsotags.Target-not-loaded: Le lecteur cible
+  n'a pas pu être chargé. Le joueur doit se reconnecter au serveur !
+d9998c47-7988-4f4d-a2e0-db6bcca04d7c.bungee.restart.subtitle: '&bNous vous connecterons
+  dès que le serveur sera de nouveau &6en ligne&b.'
+0ffa23ba-9c66-45b0-a15e-8553fc6b0ee4.alonsotags.Tag-not-selected: Aucune balise n'est
+  sélectionnée.
+1c54fa5a-58da-42e6-9200-e6a475817770.chatcolor.gui-click-to-select: '&bClick &8|&7
+  Sélectionner'
+b3dda760-84af-43b6-9f7c-98483b9a6c89.gsitMessages.action-sit-kick-error: "[Quelqu'un\
+  \ est déjà assis ici !"
+6913e6ee-c8a2-43b9-bc50-eb9d7352dddc.dh.money-updated: '&7Vous avez mis à jour le
+  &fMoney Leaderboard&7 !'
+970c09ff-5d48-4a76-8bcb-78503760f08c.gsitMessages.action-emote-none-error: "[P]&c\
+  \ Vous n'utilisez pas d'emote en ce moment !"
+bcd6a436-a8f3-492b-a864-fe8dfbe9018f.mpdb.configReload: '&6Config reload complete
+  ! Consultez le journal du serveur ou la console pour plus de détails.'
+f626f93c-258d-43cf-875b-329086824919.gsitMessages.action-crawl-now-error: '[P]&7 Vous
+  ne pouvez pas ramper maintenant !'
+ed717aff-586d-42c0-a5cf-5fc553c90cee.mpdb.loginSyncConfirmation: '[lang]prefix[/lang]&6
+  Synchronisation des données terminée !'
+1b6caa61-ca28-47d2-a688-4b670b5a8028.dh.playtime-lb: CLASSEMENT DES TEMPS DE JEU
+0a8c0fe8-436c-4d8b-8094-8b021e7894cd.dh.points-updated: '&7Vous avez mis à jour le
+  &compteur de points&7 !'
+8f2ce7ee-cf79-487d-88b4-0b0ccd08117f.gsitMessages.action-pose-kick-error: "[P]&7 Quelqu'un\
+  \ pose déjà ici !"
+34836667-5a55-4d72-878f-8e7738c97c06.ia.8.2: ensemble au jeu.[lang]prefix[/lang]!
+db64f04c-dd42-4c06-ba30-b629a9332da1.chatcolor.gui-available: '&aDisponible'
+657a3f5c-aa2c-4b96-88db-e9be2d839e72.chatmanager.Broadcast: '#00ffff&lANNOUNCEMENT
+  ! '
+fcb69ba4-fd50-4896-854c-6cd69bd2229f.alonsotags.Tag-cleared: Vous avez effacé votre
+  étiquette actuelle.
+3e8ecdc5-eb76-4b92-a760-b366e41865a6.dh.tokens-updated: '&7Vous avez mis à jour le
+  &fTokens Leaderboard&7 !'
+9157dac0-4b19-4f07-866c-c01e8b701a41.mpdb.inventorySyncBackup: "&6[ !] &eRestauration\
+  \ de l'inventaire local ! &cNe laissez pas d'objets dans votre inventaire lorsque\
+  \ vous vous déconnectez !"
+83b5a539-c04c-4800-9f42-d40a32dd4bb0.chatcolor.gui-inactive: '&7Inactif'
+a84e2a42-52ab-498a-9983-ee490449d9a3.ia.1.1: Obtenez des récompenses gratuites sur
+709c93ae-7070-4097-a6d0-9c996b0dab5a.tab.sb.username: "&7Nom d'utilisateur :"
+771982c0-3e5c-47d9-90cc-7cca15b23a29.dh.playtime-lb.title: '[Top 10 des joueurs No
+  Life !]'
+04b53dee-4696-4231-898e-962610fa2a54.mpdb.armorSyncError: "&4[WARNING] &cError loading\
+  \ your armor ! Contactez l'équipe du personnel."
+1e75b8fb-3131-4db1-8cb3-050363cd555a.gsitMessages.action-pose-info: '&7Utilisez votre&f
+  touche Shift&7 pour vous lever.'
+733446ed-d6ff-471a-a48a-aa400e1b013a.mpdb.reloadCmdWarning: "&cCe plugin ne recommande\
+  \ pas de recharger le serveur. Si vous rencontrez des problèmes après avoir exécuté\
+  \ cette commande, arrêtez de l'utiliser."
+ef742849-3b8a-4028-9ce6-8538d439ffa1.gsitMessages.action-crawl-region-error: '[P]&7
+  Vous ne pouvez pas ramper dans cette région !'
+547c0531-cb58-4307-a642-17dc7788dd71.alonsotags.Already-selected: Vous avez déjà activé
+  cette balise !
+752896d5-6372-4dae-ab56-d4d20d07d872.hub.move.already-here: Vous êtes déjà dans le
+  hall &b(Secret 01)
+5a76e163-96cb-4ca2-be58-94032dfe1398.gsitMessages.action-blocked-error: "[P]&7 Vous\
+  \ n'êtes pas autorisé à exécuter cette commande maintenant !"
+bd83bfdc-5ce1-431a-962c-82f6443f98fa.ia.2.1: Réclamez vos kits disponibles
+6f0ecfca-7b35-481e-af00-9c4aca0042a7.dh.points-lb: CLASSEMENT PAR POINTS
+27a7be73-cda5-4fc2-8325-579fb58027b5.perms: Malheureusement, vous n'avez pas les autorisations
+  nécessaires pour cela !
+b80f4f23-1345-4693-bc11-4ca3a48419ed.gsitMessages.command-gsit-toggle-on: '[P]&7 Vous
+  avez &a&l✔ &aEnabled&7 click-interactions to sit ! &8&o(/toggle)'
+0d415b59-b8ca-46ec-8a41-e1a560464ef0.ia.4.1: Voir votre temps de jeu
+ef2e88e8-f29b-4544-8d05-21295f04451e.chatcolor.gui-click-to-toggle: ''
+f9677241-6d53-41ec-a562-f85f0bd0d356.gsitMessages.action-emote-stop-error: "[P]&c\
+  \ Vous ne pouvez pas vous arrêter d'émettre !"
+a2e18b28-fed9-4471-a837-60da834d73e7.gsitMessages.action-sit-region-error: '[Vous
+  ne pouvez pas vous asseoir dans cette région !'
+ffd61dcd-c031-4a28-b7b3-663c9038211c.dh.playtime-updated: '&7Vous avez mis à jour
+  le &fClassement du temps de jeu&7 !'
+7a2290a0-4b14-4912-9a8f-effbca3b5c21.ia.10.1: Échanger des biens en utilisant
+2d9e0c7a-f386-419a-b36b-3752cfe08fe1.mpdb.inventorySyncError: "&cErreur de chargement\
+  \ de votre inventaire ! Contactez l'équipe du personnel."
+1f184739-5f63-4843-adba-0cbc15bb8ecc.ia.toggle-sound-on: "&7Vous avez activé &a&l✔\
+  \ &aEnabled&7 l'annonce sonore &8&o(/toggle)"
+59acba06-b266-4c58-a658-f29c8c5271f5.alonsotags.Please-reconnect: Erreur inattendue.
+  Veuillez vous reconnecter au serveur !
+f51f6d75-f63b-4849-8c95-ed773565025f.gsitMessages.action-playersit-info: '&7Utilisez
+  votre&f touche Shift&7 pour vous lever.'
+40debcbe-b229-4416-ad35-0d87aca21dd4.bungee.restart.title: '&bRedémarrage '
+af7607cb-fb2f-4594-b306-946c146551c2.dh.token-lb.titel: '[Top 10 Dola Dola]'
+2ccd337f-342b-4780-a0b7-6631feff44ea.ia.7.2: Profitez de votre séjour pour jouer avec
+  nous !
+154ee715-fc9f-4b0a-9b88-dfc314c866c8.chatcolor.gui-active: '&bActif'
+2a15af05-0abb-45cf-832a-758c071992ad.ia.3.1: Sauver la Terre
+1306f3a2-f809-4adb-a200-23dda00f6c11.mpdb.loginSyncStarted: '&6Chargez vos données...'
+f83074a9-78ba-4386-a7d0-e2f6e28f8f07.gsitMessages.command-permission-error: "[P]&7\
+  \ Vous n'avez pas la permission d'utiliser cette commande !"
+9c5685a3-7e65-4cbd-8369-9b7db1461647.dh.token-lb: CLASSEMENT DES JETONS
+c4645f69-c0eb-44fd-b518-1be148468ee6.ia.8.1: Invitez vos amis à jouer
+95279f9f-eb5c-4394-b05b-d2dab34c5f50.mpdb.noPermission: "&7Vous n'avez pas l'autorisation."
+065330db-285b-4279-ad3d-a8df014f9409.chatmanger.mention.footer: '#E6E6E6Vous avez
+  été mentionné par'
+27caaa24-a1c8-411b-ae5a-a61ebda583dc.gsitMessages.command-gsit-toggle-off: '[P]&7
+  Vous avez &c&l✘ &cDisabled&7 click-interactions to sit ! &8&o(/toggle)'
+c5c78938-b9f9-4342-9284-40e9024ec263.alonsotags.Tag-purchased: Vous avez acheté avec
+  succès le tag &f%1&7 !
+13c4b11e-4604-4a9c-afe9-c1ec51790a91.dh.your-tokens: '&fVos jetons :'
+3eafa6d0-6baa-4616-9e9e-8ba1e8cc59e2.gsitMessages.action-emote-world-error: '[P]&c
+  On ne peut pas émouvoir dans ce monde !'
+ef1086a8-3f2c-42d7-8bbd-4cc6adecebb9.gsitMessages.command-gcrawl-toggle-off: '[P]&a
+  Vous avez désactivé le double regard pour le crawl.'
+40f46b5d-ac9c-48fd-b654-6f32b40346ff.gsitMessages.command-gcrawl-toggle-on: '[P]&a
+  Vous avez activé la double-fente pour le crawl.'
+b2f62c01-258d-49d6-ad58-7934b1ba0f96.bungeeguard.invalid-token: "&cLe processus d'authentification\
+  \ est actuellement indisponible."
+bfed87ff-eee1-480b-9b0d-5ad5f0743dbb.gsitPlugin.plugin-reload: '[P]&a Le plugin a
+  été rechargé avec succès.'
+cac09bd4-8768-47a9-bd76-ba60db2ca620.gsitMessages.action-sit-safe-error: "[P]&7 Il\
+  \ n'est pas prudent de s'asseoir ici !"
+96ca0a0c-bfc8-4a16-80fe-7b27468350e2.gsitMessages.action-emote-exist-error: "[P]&c\
+  \ L'emote&6 %Emote%&c n'existe pas !"
+2fc4199e-14ab-47fd-9af7-639def38d7fd.dh.money-lb: L'ARGENT DU CLASSEMENT
+ca655314-ffe5-4b7a-984f-0a2897d1fa40.chatcolor.gui-unavailable: '&8 Indisponible'
+c2596c7c-75de-4c99-89d1-d157b14464c5.gsitMessages.action-sit-info: '&7Utilisez votre&f
+  touche Shift&7 pour vous lever.'
+0321c804-e218-4a1f-b00c-2d835bb1c8d9.chatcolor.gui-color-already-set: '&7Color déjà
+  sélectionné !'
+2613828a-c2ba-495a-a7a0-9f47de69c513.bungee.restart.actionbar: Ne partez pas, &6 nous
+  vous reconnecterons !
+d72ed0a5-52ce-436c-be38-d96fa7a70a06.gsitMessages.action-sit-now-error: '[P]&7 Vous
+  ne pouvez pas vous asseoir maintenant !'
+70f54379-393e-462b-b745-1bc975bc8547.ia.3.2: Débarrassez-vous de vos articles et sauvez
+  la planète !
+fb402023-821e-4d2e-9479-a3b353e3d6ab.ia.10.2: Vous protéger contre les escrocs
+74bfa7cd-b4aa-498e-8b42-1cd97571c456.gsitMessages.action-emote-region-error: "[P]&c\
+  \ Vous ne pouvez pas faire d'émoticônes dans cette région !"
+9d4a06ac-c4af-460d-a637-b6a561f3a40f.chatcolor.current-color: '&7Votre couleur est
+  actuellement :'
+c3bc89eb-eaa6-4df0-93d1-d53e95bc765b.ia.reload: '&7You recharger les fichiers de configuration
+  et de langue.'
+302bf67c-6b7a-4a81-91db-a895ea78f9e0.ia.toggle-on: "&7Vous avez basculé &a&l✔ &aEnabled&7\
+  \ l'annonce &8&o(/toggle)"
+6512c036-cd87-476e-9c73-dae072ea273d.ia.5.1: Avez-vous besoin d'aide ?
+789a1eb1-7dd2-4eae-82e3-7bdae08f3434.prefix: '&bʜᴀᴍsᴛᴇʀ&6ɢᴀᴍᴇs&7.ᴇᴜ '
+739e775e-8caa-47a8-9abb-cb097cc6062f.dh.your-playtime: '&fVotre temps de jeu :'
+c00da470-4855-427d-b380-b7c09b31a44d.gsitPlugin.plugin-prefix: '&b&lsɪᴛ &8&l┃&7'
+78608a70-26e7-4181-8044-906cca8dd56a.tab.sb.tokens: '&7Tokens :'
+e1ff0a69-5f33-411e-9ddc-cf86451e12cf.mycmd.block.delay: '&7Vous pouvez interagir à
+  nouveau avec ce bloc dans &c%1s'
+d84381be-2c40-4aba-bad8-67c738d2e481.mycmd.cooldown2: '&7Vous avez ignoré le temps
+  de recharge de cette commande'
+f64cfdc4-ae08-4e19-9b08-48cc7ea9831b.tab.sb.balance: '&7Equilibre :'
+15878977-20f7-4765-94e8-7afbf63bc2d2.tab.sb.playtime: '&7Temps de jeu :'
+00d5f7bd-6fe1-4020-b714-aeebee09c212.mycmd.hours: 'heures '
+c351f873-253f-4a94-8f7c-5e9a2784d65d.mycmd.interaction.delay: '&7Vous devez attendre
+  &c%1 secondes&8)&7 pour interagir à nouveau'
+e84ccda1-a060-43f8-b987-761ab76d1e14.tab.ani.players: ''
+4b06dee8-4c63-4cbf-a3c0-699d4fa0970e.uar.COMMAND_USER_VIEWINTERVAL.chatMessage: le
+  serveur a été redémarré il y a %1...
+6851f9d5-867e-4f1b-831a-aa3f3bef280d.uar.COMMAND_USER_VIEWINTERVAL.subtitle: Redémarrage
+  en
+fda11bc6-495b-4203-8133-ba8535d3771c.uar.EVENT_RESTART_GLOBAL.chatMessage: Rebooter...
+  nous vous reconnectons !
+26e3c7ed-35ff-4d81-9717-d3c1cd5e87b7.mycmd.npc.nocmd: "&7Ce PNJ n'a pas de commande\
+  \ à exécuter."
+3c656321-780c-40cb-a220-af031ca8b3a6.mycmd.second: 'deuxième '
+2b06711e-6a66-4aa7-bd0c-715e91ef7c56.mycmd.seconds: 'secondes '
+9416c7a8-06d0-4dc4-8c0a-12eecb64921b.mycmd.warmup1: '&6La commande sera exécutée dans
+  &c%1 secondes'
+0ae160ea-62e2-4db1-8dfb-25cec33f0261.mycmd.warmup2: "&7Vous avez sauté l'échauffement\
+  \ pour cette commande"
+348fb7aa-e61b-4d50-a1e7-0e325c89d807.uar.EVENT_RESTART_DELAY_STAFF.title: DÉLAI DE
+  REPRISE
+cdfc1726-588a-44ee-b69a-b725b2a93048.uar.restart.subtitle: '&fRedémarrage en'
+5ee2b40d-125c-40e2-b96b-22f403febcab.gsitMessages.command-reload: '[P]&7 Les paramètres
+  ont été rechargés avec succès.'
+84322162-8aa5-4f0b-af47-88a571e55004.uar.EVENT_RESTART_DELAY_GLOBAL.subtitle: Le redémarrage
+  a été retardé de
+9488f6a1-b689-4598-99b4-b1cff79d553d.uar.EVENT_RESTART_GLOBAL.subtitleContent: Veuillez
+  patienter, nous vous connectons !
+21e4c6c8-14b8-4143-9490-415222b6e258.mycmd.skipped-execute: "&7Vous avez ignoré la\
+  \ vérification du mode d'exécution de la commande."
+cd4a4611-a5cf-4768-813a-1d5e70681b11.uar.COMMAND_FORCE_RESTART.subtitle: Redémarrage
+  forcé. Redémarrage en
+29baa872-b8d5-4c76-ac86-28b7a4818750.mycmd.console-deny: '&7Vous ne pouvez pas exécuter
+  cette commande à partir de la console'
+174cee1a-430d-47ae-a8d3-9cbf61e21647.mycmd.minute: 'minute '
+9a4cab7c-d85b-4729-9304-b274334da104.mycmd.lines-empty: '&7Toutes les lignes sont
+  vides.'
+45575dd6-ea41-4022-8695-8bc3fcda8b6b.tab.sb.points: '&7Points :'
+9c42929b-f1fb-46e9-8b14-e964b1d5deee.mycmd.noperms: "&7Vous n'avez pas l'autorisation\
+  \ de faire cela !"
+e4fa4f8f-e394-4b1d-9237-bf54bc8f2931.mycmd.cmds.args.l1: "&7Pas assez d'arguments...\
+  \ Vous avez tapé "
+c730d548-3ddd-4039-af68-6fab4ace235c.uar.COMMAND_USER_VIEWINTERVAL.chatMessage: Le
+  serveur redémarre en
+f01f4e13-e26f-4b7a-bcdb-f2b50b0e66d4.mycmd.minutes: 'minutes '
+d3e65b82-01bb-4872-8392-6dcfc68d4ad7.mycmd.console_output: '&7Vérifiez la sortie de
+  la console.'
+768ccf05-0c6d-45e6-b873-a8bb44c0afad.uar.restart.chatmessage: Le serveur redémarre
+  en
+81f94e86-0928-40bf-94b1-b0d05f19c209.mycmd.days: 'jours '
+38c0458e-ca91-45fc-adba-6aee962906c5.mycmd.sign-created: "&7Signature créée ! vérifiez\
+  \ &b/mycmd-signset &7 pour plus d'options."
+0ce2f1c9-51b3-436f-a3f4-944fea593286.mycmd.day: jour
+ca1bb488-a7dd-405a-9bc5-7f8497945a8a.uar.EVENT_RESTART_DELAY_STAFF.chat: Le redémarrage
+  du serveur est retardé de
+5885bbb5-cfe1-4510-a296-97289f099e28.mycmd.sign-removed: '&7Signature retirée !'
+0f01c37a-4f8a-49b0-a3e4-ead84a8b60ce.mycmd.nomoney: '&7Vous avez besoin de &c%1&l$&7
+  pour exécuter cette commande.'
+1d0755a5-ef43-4361-a62c-c3799a982a38.mycmd.cmds.l2: '&8-> &7Commande(s) de sortie
+  :'
+3f315c9d-fc0a-4615-947d-40b8ae9f316c.mycmd.char-not-allowed: '&7Votre entrée contient
+  des caractères non autorisés.'
+8bcefd8b-a620-48d9-b24c-69e1473baf0d.uar.COMMAND_FORCE_RESTART_GLOBAL.chatMessage: Redémarrage
+  forcé du serveur en
+4fa87da2-3811-4b77-81c8-71bf5f9ed69e.mycmd.nodata: PAS DE DONNÉES
+bbf836a2-0680-42ed-8672-bef5dd3589f9.mycmd.hour: 'heure '
+43440cbb-6054-491a-8c78-638f3c6aa4f7.uar.EVENT_RESTART_DELAY_GLOBAL.chatMessage: Le
+  redémarrage du serveur est retardé de
+e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '&7Monde :'
+0d258305-d1ce-443e-be6e-2de8bd9829ed.bungeeguard.no-data-kick-message: "&cVous ne\
+  \ vous êtes pas connecté via notre Proxy, essayez d'utiliser &bplay.[lang]prefix[/lang]&cinstead."
+0440e1dc-5d9c-439a-9b57-01f1a9f6982e.gsitPlugin.plugin-version: '[P]&7 Ce plugin ne
+  peut pas être utilisé avec cette version du serveur ! &f%Version%&7 !'
+c3275e6f-533a-4cf1-9a78-c7defd84ed95.playerpoints.command-reset-usage: '&cUsage :
+  &b/points reset &3<player>'
+98fce703-dfe0-4050-b922-e10345f094ac.gsitMessages.command-sender-error: '[P]&7 Cet
+  expéditeur ne peut pas exécuter cette commande !'
+8302dcec-13fc-4693-8038-c56256a5161d.mpdb.importingDataComplete: "& L'importation\
+  \ des données est terminée !"
+4b6a3e5b-2c92-407e-b3d4-6127cf86b108.gsitPlugin.plugin-enabled: '[P]&7 Le plugin a
+  été activé avec succès.'
+4da9a097-45e5-4cb6-b87a-0d34a6fb39c9.alonsotags.Error-purchasing: Erreur inattendue
+  lors de l'achat de cette balise. Réessayez plus tard, si le problème persiste, contactez
+  un administrateur.
+6795d378-1a26-4948-a2e2-00b1c6c8f133.ia.no-permission: "&7Vous n'avez pas la permission\
+  \ de faire ça !"
+f7fbf7fe-76a8-4888-89be-3197f2a0cbb5.mpdb.armorSyncBackup: "&6[ !] &eRestauration\
+  \ de l'armure locale ! &cNe laissez pas d'objets dans votre inventaire lorsque vous\
+  \ vous déconnectez !"
+0d864c1d-c14c-4d1c-bdbe-de5777a66393.ia.7.1: Bienvenue sur [lang]prefix[/lang]
+265a72c0-4c53-46fc-8f5a-fb4300527741.gsitMessages.action-pose-safe-error: "[P]&7 Il\
+  \ n'est pas prudent de poser ici !"
+93a8462b-c9dd-4e31-b53d-ed5c0fb1adaf.mpdb.loginSyncFailed: '&cÉchec du chargement
+  de vos données ! Contactez un membre du personnel.'
+470231ec-af64-455b-a190-02421688eec0.mpdb.importingData: '&7Importation des données
+  des joueurs dans la base de données... Consultez la console du serveur pour plus
+  de détails.'
+d08201bd-b64f-4817-a462-fa78eef4d2ca.ia.toggle-off: "&7Vous avez basculé &c&l❌ &cDisabled&7\
+  \ l'annonce &8&o(/toggle)"
+63bc3550-618b-4146-a613-8312d2dc9e65.chatcolor.set-own-color: '&7Successfully set
+  your color to :'
+7eb7e520-7c3f-47cd-bd4c-c2eb63827bc7.gsitMessages.action-crawl-world-error: '[On ne
+  peut pas ramper dans ce monde !'
+bf422279-295c-4041-ac16-e8612591f3ca.gsitMessages.command-gsit-playertoggle-on: '[P]&7
+  Vous avez &a&l✔ &aEnabled&7 click-interactions for playersit ! &8&o(/toggle)'
+fc587346-0b71-4f44-a826-02b9ee80f5a9.gsitMessages.action-sit-location-error: '[P]&7
+  Vous ne pouvez pas vous asseoir ici !'
+7a8ea03c-72e1-47b3-aeb0-dcd8ac5ddad6.alonsotags.active.lore: "&bDescription\n &b|\
+  \ &7Vous pouvez ici visualiser une balise\n &b| &7que vous avez sélectionné.\n\n\
+  &bInformation\n &b| &7Tag sélectionné : %1\n &b| &7Status : &a&l✔\n\n&b&| &bᴄʟɪᴄᴋ\
+  \ ᴛᴏ ᴄʟᴇᴀʀ"
+304eecf5-ab97-4e7d-bffc-a022e8f2ce1a.gsitMessages.command-version-error: '[P]&7 Vous
+  ne pouvez pas utiliser cette fonction avec cette version du serveur ! &c%Version%&7
+  !'
+0e80cd88-4bbe-4016-8b1f-e13e4fd9a7a8.gsitPlugin.plugin-update: '[P]&7 Nouvelle version
+  disponible:&a %NewVersion%&7!\n&7Vous utilisez actuellement la version:&c %Version%&7!\n&7Téléchargez
+  la dernière version à:\n&b %Path%'
+bf72153d-9f72-46da-99b9-74e000222d58.ia.1.2: et de continuer à soutenir notre serveur
+  !
+47a21a8b-3473-44d4-8a6f-7c05597d79a9.alonsotags.reloaded: Certains messages et options
+  ont été rechargés. D'autres peuvent nécessiter un redémarrage !
+067da34c-c686-43fc-9cb2-a99ff8b38a61.uar.COMMAND_FORCE_RESTART.chatMessage: Redémarrage
+  forcé du serveur en
+24d1eddd-e6d4-4d57-91df-fa4e9d87ca64.mycmd.ECONOMY_COST: '&7Cette commande a coûté
+  %1. Nouveau solde %2'
+7de42667-35e9-42e6-bcce-984d030877d1.tab.sb.tempfly: '&7TempFly :'
+82846f32-dbaa-47f9-9c01-a00b4776a052.mycmd.holo.delay: '&7Vous pouvez interagir à
+  nouveau avec cet hologramme dans &c%1s'
+0a81e4b8-1467-446e-a9b9-4d1f10504e3d.mycmd.broadcast-alone: "&7Personne n'a reçu ce\
+  \ message"
+482c134c-fd27-4c16-b3f4-572870100aeb.mycmd.npc.delay: '&7Vous devez attendre &c%s
+  secondes&7 pour interagir à nouveau'
+8a934d4a-df77-4b21-8ec3-ecf7a6554862.mycmd.itemnoset: "&7Il n'y a pas de commande(s)\
+  \ sur ce poste"
+50088488-67dd-4d23-ac52-d8368147a2e5.mycmd.block-removed: '&7Blocage supprimé !'
+2a104129-f8f0-4723-909e-133a6ee77a4e.mycmd.cooldown1: '&7Attendez:&c %1%2%3%4 &7avant
+  de pouvoir utiliser à nouveau cette commande'
+9749347b-147c-4854-b749-458e85498502.mycmd.warmup3: '&7Vous êtes déjà en train de
+  vous échauffer pour cette commande. Attendez &c%1 secondes'
+b6e96ecc-0f50-45c1-8953-fdf232f0735b.mycmd.debug.execute: '&7Exécution : '
+4f4944d2-0b46-4e9a-b6cf-9b472fc345e0.uar.EVENT_RESTART_DELAY_STAFF.subtitle: Le redémarrage
+  a été retardé de
+bcae4ea3-37e1-4aad-a2eb-8c4b135589b6.playerpoints.command-take-usage: '&cUsage : &b/points
+  prendre &3<joueur> <montant>'
+e9946006-6c14-4d6c-bcce-e79e96693cc3.playerpoints.noperm: Vous n'avez pas l'autorisation
+  de le faire
+bb3a7d07-a74d-44b1-8d8d-e5968dfb0d32.playerpoints.command-give-received: '&7Vous avez
+  reçu'
+a8f13995-1b81-4601-961c-5f4fec61dac8.playerpoints.command-help-title: '&bCommandes
+  disponibles :'
+e67ac88a-c487-4b0a-8a08-a423a5dd8872.playerpoints.command-look-description: "&8 -\
+  \ &b/points look &3<joueur> &8- &fVoir les points d'un joueur"
