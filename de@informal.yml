@@ -433,3 +433,189 @@ f2b97046-5b46-4ac3-a353-190e1aee8b78.playerpoints.command-lead-description: '&8 
 5f786c3f-f502-4fd8-8c04-2efee5a4f5aa.PlayerParticlesgui-edit-data-color-brown: '#8b4513Braun'
 f6f7c2e8-00f3-4595-ac81-327e503aff91.playerpoints.command-pay-received: '&7Du wurdest
   bezahlt: &b&l%1&b%2&7 von &b%3&7.'
+8b6df645-e002-4527-9e11-cd0f2845588f.PlayerParticlescommand-error-unknown: '&7Befehl
+  nicht gefunden! "&b/pp help&7" für weitere Informationen.'
+e29d0117-86d5-46e0-87ed-26809402773b.tempflygeneral.time.daily_login: '%1 &7Du hast
+  einen täglichen Bonus von &f⌚%2&7 erhalten!'
+5c747044-89d7-4369-ba4e-0153b6fa4d84.PlayerParticlesdata-no-args: '&7Fehlendes Argument
+  für Effekt! Befehlsverwendung: &b/pp data&3 <Effekt>'
+81b9df29-b8d5-4ac6-8a5f-e79d4bd6d1a8.tempflycommand.base.givall.1: addall
+4c84c4b6-c4e9-4e5f-8d16-0f70d854502b.PlayerParticlescommand-descriptions: '&fDie folgenden
+  Befehle sind verfügbar:'
+77124ef1-201b-457d-ad29-9327d8a1b1bb.tempflygeneral.fly.bypass_enabled: '%1 &7Du hast
+  den Flugumgehungsmodus aktiviert!'
+50da3db8-f087-45ae-96fb-ee595fef0e49.PlayerParticlesgui-edit-primary-style-missing-effect: Du
+  musst zuerst einen Effekt auswählen
+ff213edb-21c1-4eeb-8f62-04e22872c6af.PlayerParticlesgroup-list-presets: '&7Die folgenden
+  voreingestellten Gruppen sind verfügbar: &b%1'
+cb255b02-eb0b-4294-a8c4-bd2b4d7375b1.tempflycommand.unit.days.tab_complete: Tag
+96819d33-756d-477d-8472-b2a8493fdfb4.PlayerParticlesdata-usage-vibration: '&7Der Effekt
+  &b%1 &7erfordert &bVibrationsdaten&7! &7Format: &3<Dauer>'
+db4a0a2b-c65b-4607-8c6c-cc86d0b9cda7.tempflysystem.help.5: '&6/tf pay [Spieler] [Zeit]'
+0a6a6bb5-fa54-40e9-a3c5-675c0949eeca.tempflycommand.unit.days.recognized.0: d
+b380eccd-b395-4238-930b-54d9316f95df.PlayerParticlesfixed-edit-data-none: '&7Nicht
+  bearbeitbarer fester Effekt, der Effekt benötigt keine Daten!'
+abb5b97b-9243-4d95-8381-c58513124f75.PlayerParticlesfixed-create-success: '&7Dein
+  fester Effekt wurde erstellt!'
+0ea6d324-688e-49d6-9e49-45562f3df03e.tempflysystem.help_extended.1: '&7- Gib einem
+  Spieler Flugzeit'
+6feb7cd2-391e-42a9-b505-152ff029e410.PlayerParticlescommand-description-fixed: Verwalte
+  deine festen Effekte
+7f9eee5d-b8ba-44f5-b9e3-b6a89d3524bd.PlayerParticlesgroup-remove-preset: '&7Du kannst
+  eine voreingestellte Gruppe nicht entfernen!'
+fa27bc0c-9c4a-4687-a7d2-cc8ffdaf5ce4.PlayerParticlesfixed-create-looking-too-far: '&7Kannst
+  du keinen festen Effekt erzeugen, stehst du zu weit von dem Block entfernt, den
+  du betrachtest!'
+e4302dd9-7e1b-4cd3-92e2-592dba2b2422.tempflygeneral.fly.infinite_disabled: '%1 &7Du
+  hast deinen unendlichen Flug deaktiviert!'
+1bd9b640-7526-40b4-a5e8-364628a04109.PlayerParticlesgui-edit-data-color-orange: '#ff8c00Orange'
+8a0ae19b-e4fb-465b-994b-0875258bbadd.PlayerParticlesfixed-list-success: '&7Du hast
+  feste Effekte mit diesen IDs: &b%1'
+3547d08a-4f11-46c6-8b60-8f0b3a677389.PlayerParticlesgui-create-particle: '&bErstelle
+  ein neuen Partikel'
+f8a51393-6dbb-43f1-a2d9-2acf208ccd99.tempflyaesthetic.symbols.infinity: ∞
+89a1f71e-68ac-4de5-9fad-cac47a96dd26.PlayerParticlesadd-reached-max: '&7Kannst du
+  kein Partikel anwenden, hast du die maximale Anzahl von &c%1 &7erlaubt erreicht!'
+bbbaa67e-e27a-4b57-a8b9-043808468b7c.economydeath.loss: '&bDu bist gestorben und hast
+  verloren &6$'
+59a74b0b-2d9c-43fd-9063-c6812d4618c0.PlayerParticlesstyle-invalid: '&7Der Stil &c%1
+  &7ist nicht vorhanden! Verwende &b/pp styles &7für eine Liste der Stile, die du
+  verwenden kannst.'
+ecd552ec-a57b-4587-8ef3-49b1e4bc0232.tempflygeneral.unit.seconds: s
+d94e6424-5315-4cdc-9f40-ecf666b8bba2.PlayerParticlesreload-no-permission: '&7Dazu
+  haben Sie keine Berechtigung!'
+5ac6912e-8d58-497d-bf04-9201bdd872e4.tempflygeneral.fly.speed_limit_other: '%1 &f%2
+  &8ist derzeit auf die Fluggeschwindigkeit &f%3&7 begrenzt.'
+8df2ac72-9565-4033-8e47-a2c3f6a77d2b.tempflycommand.unit.days.recognized.1: Tag
+d3181eec-d147-4fe0-8922-8f07ba524184.PlayerParticlesgroup-save-reached-max: '&7Kannst
+  du die Gruppe nicht speichern, hast du die maximale Anzahl an Gruppen erreicht!'
+55be08f7-d642-46c2-ba45-b8a2734425d9.PlayerParticlescommand-descriptions-usage: '&b/pp
+  &3%1 %2'
+953765e0-a1db-4425-93ce-c5e9310c9466.tempflycommand.base.trails.1: Partikel
+db0037b6-b511-46b5-a1ba-b750134b4a4d.PlayerParticlesgui-edit-style: '&bStil bearbeiten'
+4dd43cea-b92c-4c00-af85-625d23928199.tempflycommand.syntax_error.cmd_fly.toggle_other: '&b/tf
+  &3(Spieler) [ein / aus]'
+f58d2498-d8ae-474c-b956-d54357d2efdf.PlayerParticlesgui-edit-data-color-black: '#000000Schwarz'
+338808fc-92da-4ce1-9b62-1ad5244b0284.tempflycommand.unit.hours.tab_complete: Stunde
+14585fdd-1d4f-4414-b3af-301dc2be89fb.PlayerParticlesgroup-remove-success: '&7Entfernt
+  die Partikelgruppe namens &b%1&7!'
+d6886352-ef51-4d1b-b0a4-f0609ef4bb8d.tempflycommand.unit.seconds.recognized.0: s
+7f65ae6d-4771-4e0f-8944-6e76baeac786.tempflygeneral.fly.idle_drop: '%1 &7Du hast deinen
+  Flug verloren, weil du im Leerlauf warst!'
+6b11047a-fdc4-482d-aa6d-69fbc562bb6a.PlayerParticleseffect-invalid: '&7Der Effekt
+  &c%1 &7ist nicht vorhanden! Verwende &b/pp effects &7für eine Liste der Effekte,
+  die du verwenden kannst.'
+93ba4e4d-149f-452f-85a9-19061fe76369.PlayerParticlesgui-next-page-button: '&bWeiter
+  &l→'
+7e884b7d-1e56-4eb8-9324-092202209ce0.PlayerParticlesstyle-no-permission: '&7Dazu haben
+  Sie keine Berechtigung!'
+de3ed96e-f7a5-4607-9bb8-d818ffa813aa.PlayerParticlesdisabled-worlds: '&7Partikel sind
+  in diesen Welten deaktiviert: &c%1'
+55a1307b-459d-4d0f-842f-75b99fab1d6b.PlayerParticlesdata-invalid-material-not-block: '&7Das
+  Blockmaterial &c%1 &7das du eingegeben hast, ist kein Block!'
+5efda3dc-5498-4ee5-b71c-6d8896d9fa65.PlayerParticlesgui-select-data-description: Setzt
+  die Partikeldaten auf &b%1
+4cbce461-7bcb-4c00-9889-8f9c2f3ea170.PlayerParticlescommand-description-info: Ermittelt
+  die Beschreibung eines deiner aktiven Partikel
+96f1bfb6-af3d-42b3-9226-231fdfc0a250.PlayerParticlesdata-invalid-material-not-item: '&7Das
+  von dir eingegebene Artikelmaterial &c%1 &7ist kein Artikel!'
+c943633e-b269-48b7-b0dc-1ab6bfb55496.PlayerParticlesfixed-remove-success: '&7Dein
+  fixer Effekt mit der ID &b%1 &7wurde entfernt!'
+e20c1f3e-6185-4ba7-8c58-f23e76cce346.PlayerParticlesgui-edit-primary-style: '&bPrimärstil
+  bearbeiten'
+c835cce4-6b50-44e0-afc3-bfe5008af7e8.PlayerParticlesfixed-info-invalid-args: '&7Kann
+  keine Informationen erhalten, die angegebene ID muss eine Zahl sein!'
+9a2322ea-59f7-40f0-a9ca-8e1764b73ed4.tempflycommand.base.help.1: Befehle
+7bf2582f-98ca-44b5-8def-573fc41015d3.PlayerParticlesfixed-create-effect-invalid: '&7Kann
+  keinen festen Effekt erstellen, ein Effekt mit dem Namen &b%1 &7ist nicht vorhanden!'
+d8ee0104-eaa4-4c52-bd7c-0fb339c06358.PlayerParticlesother-success: '&7Ausgeführter
+  Befehl /pp für &b%1&7. Ausgabe:'
+c5bb923a-5d61-4a7f-9c37-6e7424fad93a.PlayerParticlesdata-invalid-item: '&6Die von
+  dir eingegebenen Artikeldaten sind ungültig! Format:&c <itemName>'
+dd088a57-7e87-4194-ade3-2fb2459f2a8b.PlayerParticlesgui-edit-data: '&bDaten bearbeiten'
+61a4f30f-ea95-41eb-bbc3-9cb2d7e880f1.PlayerParticlesfixed-edit-effect-no-permission: '&7Dazu
+  haben Sie keine Berechtigung!'
+7918bf54-f98c-44c6-acee-763a41dfabf6.tempflygeneral.requirement.fail.combat: '%1 &7Du
+  bist derzeit kampfgetaggt!'
+e3b4f343-0769-4a8e-9cc3-ef1d46125016.PlayerParticlesreload-success: '&7Das Plugin
+  wurde neu geladen!'
+a4e44fb7-2fce-4f59-b429-e53f93d9d58e.tempflygeneral.fly.speed_other: '%1 &f%2 &7hatten
+  ihre Geschwindigkeit auf &f%3&7 eingestellt.'
+66e11832-3c33-4470-a59d-a6a351692489.PlayerParticlesrandom: Zufällig
+639bab74-b8b9-48a8-870b-e691b9ab2301.PlayerParticlesedit-success-style: '&7Der Stil
+  deines Partikels mit der ID &b%1 &7wurde in &b%2&7 geändert!'
+c3596185-d77f-4651-869b-417f39a69bc8.tempflycommand.base.help.0: Hilfe
+79705fcf-d4e0-474c-85b1-bc92679e563a.PlayerParticlesgui-edit-primary-data-description: Bearbeite
+  die Daten deines Primärpartikels
+6ce13825-a593-4604-a0fd-1ada246fed1e.tempflygeneral.time.set_other: '%1 &f%2 &7hatten
+  ihre Zeit auf &f⌚%3&7 eingestellt.'
+fbe9bce1-3536-4e83-8db3-8d269123282e.PlayerParticlesgui-edit-primary-data-missing-effect: Du
+  musst zuerst einen Effekt auswählen
+1f7b0769-0201-4d98-b80b-0d5a7dd204ce.PlayerParticlescommand-description-use: Ändere
+  dein Primärpartkel
+78883c33-72b2-4f43-8c15-d0e6e66d1b8e.PlayerParticlescommand-description-group-load: '&b/pp
+  group load &3<name> &8- &fLädt alle in einer Gruppe gespeicherten Partikel'
+73b4c043-60ec-4591-aca7-3e7cf11296a1.tempflycommand.base.shop.0: Shop
+0c787b6e-e7cb-45e1-9935-2794399e8052.tempflygeneral.info.header: '&3&m          &b&m          &f&m          [&b&l
+  Temp Fly &f&m          &b&m          &3&m          &r'
+5b616015-c3ac-4c91-a85e-c7f495aa17f2.tempflygeneral.invalid.sender: '%1 &7Nur Spieler
+  können diesen Befehl verwenden!'
+441021fd-7f1c-4869-8a4c-7050e6cb394b.tempflygeneral.fly.speed_restricted: '%1 &7Du
+  darfst deine Fluggeschwindigkeit nicht ändern!'
+fc082b04-c38a-4eb5-8246-a6c2c17b7c23.PlayerParticlesfixed-create-effect-no-permission: '&7Du
+  kannst keinen festen Effekt erstellen, du hast keine Berechtigung, den Effekt zu
+  verwenden &b%1&7!'
+037ce5b0-151c-4b5c-bf93-7a655a3e8f4d.PlayerParticlesgui-edit-data-color-yellow: '#ffff00Gelb'
+e621da97-a053-4b01-9746-2353436043c7.tempflygeneral.time.decay: '%1 &7Du hast &f⌚%2
+  &7wegen Inaktivität verloren!'
+acaf95ad-0c30-4bc9-8622-34230ea5ca44.PlayerParticlescommand-description-group-remove: '&b/pp
+  group remove&3 <Name> &8-&f Entfernt eine Gruppe, die du gespeichert hast'
+e64edf27-30cb-48e5-a966-ab0ec24eb20c.tempflygeneral.unit.days: d
+51824031-2922-4420-aa64-5f74c6d1d5c3.PlayerParticlesedit-success-effect: '&7Der Effekt
+  deines Partikels mit der ID &b%1 &7wurde in &b%2&7 geändert!'
+48d1660b-8b7c-400e-997b-d8c121c48086.PlayerParticlesgui-load-a-preset-group-description: Eine
+  vorgefertigte Partikelgruppe laden
+7fda98b3-a09b-43a2-b2ad-1eb4b9a5b93b.PlayerParticlesother-no-permission: '&7Dazu haben
+  Sie keine Berechtigung!'
+f0f160d2-c68b-46ea-97e1-d57bf2557bd9.PlayerParticlesgui-click-to-edit-particle: '&bKlick
+  &8|&7 bearbeite den Effekt, den Stil oder die Daten dieses Partikels'
+426d8cab-7fb2-4e2d-9329-9195b5d7aec6.tempflygeneral.unit.hours: h
+e577a611-82d0-47c3-ac4f-06bf582d73b5.PlayerParticlescommand-description-group-save: '&b/pp
+  group save &3<name> &8- &fSpeichert alle aktiven Partikel in einer neuen Gruppe'
+b9f6a371-85e4-435c-b33f-6d9aeaacc8c4.PlayerParticlesfixed-clear-no-args: '&6Du hast
+  keinen Radius angegeben, für den du fixe Effekte ausgleichen kannst!'
+c97dc8ff-9512-4920-aac8-ebefb9da1ae6.tempflysystem.help_extended.2: '&6/tf remove
+  [Spieler] [Zeit]'
+839aa4ec-276c-45f4-8817-0018d098b22d.PlayerParticlescommand-description-version: Anzeige
+  der Plugin-Version und des Autors
+4ab2bb40-2773-4965-b9c4-d0e472cbe179.PlayerParticlesfixed-create-out-of-range: '&7Damit
+  du einen festen Effekt erzeugen kannst, musst du dich innerhalb von &b%1 &7Blöcken
+  von deinem gewünschten Standort befinden!'
+e5a3a9a5-0ff0-46dc-a342-bcfb1f4ca046.PlayerParticlescommand-descriptions-help-other: '&b/ppo
+  &3<Spieler> <Befehl> &8-&f Einen Befehl als Spieler ausführen'
+3adee27d-64c3-4193-af67-00ab68b9597d.tempflygeneral.fly.enabled_other: '%1 &f%2 &7fliegt
+  jetzt'
+99974143-295c-48a3-8855-8b74e24995c3.PlayerParticlesgui-edit-data-color-green: '#008000Grün'
+d523ee65-8ce6-40d6-a350-50eec16512cc.tempflycommand.unit.seconds.tab_complete: Sekunde
+d05b9d82-8070-4141-bb03-f4340f9c5a35.PlayerParticlesgui-color-info: '&f'
+db66fb6f-7da4-41ad-a471-8775890524ee.PlayerParticlesgui-edit-primary-data-unavailable: Dein
+  primärer Effekt verwendet keine Daten
+a8b89707-62ea-456e-8eaa-1fe9ebe00459.tempflycommand.base.infinite.0: unendlich
+16890293-4f02-4b25-bac3-d975111a1d8f.PlayerParticlesgui-save-group-full: Du hast die
+  maximale Anzahl von Gruppen erreicht
+69a5578d-241a-4a4c-97ff-763b693ad980.PlayerParticlesfixed-edit-effect-invalid: '&7Fixierter
+  Effekt kann nicht bearbeitet werden, ein Effekt mit dem Namen &c%1 &7ist nicht vorhanden!'
+cfc73e9c-4642-4c78-8b17-2ecf29a5a13d.PlayerParticlescommand-description-toggle: Schaltet
+  die Sichtbarkeit der Partikel ein/aus
+14bcb7fa-e0d5-4a4e-b419-f6e20a0aba7d.PlayerParticlescommand-description-effects: Eine
+  Liste der Effekte anzeigen, die du verwenden kannst
+05f0cd53-1e9f-42d0-a277-a8d75d298fe7.tempflygeneral.invalid.economy: '%1 &7Du musst
+  eine &8(&fvault&8)&7 Wirtschaft installiert haben, um den Shop nutzen zu können!'
+7582f4c9-b332-491f-a644-f01ea31fdf5c.PlayerParticlesfixed-list-none: '&7Sie haben
+  keine festen Effekte!'
+dae4458e-13bf-48b0-b056-7cffd9854a28.PlayerParticlesremove-effect-success: '&7Entferne
+  &b%1 &7von deinen Partikeln mit dem Effekt von &b%2&7!'
+d669dc67-1b20-4001-a40c-20dfd629ac2c.PlayerParticlesfixed-create-style-invalid: '&7Kann
+  keinen festen Effekt erstellen, ein Stil mit dem Namen &c%1 &7ist nicht vorhanden!'
+ac449efd-209d-495d-a820-31078e7e444a.PlayerParticlescommand-description-data: Prüfe,
+  welche Art von Daten ein Effekt verwendet
