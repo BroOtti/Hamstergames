@@ -51,8 +51,8 @@ d3bf9104-2b4e-4e76-8299-03caa23caed0.hub.move: Du wurdest in die &6Lobby§7 gesc
 180db7d5-06ea-4088-823e-596570ba031b.gsitPlugin.plugin-disabled: '[P]&7 Das Plugin
   wurde erfolgreich deaktiviert.'
 ff651667-d558-4471-ac65-117f4d1ac07b.ia.9.1: Tritt unserer Community bei
-3bc8567f-db4f-4db3-83a7-c302f0c84f20.alonsotags.inactive.lore: "&bBeschreibung\n &b|\
-  \ &7Hier kannst du einen Tag sehen\n &b| &7den du ausgewählt hast.\n\n&bInformation\n\
+3bc8567f-db4f-4db3-83a7-c302f0c84f20.alonsotags.inactive.lore: "&bBeschreibung\n &b|
+  &7Hier kannst du einen Tag sehen\n &b| &7den du ausgewählt hast.\n\n&bInformation\n
   &b| &7Tag ausgewählt: &7N/A\n &b| &7Status: &c&l❌\n\n&c&lᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴇɴᴛғᴇʀɴᴇɴ"
 d139121e-a03b-4316-8b41-ae83d16dc52b.ia.toggle-sound-off: '&7Du hast &c&l❌ &cDisabled&7
   die Tonansage &8&o(/toggle) umgeschaltet'
@@ -219,9 +219,9 @@ b2f62c01-258d-49d6-ad58-7934b1ba0f96.bungeeguard.invalid-token: '&cDer Authentif
   ist derzeit nicht verfügbar.'
 bfed87ff-eee1-480b-9b0d-5ad5f0743dbb.gsitPlugin.plugin-reload: '[P]&a Das Plugin wurde
   erfolgreich neu geladen.'
-7a8ea03c-72e1-47b3-aeb0-dcd8ac5ddad6.alonsotags.active.lore: "&bBeschreibung\n &b|\
-  \ &7Hier können Sie ein Tag anzeigen\n &b| &7das Sie ausgewählt haben.\n\n&bInformation\n\
-  \ &b| &7Tag ausgewählt: %1\n &b| &7Status: &a&l✔\n\n&b&| &bᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴇɴᴛғᴇʀɴᴇɴ"
+7a8ea03c-72e1-47b3-aeb0-dcd8ac5ddad6.alonsotags.active.lore: "&bBeschreibung\n &b|
+  &7Hier können Sie ein Tag anzeigen\n &b| &7das Sie ausgewählt haben.\n\n&bInformation\n
+  &b| &7Tag ausgewählt: %1\n &b| &7Status: &a&l✔\n\n&b&| &bᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴇɴᴛғᴇʀɴᴇɴ"
 304eecf5-ab97-4e7d-bffc-a022e8f2ce1a.gsitMessages.command-version-error: '[P]&7 Du
   kannst diese Funktion mit dieser Serverversion nicht nutzen! &c%Version%&7!'
 70f54379-393e-462b-b745-1bc975bc8547.ia.3.2: Entsorgen Sie Ihre Gegenstände und retten
@@ -366,8 +366,8 @@ f90ab21c-56dc-451c-9bde-0bf938ae1a8b.playerpoints.command-set-success: '&7Setze 
 bcae4ea3-37e1-4aad-a2eb-8c4b135589b6.playerpoints.command-take-usage: '&cAnwendung:
   &b/points take &3<Spieler> <Menge>'
 e9946006-6c14-4d6c-bcce-e79e96693cc3.playerpoints.noperm: Dazu fehlt ihnen die Berechtigung
-bb3a7d07-a74d-44b1-8d8d-e5968dfb0d32.playerpoints.command-give-received: "'&7Du hast\
-  \ erhalten:"
+bb3a7d07-a74d-44b1-8d8d-e5968dfb0d32.playerpoints.command-give-received: "'&7Du hast
+  erhalten:"
 a8f13995-1b81-4601-961c-5f4fec61dac8.playerpoints.command-help-title: '&bVerfügbare
   Befehle:'
 e67ac88a-c487-4b0a-8a08-a423a5dd8872.playerpoints.command-look-description: '&8 -
@@ -619,3 +619,46 @@ d669dc67-1b20-4001-a40c-20dfd629ac2c.PlayerParticlesfixed-create-style-invalid: 
   keinen festen Effekt erstellen, ein Stil mit dem Namen &c%1 &7ist nicht vorhanden!'
 ac449efd-209d-495d-a820-31078e7e444a.PlayerParticlescommand-description-data: Prüfe,
   welche Art von Daten ein Effekt verwendet
+8495a4a6-5408-45e5-9f28-92111aefc3df.tempflygeneral.invalid.number: '%1 &f%2 &7ist
+  keine gültige Zahl!'
+69eae38a-3208-4763-ada7-f1b3536daf0b.PlayerParticlescommand-description-remove: Entfernt
+  einige Partikel
+e0574790-b1f1-4125-aa90-bae69b0aea7d.tempflycommand.base.bypass.0: Umgehung
+adaa7eaa-493b-4b8c-a31b-5599a0274123.PlayerParticlesremove-effect-style-none: '&7Du
+  hast keine Partikel mit dem Effekt oder Stil angewendet &b%1&7!'
+56007461-8022-44c6-8488-c2a86a21e7f9.tempflysystem.help.6: '&7- schicke einen anderen
+  Spieler auf Flugzeit'
+440ed012-4150-43de-b76f-9e78faf03783.PlayerParticlestoggle-off: '&7Partikel wurden
+  umgeschaltet &coff&7!'
+7c826754-397d-4ce9-b807-41a5487a2397.PlayerParticlesgui-particle-name: '&b&lPARTIKEL
+  &8┃ &f#%1'
+fdfcadbb-7804-43cb-ac13-6f5e56f926c7.PlayerParticlesgui-disabled: '&6Der Serveradministrator
+  hat die GUI deaktiviert!'
+0d3556b7-5d27-43d3-983c-00f97a028742.tempflycommand.unit.minutes.recognized.1: min
+3f8d560e-55f2-4683-9b8e-4dcfbff68592.PlayerParticlesrainbow: '&cR&6a&ei&an&bb&9o&dw'
+139b05c5-ac07-4057-8a8a-709c6d9557e5.PlayerParticlesgui-edit-primary-effect: '&bBearbeiten
+  Primärer Effekt'
+b1a65e31-09d0-498b-9394-3cf10168fb5f.PlayerParticlesdata-invalid-note: '&7Die von
+  dir eingegebenen Notendaten sind ungültig! Format:&c <0-24>|<&brainbow>|<random>'
+1729227c-4d2c-4ff8-8893-3dc10e1c825b.tempflycommand.base.time.2: Gleichgewicht
+c5714db3-e5c2-45b4-a90d-09fe3a1753d3.PlayerParticlesdata-usage-none: '&7Der Effekt
+  &b%1 &7verwendet keine Daten!'
+4ff99f51-4edf-435c-8cf0-e015c85f5b58.playerpoints.command-look-success: '&b%1 &7hat
+  &b&l%2&b%3&7.'
+3ca8dfe3-9891-42eb-b345-a9ffbb5d15ce.tempflycommand.base.trails.0: Pfade
+a50a864c-fd0f-4968-833d-60bce1191cf8.PlayerParticlesgui-load-a-preset-group: '&bLade
+  eine vorgefertige Gruppe'
+f3ccb623-fe8f-4f39-82a5-f7467dc76a19.tempflygeneral.time.given_other: '%1 &f%2 &7bekam
+  &f⌚%3&7.'
+05ef982d-46b1-4cb3-be84-486a7ac321a4.PlayerParticlescommand-description-fixed-list: '&b/pp
+  fixed list &8-&f Listet alle IDs deiner festen Effekte auf'
+c83c5797-2dd7-434d-a604-ecee3c0c6301.PlayerParticlesremove-style-none: '&7Du hast
+  keine Partikel mit dem Stil &b%1&7 angewendet!'
+76af474b-ddea-4b99-93b9-be6663956c0e.tempflygeneral.info.minutes: '&fMinuten: &b%1'
+710890a6-0735-453a-bb0f-7fab8171da58.PlayerParticlesuse-particle-modified: '&7Dein
+  Primärpartikel wurde so verändert, dass er den Effekt &b%1&7, den Stil &b%2&7 und
+  die Daten &b%3&7 verwendet!'
+2514638a-acf6-42b8-982d-b780d5fcb490.PlayerParticlesgui-edit-data-description: '&bKlick
+  &8|&7 Bearbeite die Daten dieses Partikels'
+abb850ea-0714-466c-b6c9-7bc3b50909f0.PlayerParticlesstyle-list: '&7Du kannst die folgenden
+  Stile verwenden: &a%1'
