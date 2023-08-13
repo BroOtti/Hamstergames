@@ -662,3 +662,87 @@ c83c5797-2dd7-434d-a604-ecee3c0c6301.PlayerParticlesremove-style-none: '&7Du has
   &8|&7 Bearbeite die Daten dieses Partikels'
 abb850ea-0714-466c-b6c9-7bc3b50909f0.PlayerParticlesstyle-list: '&7Du kannst die folgenden
   Stile verwenden: &a%1'
+d9b5c7c5-80d1-47a7-a97b-ae5a91845977.PlayerParticlesgui-select-effect: '&bAuswahl
+  Partikeleffekt'
+48a6866d-7dcb-4a87-9409-6572eed813bf.PlayerParticlesdata-invalid-vibration: '&7Die
+  von dir eingegebenen Schwingungs &cDaten sind ungültig! Format: &c<Dauer>'
+64ad26ae-8d42-4a83-94d9-87783ea1ebbd.tempflycommand.base.reload.0: neu laden
+751dfcc2-42d4-430f-9503-ab56d5ab7129.PlayerParticlesdata-invalid-block: '&7Die von
+  dir eingegebenen Blockdaten sind ungültig! &7Format: &c<blockName>'
+5f707a2f-e43b-4fae-b630-be89e533116c.tempflygeneral.fly.enabled_self: '%1 &7Dein Flug
+  wurde aktiviert!'
+7928ee9c-b03e-459d-93f7-faa29c0fc516.PlayerParticlesgui-manage-your-groups-name: Verwalte
+  deine Gruppen
+69f6abe9-47d4-4303-9c89-bd11331e60fe.PlayerParticlesstyle-event-spawning-info: '&cHinweis:
+  &7Der Stil &b%1 &7spawnt Partikel basierend auf einem Ereignis.'
+15a721b5-8154-4366-bce1-763fb19255e7.tempflygeneral.fly.speed_limit_self: '%1 &7Deine
+  Fluggeschwindigkeit ist derzeit auf &f%2&7 begrenzt.'
+9e3e4e0c-a74e-4f7a-89cc-2fd762e02574.PlayerParticlesedit-invalid-property: '&7Eine
+  ungültige Eigenschaft &b%1 &7 wurde angegeben. Gültige Eigenschaften: &beffect&7,
+  &bstyle&7, &bdata'
+bff09532-7a33-4f27-8b7d-118e122f5e6e.tempflygeneral.unit.minutes: m
+4811d8ee-bc0a-4b44-aeea-4de7c0c38ec3.PlayerParticlesgui-shift-click-to-delete: '&bShift-Klick
+  &8|&7 löschen'
+20c35dad-85e6-48a5-9d93-b1a6c2343c18.PlayerParticleseffect-no-permission: '&7Dazu
+  haben Sie keine Berechtigung!'
+7185d0cb-83f9-4fb2-826e-65f3a51b34e1.tempflycommand.base.givall.0: givall
+64c48859-b07b-42d5-b6ae-ec1360cb742e.PlayerParticlesfixed-edit-style-no-permission: '&7Dazu
+  haben Sie keine Berechtigung!'
+64c2167b-2422-465d-8b86-944714ffc0d0.tempflygeneral.invalid.player: '%1 &7Der Spieler
+  &f%2 &7wurde nicht gefunden...'
+042c3c8b-f511-48ca-a4bd-f5d7f866c32d.PlayerParticlescommand-description-reload: Lädt
+  die Datei config.yml und lang neu
+50559d81-ce54-447c-a4d6-9e7ae2689ea7.tempflycommand.base.pay.0: bezahlen.
+bb7d5fdd-85ef-45fd-8d04-8be076ae95d4.tempflygeneral.info.days: '&fTage: &b⌚%1'
+62b99bc4-4618-4a77-bfa2-d433926b21f6.PlayerParticlescommand-description-group-info: '&b/pp
+  group info&3 <Name>&8 -&f Liste der in der Gruppe gespeicherten Partikel'
+0503aaba-bbdd-4128-85c1-921d1007ac77.PlayerParticlesgroup-info-header: '&7Die Gruppe
+  &b%1 &7hat die folgenden Partikel:'
+c23a29ed-0056-49ad-9efb-9369e293711b.PlayerParticlescommand-description-group-list: '&b/pp
+  group list &3<name> &8- &fList alle Partikelgruppen, die du gespeichert hast'
+69d30fce-a9fd-43f5-98d4-079727b04ed9.PlayerParticlesgui-edit-data-color-cyan: '#008b8bCyan'
+bb1e933d-6d51-432e-ba62-ca1688d67c1d.PlayerParticlescommand-description-group: Verwalte
+  deine Gruppen
+df7d4645-a2e9-4eee-beca-ae3be2dd4b86.PlayerParticlesfixed-remove-invalid: '&7Fixierter
+  Effekt kann nicht entfernt werden, du hast keinen fixen Effekt mit der ID &c%1&7!'
+884c901f-cffd-4d3f-a58e-b84f9db26cf4.tempflygeneral.invalid.particle: '%1 &f%2 &7ist
+  kein gültiger Partikeltyp!'
+b5f994d6-1a29-4444-8b4e-54e0a0b8df63.PlayerParticlesgui-select-style-description: Setzt
+  den Partikelstil auf &b%1
+0e675cd7-bed7-4e6a-b939-c5947b494b50.tempflyaesthetic.trail.removed_self: '%1 &a7Deine
+  Spur wurde entfernt!'
+a956c80f-c978-4c3d-80d0-713548ec9c02.PlayerParticlesgroup-preset-no-permission: '&7Dazu
+  haben Sie keine Berechtigung!'
+4eccda99-315c-4514-a13e-7e20514b000a.PlayerParticlesfixed-info-no-args: '&7Du hast
+  keine ID angegeben, für die du Informationen anzeigen lassen willst!'
+106e960a-172b-4831-b0c8-6dcc0c8a854d.tempflygeneral.invalid.vault_perms: '%1 &7Du
+  musst das Plugin &8(&fvault&8) &7installieren, um die Offline-Spielerzeit einstellen
+  zu können!'
+654bc188-c5d9-439d-a95f-b87d4cfce709.PlayerParticlesgroup-no-name: '&7Du hast keinen
+  Gruppennamen angegeben! &b/pp &3%1 <Gruppenname>'
+f48cfc55-d60c-447f-bb10-fe4c092bd3d7.PlayerParticlesgui-edit-data-color-red: '#ff0000Rot'
+8357525e-dcf6-4d8e-9be2-f29f497fe88f.PlayerParticlesgui-toggle-visibility-off: '&fParticles
+  sind derzeit &chidden'
+ffd3e67b-5234-47b1-a053-053be1d3f993.PlayerParticlescommand-descriptions-help-1: '&b/pp&3
+  %1 &8-&f %2'
+923c42d6-3d02-437e-8c18-770b01fc1ce8.tempflygeneral.time.first_join: '%1 &7Du hast
+  &f⌚%2 &7Flugzeit erhalten. Fliege mit &b/temporarilyfly&7.'
+aaeed4f0-a249-4d84-b8eb-37972e5ca63d.tempflygeneral.fly.infinite_enabled: '%1 &7Du
+  hast deinen unendlichen Flug aktiviert!'
+062e45ee-6694-427a-a5ba-ab30bf7c0e61.tempflygeneral.invalid.funds: '%1 &7Das kostet
+  &f%2&7! Du hast nicht genug Geld!'
+0dcfd27e-b979-46c1-9101-a87aac9506ea.PlayerParticlesgui-save-group-chat-message: '&7Benutze
+  &b/pp group save &3<name> &7um eine neue Partikelgruppe zu speichern.'
+6dbea9f5-6284-476d-804f-c78c5dec4744.tempflyaesthetic.featherboard.minutes: '&f%1m '
+a945b6d4-cf62-42fa-865a-c1dca97e44f6.tempflyaesthetic.featherboard.days: '&f⌚%1d '
+2a3df0ca-b5b0-4a65-b7e0-e7fe9c7d588b.tempflyaesthetic.featherboard.hours: '&f%1h '
+e004e105-5be5-4e36-9351-9b19e1f371cc.menu.bank.menu.interest: "\n&bBeschreibung\n
+  &b| &7Dies ist eine Bank, hier kannst du\n&b| &f&nEinzahlen&7 und &f&nAbheben\n
+  &b| &7Gelder von deinem Bankkonto\n&b&n&7oder deinem Konto abheben.\n\nMit der Funktion
+  &b&nInterest&7\n&b| &7wird sich dein Geld weiter vermehren\n&b| &7für alle &f5 Stunden&7!\n
+  \n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+9018d335-b5e0-4d1e-98d0-61c628fea214.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.3: '#ffed6a▪
+  #bdc8c9Preview: #ffed6a%1'
+c3e9a018-10a1-47ef-8fea-e6ab0ff0e393.excellentcratesCrate.Key.Error.Exists: '#fd5e5eDer
+  Schlüssel mit dieser ID ist bereits vorhanden!'
+0daacfa9-bf0e-411c-a307-016feaeb913f.dh.farmserver.menu.l1: '&aBauernwelten'
