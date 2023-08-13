@@ -267,8 +267,8 @@ c00da470-4855-427d-b380-b7c09b31a44d.gsitPlugin.plugin-prefix: '&b&lsɪᴛ &8&l�
   forced rebooting in
 e1ff0a69-5f33-411e-9ddc-cf86451e12cf.mycmd.block.delay: '&7You can interact again
   with this block in &c%1s'
-d84381be-2c40-4aba-bad8-67c738d2e481.mycmd.cooldown2: "&7You've skipped the cooldown\
-  \ from this command"
+d84381be-2c40-4aba-bad8-67c738d2e481.mycmd.cooldown2: "&7You've skipped the cooldown
+  from this command"
 f64cfdc4-ae08-4e19-9b08-48cc7ea9831b.tab.sb.balance: '&7Balance:'
 15878977-20f7-4765-94e8-7afbf63bc2d2.tab.sb.playtime: '&7Playtime:'
 24d1eddd-e6d4-4d57-91df-fa4e9d87ca64.mycmd.ECONOMY_COST: '&7This command cost %1.
@@ -286,15 +286,15 @@ e3110a09-565b-4cb5-b979-cd4483be936d.tab.ani.2.2: '&fᴡᴇʟᴄᴏᴍᴇ ᴛᴏ
   in
 fda11bc6-495b-4203-8133-ba8535d3771c.uar.EVENT_RESTART_GLOBAL.chatMessage: Rebooting...
   we connect you back!
-26e3c7ed-35ff-4d81-9717-d3c1cd5e87b7.mycmd.npc.nocmd: "&7This NPC doesn't have command(s)\
-  \ to execute."
+26e3c7ed-35ff-4d81-9717-d3c1cd5e87b7.mycmd.npc.nocmd: "&7This NPC doesn't have command(s)
+  to execute."
 3c656321-780c-40cb-a220-af031ca8b3a6.mycmd.second: 'second '
 2b06711e-6a66-4aa7-bd0c-715e91ef7c56.mycmd.seconds: 'seconds '
 7de42667-35e9-42e6-bcce-984d030877d1.tab.sb.tempfly: '&7TempFly:'
 9416c7a8-06d0-4dc4-8c0a-12eecb64921b.mycmd.warmup1: '&6The command will be performed
   in &c%1 seconds'
-0ae160ea-62e2-4db1-8dfb-25cec33f0261.mycmd.warmup2: "&7You've skipped the warmup on\
-  \ this command"
+0ae160ea-62e2-4db1-8dfb-25cec33f0261.mycmd.warmup2: "&7You've skipped the warmup on
+  this command"
 09100892-fe81-45bc-9745-dd566a410a75.tab.ani.2.4: '&fɢᴇᴛ ꜰʀᴇᴇ ʀᴇᴡᴀʀᴅꜱ ʙʏ ꜱᴜᴘᴘᴏʀᴛɪɴɢ
   Hᴀᴍsᴛᴇʀɢᴀᴍᴇs.ᴇᴜ'
 348fb7aa-e61b-4d50-a1e7-0e325c89d807.uar.EVENT_RESTART_DELAY_STAFF.title: REBOOT DELAY
@@ -312,21 +312,21 @@ cdfc1726-588a-44ee-b69a-b725b2a93048.uar.restart.subtitle: '&fRestarting in'
   wait, we connect you!
 482c134c-fd27-4c16-b3f4-572870100aeb.mycmd.npc.delay: '&7You must wait &c%s seconds&7
   for interact again'
-21e4c6c8-14b8-4143-9490-415222b6e258.mycmd.skipped-execute: "&7You've skipped the\
-  \ command execution mode check."
+21e4c6c8-14b8-4143-9490-415222b6e258.mycmd.skipped-execute: "&7You've skipped the
+  command execution mode check."
 cd4a4611-a5cf-4768-813a-1d5e70681b11.uar.COMMAND_FORCE_RESTART.subtitle: Forced a
   restart. Restarting in
 8206a62e-2c44-460d-bf7e-209e483a55b7.uar.restart.title: REBOOTING
 8b2d00ca-9bb0-43da-b6d5-8f3e203c5fc1.tab.ani.welcome: ᴡᴇʟᴄᴏᴍᴇ
-29baa872-b8d5-4c76-ac86-28b7a4818750.mycmd.console-deny: "&7You can't run this command\
-  \ from the console"
+29baa872-b8d5-4c76-ac86-28b7a4818750.mycmd.console-deny: "&7You can't run this command
+  from the console"
 174cee1a-430d-47ae-a8d3-9cbf61e21647.mycmd.minute: 'minute '
 9a4cab7c-d85b-4729-9304-b274334da104.mycmd.lines-empty: '&7All lines are empty.'
 45575dd6-ea41-4022-8695-8bc3fcda8b6b.tab.sb.points: '&7Points:'
 8a934d4a-df77-4b21-8ec3-ecf7a6554862.mycmd.itemnoset: '&7There are no command(s) on
   this item'
-9c42929b-f1fb-46e9-8b14-e964b1d5deee.mycmd.noperms: "&7You don't have a permission\
-  \ to do that!"
+9c42929b-f1fb-46e9-8b14-e964b1d5deee.mycmd.noperms: "&7You don't have a permission
+  to do that!"
 eed6dff9-d1ca-422d-a44a-5553d0b23b87.tab.ani.3.3: '&fʙᴜʏɪɴɢ ʀᴀɴᴋꜱ ᴀɴᴅ ᴘᴏɪɴᴛꜱ ᴏɴ ᴏᴜʀ
   ꜱᴛᴏʀᴇ!'
 e4fa4f8f-e394-4b1d-9237-bf54bc8f2931.mycmd.cmds.args.l1: '&7Not enough arguments...
@@ -361,8 +361,8 @@ cdaca2a2-9b0e-4b4c-913d-837ced6e1368.tab.ani.store: ꜱᴛᴏʀᴇ
   not allowed characters.'
 8bcefd8b-a620-48d9-b24c-69e1473baf0d.uar.COMMAND_FORCE_RESTART_GLOBAL.chatMessage: Server
   forced rebooting in
-9749347b-147c-4854-b749-458e85498502.mycmd.warmup3: "&7You're already warming up for\
-  \ this command. Wait &c%1 seconds"
+9749347b-147c-4854-b749-458e85498502.mycmd.warmup3: "&7You're already warming up for
+  this command. Wait &c%1 seconds"
 4fa87da2-3811-4b77-81c8-71bf5f9ed69e.mycmd.nodata: NO DATA
 b6e96ecc-0f50-45c1-8953-fdf232f0735b.mycmd.debug.execute: '&7Executing: '
 9f46e8e4-3e75-44ca-a658-84e023976f34.tab.ani.3.4: '&fᴛʜʀᴏᴜɢʜ ᴠᴏᴛɪɴɢ ꜰᴏʀ ᴛʜᴇ ꜱᴇʀᴠᴇʀ
@@ -381,12 +381,12 @@ bcae4ea3-37e1-4aad-a2eb-8c4b135589b6.playerpoints.command-take-usage: '&cUsage: 
   take &3<player> <amount>'
 e9946006-6c14-4d6c-bcce-e79e96693cc3.playerpoints.noperm: You don't have a permission
   to do that
-bb3a7d07-a74d-44b1-8d8d-e5968dfb0d32.playerpoints.command-give-received: "'&7You have\
-  \ received"
+bb3a7d07-a74d-44b1-8d8d-e5968dfb0d32.playerpoints.command-give-received: "'&7You have
+  received"
 a8f13995-1b81-4601-961c-5f4fec61dac8.playerpoints.command-help-title: '&bAvailable
   Commands:'
-e67ac88a-c487-4b0a-8a08-a423a5dd8872.playerpoints.command-look-description: "&8 -\
-  \ &b/points look &3<player> &8- &fView a player's points"
+e67ac88a-c487-4b0a-8a08-a423a5dd8872.playerpoints.command-look-description: "&8 -
+  &b/points look &3<player> &8- &fView a player's points"
 39cf9ff4-482f-44f4-9f98-5af8e953ed57.playerpoints.command-giveall-usage: '&cUsage:
   &b/points giveall &3<amount>'
 346825be-ced3-45f6-b20c-928fc7dcd0cb.playerpoints.command-give-description: '&8 -
@@ -395,8 +395,8 @@ b7704ff0-e16f-4c0c-a606-a8736d628eba.playerpoints.command-reset-success: '&7Rese
   the &b%1&7 for &b%2&7.'
 bd2b66ba-0484-4943-8c49-ccbb285be0a3.playerpoints.command-take-description: '&8 -
   &b/points take &3<player> <amount> &8- &fTake points from a player'
-d7481d9f-438a-43c1-8022-8be4bac0801f.playerpoints.command-reset-description: "&8 -\
-  \ &b/points reset &3<player>  &8- &fReset a player''s points"
+d7481d9f-438a-43c1-8022-8be4bac0801f.playerpoints.command-reset-description: "&8 -
+  &b/points reset &3<player>  &8- &fReset a player''s points"
 f6f7c2e8-00f3-4595-ac81-327e503aff91.playerpoints.command-pay-received: '&7You were
   paid &b&l%1&b%2&7 by &b%3&7.'
 fe62e35e-2b4e-4a8e-9738-06f38e63a334.playerpoints.command-me-success: '&7You have
@@ -405,8 +405,8 @@ fe62e35e-2b4e-4a8e-9738-06f38e63a334.playerpoints.command-me-success: '&7You hav
   &b&l%2&b%3&7.'
 f27e9ff1-d25f-47a1-9eee-d5c4e027c96e.playerpoints.command-pay-usage: '&cUsage: &b/points
   pay &3<player> <amount>'
-09d808c1-3ba0-43c2-829b-e68fe80fc908.playerpoints.command-set-description: "&8 - &b/points\
-  \ set &3<player> <amount> &8- &fSet a player''s points"
+09d808c1-3ba0-43c2-829b-e68fe80fc908.playerpoints.command-set-description: "&8 - &b/points
+  set &3<player> <amount> &8- &fSet a player''s points"
 59d35e5b-db08-4343-ac6e-facfedb352ef.playerpoints.command-me-usage: '&cUsage: &b/points
   me'
 d7663dd2-5904-47ad-9189-dec6566fa10e.playerpoints.command-lead-usage: '&cUsage: &b/points
@@ -496,8 +496,8 @@ e4302dd9-7e1b-4cd3-92e2-592dba2b2422.tempflygeneral.fly.infinite_disabled: '%1 &
 59a74b0b-2d9c-43fd-9063-c6812d4618c0.PlayerParticlesstyle-invalid: '&7The style &c%1
   &7does not exist! Use &b/pp styles &7for a list of styles you can use.'
 ecd552ec-a57b-4587-8ef3-49b1e4bc0232.tempflygeneral.unit.seconds: s
-d94e6424-5315-4cdc-9f40-ecf666b8bba2.PlayerParticlesreload-no-permission: "&7You don't\
-  \ have a permission to do that!"
+d94e6424-5315-4cdc-9f40-ecf666b8bba2.PlayerParticlesreload-no-permission: "&7You don't
+  have a permission to do that!"
 5ac6912e-8d58-497d-bf04-9201bdd872e4.tempflygeneral.fly.speed_limit_other: '%1 &f%2
   &8Is currently limited to fly speed &f%3&7.'
 89a1f71e-68ac-4de5-9fad-cac47a96dd26.PlayerParticlesadd-reached-max: '&7Unable to
@@ -521,8 +521,8 @@ d6886352-ef51-4d1b-b0a4-f0609ef4bb8d.tempflycommand.unit.seconds.recognized.0: s
 6b11047a-fdc4-482d-aa6d-69fbc562bb6a.PlayerParticleseffect-invalid: '&7The effect
   &c%1 &7does not exist! Use &b/pp effects &7for a list of effects you can use.'
 f58d2498-d8ae-474c-b956-d54357d2efdf.PlayerParticlesgui-edit-data-color-black: '#000000Black'
-7e884b7d-1e56-4eb8-9324-092202209ce0.PlayerParticlesstyle-no-permission: "&7You don't\
-  \ have a permission to do that!"
+7e884b7d-1e56-4eb8-9324-092202209ce0.PlayerParticlesstyle-no-permission: "&7You don't
+  have a permission to do that!"
 de3ed96e-f7a5-4607-9bb8-d818ffa813aa.PlayerParticlesdisabled-worlds: '&7Particles
   are disabled in these worlds: &c%1'
 55a1307b-459d-4d0f-842f-75b99fab1d6b.PlayerParticlesdata-invalid-material-not-block: '&7The
@@ -545,8 +545,8 @@ c943633e-b269-48b7-b0dc-1ab6bfb55496.PlayerParticlesfixed-remove-success: '&7You
 c5bb923a-5d61-4a7f-9c37-6e7424fad93a.PlayerParticlesdata-invalid-item: '&6The item
   data you entered is invalid! Format:&c <itemName>'
 dd088a57-7e87-4194-ade3-2fb2459f2a8b.PlayerParticlesgui-edit-data: '&bEdit Data'
-61a4f30f-ea95-41eb-bbc3-9cb2d7e880f1.PlayerParticlesfixed-edit-effect-no-permission: "&7You\
-  \ don't have a permission to do that!"
+61a4f30f-ea95-41eb-bbc3-9cb2d7e880f1.PlayerParticlesfixed-edit-effect-no-permission: "&7You
+  don't have a permission to do that!"
 7bf2582f-98ca-44b5-8def-573fc41015d3.PlayerParticlesfixed-create-effect-invalid: '&7Unable
   to create fixed effect, an effect with the name &b%1 &7does not exist!'
 d8ee0104-eaa4-4c52-bd7c-0fb339c06358.PlayerParticlesother-success: '&7Executed /pp
@@ -597,8 +597,8 @@ e577a611-82d0-47c3-ac4f-06bf582d73b5.PlayerParticlescommand-description-group-sa
   group save &3<name> &8- &fSaves all active particles in a new group'
 b9f6a371-85e4-435c-b33f-6d9aeaacc8c4.PlayerParticlesfixed-clear-no-args: '&6You did
   not provide a radius to clear fixed effects for!'
-7fda98b3-a09b-43a2-b2ad-1eb4b9a5b93b.PlayerParticlesother-no-permission: "&7You don't\
-  \ have a permission to do that!"
+7fda98b3-a09b-43a2-b2ad-1eb4b9a5b93b.PlayerParticlesother-no-permission: "&7You don't
+  have a permission to do that!"
 839aa4ec-276c-45f4-8817-0018d098b22d.PlayerParticlescommand-description-version: Display
   the plugin version and author
 a50a864c-fd0f-4968-833d-60bce1191cf8.PlayerParticlesgui-load-a-preset-group: '&bLoad
@@ -683,8 +683,8 @@ d9b5c7c5-80d1-47a7-a97b-ae5a91845977.PlayerParticlesgui-select-effect: '&bSelect
 64ad26ae-8d42-4a83-94d9-87783ea1ebbd.tempflycommand.base.reload.0: reload
 0e675cd7-bed7-4e6a-b939-c5947b494b50.tempflyaesthetic.trail.removed_self: '%1 &a7our
   trail was removed!'
-a956c80f-c978-4c3d-80d0-713548ec9c02.PlayerParticlesgroup-preset-no-permission: "&7You\
-  \ don't have a permission to do that!"
+a956c80f-c978-4c3d-80d0-713548ec9c02.PlayerParticlesgroup-preset-no-permission: "&7You
+  don't have a permission to do that!"
 5f707a2f-e43b-4fae-b630-be89e533116c.tempflygeneral.fly.enabled_self: '%1 &7Your flight
   was enabled!'
 7928ee9c-b03e-459d-93f7-faa29c0fc516.PlayerParticlesgui-manage-your-groups-name: Manage
@@ -710,11 +710,11 @@ f48cfc55-d60c-447f-bb10-fe4c092bd3d7.PlayerParticlesgui-edit-data-color-red: '#f
   &8|&7 delete'
 8357525e-dcf6-4d8e-9be2-f29f497fe88f.PlayerParticlesgui-toggle-visibility-off: '&fParticles
   are currently &chidden'
-20c35dad-85e6-48a5-9d93-b1a6c2343c18.PlayerParticleseffect-no-permission: "&7You don't\
-  \ have a permission to do that!"
+20c35dad-85e6-48a5-9d93-b1a6c2343c18.PlayerParticleseffect-no-permission: "&7You don't
+  have a permission to do that!"
 7185d0cb-83f9-4fb2-826e-65f3a51b34e1.tempflycommand.base.givall.0: givall
-64c48859-b07b-42d5-b6ae-ec1360cb742e.PlayerParticlesfixed-edit-style-no-permission: "&7You\
-  \ don't have a permission to do that!"
+64c48859-b07b-42d5-b6ae-ec1360cb742e.PlayerParticlesfixed-edit-style-no-permission: "&7You
+  don't have a permission to do that!"
 64c2167b-2422-465d-8b86-944714ffc0d0.tempflygeneral.invalid.player: '%1 &7The player
   &f%2 &7was not found...'
 042c3c8b-f511-48ca-a4bd-f5d7f866c32d.PlayerParticlescommand-description-reload: Reloads
@@ -775,8 +775,8 @@ ef5911de-8ffa-4dd9-b0d0-c5cdc669abe9.PlayerParticlesgui-previous-page-button: '&
   &bPrevious'
 eca107d6-e4c5-4349-9cb4-e9535e4e05b2.PlayerParticlesreset-others-none: '&7No particles
   were removed for &b%1&7.'
-bb65ada8-e814-432b-88cb-b6f9c8eef0d0.PlayerParticlescommand-error-missing-effects-or-styles: "&7You\
-  \ don't have a permission to do that!"
+bb65ada8-e814-432b-88cb-b6f9c8eef0d0.PlayerParticlescommand-error-missing-effects-or-styles: "&7You
+  don't have a permission to do that!"
 af79f6f7-2065-4e0b-b27b-8b5fed00c86b.PlayerParticlesgui-edit-primary-style-description: '&fEdit
   the style of your primary particle'
 cb96c6a6-a02a-4350-b3a7-17b4e5ddff5b.PlayerParticlescommand-description-reset: Removes
@@ -787,8 +787,8 @@ cb96c6a6-a02a-4350-b3a7-17b4e5ddff5b.PlayerParticlescommand-description-reset: R
   [time]'
 ced6785a-16dc-471f-a306-aab8aa42fc9b.tempflygeneral.time.purchased: '%1 &7You purchased
   &f⌚%2&7 for &b&l$&b%3&7!'
-1630e413-08a3-407e-98fb-439886cb5c93.PlayerParticlesfixed-create-style-no-permission: "&7You\
-  \ don't have a permission to do that!"
+1630e413-08a3-407e-98fb-439886cb5c93.PlayerParticlesfixed-create-style-no-permission: "&7You
+  don't have a permission to do that!"
 992d6540-528c-4f83-9de1-98301a72080f.PlayerParticlesgui-select-data-vibration: '&b%1
   &fticks'
 5a17f733-c8a7-4fd8-8525-057ec5ee7a66.tempflygeneral.info.infinite: '&7Infinite: &3&lUser
@@ -851,13 +851,13 @@ c3aff064-021b-46ad-8fb8-784d51a4824a.tempflygeneral.info.footer: '&3&m          
   flight is already enabled!'
 ae0bffa5-c213-41b6-8945-411d5ddbf8e2.PlayerParticlesfixed-info-invalid: '&7Unable
   to get info, you do not have a fixed effect with the ID of &c%1&7!'
-fa810ba7-271b-4584-82ec-8ecdde868842.tempflygeneral.invalid.permission: "%1 &7You\
-  \ don't have a permission to do that!"
+fa810ba7-271b-4584-82ec-8ecdde868842.tempflygeneral.invalid.permission: "%1 &7You
+  don't have a permission to do that!"
 228bf952-1c9f-4071-8660-7f4cb2ff835f.tempflycommand.base.speed.0: speed
 1918f41e-5097-4dc2-acdc-28c09ed6cec0.PlayerParticlesgui-edit-data-color-gray: '#808080Gray'
 2417e7d8-3b3d-4aca-bca4-18cdbf1bf1f3.tempflycommand.unit.hours.recognized.0: h
-5f7fca70-0754-4a51-a7db-931de0743462.PlayerParticlesgui-no-permission: "&7You don't\
-  \ have a permission to do that!"
+5f7fca70-0754-4a51-a7db-931de0743462.PlayerParticlesgui-no-permission: "&7You don't
+  have a permission to do that!"
 1fc1b620-055e-40d1-a9d7-65eea003b36d.tempflygeneral.invalid.reciever: '%1 &7You cannot
   pay yourself!'
 218eefeb-c3b7-45e9-8910-7a4d0ed01075.PlayerParticlesgui-color-icon-name: '&b'
@@ -872,8 +872,8 @@ fa810ba7-271b-4584-82ec-8ecdde868842.tempflygeneral.invalid.permission: "%1 &7Yo
 0b0316f2-56f7-4e82-9dc1-9c22c61f27b9.PlayerParticlesadd-particle-applied: '&7A new
   particle has been applied with the effect &b%1&7, style &b%2&7, and data &b%3&7!'
 a30e6419-d7b8-457f-adac-be3f395c64e6.tempflygeneral.invalid.time_other: '%1 &f%2 [lang]tempfly.time_other[/lang]'
-e05d55e8-b726-4394-8555-ef9d0aef08f7.PlayerParticleseffect-list-empty: "&7You don't\
-  \ have a permission to do that!"
+e05d55e8-b726-4394-8555-ef9d0aef08f7.PlayerParticleseffect-list-empty: "&7You don't
+  have a permission to do that!"
 25d2e01e-8383-43d0-878c-e2c616432871.tempflygeneral.time.sent_other: '%1 &7You sent
   &f%2&f ⌚%3&7.'
 0333e3ce-0209-4072-b32c-d34255998525.PlayerParticlesfixed-create-missing-args: '&7Unable
@@ -888,10 +888,10 @@ ad25be22-9075-4746-88c7-dd0272359f73.tempflygeneral.time.format: '&f%1&f%2'
 54bfaad9-1310-48db-8796-f099f57b94ce.PlayerParticlesgui-select-data-color-transition-start: '&7Select
   the &bstart &7color'
 4da55d8f-c792-45c4-b769-b52f81e3159a.tempflycommand.base.give.1: add
-84a61b5c-ee93-4bf9-9888-ff1965279527.PlayerParticlesfixed-teleport-no-permission: "&7You\
-  \ don't have a permission to do that!"
-9f12fc1f-5705-4972-a7ea-aaea8f216346.PlayerParticlesfixed-no-permission: "&7You don't\
-  \ have a permission to do that!"
+84a61b5c-ee93-4bf9-9888-ff1965279527.PlayerParticlesfixed-teleport-no-permission: "&7You
+  don't have a permission to do that!"
+9f12fc1f-5705-4972-a7ea-aaea8f216346.PlayerParticlesfixed-no-permission: "&7You don't
+  have a permission to do that!"
 9f41a831-b72f-4698-82fe-9ff691d42897.PlayerParticlescommand-description-fixed-remove: '&b/pp
   fixed remove&3 <ID> &8-&f Removes a fixed effect by its ID'
 981c78df-bd0f-468c-9d7d-4a433f03ed4c.PlayerParticlesgui-create-particle-description: Create
@@ -997,8 +997,8 @@ a6be88d9-044f-4c40-8b51-aa883a7cec6b.PlayerParticlestoggle-on: '&7Particles have
   fly time'
 d6a80512-7783-4875-93f0-fbea6cbb349d.tempflygeneral.fly.disabled_self: '%1 &7Your
   flight was disabled!'
-c3ffc145-02f3-48cf-a299-98230050067e.PlayerParticlesgroup-no-permission: "&7You don't\
-  \ have a permission to do that!"
+c3ffc145-02f3-48cf-a299-98230050067e.PlayerParticlesgroup-no-permission: "&7You don't
+  have a permission to do that!"
 d3376ab3-34ff-4a8e-90fd-e21906aeb7a4.tempflysystem.help.3: '&6/tf time'
 cd32bd17-2f22-46aa-b69d-5abb8939f466.PlayerParticleslist-output: '&bID&8: &f%1 &bEffect&8:
   &f%2 &bStyle&8: &f%3 &bData&8: &f%4'
@@ -1100,8 +1100,8 @@ d6bf9ea5-78c0-4fac-824b-14e70cf149e4.PlayerParticlesgui-fixed-effects: '&fFixed 
   following particles applied:'
 609a9014-24be-4b55-a5a2-6a7973efcdab.PlayerParticlesdata-usage-color: '&7The effect
   &b%1 &7requires &bcolor data&7 Format: &3<<0-255> <0-255> <0-255>>|<rainbow>|<random>'
-4ef6a01c-ea20-4fc8-8d7c-b58b94c9eebc.PlayerParticlesfixed-clear-no-permission: "&7You\
-  \ don't have a permission to do that!"
+4ef6a01c-ea20-4fc8-8d7c-b58b94c9eebc.PlayerParticlesfixed-clear-no-permission: "&7You
+  don't have a permission to do that!"
 355877b8-e280-44ad-8cc3-9e7e397a4095.PlayerParticlesdata-invalid-material-item: '&7The
   item material &c%1 &7you entered does not exist!'
 73308749-e7d2-424d-a049-6aa0bd4dd49f.PlayerParticlesfixed-teleport-invalid-args: '&7Unable
@@ -1130,9 +1130,8 @@ d77d9019-3376-41e7-8d53-f0e1723d6e7e.PlayerParticlesgui-click-to-load: '&bClick 
   &bstyle&7, and &bdata &7are valid.'
 88280180-e5af-415d-a739-0cca875bbf53.tempflygeneral.fly.idle: '%1 &7You are now considered
   idle.'
-403d420a-fac3-4923-9fdc-262ac62b9e04.PlayerParticlesgui-save-group-description: "&bClick\
-  \ &8|&7 save a new group. You will be prompted\n&7to enter the new group name in\
-  \ chat."
+403d420a-fac3-4923-9fdc-262ac62b9e04.PlayerParticlesgui-save-group-description: "&bClick
+  &8|&7 save a new group. You will be prompted\n&7to enter the new group name in chat."
 74809cea-d1f2-48f7-aca1-d00d0ef56855.PlayerParticlesgui-select-data-note: 'Note #%1'
 48c45eb8-2170-4c80-a6df-58cc0658db5d.tempflygeneral.requirement.fail.default: '%1
   &7The requirements have not been met to fly in this area.'
@@ -1156,8 +1155,8 @@ d9c19cca-46be-410b-b707-69c4c0f50f63.excellentcratesEditor.CrateEditorType.CRATE
 7c2f1695-b144-41a4-81d5-8f874c1bf4ab.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.6: '#bbff6a&lActions:'
 1f091d5f-b3e8-4ed7-a255-cc9edee90fc1.excellentcratesCommand.Key.GiveAll.Done: '#d4d9d8Given
   #fdf35ex%1#d4d9d8 of #fdf35e%2#d4d9d8 key(s) to #fdf35eAll Players#d4d9d8.'
-48db42d4-b8e1-4a77-ac23-ffb5bcbcd327.excellentcratesCommand.Key.Set.Notify: "#d4d9d8Your\
-  \ #fdf35e%1#d4d9d8's amount has been changed to #fdf35ex%2#d4d9d8."
+48db42d4-b8e1-4a77-ac23-ffb5bcbcd327.excellentcratesCommand.Key.Set.Notify: "#d4d9d8Your
+  #fdf35e%1#d4d9d8's amount has been changed to #fdf35ex%2#d4d9d8."
 084f746d-3d51-4db1-ba1c-3b33441f11df.excellentcratesEditor.Crate.BlockPushback.Lore.0: '#bdc8c9Sets
   whether player will be pushed'
 ce620f0d-6013-4f64-b8da-ab1196c02d87.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.8: '#bbff6a&lActions:'
@@ -1173,9 +1172,9 @@ d7df123f-0531-401b-b2d5-ff371559a7d7.excellentcratesEditor.CrateEditorType.CRATE
 65bcde5a-d539-4c2e-82cc-fad1b3e24564.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.0: '#bdc8c9Chance:
   &f%1%'
 44574c83-b7e2-4e30-a416-5753ddc1b036.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Name: '#ffed6a&lKeys'
-24366b74-240d-44bc-99f0-2d8edb756d52.menu.bank.menu.info: "\n&bInformation\n&b| &7Username:\
-  \ &f%1\n&b| &7Interest: &f⌚%2\n\n&b| &7Balance: &b%3\n&b| &7Bank: &b$%4\n\n&b| &7Registered\
-  \ User(s): &3%5"
+24366b74-240d-44bc-99f0-2d8edb756d52.menu.bank.menu.info: "\n&bInformation\n&b| &7Username:
+  &f%1\n&b| &7Interest: &f⌚%2\n\n&b| &7Balance: &b%3\n&b| &7Bank: &b$%4\n\n&b| &7Registered
+  User(s): &3%5"
 77af42ce-7792-473f-bac9-aa5dbf670d32.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.4: '#ffed6a▪
   #bdc8c9Required: #ffed6a%1'
 2702a2b8-fb22-428a-80ef-e5d27d3f9ab8.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.8: '#bbff6a&lActions:'
@@ -1286,8 +1285,8 @@ ec3e513a-1625-4834-ba0b-0fcbe7fce809.excellentcratesEditor.CrateEditorType.REWAR
   to open it.'
 e22f4d4c-2298-4835-8996-b2a122c6af3d.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.7: '#bbff6a&lActions:'
 02a91cda-e2b6-4dc3-b691-0a80cf1a19e4.excellentenchantmentsFitItemType.SHOVEL: Shovel
-0656cded-dc9a-48c0-a4db-628838050929.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.1: "#bdc8c9It's\
-  \ used in GUIs & messages."
+0656cded-dc9a-48c0-a4db-628838050929.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.1: "#bdc8c9It's
+  used in GUIs & messages."
 d9b5f7cf-221b-4181-be94-909c099adc40.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.7: '#ff6a6a▪
   #bdc8c9This is #ff6a6aNOT#bdc8c9 reward item name!'
 a7686a9f-978d-48f9-9ad4-c84dc8e60b37.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Name: '#ffed6a&lAttached
@@ -1311,8 +1310,8 @@ b3a26c2f-4492-4ae8-bb2e-933363a60625.excellentcratesEditor.CrateEditorType.REWAR
   #bdc8c9Right-Click: #bbff6aGet Copy'
 bed33c40-df74-48f5-a21e-684c31ff0ff3.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.15: '#bbff6a▪
   #bdc8c9Shift-Right: #bbff6aChange Y Offset'
-1c832922-35be-4a63-88cb-3c569c2a6161.menu.bank.deposit: "\n&aDescription\n&a| &7Deposit\
-  \ your money\n&a| &7to the bank\n\n&a| &7Deposit: &f$%1\n\n&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴅᴇᴘᴏꜱɪᴛ"
+1c832922-35be-4a63-88cb-3c569c2a6161.menu.bank.deposit: "\n&aDescription\n&a| &7Deposit
+  your money\n&a| &7to the bank\n\n&a| &7Deposit: &f$%1\n\n&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴅᴇᴘᴏꜱɪᴛ"
 97477f6f-1f60-4eb8-bb84-5c8ee1db7936.excellentcratesEditor.Crate.BlockPushback.Lore.1: '#bdc8c9back
   from the crate block when'
 c82eaf59-7f3d-4f4f-be82-b0ee60452226.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Name: '#ffed6a&lDisplay
@@ -1328,8 +1327,8 @@ c3f228d2-3063-4010-92be-9cdcc9a7c650.excellentcratesEditor.CrateEditorType.KEY_C
   type:"titles:20:80:20" sound:"ENTITY_VILLAGER_NO" !>
 163135e6-2637-42d6-806b-c5d9c22c7dcb.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.8: '#ff6a6a▪
   #bdc8c9If invalid keys provided, you will be unable to open crate!'
-7f795320-81c3-4fbc-9a24-c8105b45c9f7.excellentcratesCommand.ResetCooldown.Done: "#d4d9d8Reset\
-  \ #fdf35e%1#d4d9d8's open cooldown for #fdf35e%2#d4d9d8."
+7f795320-81c3-4fbc-9a24-c8105b45c9f7.excellentcratesCommand.ResetCooldown.Done: "#d4d9d8Reset
+  #fdf35e%1#d4d9d8's open cooldown for #fdf35e%2#d4d9d8."
 0a101927-870c-4c0a-acde-4fd0bb976149.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Lore.4: '#bbff6a▪
   #bdc8c9Drag & Drop: #bbff6aFast Creation'
 6f1869d6-dd9d-4720-8080-980a4b1f8d47.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.12: '#bbff6a▪
@@ -1429,10 +1428,10 @@ f73bb8c3-3467-45e5-bbb8-911a1edc3f21.excellentcratesCrate.Open.Error.Cooldown.Te
   can open in #fd5e5e%1'
 72cb42a7-7e20-4d21-a4bd-ce3e90462f72.menu.bank.interest.title: '&bYour next Interest'
 093b2aaa-319e-4cc8-9bd0-bd2597807037.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.4: '#ffa76a&lNotes:'
-e004e105-5be5-4e36-9351-9b19e1f371cc.menu.bank.menu.interest: "\n&bDescription\n &b|\
-  \ &7This is a bank, here you can\n&b| &f&nDeposit&7 and &f&nWithdrew\n&b| &7funds\
-  \ from your bank account\n&b| &7or your account.\n\n&b| &7With the &b&nInterest&7\
-  \ feature\n&b| &7your monet will continue to increase\n&b| &7for every &f5 Hours&7!\n\
+e004e105-5be5-4e36-9351-9b19e1f371cc.menu.bank.menu.interest: "\n&bDescription\n &b|
+  &7This is a bank, here you can\n&b| &f&nDeposit&7 and &f&nWithdrew\n&b| &7funds
+  from your bank account\n&b| &7or your account.\n\n&b| &7With the &b&nInterest&7
+  feature\n&b| &7your monet will continue to increase\n&b| &7for every &f5 Hours&7!\n
   \n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 86fa623b-4bad-4d51-9946-05643df7197d.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.4: '#bdc8c9%1'
 ed27448f-fda2-49bf-8995-688d8164c7d9.excellentcratesCrate.Open.Error.Cooldown.OneTimed.1: '#fd5e5e&lWhoops!'
@@ -1447,8 +1446,8 @@ c8ab7b8c-55b3-4ba6-b6b0-3f0dbdd9d198.excellentcratesCommand.Give.Desc: Gives cra
 b466c093-af30-4e3a-8746-5049b38749e6.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.0: '#bdc8c9Sets
   whether or not the key is virtual.'
 e9cfe079-6296-4dff-9362-1d7e92d4f48d.excellentenchantmentsFitItemType.ELYTRA: Elytra
-836037ec-4447-4484-b01c-86fd07c3457f.excellentcratesCrate.Open.Error.NoKey.2: "#d4d9d8You\
-  \ don't have a key for this crate!"
+836037ec-4447-4484-b01c-86fd07c3457f.excellentcratesCrate.Open.Error.NoKey.2: "#d4d9d8You
+  don't have a key for this crate!"
 dce19286-4310-41db-a975-6e5cc8b6b730.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.2: '#bdc8c9Sets
   the Y offset for'
 d8f686a0-68f1-425e-bfff-4aedb8340437.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Lore.0: '#bdc8c9Creates
@@ -1474,8 +1473,8 @@ bb004c63-2f88-40f6-bd5c-b24c44248ebf.excellentcratesEditor.CrateEditorType.CRATE
 9a955078-1589-4e8c-b967-57ace8873d84.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.4: '#ffed6a▪
   #bdc8c9IDs: #ffed6a%1'
 950abf26-7ced-4503-b549-471b664046c2.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.7: '#ffa76a&lNotes:'
-adba8262-39fe-40ae-814c-bb179fb50c77.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.1: "#bdc8c9from\
-  \ the list won't be able"
+adba8262-39fe-40ae-814c-bb179fb50c77.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.1: "#bdc8c9from
+  the list won't be able"
 e295e951-a309-453a-846d-e73cacdb804c.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Name: '#ffed6a&lCreate
   Reward'
 fc33cbfa-1b8b-4a74-8ad9-cc1f9738100f.excellentcratesCommand.ResetLimit.Usage: '%1
@@ -1533,9 +1532,9 @@ ffc14298-9afc-4987-a754-30b2468e2091.excellentcratesEditor.CrateEditorType.REWAR
 cb740eb9-fb9c-4f48-b300-e8d5b02fbe77.excellentcratesCommand.Preview.Usage: '%1 [player]'
 f84779b8-553d-46a4-a7db-e55b71c05462.excellentcratesEditor.CrateEditorType.CRATE_CREATE.Name: '#ffed6a&lCreate
   a Crate'
-e52dd131-45c3-4c25-878d-aab1dc29e248.menu.bank.menu.withdraw: "\n&eDescription\n&e|\
-  \ &7Click to open a withdrew\n&e| &7menu if you want to take\n&e| &7your money from\
-  \ the bank.\n\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+e52dd131-45c3-4c25-878d-aab1dc29e248.menu.bank.menu.withdraw: "\n&eDescription\n&e|
+  &7Click to open a withdrew\n&e| &7menu if you want to take\n&e| &7your money from
+  the bank.\n\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 c980cae0-da82-4e23-8653-ec3fe635c226.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.9: '#bbff6a&lActions:'
 55f57317-2c81-4a1e-b980-cf6cde734b50.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.10: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aChange'
@@ -1553,8 +1552,8 @@ f5160c49-84b5-4a7e-8094-ee922ecaf408.excellentenchantmentsFitItemType.BOW: Bow
 c0285d29-d061-42a5-ab7f-0a1dc0fb9eb1.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.4: '#ffed6a&lCurrent:'
 e3b94d49-6ce8-43fa-8967-fdeae922b745.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_REWARDS.Name: '#ffed6a&lRewards'
 e79f1a7c-1b6d-4ea2-b4f4-9b64a7d7158e.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.8: '#bbff6a&lActions:'
-76f40ef7-0ffb-4481-90e6-4f43c656a021.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.1: "#bdc8c9It's\
-  \ used in messages & GUIs."
+76f40ef7-0ffb-4481-90e6-4f43c656a021.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.1: "#bdc8c9It's
+  used in messages & GUIs."
 4fd4d5cb-fa9b-4c3c-bcfb-c3dc0ad9c04a.excellentcratesEditor.Crate.BlockPushback.Lore.4: '#ffed6a&lCurrent:'
 9e19e1b5-0c28-4aea-a478-4a19ad74715f.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Name: '#ffed6a&lDisplay
   Name'
@@ -1683,8 +1682,8 @@ eb18b1a6-8826-4456-9b1b-e1dd67d5ca61.excellentcratesEditor.CrateEditorType.KEY_C
   #bdc8c9Left-Click: #bbff6aCreate'
 baab14b8-3f84-420a-8000-2a2fe71814eb.excellentcratesEditor.CrateEditorType.EDITOR_CRATES.Lore.3: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aOpen'
-1f15d911-9828-4597-b496-fe1926d9bf36.menu.bank.withdrew: "\n&eDescription\n&e| &7Withdrew\
-  \ your money\n &e| &7to the bank\n\n&e| &7Withdrew: &f$%1\n\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ᴡɪᴛʜᴅʀᴇᴡ"
+1f15d911-9828-4597-b496-fe1926d9bf36.menu.bank.withdrew: "\n&eDescription\n&e| &7Withdrew
+  your money\n &e| &7to the bank\n\n&e| &7Withdrew: &f$%1\n\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ᴡɪᴛʜᴅʀᴇᴡ"
 32008c67-a584-484b-912f-885eabd17845.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.10: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aChange'
 5911ef87-c0a7-4d39-8586-cba422609708.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Name: '#ffed6a&lGiven
@@ -1727,8 +1726,8 @@ b75747b9-7b25-42da-9eb8-c7d79a7171de.excellentcratesCommand.Open.Usage: '%1 [pla
   #bdc8c9Right-Click: #bbff6aClear Text'
 ba83fcae-4963-4ecb-ba77-f6ce7c52e460.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_REWARDS.Lore.2: '#bbff6a&lActions:'
 d271d188-5243-499a-b065-353b1edf0e19.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Lore.3: '#ffa76a&lNotes:'
-b3aa6a6e-10a6-4fce-a9a2-f0db29f01da0.bank.menu.interest: "\n&bInformation\n&b| &7Interest:\
-  \ &f%bankplus_interest_cooldown%\n"
+b3aa6a6e-10a6-4fce-a9a2-f0db29f01da0.bank.menu.interest: "\n&bInformation\n&b| &7Interest:
+  &f%bankplus_interest_cooldown%\n"
 021b03ff-2778-4899-b4d8-44d5f5d71a4a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.9: '#bbff6a▪
   #bdc8c9Right-Click: #bbff6aObtain'
 88f3b510-714e-471e-a67d-e3c043c0c10b.excellentcratesCrate.Open.Reward.Broadcast.3: '#d4d9d8'
@@ -1826,8 +1825,8 @@ aca3c2ce-8630-49ca-ba45-8626f505132a.excellentcratesEditor.Crate.BlockPushback.L
   #bdc8c9Enabled: #ffed6a%1'
 ace22fd2-fd46-4a4f-aa4e-adc00e9ba29e.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.4: '#ffed6a▪
   #bdc8c9Display Name: #ffed6a%1'
-133fef28-5f21-4169-84c1-3abd23da9aaf.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.1: "#bdc8c9It's\
-  \ used in GUIs & messages."
+133fef28-5f21-4169-84c1-3abd23da9aaf.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.1: "#bdc8c9It's
+  used in GUIs & messages."
 fb6aefac-a8f4-4407-b963-b989949cce99.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.0: '#bdc8c9Sets
   the reward win chance (weight).'
 6cf14535-e5a7-4f01-b705-9a5f907fd787.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.3: '#ffed6a&lCurrent:'
@@ -1853,8 +1852,8 @@ f091d8b1-2251-410e-8782-195b9b7988f9.excellentcratesEditor.CrateEditorType.CRATE
 e873a642-6f9d-4ddd-8d63-e6cc74205e75.excellentcratesCrate.Open.Error.Cost.Exp.1: '#fd5e5e&lWhoops!'
 c5ec662a-3d72-490e-8dd1-c8ca6d6cc786.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.4: '#ffed6a▪
   #bdc8c9Chance: #ffed6a%1%'
-c4a5d6b5-57dd-40d5-b39a-7bbf37f423a3.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.1: "#bdc8c9It's\
-  \ used when you give crates to players"
+c4a5d6b5-57dd-40d5-b39a-7bbf37f423a3.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.1: "#bdc8c9It's
+  used when you give crates to players"
 ef67cbe3-62e5-49a2-a33f-590b036fdc26.excellentenchantmentsFitItemType.FISHING_ROD: Fishing
   Rod
 ccb69ffc-6c89-4e40-932e-b3db08c5c094.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.1: '#bdc8c9#ffed6apreview
@@ -1896,7 +1895,101 @@ a4e0d237-e83e-4a45-9e00-f9cea8ebbf9e.dh.menu.l2: '&7You can open the menu,'
 64bc0c72-fc78-4240-9177-b5655951b9fc.dh.farmserver.menu.l4: '&7to farm different materials
   that'
 fb033e33-a884-4769-932f-c04226f2ceb4.dh.menu.l4: '&7do jobs, visit the shop and more'
-ae6706c9-7810-470a-b5c1-f6f806bda6df.dh.farmserver.menu.l7: "&4&lYou can't sell items\
-  \ on the farm server!"
+ae6706c9-7810-470a-b5c1-f6f806bda6df.dh.farmserver.menu.l7: "&4&lYou can't sell items
+  on the farm server!"
 0daacfa9-bf0e-411c-a307-016feaeb913f.dh.farmserver.menu.l1: '&aFarmworlds'
 2e814119-1841-4a0e-9870-c1f6b39f58cf.dh.menu.l1: '&b&lOpen the Menu'
+dd130f3c-f766-41c1-9a36-7ddc9f416801.excellentenchantmentsFitItemType.WEAPON: Weapon
+fea814d5-3f2d-4347-a06b-443f7ade3963.menu.farm.normal.normal.lore: "§eNormal Overworld
+  Farmworld\n\n§2Benefits:\n§aGraves\n§aMedium Difficulty\n§aSome ores\n\n§4Disadvantages:\n
+  §cNo Strucutres\n§cNot all ores\n§cNo enchantments"
+ef3c0faa-b222-4eb4-888a-d194c6558383.triton.setlanguage: '&bYour language has been
+  changed to &6%1'
+3b65d987-60c9-458a-bb1d-2a2c86bc519d.menu.farm.end.normal.lore: "§eNormal End Farmworld\n
+  \n§2Benefits:\n§aGraves\n§aMedium Difficulty\n\n§4Disadvantages:\n§cNo Strucutres\n
+  §cNo dragon eggs\n§cNo enchantments"
+94a3b212-270e-445f-9f16-a3a4dc4cb7ed.menu.farm.end.easy.lore: "§2Easy End Farmworld\n
+  \n§2Benefits:\n§aKeep Inventory\n§aEasy Difficulty\n\n§4Disadvantages:\n§cNo Strucutres\n
+  §cNo dragon eggs\n§cNo enchantments"
+1c02c090-c261-409b-a88a-5c7a7c22808f.excellentenchantmentsCommand.TierBook.Usage: '%1
+  %2 %3'
+0294d1f4-a140-42dd-9a05-b55d6e5dd3ed.excellentenchantmentsFitItemType.BOOTS: Boots
+9167d50b-e748-46f2-95c7-45ded8e945cd.triton.selected: '&bCurrently selected'
+24f79c85-25e6-4843-9c7d-e4f0ae3b81b1.triton.message-not-found: '&cREPORT: %1'
+012d8054-56a1-4fba-a207-4a3b13adbb36.excellentenchantmentsFitItemType.AXE: Axe
+3181e360-101e-4309-821b-8dc9e7138f81.excellentenchantmentsFitItemType.HOE: Hoe
+1500ca6f-5a8a-4920-b557-8e7aabc98334.excellentenchantmentsCommand.List.Desc: List
+  of all custom enchantments.
+c314ad4d-993f-42eb-8ed4-4062e505b13f.excellentenchantmentsCommand.Enchant.Usage: '%1
+  %2'
+73346859-b0e7-411a-8831-83d202f05774.excellentenchantmentsFitItemType.ARMOR: Armor
+a32c1014-683f-4e9c-a93b-4620d0453357.excellentenchantmentsFitItemType.PICKAXE: Pickaxe
+8b95bcee-b5f0-4ba6-8547-de6910b75f25.excellentenchantmentsCommand.Enchant.Desc: Enchants
+  the item in your hand.
+1500f380-1bcd-4b86-80ae-e20aedf5185c.excellentenchantmentsCommand.Enchant.Done: §aSuccessfully
+  enchanted!
+421b1765-551f-4f90-a7a8-cb17e33dd9d5.triton.detected-language: '&bYour language has
+  been automatically set to &7%1'
+da775029-333e-4026-ae09-d5086b654adf.menu.farm.nether.hard.lore: "§4Hard Nether Farmworld\n
+  \n§2Benefits:\n§aAll ores\n§aStructures\n\n§4Disadvantages:\n§cHard difficulty\n
+  §cInventory drops on death\n§cNo enchantments"
+2a5b98ee-3537-4f8b-9e6a-f1c682dbf3a0.triton.selector-gui-name: '&bSelect a language'
+a522eab3-dd94-40fc-a799-8c74d92d5e51.excellentenchantmentsCommand.TierBook.Desc: Gives
+  an enchanted book.
+77539ecb-cf2d-4d8c-b541-55214092bff4.excellentenchantmentsFitItemType.ELYTRA: Elytra
+6210d086-90b4-4347-a084-2e18e86c400e.excellentenchantmentsFitItemType.SWORD: Sword
+4e1d4ff5-418b-4641-af95-087c6e03589f.menu.farm.nether.normal.lore: "§eNormal Nether
+  Farmworld\n\n§2Benefits:\n§aGraves\n§aMedium Difficulty\n§aGold ore + Quartz ore\n
+  \n§4Disadvantages:\n§cNo Strucutres\n§cNo anciend debris\n§cNo enchantments"
+636a0cfe-f45a-465c-bb1e-49f15738bc4b.menu.farm.nether: §4Nether Farmworlds
+2c74032d-351d-4972-b691-6a7134c54b99.excellentenchantmentsFitItemType.BOW: Bow
+bf15f1f0-c9e6-4faa-a620-c278833041a8.excellentenchantmentsFitItemType.CROSSBOW: Crossbow
+c8d98998-56d6-4a6d-8420-6fc92ea69eb1.triton.setlanguage-others: "&7%1&b's language
+  has been changed to &7%2"
+75e4240f-1c7b-4b82-a103-3766bad79c2c.triton.lang-not-found: "&cLanguage &4%1&c not
+  found! &7&oNote: It's case sensitive. Use TAB to show all the available languages."
+f1a21586-b377-4323-8e19-991a3ac3b533.excellentenchantmentsFitItemType.SHOVEL: Shovel
+51233d7b-0e5a-4cdb-b7d8-22a39073329f.menu.farm.end: §eEnd Farmworlds
+f7d463b8-eacd-427a-8366-53c52d7f1bd1.excellentenchantmentsFitItemType.LEGGINGS: Leggings
+6198c325-3d57-4ce2-9744-2d9babc0fb33.excellentenchantmentsCommand.Book.Desc: Gives
+  custom enchanted book.
+38a544b4-5de1-4cea-bc87-8bad7c7a26f2.excellentenchantmentsCommand.Book.Done: Given
+  §6%1§7 enchanted book to §6%2§7.
+43d3c66b-316c-44eb-ac66-d2e4884dc692.menu.farm.normal.hard.lore: "§4Hard Overworld
+  Farmworld\n\n§2Benefits:\n§aStructures\n§aAll ores\n\n§4Disadvantages:\n§cHard difficulty\n
+  §cInventory drops on death\n§cNo enchantments"
+0c8bf1a2-cfce-4447-bc14-331b1ab9a79b.excellentenchantmentsFitItemType.TRIDENT: Trident
+436c74aa-0d1f-42a5-b792-064cff372756.menu.farm.normal.easy: §2EASY
+b47f7209-18ac-475b-aedc-8b2b9472f197.excellentenchantmentsFitItemType.UNIVERSAL: Universal
+f4196f9b-d12c-429d-bb45-f5998d489e91.menu.farm.normal.easy.lore: "§2Easy Overworld
+  Farmworld\n\n§2Benefits:\n§aKeep Inventory\n§aEasy Difficulty\n§aBasic ores\n\n
+  §4Disadvantages:\n§cNo Strucutres\n§cNealry no ores\n§cNo enchantments"
+7ebffb7c-6bff-4c30-9df3-a0ce46062a36.triton.no-permission: '&cNo permission. Permission
+  required: &4%1'
+ba957850-2256-4992-9be7-754e73c13209.antieditsign.message: '&bYou can only edit your
+  own signs!'
+090387c1-ebf1-45b3-8082-b67038c8006d.excellentenchantmentsCommand.TierBook.Done: Given
+  §6%1§7 enchanted book to §6%2§7.
+750daeaa-dc53-4072-8858-2055329380c3.excellentenchantmentsFitItemType.TOOL: Tool
+b65d2bbf-f72a-410e-8025-f9aac9d0ce01.excellentenchantmentsFitItemType.FISHING_ROD: Fishing
+  Rod
+6e082aac-4eec-4947-b9c7-28c55007bf73.excellentenchantmentsFitItemType.CHESTPLATE: Chestplate
+26181738-4ee1-49b9-8f12-191976c806e9.menu.farm.normal: §aNormal Farmworlds
+4820a53b-da09-4f38-b31b-96da4a658980.tab.sb.quests: '&7Quest:'
+7ebfaf99-6592-4419-ae36-5abbc333723a.menu.farm.normal.normal: §eNORMAL
+09b9de5b-13c2-45f9-ab71-d783ed5fd530.menu.farm.normal.hard: §4HARD
+82f605f8-4845-47b4-b85b-e014f48c91b1.excellentenchantmentsFitItemType.HELMET: Helmet
+a41a6fc4-b17e-4285-8230-79442ecb7a62.menu.farm.nether.easy.lore: "§2Easy Nether Farmworld\n
+  \n§2Benefits:\n§aKeep Inventory\n§aEasy Difficulty\n\n§4Disadvantages:\n§cNo Strucutres\n
+  §cNo ores\n§cNo enchantments"
+1bccf85f-415e-46b1-bb0b-a572940cff18.ib.tilgis.welcome: §7Welcome on  [lang]prefix[/lang]
+  §7%1
+ff27de84-304a-4e50-8320-80910e4ece70.excellentenchantmentsCommand.Book.Usage: '%1
+  %2 %3'
+4fd261fc-18a4-40e6-83cc-4bb64836e1f1.menu.farm.end.hard.lore: "§4Hard End Farmworld\n
+  \n§2Benefits:\n§aStructures\n\n§4Disadvantages:\n§cHard difficulty\n§cInventory
+  drops on death\n§cNo dragon eggs\n§cNo enchantments"
+ebb0556f-d559-46cb-a3aa-23d95b59d007.excellentenchantmentsError.NoEnchant: §cInvalid
+  enchantment.
+61958bfc-20ba-4fac-9251-f975c5445b36.excellentenchantmentsCommand.TierBook.Error: §cInvalid
+  tier!
