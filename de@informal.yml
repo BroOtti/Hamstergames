@@ -15,17 +15,18 @@ e29d0117-86d5-46e0-87ed-26809402773b.tempflygeneral.time.daily_login: '%1 &7Du h
 dd130f3c-f766-41c1-9a36-7ddc9f416801.excellentenchantmentsFitItemType.WEAPON: Waffe
 d9c19cca-46be-410b-b707-69c4c0f50f63.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.12: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aAdd Text'
-73830305-66b3-4472-8d3d-39073a0b4daf.cmd.main.title.s37:
+73830305-66b3-4472-8d3d-39073a0b4daf.cmd.main.title.s37: '&b&lEinstellungen'
 5d56c134-c3f2-4a46-99d0-9f9e518f89b3.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Name: '#ffed6a&lVirtuell'
 78c07df4-8877-4c43-98d1-244fd73000ab.ia.4.2: auf diesem Server an &8(Bist du introvertiert?)
-28b64b26-5122-448f-b85a-f766b77338ba.cmd.upgrade.choose.title.s19:
+28b64b26-5122-448f-b85a-f766b77338ba.cmd.upgrade.choose.title.s19: '&b&lPartikel'
 7c2f1695-b144-41a4-81d5-8f874c1bf4ab.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.6: '#bbff6a&lAktionen:'
 1f091d5f-b3e8-4ed7-a255-cc9edee90fc1.excellentcratesCommand.Key.GiveAll.Done: >-
   #d4d9d8Gebe #fdf35ex%1#d4d9d8 von #fdf35e%2#d4d9d8 Schlüssel(n) an #fdf35eAlle
   Spieler#d4d9d8.
 5c747044-89d7-4369-ba4e-0153b6fa4d84.PlayerParticlesdata-no-args: '&7Fehlendes Argument
   für Effekt! Befehlsverwendung: &b/pp data&3 <Effekt>'
-fdd6351d-20ff-4796-956e-09507bfd9dbb.SuperVanishMessages.OnVanish:
+fdd6351d-20ff-4796-956e-09507bfd9dbb.SuperVanishMessages.OnVanish: '&b&l%1 &8&l┃ &7Du
+  bist jetzt unsichtbar!'
 81b9df29-b8d5-4ac6-8a5f-e79d4bd6d1a8.tempflycommand.base.givall.1: addall
 57ca07bb-65a2-42b8-b669-4da03abd5527.alonsotags.Invalid-player: Spieler ist nicht
   online!
@@ -40,7 +41,10 @@ b8f3f280-e9e4-49d6-85f0-a3f59ad56d5d.gsitMessages.action-pose-world-error: '[P]&
 ce620f0d-6013-4f64-b8da-ab1196c02d87.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.8: '#bbff6a&lAktionen:'
 4c84c4b6-c4e9-4e5f-8d16-0f70d854502b.PlayerParticlescommand-descriptions: '&fDie folgenden
   Befehle sind verfügbar:'
-4f452fb4-43ac-486c-abe2-52a86081bc37.cmd.upgrade.choose.desc.s11:
+4f452fb4-43ac-486c-abe2-52a86081bc37.cmd.upgrade.choose.desc.s11: "\n&bBeschreibung\n
+  &b| &7Erhöhe deine P-Warps-Limits\n &b| &7um mehr Spielerwarps zu setzen!\n&f\n
+  &3| &fKaufe mehr Punkte\n &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!\n&f\n&b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴠɪᴇᴡ"
 07e680a3-d1c5-4f69-8929-44f7756d62d1.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Lore.5: '#ffed6a▪
   #bdc8c9Enabled: #ffed6a%1'
 205f21cb-d3d7-4bcb-bb4a-466473298966.gsitMessages.action-pose-now-error: '[P]&7 Du
@@ -73,7 +77,8 @@ ff213edb-21c1-4eeb-8f62-04e22872c6af.PlayerParticlesgroup-list-presets: '&7Die f
   voreingestellten Gruppen sind verfügbar: &b%1'
 c3275e6f-533a-4cf1-9a78-c7defd84ed95.playerpoints.command-reset-usage: '&cAnwendung:
   &b/points reset &3<Spieler>'
-05438fac-c9a8-4409-bd9e-24fcee374749.SuperVanishMessages.ShowOtherMessage:
+05438fac-c9a8-4409-bd9e-24fcee374749.SuperVanishMessages.ShowOtherMessage: '&b&l%1
+  &8&l┃ &7Player &e%2&a ist jetzt sichtbar!'
 d7df123f-0531-401b-b2d5-ff371559a7d7.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.10: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aChange'
 a2e9566e-1e9a-4b63-ab82-596f9f596300.bungee.stop: >-
@@ -84,12 +89,13 @@ db4a0a2b-c65b-4607-8c6c-cc86d0b9cda7.tempflysystem.help.5: '&6/tf pay [Spieler] 
 0a6a6bb5-fa54-40e9-a3c5-675c0949eeca.tempflycommand.unit.days.recognized.0: d
 6f461b68-71bf-4785-b731-8d812ebcce03.alonsotags.Vault-not-available: Vault scheint
   auf diesem Server nicht verfügbar zu sein!
-59a6a0f4-2d49-4a43-b7e1-4db242057cee.cmd.warps.desc.s21:
-71bebce5-410e-4c46-a6e6-396659c64667.cmd.main.title.s42:
+59a6a0f4-2d49-4a43-b7e1-4db242057cee.cmd.warps.desc.s21: "&bBeschreibung\n &b| &7Klick
+  um alle verfügbaren\n &b| &7Zufälliger Teleport.\n &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+71bebce5-410e-4c46-a6e6-396659c64667.cmd.main.title.s42: '&b&lChallanges'
 65bcde5a-d539-4c2e-82cc-fad1b3e24564.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.0: '#bdc8c9Chance:
   &f%1%'
 44574c83-b7e2-4e30-a416-5753ddc1b036.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Name: '#ffed6a&lSchlüssel'
-c4bcd6f4-89ce-4680-a961-a07d13c26c10.cmd.main.title.s28:
+c4bcd6f4-89ce-4680-a961-a07d13c26c10.cmd.main.title.s28: '&b&lShop'
 78608a70-26e7-4181-8044-906cca8dd56a.tab.sb.tokens: '&7Tokens:'
 24366b74-240d-44bc-99f0-2d8edb756d52.menu.bank.menu.info: |2-
 
@@ -110,7 +116,9 @@ ee56387a-b803-4617-84ca-5fa1acb42bff.excellentcratesEditor.CrateEditorType.KEY_V
   #bdc8c9Ist virtuell: #ffed6a%1'
 3ecd0210-e844-4db6-83dc-82eaef241d51.uar.EVENT_RESTART_DELAY_GLOBAL.title: NEUSTART
   VERZÖGERT
-0a627d11-c924-4fd1-9ffd-1e724bee3601.cmd.main.desc.s12:
+0a627d11-c924-4fd1-9ffd-1e724bee3601.cmd.main.desc.s12: "&bBeschreibung\n &b| &7Teleportiere
+  zum Warp anderer Spieler\n &b| &7Vergiss nicht, ihren Warp zu bewerten!\n &3| &fKlick
+  zur Ansicht.\n &4| &cDies ist in Farmwelten nicht verfügbar"
 abb5b97b-9243-4d95-8381-c58513124f75.PlayerParticlesfixed-create-success: '&7Dein
   fester Effekt wurde erstellt!'
 2973914a-7aa5-45a8-82ba-584eb32592a6.alonsotags.Disabled-world: Du kannst diesen Befehl
@@ -157,7 +165,7 @@ cb255b02-eb0b-4294-a8c4-bd2b4d7375b1.tempflycommand.unit.days.tab_complete: Tag
 96819d33-756d-477d-8472-b2a8493fdfb4.PlayerParticlesdata-usage-vibration: '&7Der Effekt
   &b%1 &7erfordert &bVibrationsdaten&7! &7Format: &3<Dauer>'
 67e15770-c23b-40b5-9152-699b7540b1cb.dh.menu.l3: '&7Teleport zu Warps, Upgrade,'
-98f4d965-6cc6-4ad7-bfdb-556c5d54fde6.cmd.main.title.s34:
+98f4d965-6cc6-4ad7-bfdb-556c5d54fde6.cmd.main.title.s34: '&b&lSpielzeit'
 f8bd1fcb-6fdf-467f-805d-aa5df4f76380.excellentcratesCrate.Open.Reward.Broadcast.0: '<!
   prefix:"false" sound:"BLOCK_NOTE_BLOCK_BELL" !>'
 fa27bc0c-9c4a-4687-a7d2-cc8ffdaf5ce4.PlayerParticlesfixed-create-looking-too-far: >-
@@ -167,7 +175,8 @@ fa27bc0c-9c4a-4687-a7d2-cc8ffdaf5ce4.PlayerParticlesfixed-create-looking-too-far
   Community)'
 733aff92-e7b5-4e83-a197-81a2450b954b.chatmanger.mention.header: §x§F§F§F§F§0§0@ &lERWÄHNT
   §x§F§F§F§F§0§0@
-aa724a8e-ed37-4ba1-816a-f376b359130c.SuperVanishMessages.InvalidUsage:
+aa724a8e-ed37-4ba1-816a-f376b359130c.SuperVanishMessages.InvalidUsage: '&b&l%1 &8&l┃
+  &7Ungültige Verwendung, du kannst &f/sv help&7 für eine Liste der Befehle verwenden.'
 9de142b1-3032-4432-8e41-1d1bdeb978b8.clearlag.will-removed-in: '&b&lWARNUNG!&b ᴀʟʟᴇ
   ɪᴛᴇᴍs/ᴇɴᴛɪᴛᴀ̈ᴛᴇɴ ᴡᴇʀᴅᴇɴ ᴇɴᴛғᴇʀɴᴛ ɪɴ:'
 14a974fc-6d7e-422c-96b9-5a1462ead25b.excellentcratesEditor.Reward.Enter.Permissions: '#d4d9d8Eintrag
@@ -195,7 +204,9 @@ d3bf9104-2b4e-4e76-8299-03caa23caed0.hub.move: Du wurdest in die &6Lobby§7 gesc
 86697c9a-00da-4d2b-91b6-159badd99ddd.chatcolor.gui-selected: '&eAusgewählt'
 1c02c090-c261-409b-a88a-5c7a7c22808f.excellentenchantmentsCommand.TierBook.Usage: '%1
   %2 %3'
-6113ed6d-13f2-4724-9771-2b55a0e3acca.cmd.main.desc.s14:
+6113ed6d-13f2-4724-9771-2b55a0e3acca.cmd.main.desc.s14: "&bBeschreibung\n &b| &7Verkaufe
+  oder biete Artikel im Auktionshaus\n &b| &7Mit besserem Preis!\n &3| &fKlick zur
+  Ansicht."
 59a74b0b-2d9c-43fd-9063-c6812d4618c0.PlayerParticlesstyle-invalid: >-
   &7Der Stil &c%1 &7ist nicht vorhanden! Verwende &b/pp styles &7für eine Liste
   der Stile, die du verwenden kannst.
@@ -215,15 +226,22 @@ ecd552ec-a57b-4587-8ef3-49b1e4bc0232.tempflygeneral.unit.seconds: s
 0294d1f4-a140-42dd-9a05-b55d6e5dd3ed.excellentenchantmentsFitItemType.BOOTS: Stiefel
 3e4fb967-fe31-4553-8f79-371d9b4f17de.excellentenchantmentsFitItemType.SWORD: Schwert
 ff651667-d558-4471-ac65-117f4d1ac07b.ia.9.1: Tritt unserer Community bei
-8f694166-320d-4be3-8c82-03118dce5061.cmd.main.desc.s23:
-0cc47b14-581a-4c64-b155-d2f7aed42939.cmd.purchase.choose.desc.s20:
-5198688f-785b-49c1-9d9e-01a6300cfb63.SuperVanishMessages.OnVanishCausedByOtherPlayer:
+8f694166-320d-4be3-8c82-03118dce5061.cmd.main.desc.s23: "&bBeschreibung\n &b| &7Hier
+  kannst du eine bestimmte\n &b| &7Kosmetik mit deinen Punkten!\n &3| &fKlick zum
+  Anzeigen.\n&bInformationen\n &8| &fGlowing Cosmetics\n &8| &fParticles Cosmetics\n
+  &8| &fStyles Cosmetics\n &8| &fTags Cosmetics\n &8| &fChatColor Cosmetics\n &8|
+  &fPets Cosmetics"
+0cc47b14-581a-4c64-b155-d2f7aed42939.cmd.purchase.choose.desc.s20: "&f\n&bBeschreibung\n
+  &b| &7Kaufe den Rang mit deinen verfügbaren Token\n &b| &7und schalte fantastische
+  Vergünstigungen frei!\n &f\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+5198688f-785b-49c1-9d9e-01a6300cfb63.SuperVanishMessages.OnVanishCausedByOtherPlayer: '&b&l%1
+  &8&l┃ &f%2 &7hid you, you are now invisible!'
 f90ab21c-56dc-451c-9bde-0bf938ae1a8b.playerpoints.command-set-success: '&7Setze den
   &b%1 &7von &b%2 &7zu &b%3&7.'
 24b026d9-baf9-435e-8d45-e2f0d1d84f0b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.4: '#ffed6a&lAktuell:'
 bcae4ea3-37e1-4aad-a2eb-8c4b135589b6.playerpoints.command-take-usage: '&cAnwendung:
   &b/points take &3<Spieler> <Menge>'
-796e9cf2-a8f3-4a1f-a4d8-2356cf7bb6a3.cmd.purchase.choose.title.s20:
+796e9cf2-a8f3-4a1f-a4d8-2356cf7bb6a3.cmd.purchase.choose.title.s20: '&b&lRänge &7Einkauf'
 9167d50b-e748-46f2-95c7-45ded8e945cd.triton.selected: '&bAktuell ausgewählt'
 d94e6424-5315-4cdc-9f40-ecf666b8bba2.PlayerParticlesreload-no-permission: '&7Dazu
   haben Sie keine Berechtigung!'
@@ -237,8 +255,10 @@ d94e6424-5315-4cdc-9f40-ecf666b8bba2.PlayerParticlesreload-no-permission: '&7Daz
    &b| &7Status: &c&l❌
 
   &c&lᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴇɴᴛғᴇʀɴᴇɴ
-a6e1184d-641b-4222-9eef-4eb0b72be744.cmd.purchase.choose.title.s24:
-b78e73f1-4c8a-42a2-a230-e2c83a30827f.cmd.links.desc.s20:
+a6e1184d-641b-4222-9eef-4eb0b72be744.cmd.purchase.choose.title.s24: '&b&lFly &7Einkauf'
+b78e73f1-4c8a-42a2-a230-e2c83a30827f.cmd.links.desc.s20: "§f\n§x§7§2§8§9§d§aBeschreibung\n
+  §x§7§2§8§9§d§a| §7Klicke, um unseren offiziellen\n §x§7§2§8§9§d§a| §7Discord Server!\n
+  §f\n§x§7§2§8§9§d§a§l| §x§7§2§8§9§d§aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 9e6317ef-bd4e-47ee-893b-f9f7b2db3615.excellentcratesCrate.Open.Error.NoKey.1: '#fd5e5e&lWhoops!'
 44584943-c6a9-4266-8902-83ed58eb40f8.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.12: '#bbff6a▪
   #bdc8c9Shift-Left: #bbff6aSet for Preview'
@@ -269,7 +289,8 @@ d139121e-a03b-4316-8b41-ae83d16dc52b.ia.toggle-sound-off: '&7Du hast &c&l❌ &cD
 38cf02be-9578-46d0-815c-f0f1525c6a84.menu.bank.withdrew.title: '&eWithdrew Money'
 11541c0c-67d6-40d2-a034-67e557142863.excellentcratesCommand.Give.Usage: '%1 %2 [Betrag]
   [-s]'
-9c277f76-1b58-42fd-82b0-e44c63d32158.SuperVanishMessages.ReappearMessageWithPermission:
+9c277f76-1b58-42fd-82b0-e44c63d32158.SuperVanishMessages.ReappearMessageWithPermission: §x§0§0§F§F§0§0⏩
+  &f%1 &7&o(Ungelöscht)
 bbbaa67e-e27a-4b57-a8b9-043808468b7c.economydeath.loss: '&bDu bist gestorben und hast
   verloren &6$'
 43b48310-4c1f-4a80-b83a-8fa1f0528c4b.dh.farmserver.menu.l3: '&7Von hier aus kannst
@@ -282,8 +303,9 @@ fb578ebb-28c2-4504-b6bc-049187301bdc.excellentcratesEditor.CrateEditorType.KEY_V
 808529c7-0bc7-4981-af3d-1162200bc5a0.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.4: '#ffed6a▪
   #bdc8c9Öffnung: #ffed6a%1'
 3915237f-8382-4a54-9d8f-afb24f04eb5a.excellentcratesEditor.CrateEditorType.Reward.Rarity.Lore.6: '#bbff6a&lAktionen:'
-386b6922-f513-400d-8c21-c12d8c95105a.cmd.upgrade.choose.title.s15:
-e314758d-ddf7-4d4c-a8bb-248921711a6b.SuperVanishMessages.ToggledPickingUpItemsOn:
+386b6922-f513-400d-8c21-c12d8c95105a.cmd.upgrade.choose.title.s15: '&b&lElytra Effekte'
+e314758d-ddf7-4d4c-a8bb-248921711a6b.SuperVanishMessages.ToggledPickingUpItemsOn: '&b&l%1
+  &8&l┃ &7Das Aufnehmen von Gegenständen ist jetzt &aaktiviert&7.'
 00917f93-4a95-473b-9c95-5a99a8f37fc0.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Lore.1: '#bdc8c9wenn
   der Spieler diese Belohnung erhält.'
 1bd9b640-7526-40b4-a5e8-364628a04109.PlayerParticlesgui-edit-data-color-orange: '#ff8c00Orange'
@@ -299,8 +321,8 @@ c87a33af-da67-44cb-a6fd-6f9f5ec2c5f1.ia.2.2: oder schalte weitere Kits zum Spiel
 bb617f9f-5c92-4d5d-a596-13c5821bd0ff.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.1: '#bdc8c9
   kann verwendet werden, um diese Kiste zu öffnen.'
 953765e0-a1db-4425-93ce-c5e9310c9466.tempflycommand.base.trails.1: Partikel
-23e85751-bb9a-475e-9813-b3dd356850de.cmd.warps.title.s21:
-42e4e38a-447f-4abf-9a6e-429e2babcb9b.cmd.links.title.s29.3:
+23e85751-bb9a-475e-9813-b3dd356850de.cmd.warps.title.s21: '&bRTP Warps'
+42e4e38a-447f-4abf-9a6e-429e2babcb9b.cmd.links.title.s29.3: '&aDu bist verlinkt :D'
 db0037b6-b511-46b5-a1ba-b750134b4a4d.PlayerParticlesgui-edit-style: '&bStil bearbeiten'
 9be3699d-3c0a-432c-8b62-fe9c8fdfebcf.excellentcratesCommand.Drop.Usage: '%1 %2 %3
   %4 %5'
@@ -309,7 +331,8 @@ db0037b6-b511-46b5-a1ba-b750134b4a4d.PlayerParticlesgui-edit-style: '&bStil bear
 24f79c85-25e6-4843-9c7d-e4f0ae3b81b1.triton.message-not-found: '&cREPORT: %1'
 9800e2b4-1fd9-4fa7-be3d-37c6bd51be93.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.9: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aÄndern'
-9375c6f2-18a1-4455-b374-5d6a05287926.SuperVanishMessages.OnReappear:
+9375c6f2-18a1-4455-b374-5d6a05287926.SuperVanishMessages.OnReappear: '&b&l%1 &8&l┃
+  &7Du bist nicht mehr unsichtbar!'
 5184fee0-d33d-41fa-9fd6-44f09c80aac8.menu.bank.menu.deposit: |2-
 
       - ' &aBeschreibung
@@ -323,10 +346,13 @@ db0037b6-b511-46b5-a1ba-b750134b4a4d.PlayerParticlesgui-edit-style: '&bStil bear
 3181e360-101e-4309-821b-8dc9e7138f81.excellentenchantmentsFitItemType.HOE: Hacke
 338808fc-92da-4ce1-9b62-1ad5244b0284.tempflycommand.unit.hours.tab_complete: Stunde
 b587b958-da54-47ca-b7e8-97561bc2534a.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.6: '#bbff6a&lAktionen:'
-bdfea578-3b9e-49ef-8e88-bc36a23ba3ee.cmd.languages.desc.s25:
+bdfea578-3b9e-49ef-8e88-bc36a23ba3ee.cmd.languages.desc.s25: "&bBeschreibung\n &b|
+  &8Stelle deine Sprache ein\n &b| &7Spanisch!\n &3| &fKlick zum Ändern."
 f689acc1-8818-488a-9073-f81694a19cc2.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.6: '#ffed6a▪
   #bdc8c9Enabled: #ffed6a%1'
-b9e86ff4-9b1b-4ad8-804a-f6de23bd4454.cmd.main.desc.s42:
+b9e86ff4-9b1b-4ad8-804a-f6de23bd4454.cmd.main.desc.s42: "&bBeschreibung\n &b| &7Erledige
+  die Challenges, um\n &b| &7um ein paar schöne Bonis zu bekommen.\n &3| &fKlick zum
+  Ansehen."
 dc88127c-6c4f-499d-af91-1002d1c9843f.excellentcratesCrate.Open.Error.Cooldown.OneTimed.2: '#d4d9d8Du
   hast diese einmalige Kiste bereits geöffnet!'
 33c77d75-9c45-4a90-9cac-bd975a1ec38f.gsitMessages.command-gsit-playertoggle-off: >-
@@ -335,12 +361,13 @@ dc88127c-6c4f-499d-af91-1002d1c9843f.excellentcratesCrate.Open.Error.Cooldown.On
 14585fdd-1d4f-4414-b3af-301dc2be89fb.PlayerParticlesgroup-remove-success: '&7Entfernt
   die Partikelgruppe namens &b%1&7!'
 d6886352-ef51-4d1b-b0a4-f0609ef4bb8d.tempflycommand.unit.seconds.recognized.0: s
-52fcb570-5a0c-4e75-9e60-db4416844a43.cmd.main.title.s3:
+52fcb570-5a0c-4e75-9e60-db4416844a43.cmd.main.title.s3: '&b&lWie spielt man?'
 7f65ae6d-4771-4e0f-8944-6e76baeac786.tempflygeneral.fly.idle_drop: '%1 &7Du hast deinen
   Flug verloren, weil du im Leerlauf warst!'
 e1ff0a69-5f33-411e-9ddc-cf86451e12cf.mycmd.block.delay: '&7Du kannst wieder mit diesem
   Block interagieren in &c%1s'
-ba0777a1-1f9a-40dc-99b0-171ea9a28790.cmd.purchase.choose.title.s4:
+ba0777a1-1f9a-40dc-99b0-171ea9a28790.cmd.purchase.choose.title.s4: "&b%player_name%'s
+  Statistiken"
 d84381be-2c40-4aba-bad8-67c738d2e481.mycmd.cooldown2: '&7 Du hast die Abklingzeit
   dieses Befehls übersprungen'
 3dd56804-1a84-4d9d-be31-cd12f861824a.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.9: '#bbff6a&lAktionen:'
@@ -375,7 +402,11 @@ de3ed96e-f7a5-4607-9bb8-d818ffa813aa.PlayerParticlesdisabled-worlds: '&7Partikel
   #ffa76a/previews/#bdc8c9.
 55a1307b-459d-4d0f-842f-75b99fab1d6b.PlayerParticlesdata-invalid-material-not-block: '&7Das
   Blockmaterial &c%1 &7das du eingegeben hast, ist kein Block!'
-0fad20fc-a3c9-4baf-9e58-8cebb2aa3881.cmd.main.desc.s3:
+0fad20fc-a3c9-4baf-9e58-8cebb2aa3881.cmd.main.desc.s3: "&7In &bSurvival&7 bieten wir
+  dir\n&7mehrere verschiedene Welten, die du\n&7erforschen kannst, um deine\n&7eigenen
+  Fundamente!\n&7Das heißt, du kannst dein Land beanspruchen,\n&7mache deinen Clan,
+  lade deine Freunde ein\n&7und beginnen, den Spielmodus zu erobern!\n&7Um &bAufregende
+  Belohnungen&7 zu erhalten, während du\n&7spielst, stimme &b/ab"
 15878977-20f7-4765-94e8-7afbf63bc2d2.tab.sb.playtime: '&7Spielzeit:'
 20bcacd9-2c57-4d92-9480-e50c6bf759d0.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.4: >-
   #ff6a6a▪ #bdc8c9Dieser Gegenstand wird #ff6a6aNICHT#bdc8c9 an Spieler/innen
@@ -394,7 +425,8 @@ e20c1f3e-6185-4ba7-8c58-f23e76cce346.PlayerParticlesgui-edit-primary-style: '&bP
   bearbeiten'
 c835cce4-6b50-44e0-afc3-bfe5008af7e8.PlayerParticlesfixed-info-invalid-args: '&7Kann
   keine Informationen erhalten, die angegebene ID muss eine Zahl sein!'
-ee36c596-a3a0-4c77-9b46-06eea710bdab.SuperVanishMessages.InvalidSender:
+ee36c596-a3a0-4c77-9b46-06eea710bdab.SuperVanishMessages.InvalidSender: '&b&l%1 &8&l┃
+  &7Du musst ein Spieler sein, um diesen Befehl auszuführen!'
 4027f72e-de89-400a-938b-bfdb69640d8f.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.5: '#bdc8c9%1'
 24d1eddd-e6d4-4d57-91df-fa4e9d87ca64.mycmd.ECONOMY_COST: '&7Dieser Befehl kostet %1.
   Neuer Saldo %2'
@@ -412,16 +444,22 @@ c943633e-b269-48b7-b0dc-1ab6bfb55496.PlayerParticlesfixed-remove-success: '&7Dei
   fixer Effekt mit der ID &b%1 &7wurde entfernt!'
 73346859-b0e7-411a-8831-83d202f05774.excellentenchantmentsFitItemType.ARMOR: Rüstung
 9a2322ea-59f7-40f0-a9ca-8e1764b73ed4.tempflycommand.base.help.1: Befehle
-306fce84-ad32-40fe-9345-1c4be40f8fd2.cmd.main.title.s16:
-97dff352-462f-42fb-b535-c88be3754d1f.cmd.upgrade.choose.desc.s25:
-fe6745eb-03bc-4a58-87be-e6e7edb47772.cmd.warps.desc.s23:
-caf15856-7ee3-41a1-92d0-3f07fc8bbdba.cmd.main.title.s4:
+306fce84-ad32-40fe-9345-1c4be40f8fd2.cmd.main.title.s16: '&b&lKits'
+97dff352-462f-42fb-b535-c88be3754d1f.cmd.upgrade.choose.desc.s25: "&bBeschreibung\n
+  &b| &7Erhöhe die Grenzen deiner Partikelgruppen\n &b| &7um mehr Gruppen hinzuzufügen!\n
+  &f\n &3| &fKaufe mehr Punkte\n &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!\n&f\n&b&l|
+  &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+fe6745eb-03bc-4a58-87be-e6e7edb47772.cmd.warps.desc.s23: "&bBeschreibung\n &b| &7Klick
+  um alle verfügbaren\n &b| &7Spieler-Warps.\n &4| &cDies ist in Farmwelten nicht
+  verfügbar\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+caf15856-7ee3-41a1-92d0-3f07fc8bbdba.cmd.main.title.s4: '&b&lProfil &f%Spieler_name%'
 aba1aa16-956e-41ef-9ffc-17801aa804e6.excellentenchantmentsCommand.TierBook.Done: Gib
   &6%1&7 das verzauberte Buch an &6%2&7.
 ec3e513a-1625-4834-ba0b-0fcbe7fce809.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.6: '#bbff6a▪
   #bdc8c9[Num 3]: #bbff6aBy Name'
-0ed0155e-15e2-4984-9e72-8b78619cbda3.cmd.main.title.s41:
-2235f2c1-0993-467d-bfa5-5d420654753b.SuperVanishMessages.UndismissedRecreationWarning:
+0ed0155e-15e2-4984-9e72-8b78619cbda3.cmd.main.title.s41: '&b&lSoziale Medien'
+2235f2c1-0993-467d-bfa5-5d420654753b.SuperVanishMessages.UndismissedRecreationWarning: '&b&l%1
+  &8&l┃ &7Du erhältst jetzt Benachrichtigungen über diese Freizeit.'
 86e9c49e-574c-4bd1-8e35-5df6bc19b93c.gsitPlugin.plugin-link: '[P]&7 Link mit&f %Link%&7
   erfolgreich!'
 93ba4e4d-149f-452f-85a9-19061fe76369.PlayerParticlesgui-next-page-button: '&bWeiter
@@ -430,7 +468,8 @@ ec3e513a-1625-4834-ba0b-0fcbe7fce809.excellentcratesEditor.CrateEditorType.REWAR
   den Gegenstand auf deiner Hand.
 3ff5cf63-7fd3-403f-8ebd-5010f1396558.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.13: '#bbff6a▪
   #bdc8c9Right-Click: #bbff6aDisable Opening'
-67d9ffcf-6fd5-4d94-a9fb-ae9a2c75f392.SuperVanishMessages.NotVanishedError:
+67d9ffcf-6fd5-4d94-a9fb-ae9a2c75f392.SuperVanishMessages.NotVanishedError: '&b&l%1
+  &8&l┃ &7Du bist nicht unsichtbar!'
 c5bb923a-5d61-4a7f-9c37-6e7424fad93a.PlayerParticlesdata-invalid-item: '&6Die von
   dir eingegebenen Artikeldaten sind ungültig! Format:&c <itemName>'
 dd088a57-7e87-4194-ade3-2fb2459f2a8b.PlayerParticlesgui-edit-data: '&bDaten bearbeiten'
@@ -438,12 +477,14 @@ dd088a57-7e87-4194-ade3-2fb2459f2a8b.PlayerParticlesgui-edit-data: '&bDaten bear
   haben Sie keine Berechtigung!'
 a8f13995-1b81-4601-961c-5f4fec61dac8.playerpoints.command-help-title: '&bVerfügbare
   Befehle:'
-7e5c15b8-904e-43c5-afa5-492f92b766f0.cmd.main.desc.s39:
+7e5c15b8-904e-43c5-afa5-492f92b766f0.cmd.main.desc.s39: "&bBeschreibung\n &b| &7Sieh
+  dir die benutzerdefinierten Verzauberungen an\n &b| &7und mit was sie in Konflikt
+  stehen\n &3| &fKlick zur Ansicht.\n &bInformationen\n &8▪ &7Verzauberungen: &f0"
 7bf2582f-98ca-44b5-8def-573fc41015d3.PlayerParticlesfixed-create-effect-invalid: >-
   &7Kann keinen festen Effekt erstellen, ein Effekt mit dem Namen &b%1 &7ist
   nicht vorhanden!
 6484579f-7243-41af-89ad-729fcfdc6595.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Lore.7: '#bbff6a&lAktionen:'
-57e7fd27-115f-4e8d-bcc3-e7ac506eaaf9.cmd.main.title.s32:
+57e7fd27-115f-4e8d-bcc3-e7ac506eaaf9.cmd.main.title.s32: '&b&lBank'
 9b7ff383-388f-41db-ba79-f5a16e33a587.excellentcratesEditor.Crate.BlockPushback.Lore.2: '#bdc8c9kann
   nicht geöffnet werden.'
 e22f4d4c-2298-4835-8996-b2a122c6af3d.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.7: '#bbff6a&lAktionen:'
@@ -489,15 +530,18 @@ e73c8454-c17c-48ec-9a00-65fe800e5998.excellentcratesCrate.Open.Error.NoHoldKey.1
   Artikel'
 639bab74-b8b9-48a8-870b-e691b9ab2301.PlayerParticlesedit-success-style: '&7Der Stil
   deines Partikels mit der ID &b%1 &7wurde in &b%2&7 geändert!'
-7dc5672e-92a8-4956-af52-c17efe4de963.cmd.languages.desc.s31:
-2eed45e5-bd36-435a-9043-c4fa1801b3b7.SuperVanishMessages.UpdateWarning:
+7dc5672e-92a8-4956-af52-c17efe4de963.cmd.languages.desc.s31: "&bBeschreibung\n &b|
+  &8Stelle deine Sprache ein\n &b| &7Italienisch!\n &3| &fKlick zum Ändern."
+2eed45e5-bd36-435a-9043-c4fa1801b3b7.SuperVanishMessages.UpdateWarning: '&b&l%1 &8&l┃
+  &7Warnung! Das Wiederherstellen von &f%2 &7 setzt &f%3&7 zurück. Bitte benutze &f/sv
+  recreatefiles confirm&7, wenn du fortfahren möchtest.'
 651be845-adb7-44ca-a460-0a83f1ab913d.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Name: '#ffed6a&lSchlüsselwort'
 c3596185-d77f-4651-869b-417f39a69bc8.tempflycommand.base.help.0: Hilfe
 b3a26c2f-4492-4ae8-bb2e-933363a60625.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.8: '#bbff6a▪
   #bdc8c9Right-Click: #bbff6aGet Copy'
 2e430b91-c25c-45fa-81aa-8b09ca0c47ce.gsitMessages.action-emote-stop: '[P]&a Du hast
   aufgehört, dich zu äußern.'
-98b6ec5b-d351-4020-ae6b-ec32a3c0c195.cmd.main.title.s21:
+98b6ec5b-d351-4020-ae6b-ec32a3c0c195.cmd.main.title.s21: '&b&lDailyReward &7Preis'
 421b1765-551f-4f90-a7a8-cb17e33dd9d5.triton.detected-language: '&bDeine Sprache wurde
   automatisch auf &7%1 eingestellt'
 fbe9bce1-3536-4e83-8db3-8d269123282e.PlayerParticlesgui-edit-primary-data-missing-effect: Du
@@ -530,7 +574,9 @@ da775029-333e-4026-ae09-d5086b654adf.menu.farm.nether.hard.lore: |-
 1f7b0769-0201-4d98-b80b-0d5a7dd204ce.PlayerParticlescommand-description-use: Ändere
   dein Primärpartkel
 e84ccda1-a060-43f8-b987-761ab76d1e14.tab.ani.players: 'sᴘɪᴇʟᴇʀᴀɴᴢᴀʜʟ:'
-eb17bb7b-cb6d-42af-b86c-cd470e72fa88.cmd.links.desc.s29.1:
+eb17bb7b-cb6d-42af-b86c-cd470e72fa88.cmd.links.desc.s29.1: "&f\n§x§7§2§8§9§d§aBeschreibung\n
+  §x§7§2§8§9§d§a| &7Etwas ist schiefgelaufen!\n §x§7§2§8§9§d§a| &7Berichte dies auf
+  Discord.\n &f\n§x§7§2§8§9§d§aDiscord-Menümodul"
 39cf9ff4-482f-44f4-9f98-5af8e953ed57.playerpoints.command-giveall-usage: '&cAnwendung:
   &b/points giveall &3<Menge>'
 e3110a09-565b-4cb5-b979-cd4483be936d.tab.ani.2.2: ᴡɪʟʟᴋᴏᴍᴍᴇɴ ᴀᴜғ ʜᴀᴍsᴛᴇʀɢᴀᴍᴇs.ᴇᴜ ᴅᴜ
@@ -555,8 +601,11 @@ c3f228d2-3063-4010-92be-9cdcc9a7c650.excellentcratesEditor.CrateEditorType.KEY_C
 c9e54d23-43e9-4f29-a6ef-5e4286054ab0.alonsotags.Target-not-loaded: >-
   Der Zielspieler konnte nicht geladen werden. Der Spieler muss sich erneut mit
   dem Server verbinden!
-6d4c051f-b755-4001-a0e7-4aa565ba62db.cmd.links.title.s29.1:
-75bf0cca-4f89-4e96-9a9a-06675b55e669.cmd.upgrade.choose.desc.s19:
+6d4c051f-b755-4001-a0e7-4aa565ba62db.cmd.links.title.s29.1: '&4&lMelde mich!'
+75bf0cca-4f89-4e96-9a9a-06675b55e669.cmd.upgrade.choose.desc.s19: "&bBeschreibung\n
+  &b| &7Erhöhe deine Partikelgrenzen\n &b| &7um mehr Partikel einzustellen!\n&f\n
+  &3| &fKaufe mehr Punkte\n &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!\n&f\n&b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴠɪᴇᴡ"
 79705fcf-d4e0-474c-85b1-bc92679e563a.PlayerParticlesgui-edit-primary-data-description: Bearbeite
   die Daten deines Primärpartikels
 d9998c47-7988-4f4d-a2e0-db6bcca04d7c.bungee.restart.subtitle: '&bWir verbinden dich,
@@ -584,7 +633,7 @@ d9998c47-7988-4f4d-a2e0-db6bcca04d7c.bungee.restart.subtitle: '&bWir verbinden d
 fc082b04-c38a-4eb5-8246-a6c2c17b7c23.PlayerParticlesfixed-create-effect-no-permission: >-
   &7Du kannst keinen festen Effekt erstellen, du hast keine Berechtigung, den
   Effekt zu verwenden &b%1&7!
-3e39398b-9f2c-4868-8f43-a79f73c415bd.cmd.main.title.chapter2:
+3e39398b-9f2c-4868-8f43-a79f73c415bd.cmd.main.title.chapter2: '&6Kapitel 2'
 6f1869d6-dd9d-4720-8080-980a4b1f8d47.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.12: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aEröffnung ändern'
 73b4c043-60ec-4591-aca7-3e7cf11296a1.tempflycommand.base.shop.0: Shop
@@ -633,9 +682,13 @@ b9f6a371-85e4-435c-b33f-6d9aeaacc8c4.PlayerParticlesfixed-clear-no-args: '&6Du h
 76a30780-6ac1-4c7a-8237-61db9208d1b6.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.0: '#bdc8c9Stellt
   den Anzeigenamen der Kiste ein.'
 4a88808c-53e7-4583-ace6-51be331d2030.menu.bank.menu.interest.title: '&bBank Zinsen'
-b71fd07b-ee6f-404b-86f3-1dd3051afb86.cmd.main.title.s10:
-56d9e049-712b-4250-8071-78994967d7cf.cmd.main.desc.s21:
-93dc9087-b27d-451b-8fe1-d5330f164b2d.cmd.purchase.choose.desc.s4:
+b71fd07b-ee6f-404b-86f3-1dd3051afb86.cmd.main.title.s10: '&b&lJobs'
+56d9e049-712b-4250-8071-78994967d7cf.cmd.main.desc.s21: "&bBeschreibung\n &b| &7Nimm
+  deine verfügbaren &fDAILY&7, &fWEEKLY&7 und\n &b| &fMONATLICH&7 Belohnungen!\n &3|
+  &fKlick zur Ansicht.\n&bInformationen\n &8▪ &7Täglich: &f⌚%sunlight_kits_cooldown_daily%\n
+  &8▪ &7Wöchentlich: &f⌚%sunlight_kits_cooldown_weekly%\n &8▪ &7Monatlich: &f⌚%Sonnenlicht_kits_abkühlen_monatlich%"
+93dc9087-b27d-451b-8fe1-d5330f164b2d.cmd.purchase.choose.desc.s4: "&f\n&b&lInformation\n
+  &8▪ &7Name: &f%Spieler_name%\n &8▪ &7Tokens: &f⛃%tmtokens_get_tokens_fixed%"
 b2595b19-a406-42a8-8622-cfe87b06129f.excellentcratesCommand.Give.Done: >-
   #d4d9d8Gabe #fdf35ex%1#d4d9d8 von #fdf35e%2#d4d9d8 Kiste(n) an
   #fdf35e%3#d4d9d8.
@@ -661,14 +714,23 @@ e491f4e4-3f2a-4678-a711-16d0ed4b180e.excellentcratesCrate.Open.Error.NoRewards.2
 bd0d47b3-e030-4db2-904f-504501434a0c.excellentcratesCommand.ResetLimit.Done.Reward: >-
   #d4d9d8Reset #fdf35e%1#d4d9d8 Gewinnlimit für #fdf35e%2#d4d9d8 Belohnung von
   #fdf35e%3#d4d9d8.
-a3c18b28-e866-4eb2-8b9a-398661ba211e.cmd.main.desc.s25:
-953d352e-683c-4117-abb2-f298807814b1.cmd.main.desc.s19:
+a3c18b28-e866-4eb2-8b9a-398661ba211e.cmd.main.desc.s25: "&bBeschreibung\n &b| &7Alle
+  verfügbaren Warps der Region für dich anzeigen\n &b| &7Zum Teleportieren!\n &3|
+  &fKlick zur Ansicht.\n &bInformation\n &8▪ &fServer Warps\n &8▪ &fRTP Warps"
+953d352e-683c-4117-abb2-f298807814b1.cmd.main.desc.s19: "&bBeschreibung\n &b| &7Aufrüstungen&7,
+  &fHäuser&7, &fAuktion\n &b| &fP-Warps&7, &fQuests&7, &f...\n &b| &7Limits mit deinen
+  Punkten!\n &3| &fKlick zur Ansicht.\n&bInformationen\n &8▪ &7Punkte: &f%playerpoints_points%\n
+  &8▪ &7Verfügbare Upgrades\n    &8▶ &fQuests\n    &8▶ &fPlayerWarps\n    &8▶ &fAuctionHouse\n\
+  \    &8▶ &fChestShop\n    &8▶ &fHomes\n    &8▶ &fParticles (Styles)\n    &8▶ &fParticles
+  (Gruppen)\n    &8▶ &fJobs\n    &8▶ &8▶ &7und mehr..."
 b7704ff0-e16f-4c0c-a606-a8736d628eba.playerpoints.command-reset-success: '&7Setze
   den &b%1&7 für &b%2&7 zurück.'
 0a13f292-8b95-43ad-a001-7f25232287bc.excellentenchantmentsCommand.Book.Done: Gib &6%1&7
   das verzauberte Buch an &6%2&7.
 7de42667-35e9-42e6-bcce-984d030877d1.tab.sb.tempfly: '&7TempFlug:'
-9ea2b862-70f8-4bec-9fba-bd248cc57a04.cmd.kits.choose.desc.s20:
+9ea2b862-70f8-4bec-9fba-bd248cc57a04.cmd.kits.choose.desc.s20: "\n&bBeschreibung\n
+  &b| &7Klick auf eine kostenlose Kit-Kategorie\n &b| &7hier kannst du dir eine Vorschau
+  ansehen und oder\n &b| &7Kostenlose Kits vom Server\n\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 cdf41f09-3872-4961-b496-b8aaeb9b72c1.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.14: '#bbff6a▪
   #bdc8c9Shift-Left: #bbff6aToggle'
 bd2b66ba-0484-4943-8c49-ccbb285be0a3.playerpoints.command-take-description: >-
@@ -683,7 +745,7 @@ e5a3a9a5-0ff0-46dc-a342-bcfb1f4ca046.PlayerParticlescommand-descriptions-help-ot
   &3<Spieler> <Befehl> &8-&f Einen Befehl als Spieler ausführen'
 970c09ff-5d48-4a76-8bcb-78503760f08c.gsitMessages.action-emote-none-error: '[P]&c
   Du benutzt gerade kein Emote!'
-fe53cff0-c261-4e11-abae-4da8d3461ef2.cmd.main.title.s36:
+fe53cff0-c261-4e11-abae-4da8d3461ef2.cmd.main.title.s36: '&b&lWahl'
 3adee27d-64c3-4193-af67-00ab68b9597d.tempflygeneral.fly.enabled_other: '%1 &f%2 &7fliegt
   jetzt'
 bcd6a436-a8f3-492b-a864-fe8dfbe9018f.mpdb.configReload: >-
@@ -754,9 +816,12 @@ d669dc67-1b20-4001-a40c-20dfd629ac2c.PlayerParticlesfixed-create-style-invalid: 
   Befehl übersprungen'
 ac449efd-209d-495d-a820-31078e7e444a.PlayerParticlescommand-description-data: 'Prüfe,
   welche Art von Daten ein Effekt verwendet'
-afa6d00c-dd83-44c7-abd8-50903c351cf1.SuperVanishMessages.HelpHeader:
-281a73ab-5a60-4342-afe7-668cd700a1df.SuperVanishMessages.VanishMessageWithPermission:
-0251e97f-5189-46f5-b846-1e8a85cd9226.SuperVanishMessages.SilentJoinMessageForAdmins:
+afa6d00c-dd83-44c7-abd8-50903c351cf1.SuperVanishMessages.HelpHeader: '&b&l&m &r &b&lVANISH
+  &8| &f&lHELP &8(&f1&8/&f1&8) &b&l&m &r'
+281a73ab-5a60-4342-afe7-668cd700a1df.SuperVanishMessages.VanishMessageWithPermission: §x§F§F§0§0§0⏪
+  &f%1 &7&o(Verschwunden)
+0251e97f-5189-46f5-b846-1e8a85cd9226.SuperVanishMessages.SilentJoinMessageForAdmins: §x§F§F§9§9§9§9⏪
+  &f%1
 05ef982d-46b1-4cb3-be84-486a7ac321a4.PlayerParticlescommand-description-fixed-list: '&b/pp
   fixed list &8-&f Listet alle IDs deiner festen Effekte auf'
 8cacf16a-224c-4db6-862a-90c5c03f38c9.excellentcratesCommand.Menu.Done.Others: '#d4d9d8Opened
@@ -766,7 +831,9 @@ fba14d8f-56e1-4948-9221-bd06d97d21d7.excellentcratesMenu.Invalid: 'Das Menü #fd
   existiert nicht!'
 8495a4a6-5408-45e5-9f28-92111aefc3df.tempflygeneral.invalid.number: '%1 &f%2 &7ist
   keine gültige Zahl!'
-55e01ea9-5325-4f16-b6ec-8aaa45acd5f1.cmd.links.desc.s22:
+55e01ea9-5325-4f16-b6ec-8aaa45acd5f1.cmd.links.desc.s22: "§f\n§x§f§7§b§5§2§9Beschreibung\n
+  §x§f§7§b§5§2§9| §7Klicke, um unseren offiziellen\n §x§f§7§b§5§2§9| §7Website-Server!\n
+  §f\n§x§f§7§b§5§2§9§l| §x§f§7§b§5§2§9ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 69eae38a-3208-4763-ada7-f1b3536daf0b.PlayerParticlescommand-description-remove: Entfernt
   einige Partikel
 e0574790-b1f1-4125-aa90-bae69b0aea7d.tempflycommand.base.bypass.0: Umgehung
@@ -781,7 +848,10 @@ adaa7eaa-493b-4b8c-a31b-5599a0274123.PlayerParticlesremove-effect-style-none: '&
   hast keine Partikel mit dem Effekt oder Stil angewendet &b%1&7!'
 d5b8846e-219b-45a5-81ab-8b7b715bf28a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.7: '#bbff6a&lAktionen:'
 b9e86347-31b3-4fc4-8b69-bb043db0e123.excellentenchantmentsFitItemType.ARMOR: Rüstung
-1d1f01b3-816c-4a3d-b7b5-c915ef2f3df2.cmd.kits.choose.desc.s24:
+1d1f01b3-816c-4a3d-b7b5-c915ef2f3df2.cmd.kits.choose.desc.s24: "\n&bBeschreibung\n
+  &b| &7Klick auf die Kategorien eines Spenderkits\n &b| &7hier kannst du dir eine
+  Vorschau ansehen und\n &b| &7Spenderkits vom Server anfordern\n\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ
+  ᴠɪᴇᴡ"
 56007461-8022-44c6-8488-c2a86a21e7f9.tempflysystem.help.6: '&7- schicke einen anderen
   Spieler auf Flugzeit'
 76af474b-ddea-4b99-93b9-be6663956c0e.tempflygeneral.info.minutes: '&fMinuten: &b%1'
@@ -794,12 +864,12 @@ b9e86347-31b3-4fc4-8b69-bb043db0e123.excellentenchantmentsFitItemType.ARMOR: Rü
 7fca2fbb-8769-4715-ada9-b9fe477af4eb.excellentcratesCommand.Key.Show.Format.List.2: '&7'
 fc9f57b3-25f0-4f24-bdb1-0c9bc4981503.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Name: '#ffed6a&lBefehle
   ausführen'
-e425d3ee-4dbe-4f9e-9506-65b2e99f745c.cmd.links.title.s22:
+e425d3ee-4dbe-4f9e-9506-65b2e99f745c.cmd.links.title.s22: §x§f§7§b§5§2§9Website
 09100892-fe81-45bc-9745-dd566a410a75.tab.ani.2.4: '&fʙᴇᴋᴏᴍᴍᴇ ʙᴇʟᴏʜɴᴜɴɢᴇɴ ɪɴᴅᴇᴍ ᴅᴜ
   ʜᴀᴍsᴛᴇʀɢᴀᴍᴇs.ᴇᴜ ᴜɴᴛᴇʀsᴛᴜ̈ᴛᴢᴛ'
 8f2ce7ee-cf79-487d-88b4-0b0ccd08117f.gsitMessages.action-pose-kick-error: '[P]&7 Hier
   posiert schon jemand!'
-a2e28288-595d-416b-aa1a-ea4316e3af0b.cmd.links.title.s24:
+a2e28288-595d-416b-aa1a-ea4316e3af0b.cmd.links.title.s24: §x§a§3§c§8§3§4Speicher
 7255b834-b573-4940-afdc-7f9b52a9704e.clearlag.autoremoval: '&c&l| &cᴇs ᴡᴜʀᴅᴇɴ &4%1&c
   ᴇɴᴛɪᴛᴀ̈ᴛᴇɴ ᴀᴜғ ᴅᴇᴍ ʙᴏᴅᴇɴ ᴇɴᴛғᴇʀɴᴛ!'
 799d7d0c-7b71-4462-9d65-285127d22793.excellentenchantmentsFitItemType.PICKAXE: Spitzhacke
@@ -815,13 +885,17 @@ db64f04c-dd42-4c06-ba30-b629a9332da1.chatcolor.gui-available: '&aVerfügbar'
 fdfcadbb-7804-43cb-ac13-6f5e56f926c7.PlayerParticlesgui-disabled: '&6Der Serveradministrator
   hat die GUI deaktiviert!'
 0d3556b7-5d27-43d3-983c-00f97a028742.tempflycommand.unit.minutes.recognized.1: min
-de75bebd-a51e-4f11-b797-03eeecacff77.cmd.main.desc.s37:
+de75bebd-a51e-4f11-b797-03eeecacff77.cmd.main.desc.s37: "&bBeschreibung\n &b| &7Verwalte
+  hier deine Einstellungen\n &b| &7aktiviere oder deaktiviere eine bestimmte\n &b|
+  &7Funktion!\n &3| &fKlick zur Ansicht.\n&bInformationen\n &8| &a■ &nLIME_GLASS&7
+  (Aktiviert)\n &8| &c■ &nRED_GLASS&7 (Deaktiviert)"
 438ca918-82f2-442b-a267-a619d963063b.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.8: '#bbff6a&lAktionen:'
 4979bb80-c91f-46bc-9865-15cfa549fe8b.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.5: '#ffa76a&lNotes:'
 3f8d560e-55f2-4683-9b8e-4dcfbff68592.PlayerParticlesrainbow: '&cR&6a&ei&an&bb&9o&dw'
 58f43545-d1c1-447f-88fb-f8958f019dc9.excellentcratesEditor.CrateEditorType.CRATE_CREATE.Lore.0: '#bdc8c9Erzeugt
   eine neue Kiste.'
-69cb362f-f1a5-4c66-91b2-1c666300a012.cmd.main.desc.s4:
+69cb362f-f1a5-4c66-91b2-1c666300a012.cmd.main.desc.s4: "&bInformationen:\n &8| &7Rang:
+  &b%formatter_text_replace_&__{luckperms_prefix}%\n &8| &7Spielzeit: &b%plan_player_time_total%"
 2514638a-acf6-42b8-982d-b780d5fcb490.PlayerParticlesgui-edit-data-description: '&bKlick
   &8|&7 Bearbeite die Daten dieses Partikels'
 b74e6675-3e2b-4481-b459-78dda018fb74.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Name: '#ffed6a&lBlock
@@ -836,7 +910,9 @@ b1a65e31-09d0-498b-9394-3cf10168fb5f.PlayerParticlesdata-invalid-note: >-
   &7Die von dir eingegebenen Notendaten sind ungültig! Format:&c
   <0-24>|<&brainbow>|<random>
 fe62e35e-2b4e-4a8e-9738-06f38e63a334.playerpoints.command-me-success: '&7Du hast &b&l%1&b%2&7.'
-05f1a19e-1900-40bc-a2e7-b28d7f884ac2.cmd.main.desc.s30:
+05f1a19e-1900-40bc-a2e7-b28d7f884ac2.cmd.main.desc.s30: "&bBeschreibung\n &b| &7Sind
+  Sie mit unseren Regeln einverstanden?\n &b| &7Bitte lies zuerst unsere Regeln und
+  Vereinbarungen!\n &3| &fKlick zur Ansicht"
 1729227c-4d2c-4ff8-8893-3dc10e1c825b.tempflycommand.base.time.2: Gleichgewicht
 c5714db3-e5c2-45b4-a90d-09fe3a1753d3.PlayerParticlesdata-usage-none: '&7Der Effekt
   &b%1 &7verwendet keine Daten!'
@@ -844,13 +920,13 @@ c5714db3-e5c2-45b4-a90d-09fe3a1753d3.PlayerParticlesdata-usage-none: '&7Der Effe
   &bID&8: &f%1 &bWorld&8: &f%2 &bX&8: &f%3 &bY&8: &f%4 &bZ&8: &f%5 &bEffect&8:
   &f%6 &bStyle&8: &f%7 &bData&8: &f%8
 6210d086-90b4-4347-a084-2e18e86c400e.excellentenchantmentsFitItemType.SWORD: Schwert
-5310f1ed-b5cd-472b-8dc4-d79ee2e183c6.cmd.upgrade.choose.title.s22:
+5310f1ed-b5cd-472b-8dc4-d79ee2e183c6.cmd.upgrade.choose.title.s22: '&b&lHome &7Upgrades'
 4ff99f51-4edf-435c-8cf0-e015c85f5b58.playerpoints.command-look-success: '&b%1 &7hat
   &b&l%2&b%3&7.'
 d9b5c7c5-80d1-47a7-a97b-ae5a91845977.PlayerParticlesgui-select-effect: '&bAuswahl
   Partikeleffekt'
 657a3f5c-aa2c-4b96-88db-e9be2d839e72.chatmanager.Broadcast: '#00ffff&lANKÜNDIGUNG! '
-da81febc-d07f-4f1b-ac3d-ea22021068c4.cmd.purchase.choose.title.s22:
+da81febc-d07f-4f1b-ac3d-ea22021068c4.cmd.purchase.choose.title.s22: '&b&lPunkte &7Einkauf'
 48a6866d-7dcb-4a87-9409-6572eed813bf.PlayerParticlesdata-invalid-vibration: >-
   &7Die von dir eingegebenen Schwingungs &cDaten sind ungültig! Format:
   &c<Dauer>
@@ -865,7 +941,10 @@ c2edf57f-b98c-41ee-b82c-0a7afc43469f.excellentcratesEditor.CrateEditorType.CRATE
   VERZÖGERUNG
 a956c80f-c978-4c3d-80d0-713548ec9c02.PlayerParticlesgroup-preset-no-permission: '&7Dazu
   haben Sie keine Berechtigung!'
-c1801390-e85f-442e-8b1e-ba87059ed536.cmd.upgrade.choose.desc.s22:
+c1801390-e85f-442e-8b1e-ba87059ed536.cmd.upgrade.choose.desc.s22: "&bBeschreibung\n
+  &b| &7Erhöht deine Set-Home-Grenzen\n &b| &7um mehr Häuser zu setzen!\n&f\n &3|
+  &fKaufe mehr Punkte\n &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!\n&f\n&b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴠɪᴇᴡ"
 5f707a2f-e43b-4fae-b630-be89e533116c.tempflygeneral.fly.enabled_self: '%1 &7Dein Flug
   wurde aktiviert!'
 fcb69ba4-fd50-4896-854c-6cd69bd2229f.alonsotags.Tag-cleared: Du hast deinen aktuellen
@@ -875,7 +954,7 @@ fcb69ba4-fd50-4896-854c-6cd69bd2229f.alonsotags.Tag-cleared: Du hast deinen aktu
 a13aade1-db89-4cb5-8759-75ea380232b2.excellentcratesCrate.Open.Reward.Broadcast.4: >-
   #d4d9d8Willst du auch? Jetzt Schlüssel kaufen: <? open_url:
   "http://samplesmp.com/store" ?>#aefd5e[Open Store]</>
-3fb46e85-f3e3-4ba9-865e-000ef63e0590.cmd.main.title.s5:
+3fb46e85-f3e3-4ba9-865e-000ef63e0590.cmd.main.title.s5: '&b&lWas ist Survival?'
 4b6a3e5b-2c92-407e-b3d4-6127cf86b108.gsitPlugin.plugin-enabled: '[P]&7 Das Plugin
   wurde erfolgreich aktiviert.'
 7928ee9c-b03e-459d-93f7-faa29c0fc516.PlayerParticlesgui-manage-your-groups-name: Verwalte
@@ -884,7 +963,7 @@ a13aade1-db89-4cb5-8759-75ea380232b2.excellentcratesCrate.Open.Reward.Broadcast.
 357b44df-d93d-49f6-8192-fb547e608f80.dh.your-points: '&fDeine Punkte:'
 69f6abe9-47d4-4303-9c89-bd11331e60fe.PlayerParticlesstyle-event-spawning-info: '&cHinweis:
   &7Der Stil &b%1 &7spawnt Partikel basierend auf einem Ereignis.'
-7faca170-f11d-481f-8ae3-6fcc396d48b4.SuperVanishMessagesVersion:
+7faca170-f11d-481f-8ae3-6fcc396d48b4.SuperVanishMessagesVersion: 6.2.12
 c2e32fe9-9c01-494a-baf0-8eda3d7d1ed2.excellentcratesEditor.CrateEditorType.CRATE_OBJECT.Lore.1: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aEdit'
 493d95b3-53f2-478a-92f6-0c320fe770b4.chatmanager.msg.you: '&bDu'
@@ -898,7 +977,10 @@ d26ce2e5-4fc6-4154-be1f-b38e6294e81b.tab.ani.2.1: '&fʙᴇᴛʀᴇᴛᴇ ᴜɴs�
 15a721b5-8154-4366-bce1-763fb19255e7.tempflygeneral.fly.speed_limit_self: '%1 &7Deine
   Fluggeschwindigkeit ist derzeit auf &f%2&7 begrenzt.'
 d27c6b12-9399-4867-84b7-d5b137aa207c.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.6: '#ffa76a&lNotes:'
-2bb011eb-0e39-4f2b-a18c-ab7d01c53ef8.cmd.upgrade.choose.desc.s29:
+2bb011eb-0e39-4f2b-a18c-ab7d01c53ef8.cmd.upgrade.choose.desc.s29: "&bBeschreibung\n
+  &b| &7Erhöhe die Grenzen deiner Jobs\n &b| &7um mehr Jobs zu bekommen!\n&f\n &3|
+  &fKaufe mehr Punkte\n &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!\n&f\n&b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴠɪᴇᴡ"
 14871dc8-1503-4344-baae-e3cfd758c88d.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.2: '#bdc8c9,
   um diese Belohnung zu erhalten.'
 cdfc1726-588a-44ee-b69a-b725b2a93048.uar.restart.subtitle: '&fNeustart in'
@@ -937,7 +1019,7 @@ f48cfc55-d60c-447f-bb10-fe4c092bd3d7.PlayerParticlesgui-edit-data-color-red: '#f
   &8|&7 löschen'
 8357525e-dcf6-4d8e-9be2-f29f497fe88f.PlayerParticlesgui-toggle-visibility-off: '&fParticles
   sind derzeit &chidden'
-c1db505d-9a13-49e0-8853-873e5d06b905.cmd.main.title.s25:
+c1db505d-9a13-49e0-8853-873e5d06b905.cmd.main.title.s25: '&b&lWarps'
 72cb42a7-7e20-4d21-a4bd-ce3e90462f72.menu.bank.interest.title: '&bDein nächstes Interesse'
 9957252b-687d-4801-8fcc-52d9ad4f337b.tab.ani.3.2: '&fsᴘɪᴇʟᴛ ᴅᴇʀᴢᴇɪᴛ ᴀᴜғ ᴛɪʟɢɪs!'
 093b2aaa-319e-4cc8-9bd0-bd2597807037.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.4: '#ffa76a&lNotes:'
@@ -957,7 +1039,8 @@ e004e105-5be5-4e36-9351-9b19e1f371cc.menu.bank.menu.interest: |2-
   &b| &7für alle &f5 Stunden&7!
    
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
-d161dfb1-37bd-42c9-ada1-d955e03b989a.SuperVanishMessages.NoConfigUpdateAvailable:
+d161dfb1-37bd-42c9-ada1-d955e03b989a.SuperVanishMessages.NoConfigUpdateAvailable: '&b&l%1
+  &8&l┃ &7Deine SuperVanish-Dateien sind auf dem neuesten Stand!'
 f27e9ff1-d25f-47a1-9eee-d5c4e027c96e.playerpoints.command-pay-usage: '&cAnwendung:
   &b/points pay &3<Spieler> <Menge>'
 20c35dad-85e6-48a5-9d93-b1a6c2343c18.PlayerParticleseffect-no-permission: '&7Dazu
@@ -969,8 +1052,10 @@ f27e9ff1-d25f-47a1-9eee-d5c4e027c96e.playerpoints.command-pay-usage: '&cAnwendun
 64c2167b-2422-465d-8b86-944714ffc0d0.tempflygeneral.invalid.player: '%1 &7Der Spieler
   &f%2 &7wurde nicht gefunden...'
 86fa623b-4bad-4d51-9946-05643df7197d.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.4: '#bdc8c9%1'
-7f37271d-0c2a-45c8-b2c0-92b1890f80f0.cmd.main.desc.s34:
-6f28672a-eba2-4e9b-b37d-45ddbf629069.SuperVanishMessages.DynmapFakeJoin:
+7f37271d-0c2a-45c8-b2c0-92b1890f80f0.cmd.main.desc.s34: "&bDeine Statistik\n&b | &7Spiel
+  mehr auf dem Server\n&b | &7um spannende Belohnungen zu bekommen.\n&3 | &7Spielzeit:
+  &b%plan_player_time_total%"
+6f28672a-eba2-4e9b-b37d-45ddbf629069.SuperVanishMessages.DynmapFakeJoin: '%1 verbunden'
 042c3c8b-f511-48ca-a4bd-f5d7f866c32d.PlayerParticlescommand-description-reload: Lädt
   die Datei config.yml und lang neu
 a84e2a42-52ab-498a-9983-ee490449d9a3.ia.1.1: Erhalte kostenlose Belohnungen bei
@@ -992,7 +1077,8 @@ cdf559c0-4661-4d83-9c12-871c877a996e.excellentenchantmentsCommand.List.Desc: Lis
   das zu tun!'
 0a81e4b8-1467-446e-a9b9-4d1f10504e3d.mycmd.broadcast-alone: '&7Niemand hat diese Nachricht
   erhalten'
-e3c1a250-a950-40c4-b55e-ed0ae05ee9ef.cmd.main.desc.s38:
+e3c1a250-a950-40c4-b55e-ed0ae05ee9ef.cmd.main.desc.s38: "&bBeschreibung\n &b| &7Öffne
+  das Menü, um\n &b| &7EXP-Flaschen herstellen.\n &3| &fKlick zur Ansicht."
 c8ab7b8c-55b3-4ba6-b6b0-3f0dbdd9d198.excellentcratesCommand.Give.Desc: Gibt eine Kiste
   an einen Spieler.
 05b2c1e0-5ca1-4f11-9f57-3733c9157844.dh.refresh: Bᴇsᴛᴇɴʟɪsᴛᴇ ᴀᴋᴛᴜᴀʟɪsɪᴇʀᴇɴ
@@ -1003,7 +1089,9 @@ bb7d5fdd-85ef-45fd-8d04-8be076ae95d4.tempflygeneral.info.days: '&fTage: &b⌚%1'
 f7fbf7fe-76a8-4888-89be-3197f2a0cbb5.mpdb.armorSyncBackup: >-
   &6[!] &eDie lokale Rüstung wurde wiederhergestellt! &cLassen Sie keine
   Gegenstände in Ihrem Inventar, wenn Sie die Verbindung trennen!
-01e603ed-9e16-4ce9-a8ea-dac424f5f526.cmd.main.desc.s43:
+01e603ed-9e16-4ce9-a8ea-dac424f5f526.cmd.main.desc.s43: "&bBeschreibung\n &b| &7Spenden
+  Sie für unseren Server und schalten Sie\n &b| &7a besondere Vergünstigungen ☺\n
+  &3| &fKlick zur Ansicht.\n&bInformationen\n &8▪ &7Rang: &f%formatter_text_replace_&__{luckperms_prefix}%"
 91969594-74a5-4bfa-b8ff-903f1b6e2153.excellentcratesCommand.Key.Set.Done: >-
   #d4d9d8Setze #fdf35ex%1#d4d9d8 von #fdf35e%2#d4d9d8 Schlüssel(n) für
   #fdf35e%3#d4d9d8.
@@ -1025,7 +1113,8 @@ dce19286-4310-41db-a975-6e5cc8b6b730.excellentcratesEditor.CrateEditorType.CRATE
   den Y-Versatz für'
 d8f686a0-68f1-425e-bfff-4aedb8340437.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Lore.0: '#bdc8c9Erzeugt
   eine neue Belohnung für die Kiste.'
-aef0761a-6fdf-47f8-b69a-fbd2c384726c.cmd.main.desc.s36:
+aef0761a-6fdf-47f8-b69a-fbd2c384726c.cmd.main.desc.s36: "&bBeschreibung\n &b| &7Öffne
+  das Menü, um\n &b| &7alle Abstimmungsorte anzuzeigen.\n &3| &fKlick zur Ansicht."
 84322162-8aa5-4f0b-af47-88a571e55004.uar.EVENT_RESTART_DELAY_GLOBAL.subtitle: Der
   Neustart hat sich verzögert um
 67cd462c-7bdf-4971-9c01-45cea700a166.excellentcratesEditor.Crate.BlockPushback.Lore.7: '#bbff6a&lAktionen:'
@@ -1065,13 +1154,14 @@ df7d4645-a2e9-4eee-beca-ae3be2dd4b86.PlayerParticlesfixed-remove-invalid: >-
   #ffa76a▪ #bdc8c9Openings befinden sich im Unterordner
   #ffa76a/openings/#bdc8c9.
 ac4a0819-782e-4192-aeeb-8c7057a7f10c.tempflycommand.base.trail_remove.0: remove_trail
-9f998b7b-a82e-4112-ae85-eba119a0783f.SuperVanishMessages.DismissedRecreationWarning:
+9f998b7b-a82e-4112-ae85-eba119a0783f.SuperVanishMessages.DismissedRecreationWarning: '&b&l%1
+  &8&l┃ &7Du erhältst keine Benachrichtigungen mehr über diese Freizeit.'
 884c901f-cffd-4d3f-a58e-b84f9db26cf4.tempflygeneral.invalid.particle: '%1 &f%2 &7ist
   kein gültiger Partikeltyp!'
 0dcfd27e-b979-46c1-9101-a87aac9506ea.PlayerParticlesgui-save-group-chat-message: >-
   &7Benutze &b/pp group save &3<name> &7um eine neue Partikelgruppe zu
   speichern.
-230f9336-2a17-4195-bc96-26173ea35b9c.cmd.main.title.chapter3:
+230f9336-2a17-4195-bc96-26173ea35b9c.cmd.main.title.chapter3: '&6Kapitel 3'
 b5f994d6-1a29-4444-8b4e-54e0a0b8df63.PlayerParticlesgui-select-style-description: Setzt
   den Partikelstil auf &b%1
 c59d5052-c183-4887-adf3-5eb78e221966.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.3: '#bbff6a&lAktionen:'
@@ -1091,7 +1181,8 @@ adba8262-39fe-40ae-814c-bb179fb50c77.excellentcratesEditor.CrateEditorType.REWAR
   der Liste wird nicht in der Lage sein'
 e295e951-a309-453a-846d-e73cacdb804c.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Name: '#ffed6a&lBelohnung
   erstellen'
-ec742b0e-d03a-4eb8-87af-bd73642ee30a.cmd.kits.choose.title.s24:
+ec742b0e-d03a-4eb8-87af-bd73642ee30a.cmd.kits.choose.title.s24: '&b⌘ &8| &bDonator
+  Kit'
 ef742849-3b8a-4028-9ce6-8538d439ffa1.gsitMessages.action-crawl-region-error: '[P]&c
   Du kannst in dieser Region nicht kriechen!'
 fc33cbfa-1b8b-4a74-8ad9-cc1f9738100f.excellentcratesCommand.ResetLimit.Usage: '%1
@@ -1128,7 +1219,10 @@ ef9b0fc0-7b41-4de4-8390-65b785e47806.PlayerParticlesid-unknown: '&7Du hast kein 
   mit der ID &b%1&c angelegt!'
 769805f0-2aae-43b6-8789-df33cc388ba7.excellentcratesCommand.Key.Desc: Verwalte die
   Schlüssel der Spieler.
-90cda9b4-98af-4aaf-a0fa-1db465040c73.cmd.main.desc.s5:
+90cda9b4-98af-4aaf-a0fa-1db465040c73.cmd.main.desc.s5: "&7Survival ist eine &fMultiplayer-Welt&7
+  mit\n&7verschiedenen Welten, die du &3erforschen&7 kannst!\n \n&7Jede Welt kommt
+  mit ihrem\n&7eigenen, einzigartigen &bSamen&7, den du\n&7erforschen, beanspruchen
+  und ausbauen kannst!\n&7Sorge dafür, dass du dich mit deinen\n&bFreunden &7zu spielen!"
 5a76e163-96cb-4ca2-be58-94032dfe1398.gsitMessages.action-blocked-error: '[P]&c Du
   darfst diesen Befehl im Moment nicht ausführen!'
 452555ca-5290-4481-a387-7ba18cf0a936.PlayerParticlesfixed-edit-missing-args: '&7Kannst
@@ -1166,7 +1260,8 @@ a766fd97-0b48-4304-8a57-52286fbcdf0e.PlayerParticlescommand-description-fixed-cr
 5ced4c47-e664-43a0-8696-8c664d07e895.playerpoints.base-command-help: '&7Benutze &b/points
   help &7für Informationen zu den Befehlen.'
 8206a62e-2c44-460d-bf7e-209e483a55b7.uar.restart.title: NEUSTART
-1fe9cac1-f044-4c64-9cff-f6e0f1e67c59.SuperVanishMessages.SilentQuitMessageForAdmins:
+1fe9cac1-f044-4c64-9cff-f6e0f1e67c59.SuperVanishMessages.SilentQuitMessageForAdmins: §x§9§9§f§f§9§9⏩
+  §f%1
 b80f4f23-1345-4693-bc11-4ca3a48419ed.gsitMessages.command-gsit-toggle-on: >-
   [P]&7 Du hast &a&l✔ &aAktiviert:&7 Klick-Interaktionen für Sitzen!
   &8&o(/toggle)
@@ -1189,7 +1284,8 @@ bb65ada8-e814-432b-88cb-b6f9c8eef0d0.PlayerParticlescommand-error-missing-effect
   haben Sie keine Berechtigung!'
 9018d335-b5e0-4d1e-98d0-61c628fea214.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.3: '#ffed6a▪
   #bdc8c9Preview: #ffed6a%1'
-2a07251d-6f65-49a4-903b-54198566dd7a.SuperVanishMessages.AlreadyVisibleMessage:
+2a07251d-6f65-49a4-903b-54198566dd7a.SuperVanishMessages.AlreadyVisibleMessage: '&b&l%1
+  &8&l┃ &7Player &f%2&7 ist bereits sichtbar!'
 ef2e88e8-f29b-4544-8d05-21295f04451e.chatcolor.gui-click-to-toggle: '&bKlick &8|&7
   Umschalten'
 05105a0e-9bf5-4d7f-b363-b39a53088932.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.0: '#bdc8c9Setzt
@@ -1202,10 +1298,11 @@ e9926a30-eb5d-4dd3-b3a3-9100c1c4df0b.dh.farmserver.menu.l6: '&4&lNicht alle Verz
 b125cb1d-84a6-4917-985f-f1debba6cd05.excellentcratesCommand.Menu.Desc: Öffne das Kistenmenü.
 68d8da3d-88f9-4e09-ba83-81972ea5ce4e.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.12: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aBetrag ändern'
-85af1348-ed49-485d-a9e4-f45da84c946b.SuperVanishMessages.NoPermission:
+85af1348-ed49-485d-a9e4-f45da84c946b.SuperVanishMessages.NoPermission: '&b&l%1 &8&l┃
+  &7Du hast keine Erlaubnis, das zu tun!'
 af79f6f7-2065-4e0b-b27b-8b5fed00c86b.PlayerParticlesgui-edit-primary-style-description: '&fBearbeite
   den Stil deines Primärpartikels'
-787eaad9-80b0-4ddb-a26d-14cb06ef9538.cmd.warps.title.s23:
+787eaad9-80b0-4ddb-a26d-14cb06ef9538.cmd.warps.title.s23: '&bPlayer Warps'
 cb123489-3268-4660-ac3d-88a327dac21d.menu.goback: '&b&l⤊ &bGoBack'
 5689fdf0-fa50-49aa-98cb-c67681761c72.excellentcratesCrate.Open.Error.NoRewards.0: '<!
   type: "titles:20:80:20" sound: "ENTITY_VILLAGER_NO" !>'
@@ -1225,7 +1322,8 @@ ffd61dcd-c031-4a28-b7b3-663c9038211c.dh.playtime-updated: '&7Du hast die &fSpiel
   Bestenliste&7 aktualisiert!'
 ffc14298-9afc-4987-a754-30b2468e2091.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Name: '#ffed6a&l%1
   &7(ID: &f%2&7)'
-0fcc4336-f688-446e-ada2-72747f09d0ed.SuperVanishMessages.CannotHideOtherPlayer:
+0fcc4336-f688-446e-ada2-72747f09d0ed.SuperVanishMessages.CannotHideOtherPlayer: "&b&l%1
+  &8&l┃ &7Du darfst &f%2's&7 Sichtbarkeit nicht verändern!"
 9397ad59-d46d-478e-9cf3-584628ea74fe.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.3: '#ff6a6a&lWarnung:'
 95908359-d4dd-496a-955a-fcdfc6b33f4f.PlayerParticlesfixed-teleport-no-args: '&7Du
   hast keine ID angegeben, zu der du dich teleportieren kannst!'
@@ -1349,7 +1447,8 @@ f316b912-1bbe-44f4-bd18-454ed4af1837.excellentcratesEditor.CrateEditorType.CRATE
   Gruppen: &b%1'
 6198c325-3d57-4ce2-9744-2d9babc0fb33.excellentenchantmentsCommand.Book.Desc: Gibt
   ein eigenes verzaubertes Buch.
-73ef71a7-8748-4247-9855-13d2b19a5e9b.SuperVanishMessages.PlayerNonExistent:
+73ef71a7-8748-4247-9855-13d2b19a5e9b.SuperVanishMessages.PlayerNonExistent: '&b&l%1
+  &8&l┃ &7Den Spieler gibt es nicht!'
 35859711-5591-443d-b7e6-c50871beeaff.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.8: '#bbff6a▪
   #bdc8c9Drag & Drop: #bbff6aReplace'
 f30abf88-403c-4dcd-933c-c7b44e540dde.PlayerParticlesfixed-clear-invalid-args: >-
@@ -1364,25 +1463,29 @@ dc614f68-4bd8-4925-bb8b-5fb3db2f15de.tempflysystem.help_extended.4: '&6/tf set [
   [Zeit]'
 fbc752ba-b9c2-41b9-8061-e080db0a332e.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.0: '#bdc8c9Definiert
   das Aussehen der Kiste'
-bf102741-0d45-4b20-b32f-12be5dc26eef.cmd.main.desc.s40.2:
+bf102741-0d45-4b20-b32f-12be5dc26eef.cmd.main.desc.s40.2: "&bBeschreibung\n &b| &7Gib
+  dir ein paar\n &b| &7schöne Werkzeuge zum Bauen.\n &3| &fKlick zur Ansicht."
 e69d9e02-86e0-4f6e-b3e7-f621021acd89.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.3: '#ffa76a▪
   #bdc8c9Diese Option ist für virtuelle Schlüssel nutzlos.'
-0bd14fc0-d5de-4887-b807-85e229e292ef.cmd.main.desc.s32:
-6c46949e-d3d5-4287-9765-64de22287628.cmd.main.title.s19:
+0bd14fc0-d5de-4887-b807-85e229e292ef.cmd.main.desc.s32: "&bBeschreibung\n &b| &fWITHDRAW&7
+  oder &fDEPOSIT&7 dein Guthaben\n &b| &7an die Bank.\n &3| &fKlick zur Ansicht.\n
+  &4| &cDies ist in Farmwelten nicht verfügbar"
+6c46949e-d3d5-4287-9765-64de22287628.cmd.main.title.s19: '&b&lUpgrades'
 2533fc85-81e6-42d6-a26d-92e80b703b2b.playerpoints.unknown-command: 'Unbekannter Befehl: '
-a06adf9b-7ce6-4cc3-9f35-a1fd96471b11.cmd.back:
+a06adf9b-7ce6-4cc3-9f35-a1fd96471b11.cmd.back: '&b&l⤊ &bGoBack'
 c3026f3a-95d9-4ec8-820d-21e3e95be4f5.PlayerParticlesfixed-edit-style-invalid: >-
   &7Fixierter Effekt kann nicht bearbeitet werden, ein Stil mit dem Namen &c%1
   &7ist nicht vorhanden!
 85603392-a0c2-4139-a70f-e90aec0e2193.PlayerParticlesfixed-teleport-success: '&7Mit
   einer ID von &c%1&7 zu deinem festen Effekt gemeldet!'
-d43a0c2d-a2b7-4eba-9578-420e33e66b78.cmd.languages.desc.s19:
+d43a0c2d-a2b7-4eba-9578-420e33e66b78.cmd.languages.desc.s19: "&bBeschreibung\n &b|
+  &8Stelle deine Sprache ein\n &b| &7Deutsch!\n &3| &fKlick zum Ändern."
 39312e68-e0db-463b-8609-a4dc556cb513.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.7: '#ff6a6a▪
   #bdc8c9Das ist #ff6a6aNOT#bdc8c9 tatsächlicher Schlüsselwortname!'
 63bc3550-618b-4146-a613-8312d2dc9e65.chatcolor.set-own-color: '&7Setzen Sie Ihre Farbe
   erfolgreich auf:'
 40debcbe-b229-4416-ad35-0d87aca21dd4.bungee.restart.title: '&bNeustart '
-85c326f7-db39-4cd4-b7e9-7b8157013e31.cmd.links.tellraw.s24:
+85c326f7-db39-4cd4-b7e9-7b8157013e31.cmd.links.tellraw.s24: ᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ
 c4ad4500-69d6-4e33-a6d1-2a7806e577be.excellentenchantmentsFitItemType.HOE: Hacke
 39d0e66e-e1f4-46b7-bd5a-2e3cd6bc82f7.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.7: '#bbff6a&lAktionen:'
 c3aff064-021b-46ad-8fb8-784d51a4824a.tempflygeneral.info.footer: '&3&m &b&m &f&m [&b&l
@@ -1427,12 +1530,13 @@ cf5df50c-9d4c-4324-a45f-8f3e6bb74023.excellentcratesEditor.CrateEditorType.REWAR
   %3 [-s]'
 e4fa4f8f-e394-4b1d-9237-bf54bc8f2931.mycmd.cmds.args.l1: '&7Nicht genug Argumente...
   Du hast getippt '
-fd479b0a-4b47-40d3-ad71-5de0d403d396.SuperVanishMessages.ActionBarMessage:
+fd479b0a-4b47-40d3-ad71-5de0d403d396.SuperVanishMessages.ActionBarMessage: '&3&l|
+  &bDu bist für andere Spieler unsichtbar! &3&l|'
 2ccd337f-342b-4780-a0b7-6631feff44ea.ia.7.2: Genießen Sie Ihren Aufenthalt bei uns!
 a4e0d237-e83e-4a45-9e00-f9cea8ebbf9e.dh.menu.l2: '&7Du kannst das Menü öffnen,'
 a7467a92-54ff-4a94-8614-7ba95be1efd2.playerpoints.command-giveall-description: '&8
   - &b/points giveall &3<Menge> &8-&f Gibt allen Online-Spielern Punkte'
-e2c5bf1b-c8c0-4454-8a79-0423f65f67e5.cmd.close:
+e2c5bf1b-c8c0-4454-8a79-0423f65f67e5.cmd.close: '&c&l✘ &cClose'
 4915c45d-7c31-49e1-969c-b096cfe8fa02.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.1: '#bdc8c9diese
   Kiste zum Öffnen oder zur Vorschau'
 06f9e736-e571-4e02-9ee4-137e5bb7ac49.playerpoints.command-take-lacking-funds: '&b%1
@@ -1450,12 +1554,14 @@ e2c5bf1b-c8c0-4454-8a79-0423f65f67e5.cmd.close:
 218eefeb-c3b7-45e9-8910-7a4d0ed01075.PlayerParticlesgui-color-icon-name: '&b'
 72f8a8de-b920-4c15-a035-060da2a51c2a.PlayerParticlesgroup-save-no-particles: '&7Kannst
   du die Gruppe nicht speichern, hast du keine Partikel angewendet!'
-39deadcc-b99e-4f77-8b9c-d60ef48436cb.cmd.languages.desc.s33:
+39deadcc-b99e-4f77-8b9c-d60ef48436cb.cmd.languages.desc.s33: "&bBeschreibung\n &b|
+  &8Stelle deine Sprache ein\n &b| &7Russisch!\n &3| &fKlick zum Ändern."
 18cf42ab-22f3-455d-aa59-fb5ad824a26b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.5: '#ffed6a▪
   #bdc8c9Node: #ffed6a%1'
 6ac8b0ef-5030-4a2c-9da9-1ee9f6aa4449.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.9: '#bbff6a▪
   #bdc8c9Right-Click: #bbff6aListe löschen'
-f5ed8e8e-32d9-49b2-9417-a95ae8016236.SuperVanishMessages.HelpFormat:
+f5ed8e8e-32d9-49b2-9417-a95ae8016236.SuperVanishMessages.HelpFormat: '&b%1 &8- &7%2
+  &8(%3)'
 869a0afb-c529-4473-af14-8547bdf25559.excellentcratesCrate.Open.Error.InventorySpace.0: '<!
   type: "titles:20:80:20" sound: "ENTITY_VILLAGER_NO" !>'
 954f7628-7ef4-44ba-96d6-128d53b0e353.PlayerParticlesgui-reset-particles: '&bReset
@@ -1464,10 +1570,13 @@ f5ed8e8e-32d9-49b2-9417-a95ae8016236.SuperVanishMessages.HelpFormat:
   mit der ID &b%1 &7wurde entfernt!'
 c3e9a018-10a1-47ef-8fea-e6ab0ff0e393.excellentcratesCrate.Key.Error.Exists: '#fd5e5eDer
   Schlüssel mit dieser ID ist bereits vorhanden!'
-d970d355-4e95-4634-bdf5-aaab0f4ba419.SuperVanishMessages.EntityHitDenied:
+d970d355-4e95-4634-bdf5-aaab0f4ba419.SuperVanishMessages.EntityHitDenied: '&b&l%1
+  &8&l┃ &7Du kannst keine Spieler oder Mobs beim Verschwinden treffen!'
 154ee715-fc9f-4b0a-9b88-dfc314c866c8.chatcolor.gui-active: '&bAktiv'
-06259843-ab47-44ee-8559-a654ba2b461b.cmd.main.title.s23:
-5e1d41dc-aca7-4398-8897-da9470c9bb5c.cmd.links.desc.s24:
+06259843-ab47-44ee-8559-a654ba2b461b.cmd.main.title.s23: '&b&lKosmetik'
+5e1d41dc-aca7-4398-8897-da9470c9bb5c.cmd.links.desc.s24: "§f\n§x§a§3§c§8§3§4Beschreibung\n
+  §x§a§3§c§8§3§4| §7Klick auf unsere offizielle\n §x§a§3§c§8§3§4| §7store Website!\n
+  §f\n§x§a§3§c§8§3§4§l| §x§a§3§c§8§3§4ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 32adbb61-6598-466d-9a76-4d087e3fd96a.PlayerParticlescommand-description-worlds: 'Finde
   heraus, in welchen Welten Partikel deaktiviert sind'
 43d3c66b-316c-44eb-ac66-d2e4884dc692.menu.farm.normal.hard.lore: |-
@@ -1516,7 +1625,8 @@ d199f929-71ab-401c-bf2a-c16f6f0e9b23.playerpoints.command-giveall-success: '&7Ge
   &b&l%1&b%2&7 an alle Online-Spieler.'
 e375d0be-c157-455c-8865-bfa5c26fce58.excellentcratesEditor.CrateEditorType.KEY_CREATE.Lore.0: '#bdc8c9Erzeugt
   einen neuen Kistenschlüssel.'
-119e0233-2656-4bd9-95d9-e9f61c8cd246.cmd.main.desc.s40.1:
+119e0233-2656-4bd9-95d9-e9f61c8cd246.cmd.main.desc.s40.1: "&bBeschreibung\n &b| &7Wandle
+  Token in Dinge um\n &b| &7das du brauchst, wie Punkte!\n &3| &fKlick zum Ansehen."
 9fb55997-f3e8-4041-9821-3a046a3b4f95.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.1: '#bdc8c9wenn
   du eine Vorschau siehst und die Kiste öffnest.'
 ad25be22-9075-4746-88c7-dd0272359f73.tempflygeneral.time.format: '&f%1&f%2'
@@ -1526,7 +1636,8 @@ c730d548-3ddd-4039-af68-6fab4ace235c.uar.COMMAND_USER_VIEWINTERVAL.chatMessage: 
   in
 aad00c43-1cfb-4243-8f4e-841fdfa9c388.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_REWARDS.Lore.3: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aÖffnen'
-d69fcce8-1c8c-43a7-9cf5-7a8e90f36e80.SuperVanishMessages.ListMessagePrefix:
+d69fcce8-1c8c-43a7-9cf5-7a8e90f36e80.SuperVanishMessages.ListMessagePrefix: '&b&l%1
+  &8&l┃ &7Unsichtbare Spieler:&b %l'
 063b0a5d-3428-486d-8494-14f8a8a6368e.PlayerParticlesgui-reset-particles-description: Löscht
   alle deine aktiven Partikel
 60b6ac6f-1412-4877-8635-9f6494691168.tempflycommand.unit.minutes.recognized.2: Minute
@@ -1564,8 +1675,9 @@ c4645f69-c0eb-44fd-b518-1be148468ee6.ia.8.1: Laden Sie Ihre Freunde zum Spielen 
   #d4d9d8Reset #fdf35e%1#d4d9d8 Gewinnlimit für alle Belohnungen von
   #fdf35e%2#d4d9d8.
 d32166fb-5fa9-4c90-b18a-0dd6444d9273.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.3: '#ffed6a&lAktuell:'
-55157e80-98ad-4fd7-b6c1-95a10ba61508.SuperVanishMessages.PlayerNotOnline:
-f89daba7-7f65-4706-8f40-037715c9dfae.cmd.upgrade.choose.title.s25:
+55157e80-98ad-4fd7-b6c1-95a10ba61508.SuperVanishMessages.PlayerNotOnline: '&b&l%1
+  &8&l┃ &7Dieser Spieler ist nicht online!'
+f89daba7-7f65-4706-8f40-037715c9dfae.cmd.upgrade.choose.title.s25: '&b&lGruppen'
 9f41a831-b72f-4698-82fe-9ff691d42897.PlayerParticlescommand-description-fixed-remove: '&b/pp
   fixed remove&3 <ID> &8-&f Entfernt einen fixen Effekt anhand seiner ID'
 981c78df-bd0f-468c-9d7d-4a433f03ed4c.PlayerParticlesgui-create-particle-description: 'Erstelle
@@ -1577,7 +1689,7 @@ d86bc626-68fe-413d-9bdd-a287207917e2.menu.bank.deposit.title: '&aGeld einzahlen'
 122ef877-43be-40f9-b477-04ceda61c864.excellentcratesCrate.Open.Reward.Broadcast.2: >-
   #aefd5e&lWOW!#d4d9d8 Spieler #aefd5e%1#d4d9d8 hat gerade #aefd5e%2#d4d9d8 von
   #aefd5e%3#d4d9d8 gewonnen!
-548cfc78-6760-410f-8ca2-0c09ca349b41.cmd.upgrade.choose.title.s33:
+548cfc78-6760-410f-8ca2-0c09ca349b41.cmd.upgrade.choose.title.s33: '&b&lQuests'
 662992d0-81b1-4eb8-977b-04acf090b232.PlayerParticlesother-unknown-command: '&7Der
   Befehl &b/pp &3%1 &7ist nicht vorhanden.'
 f853102f-82dc-41a3-bc2f-959d102c64b7.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.6: '#ffed6a▪
@@ -1599,7 +1711,7 @@ ca0c1751-3188-4d75-b526-9f29a008c07a.excellentcratesEditor.CrateEditorType.REWAR
 f7278ecf-46b7-4b02-883e-fab401944c0d.PlayerParticlesfixed-create-invalid-coords: >-
   &7Fixierter Effekt kann nicht erstellt werden, eine oder mehrere Koordinaten,
   die du eingegeben hast, sind ungültig!
-0b1fbe23-b171-4ab2-bb6d-407882bd9daf.cmd.main.title.s38:
+0b1fbe23-b171-4ab2-bb6d-407882bd9daf.cmd.main.title.s38: '&b&lEXP'
 f4196f9b-d12c-429d-bb45-f5998d489e91.menu.farm.normal.easy.lore: |-
   §2Easy Overworld Farmworld
 
@@ -1632,7 +1744,7 @@ d7fe1984-2f55-464d-b91f-2b3f8722fc34.excellentcratesCommand.Key.Give.Usage: '%1 
 ba957850-2256-4992-9be7-754e73c13209.antieditsign.message: '&bDu kannst nur deine
   eigenen Schilder bearbeiten!'
 c8ed06e2-c347-44bc-82c7-ce6cccf5ce46.tempflycommand.unit.seconds.recognized.2: sekunde
-4f860330-0405-42d4-bba5-5ae964386150.cmd.main.title.s39:
+4f860330-0405-42d4-bba5-5ae964386150.cmd.main.title.s39: '&b&lBenutzerdefinierte Verzauberungen'
 50088488-67dd-4d23-ac52-d8368147a2e5.mycmd.block-removed: '&7Block entfernt!'
 cdbd3d29-68bf-4328-990f-4de8bae551d7.PlayerParticlesgui-toggle-visibility-on: '&fTeilchen
   sind derzeit &unsichtbar'
@@ -1664,8 +1776,11 @@ c5c78938-b9f9-4342-9284-40e9024ec263.alonsotags.Tag-purchased: Sie haben das Tag
   erfolgreich gekauft!
 20412212-f754-4ea3-bfdc-7178039e2cea.playerpoints.command-pay-description: '&8 - &b/points
   pay &3<Spieler> <Menge> &8- &fBezahle einen Spieler'
-8b9dab3d-7493-4c5b-ba77-2382230bbcd6.cmd.main.desc.s10:
-64618744-fc17-4fad-9c2b-639fd31070ce.cmd.kits.choose.title.s20:
+8b9dab3d-7493-4c5b-ba77-2382230bbcd6.cmd.main.desc.s10: "&bBeschreibung\n &b| &7Suche
+  einen Job, um\n &b| &7mehr Einkommen!\n &3| &fKlick zur Ansicht.\n&bInformationen\n
+  &8▪ &7Mitarbeiter: &f%jobsr_total_workers%\n &8▪ &7Jobs Joined: &a%jobsr_user_joinedjobcount%&8/&c%jobsr_maxjobs%\n\
+  &8%jobsr_user_jobs%"
+64618744-fc17-4fad-9c2b-639fd31070ce.cmd.kits.choose.title.s20: '&b⌚ &8| &bFree Kit'
 ace8963d-93d5-49ef-b17b-50dbf2341b12.PlayerParticlesgui-edit-effect-description: '&bKlick
   &8|&7 bearbeite den Effekt dieses Partikels'
 eb18b1a6-8826-4456-9b1b-e1dd67d5ca61.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.8: '#bbff6a▪
@@ -1679,7 +1794,8 @@ eb18b1a6-8826-4456-9b1b-e1dd67d5ca61.excellentcratesEditor.CrateEditorType.KEY_C
 39523b27-9869-44b5-8cc6-20b48dbf833f.PlayerParticlesgui-edit-data-color-magenta: '#ca1f7bMagenta'
 e040daa5-510d-4e05-91a9-febb0c5c1830.playerpoints.command-lead-title: '&b&lPunkte
   &8&l➦ &bBestenliste:'
-2a995c1d-3bc6-46b2-b2c3-e3a3e9d9310d.cmd.languages.desc.s29:
+2a995c1d-3bc6-46b2-b2c3-e3a3e9d9310d.cmd.languages.desc.s29: "&bBeschreibung\n &b|
+  &8Stelle deine Sprache ein\n &b| &7Niederländisch!\n &3| &fKlick zum Ändern."
 43bc9f69-93b6-4080-a682-2bf8a0516567.excellentcratesEditor.CrateEditorType.CRATE_CREATE.Lore.2: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aCreate'
 baab14b8-3f84-420a-8000-2a2fe71814eb.excellentcratesEditor.CrateEditorType.EDITOR_CRATES.Lore.3: '#bbff6a▪
@@ -1693,7 +1809,7 @@ baab14b8-3f84-420a-8000-2a2fe71814eb.excellentcratesEditor.CrateEditorType.EDITO
   &e| &7Geld abgehoben: &f$%1
 
   &e&l| &eᴄʟɪᴄᴋ ᴛᴏ ᴡɪᴛʜᴅʀᴇᴡ
-6855b6f3-0e79-4fbe-b063-1e30f09e643b.cmd.upgrade.choose.title.s29:
+6855b6f3-0e79-4fbe-b063-1e30f09e643b.cmd.upgrade.choose.title.s29: '&b&lJobs'
 efaf23c5-6744-4cd2-b075-8e32b91c09d6.tab.ani.2.3: '&fᴋᴀᴜғᴇ ʙᴇғᴇʜʟᴇ, ᴠᴇʀɢᴜ̈ɴsᴛɪɢᴜɴɢᴇɴ,
   ᴋᴏsᴍᴇᴛɪᴋᴀ ᴜɴᴅ ᴍᴇʜʀ ᴀᴜғ'
 707734c5-a306-4772-a6eb-474889b2d4e0.tempflyaesthetic.trail.set_self: '%1 &7Deine
@@ -1702,13 +1818,16 @@ efaf23c5-6744-4cd2-b075-8e32b91c09d6.tab.ani.2.3: '&fᴋᴀᴜғᴇ ʙᴇғᴇʜ
   von &b%3&7.'
 32008c67-a584-484b-912f-885eabd17845.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.10: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aChange'
-a0c64a09-8a8f-4129-b65b-1d5e31773285.cmd.links.desc.s29.2:
+a0c64a09-8a8f-4129-b65b-1d5e31773285.cmd.links.desc.s29.2: "&f\n§x§7§2§8§9§d§aBeschreibung\n
+  §x§7§2§8§9§d§a| &7Klicke, um dein\n §x§7§2§8§9§d§a| &7Discord Profil!\n&f\n §x§7§2§8§9§d§a&l|
+  #7289daᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 5911ef87-c0a7-4d39-8586-cba422609708.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Name: '#ffed6a&lGegenstände'
 7dddf5f5-44da-49e6-8cb8-3fe5a7a9a7f3.excellentcratesEditor.CrateEditorType.KEY_CREATE.Lore.3: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aCreate'
 13c4b11e-4604-4a9c-afe9-c1ec51790a91.dh.your-tokens: '&fDeine Tokens:'
 768ccf05-0c6d-45e6-b873-a8bb44c0afad.uar.restart.chatmessage: Server-Neustart in
-8da8afd2-22da-4ca4-af41-60f8a4996a9c.SuperVanishMessages.RemindingMessage:
+8da8afd2-22da-4ca4-af41-60f8a4996a9c.SuperVanishMessages.RemindingMessage: '&b&l%1
+  &8&l┃ &7Du bist immer noch unsichtbar!'
 25e63530-8991-4ee2-90a3-427182e30804.tempflysystem.help.1: '&6/tf'
 a17d8514-c552-4f57-8afb-e93ec08e6042.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.7: '#bbff6a▪
   #bdc8c9[Num 4]: #bbff6aBy Rarity'
@@ -1728,7 +1847,8 @@ a8b47715-b9d1-4d06-ac01-d7a97c48d144.excellentcratesEditor.CrateEditorType.CRATE
 eaf2fb4a-2490-4e13-a6b8-f118dec71f61.PlayerParticlesgui-save-group-hotbar-message: >-
   &7Tippe &b1 &7Wort im Chat für den neuen Gruppennamen. Tippe &ccancel&7 zum
   Abbrechen. &8(&b%1&7s links&8)
-85714ca4-0bd8-428e-945e-1d8324798ba1.SuperVanishMessages.AlreadyInvisibleMessage:
+85714ca4-0bd8-428e-945e-1d8324798ba1.SuperVanishMessages.AlreadyInvisibleMessage: '&b&l%1
+  &8&l┃ &7Player &f%2&7 ist bereits unsichtbar!'
 ae494d2e-150e-4ae3-a45b-5de991b63035.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.13: '#bbff6a▪
   #bdc8c9Right-Click: #bbff6aChange Cooldown'
 3437c0cc-4f71-480b-8509-57a53d0ba17d.PlayerParticlescommand-description-fixed-clear: >-
@@ -1753,7 +1873,8 @@ cae1c393-076e-484e-b7e3-775946fac5c3.excellentcratesCommand.Key.Set.Usage: '%1 %
   %3 [-s]'
 317c9f6e-fa57-4f6a-a13c-63745b88aaeb.PlayerParticlesdata-invalid-material-block: '&7Das
   Blockmaterial &c%1&7, das du eingegeben hast, existiert nicht!'
-7fbacac7-f7a4-4782-b31c-c32614c7c7bd.SuperVanishMessages.BlockPlaceDenied:
+7fbacac7-f7a4-4782-b31c-c32614c7c7bd.SuperVanishMessages.BlockPlaceDenied: '&b&l%1
+  &8&l┃ &7Du kannst keine Blöcke in "Verschwinden" platzieren!'
 4d1edc72-35e4-4a17-859c-b9a6228f9646.tempflygeneral.requirement.pass.default: '%1
   &7Du darfst jetzt fliegen!'
 e039ea63-00d4-4eaf-8fd1-d2f8e987a04f.excellentcratesEditor.Reward.Enter.DisplayName: '#d4d9d8Eintrag
@@ -1779,7 +1900,10 @@ fc587346-0b71-4f44-a826-02b9ee80f5a9.gsitMessages.action-sit-location-error: '[P
   Du kannst hier nicht sitzen!'
 171055f9-c489-4e24-a986-1c8631c7d337.PlayerParticlesgroup-load-preset-success: '&7Angewandte
   &b%1 &7Partikel aus der voreingestellten Gruppe namens &b%2&7!'
-80a731b6-0c97-4895-8c18-8166f0b89e52.cmd.upgrade.choose.desc.s33:
+80a731b6-0c97-4895-8c18-8166f0b89e52.cmd.upgrade.choose.desc.s33: "&bBeschreibung\n
+  &b| &7Erhöhe die Grenzen deiner Quests\n &b| &7um mehr Quests zu starten!\n&f\n
+  &3| &fKaufe mehr Punkte\n &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!\n&f\n&b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴠɪᴇᴡ"
 3d1a6cf8-094a-4f34-a432-120a4c854897.playerpoints.command-pay-lacking-funds: '&7Dafür
   hast du nicht genug &b%1&7.'
 f85c0b13-cabc-45c1-ac9a-09693f4ae2dc.PlayerParticlesgui-create-particle-unavailable: 'Du
@@ -1803,16 +1927,18 @@ e3b8e97c-a97e-4fe6-b908-3d829d582ead.tempflyaesthetic.featherboard.seconds: '&f%
 88f3b510-714e-471e-a67d-e3c043c0c10b.excellentcratesCrate.Open.Reward.Broadcast.3: '#d4d9d8'
 fc5a53a2-3042-41ae-980c-cd9d131d4642.tempflygeneral.time.max_other: '%1 &f%2 &7hat
   die maximal zulässige Zeit erreicht!'
-1ec56c6a-0805-43e4-a651-977fc83c6da5.cmd.upgrade.choose.title.s11:
+1ec56c6a-0805-43e4-a651-977fc83c6da5.cmd.upgrade.choose.title.s11: '&b&lPlayerWarps'
 0d1522ac-1134-497e-b4d3-e4b0a7c6f563.tempflygeneral.requirement.fail.height: '%1 &f%2
   &7ist die maximale Flughöhe!'
-56e18f77-4814-4516-a4b2-054e4953ee0a.cmd.links.desc.s29.3:
+56e18f77-4814-4516-a4b2-054e4953ee0a.cmd.links.desc.s29.3: "&f\n§x§7§2§8§9§d§aBeschreibung\n
+  §x§7§2§8§9§d§a| &7Klicke, um dein\n §x§7§2§8§9§d§a| &7Discord Profil!\n&f\n §x§7§2§8§9§d§a&l|
+  #7289daᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 1f95c50d-c4b8-409c-bc39-fa073d9c654d.PlayerParticlesgui-color-subtext: '&7'
 215a4e79-0213-41d9-987f-b7334f831421.PlayerParticlesdata-invalid-color-transition: >-
   &7Die von dir eingegebenen Farbübergangsdaten sind ungültig! Format:
   &3<<0-255> <0-255> <0-255>>|<&brainbow>|<random> <<0-255> <0-255>
   <0-255>>|<rainbow>|<random>
-fdfa5f9b-2699-4570-b8e1-7a828300108d.cmd.main.title.s43:
+fdfa5f9b-2699-4570-b8e1-7a828300108d.cmd.main.title.s43: '&b&lSpender'
 40f46b5d-ac9c-48fd-b654-6f32b40346ff.gsitMessages.command-gcrawl-toggle-on: '[P]&a
   Du hast Doppel-Schleichen für Kriechen aktiviert.'
 a7b7138b-8833-43f0-b019-7e17234f70a4.tempflysystem.help.4: '&7- Verbleibende Flugzeit
@@ -1865,7 +1991,8 @@ c6680c2c-fd18-4481-86fe-d674e8dd829a.excellentcratesEditor.CrateEditorType.CRATE
 6ad9fb66-1775-4df3-9409-e515f3e1ebec.excellentcratesEditor.Reward.Enter.Chance: '#d4d9d8Eintrag
   #aefd5e[Chance]'
 ae580939-b6bb-4fa4-bf1b-ff8d206af997.tempflysystem.help.0: '&8&l------&dTemp&fFly&8&l------'
-41faea65-8b60-4d35-8c08-dc8616608ba7.SuperVanishMessages.PrintedStacktrace:
+41faea65-8b60-4d35-8c08-dc8616608ba7.SuperVanishMessages.PrintedStacktrace: '&b&l%1
+  &8&l┃ &7Erfolgreich einen Stacktrace erstellt, siehe Konsole!'
 124db999-21c8-41d1-8fff-f0ceffa19ca2.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.3: '#ffed6a&lAktuell:'
 464275a1-9e74-4ad9-889b-6717a2e1f137.PlayerParticlescommand-description-gui: Anzeige
   der GUI zur einfachen Bearbeitung von Partikeln
@@ -1877,7 +2004,7 @@ ae580939-b6bb-4fa4-bf1b-ff8d206af997.tempflysystem.help.0: '&8&l------&dTemp&fFl
 5ae96ee6-1387-4e3f-bf6f-56e453e68c64.PlayerParticlescommand-description-default: Der
   Hauptbefehl. Öffnet standardmäßig die GUI
 cbf0103e-f88e-4ee6-8151-5832a4044276.uar.COMMAND_FORCE_RESTART.title: NEUSTART ERZWUNGEN
-f2f6031f-4967-40bc-8dd3-6454c2f993fe.SuperVanishMessages.DynmapFakeQuit:
+f2f6031f-4967-40bc-8dd3-6454c2f993fe.SuperVanishMessages.DynmapFakeQuit: '%1 Beenden'
 a5324e82-41f2-42ca-974f-d3d8d807e8dc.excellentcratesCrate.Open.Error.Cost.Money.2: '#d4d9d8Du
   brauchst $#fd5e5e%1#d4d9d8 um es zu öffnen!'
 cff25232-f6b5-44fe-ba28-c5fdbf82e0d2.excellentcratesEditor.Crate.Enter.KeyId: '#d4d9d8Eintrag
@@ -1914,7 +2041,9 @@ a6be88d9-044f-4c40-8b51-aa883a7cec6b.PlayerParticlestoggle-on: '&7Partikel wurde
   Partikelstils'
 59966f1a-5f90-44ff-b77a-37f7639d9095.tempflysystem.help_extended.5: '&7- Lege die
   Flugzeit eines Spielers fest'
-c43e58a9-4f9f-4510-bddf-f95bebf08c10.cmd.main.desc.s16:
+c43e58a9-4f9f-4510-bddf-f95bebf08c10.cmd.main.desc.s16: "&bBeschreibung\n &b| &7Betrachte
+  deine verfügbaren Kits oder\n &b| &7siehe eine Vorschau der Kits!\n &3| &fKlick
+  zur Ansicht.\n &bInformationen\n &8▪ &7Free: &f1\n &8▪ &7Premium: &f6"
 14a5191b-c1c9-465e-ac63-0075d82a8b68.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.1: '#bdc8c9specified
   Reihenfolge.'
 d3c79301-0f7e-4e06-ab5a-dd43e96563b7.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.3: '#ffed6a&lAktuell:'
@@ -1938,34 +2067,40 @@ f7f69853-6a29-435e-99b1-636ab63d830a.excellentcratesCrate.Key.Error.Invalid: '#f
   Schlüssel!'
 0b211979-d802-459f-8755-04209cb0faf7.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.14: '#bbff6a▪
   #bdc8c9Shift-Left: #bbff6aOne-Timed'
-2911cb0d-0b1e-46db-a8c6-c028efdd31c0.cmd.links.title.s29.2:
+2911cb0d-0b1e-46db-a8c6-c028efdd31c0.cmd.links.title.s29.2: '&cDu bist nicht verlinkt
+  :('
 081a554a-aaae-4630-acb0-f40cd99234f4.PlayerParticlesgui-edit-style-description: '&bKlick
   &8|&7 bearbeite den Stil dieses Partikels'
 9d1d9c66-4a23-4615-9caf-82d79e18b46e.excellentenchantmentsFitItemType.CHESTPLATE: Brustharnisch
 2fc4199e-14ab-47fd-9af7-639def38d7fd.dh.money-lb: GELD BESTENLISTE
 ca655314-ffe5-4b7a-984f-0a2897d1fa40.chatcolor.gui-unavailable: '&8Nicht verfügbar'
-19d058c7-bd59-4d94-80f3-7f2ccbf7c04a.SuperVanishMessages.AlreadyVanishedError:
+19d058c7-bd59-4d94-80f3-7f2ccbf7c04a.SuperVanishMessages.AlreadyVanishedError: '&b&l%1
+  &8&l┃ &7Du bist bereits unsichtbar!'
 70be4bf5-7084-46e4-b8bf-81d1d114980a.tempflycommand.base.give.0: gib
 5efa4e50-6ef7-4f68-8530-3c4ea48f3725.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.8: '#ffed6a▪
   #bdc8c9Text: #ffed6a'
-47ecfd3f-bb26-4ccb-a54b-34bef3a92932.cmd.purchase.choose.desc.s24:
+47ecfd3f-bb26-4ccb-a54b-34bef3a92932.cmd.purchase.choose.desc.s24: "§f\n§bBeschreibung\n
+  §b| §7Kaufe Flugdauer mit deinen verfügbaren Token\n §b| §7und genieße das Fliegen!\n
+  §f\n§b§l| §bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 2f8b4885-6da9-49d1-9f50-9865144b5a5d.tempflysystem.help_extended.3: '&7- Entferne
   die Flugzeit eines Spielers'
 977284db-3ed8-44b2-8fb0-3d05bf000304.PlayerParticlesfixed-edit-invalid-id: >-
   &7Fixierter Effekt kann nicht bearbeitet werden, die angegebene ID ist
   ungültig oder existiert nicht!
-2638396b-37be-40cb-9851-b4e3b5ae6d0c.SuperVanishMessages.BlockBreakDenied:
+2638396b-37be-40cb-9851-b4e3b5ae6d0c.SuperVanishMessages.BlockBreakDenied: '&b&l%1
+  &8&l┃ &7Du kannst in Vanish! keine Blöcke brechen.'
 c2596c7c-75de-4c99-89d1-d157b14464c5.gsitMessages.action-sit-info: '&aNutze deine&6
   Shift&a Taste zum Aufstehen.'
 44da0176-e25d-4124-9e6d-44ad270c3587.PlayerParticlesfixed-create-style-non-fixable: >-
   &7Kann keinen festen Effekt erstellen, der Stil &c%1 &7kann nicht in festen
   Effekten verwendet werden!
-524c8ee1-f2c4-44ec-bfa1-67f96da4538b.cmd.main.title.s40.2:
+524c8ee1-f2c4-44ec-bfa1-67f96da4538b.cmd.main.title.s40.2: '&b&lEinzelheiten'
 44d6b5c6-21db-40f1-9696-d4baacff4b59.PlayerParticlesgui-edit-data-color-pink: '#ffb6c1Pink'
 288004a5-8ef2-46a1-a54e-8fd5ee947c9d.tempflycommand.disable.0: aus
 c47be06e-04dc-4408-a7b4-65420a503c93.excellentcratesEditor.Crate.Enter.Block.Hologram.Offset: '#d4d9d8Eintrag
   #aefd5e[Offset-Wert]'
-9121d45b-b51b-47c6-90f4-d77d1a85bd8b.SuperVanishMessages.ToggledPickingUpItemsOff:
+9121d45b-b51b-47c6-90f4-d77d1a85bd8b.SuperVanishMessages.ToggledPickingUpItemsOff: '&b&l%1
+  &8&l┃ &7Das Aufnehmen von Gegenständen ist jetzt &cDisabled&7.'
 5f48290a-cf90-44ac-a2f0-5b0859f6947d.excellentcratesCommand.Key.Show.Format.List.0: '<!prefix:
   "false"!>'
 35d354df-2868-4234-9936-a81fa905942d.tempflycommand.disable.1: deaktivieren
@@ -1973,7 +2108,7 @@ c47be06e-04dc-4408-a7b4-65420a503c93.excellentcratesEditor.Crate.Enter.Block.Hol
   ausgewählt!'
 0c204c47-7700-4cd5-89b8-e14831041367.PlayerParticlesgui-playerparticles: '&8Particles
   Menü'
-8b10b071-f0d1-40d6-bf86-dcc050877409.cmd.main.title.s14:
+8b10b071-f0d1-40d6-bf86-dcc050877409.cmd.main.title.s14: '&b&lAuctionHouse'
 d647e58d-c694-4e25-abb5-a5cabf58a2d7.PlayerParticlescommand-description-edit: Ein
   Partikel bearbeiten
 2613828a-c2ba-495a-a7a0-9f47de69c513.bungee.restart.actionbar: '&bVerlasse den Server
@@ -1991,7 +2126,8 @@ ea01d6ff-35f6-450b-869b-a479e87e484b.excellentcratesEditor.CrateEditorType.CRATE
   &f⌚%3&7.'
 7cc318a9-014d-4348-b595-2e2b4960ac3a.PlayerParticlesgui-select-data: '&bAuswahl der
   Partikeldaten'
-fdbe0027-f877-4957-b69d-9565226f557f.SuperVanishMessages.ReappearMessage:
+fdbe0027-f877-4957-b69d-9565226f557f.SuperVanishMessages.ReappearMessage: §x§9§9§f§f§9§9⏩
+  §f%1
 a5cf0bbe-6a8d-4adf-8b60-179af9c2c89b.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.5: '#bbff6a▪
   #bdc8c9Shift-Left: #bbff6aMove Forward'
 eef869ef-8605-4b17-9da5-aa976b91cc6f.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Lore.4: '#ffed6a&lAktuell:'
@@ -2006,13 +2142,15 @@ d72ed0a5-52ce-436c-be38-d96fa7a70a06.gsitMessages.action-sit-now-error: '[P]&c D
 c2cd6a5b-d396-491b-a01a-c016c47c2f62.PlayerParticlesremove-effect-none: '&7Du hast
   keine Partikel mit dem Effekt &b%1&7 angewendet!'
 26ceedff-ff14-409e-ab61-c9f391b0cc3a.menu.bank.menu.info.title: '&bDeine Informationen'
-45cf8046-f90c-4217-961c-c8ee61573092.cmd.upgrades.title.soon:
-b471d783-b80a-456e-a6e8-5927597222c8.SuperVanishMessages.HideOtherMessage:
+45cf8046-f90c-4217-961c-c8ee61573092.cmd.upgrades.title.soon: '&cCOMING SOON'
+b471d783-b80a-456e-a6e8-5927597222c8.SuperVanishMessages.HideOtherMessage: '&b&l%1
+  &8&l┃ &7Der Spieler &e%2&a ist jetzt unsichtbar!'
 3cabf40c-beae-4f67-9d13-bbaecdb2c77f.PlayerParticlesdata-usage-item: '&7Der Effekt
   &b%1 &7erfordert &bitem &bdata&7! &7Format: &b<itemName>'
 a1461f0c-154a-43ec-a03e-78b5274cba1f.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.7: '#ffa76a▪
   #bdc8c9Negativer Wert macht die Kiste einmalig!'
-37562a0c-22a6-4f64-b2b9-02151b88fccb.cmd.languages.desc.s21:
+37562a0c-22a6-4f64-b2b9-02151b88fccb.cmd.languages.desc.s21: "&bBeschreibung\n &b|
+  &8Stelle deine Sprache ein\n &b| &7Englisch!\n &3| &fKlick zum Ändern."
 ef8b040c-af85-48a5-a807-4432ef02c1b9.playerpoints.command-pay-sent: '&7Du hast &b%1
   &b&l%2&b%3&7 bezahlt.'
 d3eef32e-e385-4eb0-9919-027ac95ea1d0.PlayerParticlescommand-description-styles: 'Eine
@@ -2048,8 +2186,11 @@ dd24beb5-26b1-41bb-a1c7-1509b077d353.tempflygeneral.requirement.fail.region: '%1
 ec80b85d-9416-4da7-b4aa-5e95d956e803.PlayerParticlescommand-description-fixed-teleport: >-
   &b/pp fester Teleport&3 <id> &8-&f Teleportiert dich zu einem deiner festen
   Effekte
-078c7f9e-0e85-4c9a-9fca-af987afdca0e.cmd.purchase.choose.desc.s22:
-99d730af-20e6-438d-840d-183fd916df70.cmd.languages.desc.s23:
+078c7f9e-0e85-4c9a-9fca-af987afdca0e.cmd.purchase.choose.desc.s22: "&f\n&bBeschreibung\n
+  &b| &7Kaufe Punkte mit deinen verfügbaren Token\n &b| &7und benutze sie, um Kosmetika
+  freizuschalten!\n&f\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+99d730af-20e6-438d-840d-183fd916df70.cmd.languages.desc.s23: "&bBeschreibung\n &b|
+  &8Stelle deine Sprache ein\n &b| &7Französisch!\n &3| &fKlick zum Ändern."
 3dc9b7bd-1560-42a9-b9af-7b8b81211ed9.excellentcratesCrate.Open.Reward.Info: >-
   <! prefix: "false" !>#d4d9d8Du hast #aefd5e%1#d4d9d8 vom #aefd5e%2#d4d9d8
   gewonnen!
@@ -2068,7 +2209,9 @@ e65224a0-4734-4b71-baa5-d368eb7a5f9e.PlayerParticlesfixed-remove-no-args: '&7Du 
   keine ID zum Entfernen angegeben!'
 0a58c7c3-4aaa-4d70-b8c7-e3bd1f44df7e.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Name: '#ffed6a&lÖffnen
   Kosten'
-0e4bf1b3-6cbf-4c86-8927-165f99f9cfd9.cmd.main.desc.s41:
+0e4bf1b3-6cbf-4c86-8927-165f99f9cfd9.cmd.main.desc.s41: "&bBeschreibung\n &b| &7Sieh
+  unsere sozialen Medien\n &3| &fKlick zum Anzeigen.\n&bInformation\n &8▪ &7Veranstaltung:
+  &cKeine Veranstaltung\n &8▪ &7Rabatt: &cKein Rabatt\n&b&lRabatt\n &8☞ &7[Rabattinformationen]"
 0f01c37a-4f8a-49b0-a3e4-ead84a8b60ce.mycmd.nomoney: '&7Du brauchst &c%1&l$&7 um diesen
   Befehl auszuführen.'
 0e80cd88-4bbe-4016-8b1f-e13e4fd9a7a8.gsitPlugin.plugin-update: >-
@@ -2089,12 +2232,15 @@ ddafb1cd-ea8d-4c97-94b0-f7a06ad455de.PlayerParticlesgui-select-data-color-transi
   die &3end &7Farbe'
 674457c9-7c1c-44a7-bf6b-26dece2eadbd.PlayerParticlescommand-descriptions-help-2: '&b/pp
   &3%1 %2 &8-&f %3'
-f71cb4f1-0c52-4ded-91cb-686dd44386a5.SuperVanishMessages.PluginOutdated:
+f71cb4f1-0c52-4ded-91cb-686dd44386a5.SuperVanishMessages.PluginOutdated: "&b&l%1 &8&l┃
+  &7Deine aktuelle Version von SuperVanish ist veraltet. Neue Version: '%2'; Derzeit:
+  '%3'"
 cdaca2a2-9b0e-4b4c-913d-837ced6e1368.tab.ani.store: sʜᴏᴘ
 bf72153d-9f72-46da-99b9-74e000222d58.ia.1.2: und um unseren Server weiterhin zu unterstützen!
 41ef8fe3-5958-4432-9968-ecd9c1603481.tempflygeneral.fly.bypass_disabled: '%1 &7Du
   hast den Flugumgehungsmodus deaktiviert!'
-69c7461a-99a5-4466-8be7-f23149d3c962.SuperVanishMessages.PluginReloaded:
+69c7461a-99a5-4466-8be7-f23149d3c962.SuperVanishMessages.PluginReloaded: '&b&l%1 &8&l┃
+  &7Erfolgreich SuperVanish neu geladen &8(&f%2ms&8)&7!'
 342a1cb4-2f05-4a7e-b950-d3ec04218fc7.PlayerParticlesfixed-edit-out-of-range: >-
   &7Kannst du einen festen Effekt bearbeiten, musst du dich innerhalb von &b%1
   &7Blöcken von deinem gewünschten Standort befinden!
@@ -2104,15 +2250,18 @@ d7e6d51a-24f2-4aa9-8430-8235f7b50f5d.PlayerParticlesgui-particle-info: ' &8 - &b
   &f%1 &bEffekt&8: &f%2 &bStil&8: &f%3 &bDaten&8: &f%4'
 f2b97046-5b46-4ac3-a353-190e1aee8b78.playerpoints.command-lead-description: '&8 -
   &b/points lead &3%1&8- &fSehe dir die Bestenliste an'
-e603edc6-dfac-4c95-8c51-1252864ed6e5.cmd.languages.title.s33:
+e603edc6-dfac-4c95-8c51-1252864ed6e5.cmd.languages.title.s33: '&b&lRussisch'
 3a38babc-c191-4d11-89ac-6fc37e3bb180.PlayerParticlesother-missing-args: '&7Es fehlen
   einige Argumente. &b/ppo &3<Spieler> <Befehl>'
-5e396554-6d75-4a49-b4de-c9a2a149c082.cmd.main.title.s30:
-4c26ddc3-17cc-4e2d-8889-a29c702ba81e.cmd.main.desc.s28:
+5e396554-6d75-4a49-b4de-c9a2a149c082.cmd.main.title.s30: '&b&lRegeln'
+4c26ddc3-17cc-4e2d-8889-a29c702ba81e.cmd.main.desc.s28: "&bBeschreibung\n &b| &7Hier
+  kannst du kaufen und verkaufen\n &b| &7Ihre Artikel!\n &3| &fKlick zur Ansicht.\n
+  &bInformationen\n &8▪ &7Bilanz: &f$%vault_eco_balance_formatted%\n &8▪ &7Punkte:
+  &f%playerpoints_points%"
 9f4dc0a9-c509-426e-822b-1acdd3c2fefb.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.0: '#bdc8c9Setzt
   das physische Schlüsselelement.'
-eca3a23f-d333-4360-8780-f05480846e81.cmd.main.title.s40.1:
-13d3bb57-210b-4509-8aa2-40a06c61f960.cmd.languages.title.s25:
+eca3a23f-d333-4360-8780-f05480846e81.cmd.main.title.s40.1: '&b&lEinkauf'
+13d3bb57-210b-4509-8aa2-40a06c61f960.cmd.languages.title.s25: '&b&lSpanisch'
 3f315c9d-fc0a-4615-947d-40b8ae9f316c.mycmd.char-not-allowed: '&7Deine Eingabe enthält
   unzulässige Zeichen.'
 11873245-546d-4e92-ad32-1a7301285d7d.PlayerParticlesgroup-reserved: '&7Der Gruppenname
@@ -2126,7 +2275,8 @@ eca3a23f-d333-4360-8780-f05480846e81.cmd.main.title.s40.1:
   &7aktive(s) Partikel!'
 d6207e94-b6ad-4512-aa92-c34419dcba8a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.9: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aGeld ändern'
-141fbd71-9a47-4792-bc5b-54241a7583ba.SuperVanishMessages.RecreatedConfig:
+141fbd71-9a47-4792-bc5b-54241a7583ba.SuperVanishMessages.RecreatedConfig: '&b&l%1
+  &8&l┃ &7Erfolgreich neu erstellt &f%2&7! Bitte überprüfe &f%3&7.'
 88fdbd7d-0291-4ec6-a557-540446f1a291.menu.close: '&c&l❌ &cClose'
 f71f976d-17b3-49fe-a1be-14b7ab0216a0.excellentcratesCommand.Key.Show.Desc: Zeigt die
   Anzahl deiner oder anderer Spielerschlüssel an.
@@ -2141,7 +2291,7 @@ ace22fd2-fd46-4a4f-aa4e-adc00e9ba29e.excellentcratesEditor.CrateEditorType.REWAR
 82f605f8-4845-47b4-b85b-e014f48c91b1.excellentenchantmentsFitItemType.HELMET: Helm
 74bfa7cd-b4aa-498e-8b42-1cd97571c456.gsitMessages.action-emote-region-error: '[P]&c
   Du kannst in dieser Region nicht emoten!'
-f8d5286c-96fe-437e-8ef9-6543338b9514.cmd.languages.title.s29:
+f8d5286c-96fe-437e-8ef9-6543338b9514.cmd.languages.title.s29: '&b&lNiederlande'
 6dbea9f5-6284-476d-804f-c78c5dec4744.tempflyaesthetic.featherboard.minutes: '&f%1m '
 133fef28-5f21-4169-84c1-3abd23da9aaf.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.1: '#bdc8c9
   Es wird in GUIs und Nachrichten verwendet.'
@@ -2150,12 +2300,16 @@ fb6aefac-a8f4-4407-b963-b989949cce99.excellentcratesEditor.CrateEditorType.REWAR
 6cf14535-e5a7-4f01-b705-9a5f907fd787.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.3: '#ffed6a&lAktuell:'
 8bcefd8b-a620-48d9-b24c-69e1473baf0d.uar.COMMAND_FORCE_RESTART_GLOBAL.chatMessage: Erzwungener
   Neustart des Servers in
-1519d7be-e022-4f6d-915c-1134e21f07ca.cmd.links.title.s20:
+1519d7be-e022-4f6d-915c-1134e21f07ca.cmd.links.title.s20: §x§7§2§8§9§d§aDiscord
 0d31e8a8-1a1e-4fa9-aba3-397e498f2d7f.excellentcratesCrate.Open.Error.InventorySpace.1: '#fd5e5e&lWhoops!'
 9748c5e2-1ef2-4b95-ba46-b5c9b4a3ec66.PlayerParticlesgroup-load-success: '&7Angewandte
   &b%1 &7Partikel aus deiner gespeicherten Gruppe namens &b%2&7!'
 841f742d-5c20-4236-9c72-ef43052d08c3.excellentcratesEditor.CrateEditorType.CRATE_OBJECT.Lore.0: '#bbff6a&lAktionen:'
-8888e838-dba9-4d51-855c-8974e0565af4.SuperVanishMessages.RecreationRequiredMsg:
+8888e838-dba9-4d51-855c-8974e0565af4.SuperVanishMessages.RecreationRequiredMsg: '&b&l%1
+  &8&l┃ &7Deine SuperVanish-Dateien sind nicht auf dem neuesten Stand. Du kannst sie
+  mit &f/sv recreatefiles&7 neu erstellen oder mit &f/sv recreatefiles dismiss&7 diese
+  Meldung ignorieren. Wenn du die Dateien von SuperVanish neu erstellst, kannst du
+  auf neuere Einstellungen und Funktionen des Plugins zugreifen.'
 cf2da1aa-31e3-495d-a246-e7e69a06ae1d.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.11: '#bbff6a▪
   #bdc8c9Right-Click: #bbff6aDisable'
 0f31effe-fc50-4bd6-afb7-ef286a7d3f40.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.7: '#bbff6a▪
@@ -2186,17 +2340,18 @@ cefaee0b-74d9-416f-bed2-cc484c50cdd6.excellentcratesCrate.Open.Error.Cooldown.Te
   auf Abklingzeit!'
 0ef463cd-ef24-4443-87a4-6f66a2ee76f5.tempflygeneral.requirement.fail.world: '%1 &7Flug
   ist in dieser Welt deaktiviert!'
-b24801b5-c265-4c00-a8a4-de6a7aab1583.cmd.languages.title.s23:
+b24801b5-c265-4c00-a8a4-de6a7aab1583.cmd.languages.title.s23: '&b&lFranzösisch'
 9f46e8e4-3e75-44ca-a658-84e023976f34.tab.ani.3.4: '&fᴅᴜʀᴄʜ ᴠᴏᴛᴇɴ ғᴜ̈ʀ ᴜɴsᴇʀᴇɴ sᴇʀᴠᴇʀ
   ᴍɪᴛ /VOTE!'
 16ea5c94-76c8-4d6c-8aaa-f90548e42088.PlayerParticlesgui-edit-data-color-light-blue: '#add8e6Hellblau'
-c1dab18a-6d90-468d-a803-14bff5f6e320.SuperVanishMessages.SilentDeathMessage:
+c1dab18a-6d90-468d-a803-14bff5f6e320.SuperVanishMessages.SilentDeathMessage: §x§F§F§0§0§0§0☠
+  §f%1
 f091d8b1-2251-410e-8782-195b9b7988f9.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.7: >-
   #ff6a6a▪ #bdc8c9Wenn keine Schlüssel eingestellt sind, kann die Kiste ohne sie
   geöffnet werden!
 2cffbb51-2757-446f-878f-eb9b27d4c3e0.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.4: '#ffed6a▪
   #bdc8c9Display Name: #ffed6a%1'
-2c7341a8-c9bd-4a7b-8069-88294d7753fc.cmd.languages.title.s31:
+2c7341a8-c9bd-4a7b-8069-88294d7753fc.cmd.languages.title.s31: '&b&lItalienisch'
 74eb5e6d-99de-4e38-813c-2a1526f0d8f6.PlayerParticleslist-you-have: '&7Du hast die
   folgenden Partikel aufgetragen:'
 e873a642-6f9d-4ddd-8d63-e6cc74205e75.excellentcratesCrate.Open.Error.Cost.Exp.1: '#fd5e5e&lWhoops!'
@@ -2225,7 +2380,8 @@ d22d93dd-a3f3-41c2-b16e-bf8ee1d4267f.tempflygeneral.fly.already_disabled: '%1 &7
 c5ec662a-3d72-490e-8dd1-c8ca6d6cc786.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.4: '#ffed6a▪
   #bdc8c9Chance: #ffed6a%1%'
 bbf836a2-0680-42ed-8672-bef5dd3589f9.mycmd.hour: 'Stunde '
-1c052b9e-4663-4196-8ca9-4ea750143fda.SuperVanishMessages.OnReappearCausedByOtherPlayer:
+1c052b9e-4663-4196-8ca9-4ea750143fda.SuperVanishMessages.OnReappearCausedByOtherPlayer: '&b&l%1
+  &8&l┃ &f%2&7 zeigte dich, du bist jetzt sichtbar!'
 21018b2d-9d68-4bec-9919-63bab8d45c40.tempflycommand.unit.minutes.recognized.0: m
 4f4944d2-0b46-4e9a-b6cf-9b472fc345e0.uar.EVENT_RESTART_DELAY_STAFF.subtitle: Der Neustart
   hat sich verzögert um
@@ -2246,7 +2402,7 @@ c3bc89eb-eaa6-4df0-93d1-d53e95bc765b.ia.reload: '&7Konfigurations- und Sprachdat
 b4893461-ff6b-41e3-84d8-3cd9a000fbd5.PlayerParticlesgroup-save-success: >-
   &7Deine aktuellen Partikel wurden unter der Gruppe mit dem Namen &b%1&7
   gespeichert!
-157b0398-4561-4a63-a469-934b52344c4c.cmd.main.title.s12:
+157b0398-4561-4a63-a469-934b52344c4c.cmd.main.title.s12: '&b&lPlayerWarps'
 f0fb4c2d-1ef0-4865-a8f7-16797b4b97b3.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Lore.0: '#bdc8c9Stellt
   ein, ob eine Broadcast-Nachricht'
 86da1059-0ec6-44c9-8f80-2870cdb8a3c4.PlayerParticlesremove-unknown: '&7Ein Effekt
@@ -2297,7 +2453,8 @@ ebb0556f-d559-46cb-a3aa-23d95b59d007.excellentenchantmentsError.NoEnchant: §cUn
   &7Eine gespeicherte Gruppe oder Voreinstellungsgruppe mit dem Namen &b%1&7
   existiert nicht!
 470ec9df-0bc2-4a42-a4dd-4242991f388e.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.3: '#ffed6a&lAktuell:'
-8a6bc480-40b9-4d80-af54-8e99d2094295.SuperVanishMessages.VanishMessage:
+8a6bc480-40b9-4d80-af54-8e99d2094295.SuperVanishMessages.VanishMessage: §x§F§F§9§9§9§9⏪
+  &f%1
 2c6c20be-a88a-4ae2-878a-e61f408cd02a.tempflyaesthetic.trail.set_other: '%1 &f%2 &7hatten
   ihre Spur auf &f%3&7 gesetzt!'
 43440cbb-6054-491a-8c78-638f3c6aa4f7.uar.EVENT_RESTART_DELAY_GLOBAL.chatMessage: Der
@@ -2334,7 +2491,12 @@ b811b891-d657-4489-b599-865516d5101a.PlayerParticlesfixed-edit-invalid-coords: >
   #bdc8c9Modell: #ffed6a%1'
 33ade2df-d622-405f-97e6-ee29792e9012.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.7: '#bbff6a▪
   #bdc8c9Drag & Drop: #bbff6aReplace'
-f7fc19fa-25bf-47af-bfc5-21f71eac2079.cmd.upgrade.choose.desc.s15:
+f7fc19fa-25bf-47af-bfc5-21f71eac2079.cmd.upgrade.choose.desc.s15: "&bBeschreibung\n
+  &b| &7Upgrade deine elytra Effekte\n &b| &7um mit mehr Stil herumzufliegen\n&f\n
+  &3| &fKaufe mehr Punkte\n &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!\n&f\n&b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴠɪᴇᴡ"
 c00da470-4855-427d-b380-b7c09b31a44d.gsitPlugin.plugin-prefix: '&b&lsɪᴛ &8&l┃&7'
 1ab969d0-abd6-48bd-b045-b3cec2421d3d.tempflygeneral.invalid.command: '%1 &7Befehl
   nicht gefunden! &b"/help"&7 für weitere Informationen!'
+41ccbb1b-e526-47c3-ac06-6770147d799f.cmd.languages.title.s19: '&b&lDeutsch'
+d70ef22f-39b3-4e01-b658-677298761453.cmd.languages.title.s21: '&b&lEnglisch'
