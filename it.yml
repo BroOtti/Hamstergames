@@ -1898,3 +1898,100 @@ f0fb4c2d-1ef0-4865-a8f7-16797b4b97b3.excellentcratesEditor.CrateEditorType.REWAR
 ff3535d1-b338-4cab-bfbe-cbd68ffad22d.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Name: '#ffed6a&lPreview
   Item'
 470ec9df-0bc2-4a42-a4dd-4242991f388e.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.3: '#ffed6a&lCurrent:'
+3b65d987-60c9-458a-bb1d-2a2c86bc519d.menu.farm.end.normal.lore: "§Fine normale del
+  mondo agricolo\n\n§2Benefici:\n§aGraves\n§Difficoltà media\n\n§4Svantaggi:\n§cNessuno
+  strumento\n§cNon ci sono uova di drago\n§cNessun incantesimo"
+94a3b212-270e-445f-9f16-a3a4dc4cb7ed.menu.farm.end.easy.lore: "§2Fine facile Farmworld\n
+  \n§2Benefici:\n§Mantenere l'inventario\n§Difficoltà facile\n\n§4Svantaggi:\n§cNessuno
+  strumento\n§cNon ci sono uova di drago\n§cNessun incantesimo"
+1c02c090-c261-409b-a88a-5c7a7c22808f.excellentenchantmentsCommand.TierBook.Usage: '%1
+  %2 %3'
+0294d1f4-a140-42dd-9a05-b55d6e5dd3ed.excellentenchantmentsFitItemType.BOOTS: Stivali
+9167d50b-e748-46f2-95c7-45ded8e945cd.triton.selected: '&bCorrentemente selezionato'
+24f79c85-25e6-4843-9c7d-e4f0ae3b81b1.triton.message-not-found: '&cREPORT: %1'
+012d8054-56a1-4fba-a207-4a3b13adbb36.excellentenchantmentsFitItemType.AXE: Ascia
+3181e360-101e-4309-821b-8dc9e7138f81.excellentenchantmentsFitItemType.HOE: Zappare
+1500ca6f-5a8a-4920-b557-8e7aabc98334.excellentenchantmentsCommand.List.Desc: Elenco
+  di tutti gli incantamenti personalizzati.
+c314ad4d-993f-42eb-8ed4-4062e505b13f.excellentenchantmentsCommand.Enchant.Usage: '%1
+  %2'
+73346859-b0e7-411a-8831-83d202f05774.excellentenchantmentsFitItemType.ARMOR: Armatura
+a32c1014-683f-4e9c-a93b-4620d0453357.excellentenchantmentsFitItemType.PICKAXE: Piccone
+8b95bcee-b5f0-4ba6-8547-de6910b75f25.excellentenchantmentsCommand.Enchant.Desc: Incanta
+  l'oggetto in mano.
+1500f380-1bcd-4b86-80ae-e20aedf5185c.excellentenchantmentsCommand.Enchant.Done: §aIncantato
+  con successo!
+421b1765-551f-4f90-a7a8-cb17e33dd9d5.triton.detected-language: La tua lingua è stata
+  impostata automaticamente su &7%1
+da775029-333e-4026-ae09-d5086b654adf.menu.farm.nether.hard.lore: "§4Duro Nether Farmworld\n
+  \n§2Benefici:\n§Tutti i minerali\n§aStrutture\n\n§4Svantaggi:\n§cDifficoltà difficile\n\
+  §cL'inventario cade alla morte\n§cNessun incantesimo"
+2a5b98ee-3537-4f8b-9e6a-f1c682dbf3a0.triton.selector-gui-name: '&bSelezionare una
+  lingua'
+6210d086-90b4-4347-a084-2e18e86c400e.excellentenchantmentsFitItemType.SWORD: Spada
+636a0cfe-f45a-465c-bb1e-49f15738bc4b.menu.farm.nether: §4Mondi agricoli sotterranei
+2c74032d-351d-4972-b691-6a7134c54b99.excellentenchantmentsFitItemType.BOW: Arco
+bf15f1f0-c9e6-4faa-a620-c278833041a8.excellentenchantmentsFitItemType.CROSSBOW: Balestra
+c8d98998-56d6-4a6d-8420-6fc92ea69eb1.triton.setlanguage-others: La lingua di &7%1&b
+  è stata cambiata in &7%2
+75e4240f-1c7b-4b82-a103-3766bad79c2c.triton.lang-not-found: 'Lingua &4%1&c non trovata!
+  &7&oNota: è sensibile alle maiuscole. Utilizzare TAB per visualizzare tutte le lingue
+  disponibili.'
+f1a21586-b377-4323-8e19-991a3ac3b533.excellentenchantmentsFitItemType.SHOVEL: Pala
+51233d7b-0e5a-4cdb-b7d8-22a39073329f.menu.farm.end: §Farmworlds
+f7d463b8-eacd-427a-8366-53c52d7f1bd1.excellentenchantmentsFitItemType.LEGGINGS: Leggings
+38a544b4-5de1-4cea-bc87-8bad7c7a26f2.excellentenchantmentsCommand.Book.Done: Dato
+  il libro incantato di §6%1§7 a §6%2§7.
+0c8bf1a2-cfce-4447-bc14-331b1ab9a79b.excellentenchantmentsFitItemType.TRIDENT: Tridente
+436c74aa-0d1f-42a5-b792-064cff372756.menu.farm.normal.easy: §2EASY
+f4196f9b-d12c-429d-bb45-f5998d489e91.menu.farm.normal.easy.lore: "§2Fattoria Overworld
+  facile\n\n§2Benefici:\n§Mantenere l'inventario\n§Difficoltà facile\n§Minerali di
+  base\n\n§4Svantaggi:\n§cNessuno strumento\n§cNessun minerale\n§cNessun incanto"
+7ebffb7c-6bff-4c30-9df3-a0ce46062a36.triton.no-permission: '&cNessun permesso. Autorizzazione
+  richiesta: &4%1'
+ba957850-2256-4992-9be7-754e73c13209.antieditsign.message: Puoi modificare solo i
+  tuoi segni!
+750daeaa-dc53-4072-8858-2055329380c3.excellentenchantmentsFitItemType.TOOL: Strumento
+b65d2bbf-f72a-410e-8025-f9aac9d0ce01.excellentenchantmentsFitItemType.FISHING_ROD: Canna
+  da pesca
+26181738-4ee1-49b9-8f12-191976c806e9.menu.farm.normal: §aMondiali agricoli normali
+4820a53b-da09-4f38-b31b-96da4a658980.tab.sb.quests: '&7Quest:'
+7ebfaf99-6592-4419-ae36-5abbc333723a.menu.farm.normal.normal: §eNORMALE
+09b9de5b-13c2-45f9-ab71-d783ed5fd530.menu.farm.normal.hard: §4HARD
+82f605f8-4845-47b4-b85b-e014f48c91b1.excellentenchantmentsFitItemType.HELMET: Casco
+1bccf85f-415e-46b1-bb0b-a572940cff18.ib.tilgis.welcome: §7Benvenuto su [lang]prefisso[/lang]
+  §7%1
+ff27de84-304a-4e50-8320-80910e4ece70.excellentenchantmentsCommand.Book.Usage: '%1
+  %2 %3'
+4fd261fc-18a4-40e6-83cc-4bb64836e1f1.menu.farm.end.hard.lore: "§4Fattoria Hard End\n
+  \n§2Benefici:\n§aStrutture\n\n§4Svantaggi:\n§cDifficoltà difficile\n§cCaduta dell'inventario
+  alla morte\n§cNon ci sono uova di drago\n§cNessun incantesimo"
+ebb0556f-d559-46cb-a3aa-23d95b59d007.excellentenchantmentsError.NoEnchant: §cIncanto
+  non valido.
+61958bfc-20ba-4fac-9251-f975c5445b36.excellentenchantmentsCommand.TierBook.Error: §cTipo
+  non valido!
+dd130f3c-f766-41c1-9a36-7ddc9f416801.excellentenchantmentsFitItemType.WEAPON: Arma
+fea814d5-3f2d-4347-a06b-443f7ade3963.menu.farm.normal.normal.lore: "§Mondo normale
+  Mondo agricolo\n\n§2Benefici:\n§aGraves\n§Difficoltà media\n§Alcuni minerali\n\n
+  §4Svantaggi:\n§cNessuno strumento\n§cNon tutti i minerali\n§cNessun incanto"
+ef3c0faa-b222-4eb4-888a-d194c6558383.triton.setlanguage: La tua lingua è stata cambiata
+  in &6%1
+a522eab3-dd94-40fc-a799-8c74d92d5e51.excellentenchantmentsCommand.TierBook.Desc: Regala
+  un libro incantato.
+77539ecb-cf2d-4d8c-b541-55214092bff4.excellentenchantmentsFitItemType.ELYTRA: Elytra
+4e1d4ff5-418b-4641-af95-087c6e03589f.menu.farm.nether.normal.lore: "§Mondo agricolo
+  Nether normale\n\n§2Benefici:\n§aGraves\n§aDifficoltà media\n§Minerale d'oro + minerale
+  di quarzo\n\n§4Svantaggi:\n§cNessuno strumento\n§cNessun detrito antico\n§cNessun
+  incantesimo"
+6198c325-3d57-4ce2-9744-2d9babc0fb33.excellentenchantmentsCommand.Book.Desc: Regala
+  un libro incantato personalizzato.
+43d3c66b-316c-44eb-ac66-d2e4884dc692.menu.farm.normal.hard.lore: "§4Mondo difficile
+  Mondo agricolo\n\n§2Benefici:\n§aStrutture\n§Tutti i minerali\n\n§4Svantaggi:\n
+  §cDifficoltà difficile\n§cL'inventario cade alla morte\n§cNessun incanto"
+b47f7209-18ac-475b-aedc-8b2b9472f197.excellentenchantmentsFitItemType.UNIVERSAL: Universale
+090387c1-ebf1-45b3-8082-b67038c8006d.excellentenchantmentsCommand.TierBook.Done: Dato
+  il libro incantato di §6%1§7 a §6%2§7.
+6e082aac-4eec-4947-b9c7-28c55007bf73.excellentenchantmentsFitItemType.CHESTPLATE: Pettorale
+a41a6fc4-b17e-4285-8230-79442ecb7a62.menu.farm.nether.easy.lore: "§2Facile Nether
+  Farmworld\n\n§2Benefici:\n§Attenere l'inventario\n§Difficoltà facile\n\n§4Svantaggi:\n
+  §cNessuno strumento\n§cNessun minerale\n§non ci sono incantesimi"
