@@ -5904,3 +5904,654 @@ e5b2aad3-30d2-4c11-9cb1-44e134802531.lands.messages.lands.command.view.area: "[N
   a été tué par un %2 d''une manière ou d''une autre en utilisant %3'
 e96d92ed-52b8-47d5-903a-b2f497562538.lands.messages.general.inbox.relation.ally.remove: "&7Nous
   ne sommes plus alliés avec %1&7."
+839295b7-d5a6-499d-9009-0e465d98cb6d.deathmessages.Mobs.player.Solo.Contact.0: '%1
+  was pushed into a cactus by %2'
+0895e85f-fafe-4cdc-b996-393acef702bc.deathmessages.Mobs.stray.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+1f723da9-d906-4737-9a05-8444c6131d8f.deathmessages.Mobs.chicken.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+4d6967d8-8260-4bb5-ac84-c34facd95805.deathmessages.Mobs.wolf.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+5aa35e56-d2b2-4694-9c26-235d6b195b08.deathmessages.Mobs.creeper.Solo.Explosion.0: '%1
+  was blown up by a %2'
+9a695dfd-2062-4fdf-a719-670f2a281a2c.deathmessages.Mobs.pillager.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+2ae2a99c-a57a-4383-be0c-2af0439c117a.deathmessages.Mobs.husk.Solo.Melee.0: '%1 was
+  slain by a %2'
+b63f0402-79e1-4953-b115-878488f88a15.deathmessages.Mobs.zombievillager.Solo.Melee.0: '%1
+  was slain by a %2'
+447436b3-0fdf-495e-997a-1f0e06138d08.deathmessages.Mobs.husk.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+15ef10b5-e81b-402e-879f-39819ce1ffc0.deathmessages.Natural-Cause.Wither.0: '%1 withered
+  away'
+65b209e1-61bc-43fc-ac1e-cb6f10e598fe.deathmessages.Mobs.cat.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+43102ea4-88eb-47d5-b9ea-53fbca2fe9ea.deathmessages.Mobs.elderguardian.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+d31d8316-821e-4842-a2c7-6bfd788d6132.deathmessages.Mobs.skeletonhorse.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+58c66fcf-57f4-42a3-ae9c-7fed7b0df259.deathmessages.Mobs.squid.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+ebaa6751-cbc3-4765-b0b2-beeab5736c3c.deathmessages.Mobs.slime.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+1f5eed8f-019f-4a33-9b48-54e06c9ad6a5.deathmessages.Mobs.strider.Solo.Melee.0: '%1
+  was slain by a %2'
+4839a86f-a1d5-4e71-8efc-719d1f32e935.deathmessages.Natural-Cause.Projectile-EnderPearl.0: '%1
+  shot themselves'
+8af72ed5-e334-4905-b302-0fb3689f1810.deathmessages.Mobs.chicken.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+d2d5316f-56e0-4f23-b1bd-9e0aad02d49b.deathmessages.Mobs.mushroomcow.Solo.Melee.0: '%1
+  was slain by a %2'
+b4356862-a3ad-4565-a92e-4fd89fc7ed12.deathmessages.Mobs.wanderingtrader.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+6c7dcdb4-bbbd-48c2-be9e-d998088d1bc7.deathmessages.Mobs.turtle.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+341697cd-a981-40c6-83c5-4edb3b010f1f.deathmessages.Mobs.piglinbrute.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+72a2a38b-a7f0-4ac0-9552-525ccd01ac16.deathmessages.Mobs.sheep.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+7daf43f8-1fa5-4c4a-80f6-bbecc79cd222.deathmessages.Mobs.salmon.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+b0964732-1e88-40e8-bdf4-0460701179c5.deathmessages.Mobs.evoker.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+5136075d-7921-4f0c-9db1-7fdc9651a935.deathmessages.Mobs.cavespider.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+b4d16809-6c61-4245-bde7-4872857c59c0.deathmessages.Mobs.llama.Solo.Melee.0: '%1 was
+  slain by a %2'
+db0a3eb0-9adc-428b-a5ef-3cf2253c10ae.deathmessages.Mobs.vex.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+55426c92-d0b0-4660-9f06-44109c33af9d.deathmessages.Mobs.elderguardian.Solo.Melee.0: '%1
+  was slain by a %2'
+0cfbd5c7-8fc0-4dfd-8c5a-4e5967dfccec.deathmessages.Mobs.snowman.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+c4bbab57-05a2-4088-a449-0fc03d999d01.deathmessages.Mobs.guardian.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+fa3ecff9-b1fa-4f96-b0a2-d6159d85804c.deathmessages.Mobs.pigzombie.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+1f6e4093-846f-4013-a5b5-14a4f9fc6479.deathmessages.Natural-Cause.Projectile-FishHook.0: '%1
+  got a fishhook caught in their head'
+bbd9c497-d3ba-45e2-8700-3b5389197e0a.deathmessages.Mobs.llama.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+1c30a728-73db-499c-8f4f-9bbdf46faa9c.deathmessages.Mobs.creeper.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+2eeb43d0-3d55-4b4e-813f-f3814bda0c28.deathmessages.Mobs.wanderingtrader.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+f1aaa8f5-43ad-4ff9-ba53-6db4d193deab.deathmessages.Mobs.piglinbrute.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+01db1c91-91a1-4f03-bb12-d57fd19a89c0.deathmessages.Mobs.irongolem.Solo.Melee.0: '%1
+  was slain by a %2'
+e682d177-bfce-47a1-858e-0c9f2b8e3048.deathmessages.Mobs.villager.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+24a026eb-e3b3-48f9-9611-6731904f21db.deathmessages.Mobs.elderguardian.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+d247fe37-d8f0-402b-a968-091afd33462e.deathmessages.Mobs.pigzombie.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+5857109e-e1af-4e3c-853c-f1915345e257.deathmessages.Mobs.bee.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+537247f0-c23b-46ac-99df-a0982a5b257d.deathmessages.Mobs.donkey.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+928c815d-87ca-4703-8108-a8a02b7e0ef5.deathmessages.Mobs.horse.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+7c7e1f67-52a5-4490-8669-4de5512e4371.deathmessages.Mobs.witch.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+fb35cbcd-4a29-47e0-a829-9c44a56c8067.deathmessages.Mobs.traderllama.Solo.Melee.0: '%1
+  was slain by a %2'
+e12251af-24c8-4f1b-8c43-7a738fb776dc.deathmessages.Mobs.bat.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+f4cc1b15-ef1f-46aa-97d7-de4b33bd72d9.deathmessages.Mobs.witherskeleton.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+0dc019e5-2db6-45b8-b1b7-6d40b15b121f.deathmessages.Mobs.parrot.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+e4e7fd67-b675-4034-8848-faf8ef1b8b2c.deathmessages.Mobs.zombievillager.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+af3f5467-37c8-4397-a1c2-7f89e9fe788f.deathmessages.Mobs.pufferfish.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+d9ebaf87-9072-4692-977a-2a4cadf7df40.deathmessages.Mobs.enderman.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+1abcbede-e704-4d96-a7c7-cfdbaa20f87a.deathmessages.Mobs.llama.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+70329ecb-4f2b-41e8-9aac-59368e0d8c0c.deathmessages.Mobs.vindicator.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+cd3575ef-980b-4c14-9bd6-89e13c343c98.deathmessages.Mobs.evoker.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+3f5b1bd7-5030-4da7-bc5e-0ad0159d3103.deathmessages.Mobs.enderdragon.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+ab108162-5b8e-4bda-aad3-0c96a3dba1ba.deathmessages.Mobs.pufferfish.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+9e9023c1-d4c1-4d50-b6d7-1a5fef05738d.deathmessages.Mobs.chicken.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+8531565d-87ef-476c-8297-66e6affc8870.deathmessages.Mobs.endermite.Solo.Melee.0: '%1
+  was slain by a %2'
+5508629a-6fab-4098-8e4f-256cf5b478c9.deathmessages.Mobs.wolf.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+974318d2-7e7f-4bea-9066-6e96183efdd1.deathmessages.Mobs.enderdragon.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+739024a1-d181-40c3-a912-94814c6a8de6.deathmessages.Mobs.cat.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+628b0dbc-1ac6-4ac6-8847-c6e4ae0a9c56.deathmessages.Mobs.ravager.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+4fbb4ee2-ac05-46eb-955e-91b5c90b2810.deathmessages.Mobs.snowman.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+e82f29cf-77b2-4296-8ae4-969551a3d8cc.deathmessages.Mobs.donkey.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+4eba7098-ec25-4005-9728-f8942649daca.deathmessages.Mobs.enderdragon.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+63e9c8aa-b6c4-4724-bd29-f7e4a370a88b.deathmessages.Mobs.strider.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+074e398a-5557-42a0-a28e-a81db45ee87d.deathmessages.Basic-Mode.Solo.Magic.0: '%1 was
+  killed by a %2 using magic'
+124c70d5-55d4-4be2-bcdd-9f515985ac75.deathmessages.Mobs.pillager.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+9f7e91e6-64d7-4c5f-8e64-c1d032f85b38.deathmessages.Mobs.salmon.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+7ba91c56-213f-4e71-b1e8-9270df939758.deathmessages.Mobs.illusioner.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+0fd48006-060e-459e-bf92-b9f20dd0c0ca.deathmessages.Mobs.cavespider.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+4302cecc-6de4-490e-ad93-1ef744c66a5f.deathmessages.Mobs.wither.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+68ec60d2-3182-4c9c-9147-592851421e10.deathmessages.Mobs.illusioner.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+2fcb79e7-715d-491c-9f6d-76b4c947febf.deathmessages.Mobs.player.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+f1e56264-4c50-434e-98ae-70ae93320fbe.deathmessages.Mobs.mule.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+2ff59892-f815-4f5b-a0b2-c62d192433b9.deathmessages.Natural-Cause.Fire.0: '%1 thought
+  standing in fire was a good idea'
+6be1498b-c1bf-4a2f-9a62-090b7f83a901.deathmessages.Mobs.blaze.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+e4dbc5e3-dbd5-4b03-a06c-cb0f8a3b976d.deathmessages.Mobs.stray.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+5c508a76-becc-4970-99a5-bd570e7c45c3.deathmessages.Mobs.strider.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+d2aba586-1e12-48c1-8109-830f2171d3f0.deathmessages.Mobs.pigzombie.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+56f60749-e2ee-48ec-bd17-fa1f6f83c228.deathmessages.Mobs.evoker.Solo.Melee.0: '%1 was
+  slain by a %2'
+3db63750-e040-40de-8f53-f6bcb05d1b91.deathmessages.Mobs.shulker.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+ba308ee6-5d9d-4d5d-8ff9-1fb74389e5b2.deathmessages.Mobs.wolf.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+d0fba48b-017e-4e43-b7f5-ecbadd65f332.deathmessages.Mobs.bat.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+de9e17fb-8173-4ad9-b926-118a44642938.deathmessages.Mobs.bat.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+96540531-3cc5-4200-a1ff-8e2477f4e2a5.deathmessages.Mobs.hoglin.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+f07c99ec-7278-4654-ab97-df1e3c110b31.deathmessages.Natural-Cause.Fire-Tick.0: '%1
+  was burnt to a crisp'
+0070883b-9ace-4d01-a074-4d5eb3fb1e37.deathmessages.Mobs.vex.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+71032ecc-7a04-4db0-9174-a6d74de24763.deathmessages.Mobs.wither.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+628e58ea-54dd-47c1-a3bf-0d20e9e46961.deathmessages.Mobs.armorstand.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+d31d247c-3841-4449-b046-09a6f1615131.deathmessages.Mobs.parrot.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+b9e4778b-9c77-46a2-8348-221265203f7a.deathmessages.Mobs.magmacube.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+48a6d495-74e8-446b-ac64-378836c23f6b.deathmessages.Mobs.snowman.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+f5924602-cb09-4842-9405-e95c4958f0bf.deathmessages.Mobs.giant.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+aa99b9e7-1c67-456c-baeb-18d7bfc0cd7c.deathmessages.Mobs.piglin.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+3f73dd1e-81a9-4363-b8ac-abc033b90b72.deathmessages.Mobs.mule.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+145fa2a0-3298-4794-b462-cfb949391a09.deathmessages.Mobs.drowned.Solo.Melee.0: '%1
+  was slain by a %2'
+024287f5-6247-4436-a660-fa84479c5f27.deathmessages.Mobs.rabbit.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+af7972e4-6008-4717-95d7-b491ffc8200e.deathmessages.Mobs.mushroomcow.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+305436bb-dc6d-462c-bde4-f53064407472.deathmessages.Mobs.piglinbrute.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+66992bb5-2562-40a9-bc91-a249e9ab73f9.deathmessages.Mobs.giant.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+02a27b2a-d876-4dd3-bc8a-8582a1ab4472.deathmessages.Mobs.mushroomcow.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+eafa37d3-9b16-496f-9f10-1af6168737e8.deathmessages.Mobs.cat.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+c0a85a75-7f6b-4425-b84b-ed8028f8be1c.deathmessages.Mobs.fox.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+7e39881f-cdf6-425a-9b97-9a14e7658515.deathmessages.Mobs.player.Solo.Firework.0: "%1
+  stood too close to %2's fireworks"
+99721967-46e4-4064-9861-ac3dee86835b.deathmessages.Natural-Cause.Firework.0: '%1 thought
+  playing with fireworks was a good idea'
+6c97d18c-49f7-4c88-a1c3-1d77e2953a36.deathmessages.Natural-Cause.Projectile-Arrow.0: '%1
+  shot themselves with %2'
+efbc8d77-b2f5-46e5-abaf-b595e3e069e6.deathmessages.Natural-Cause.Climbable.0: '%1
+  tried climbing to greater heights and fell off %2'
+1bbddb46-f078-4ab5-917b-7e4b35754fdc.deathmessages.Natural-Cause.Projectile-Trident.0: '%1
+  shot themselves with trident'
+a2bd2b0c-4e7a-434f-8e16-b17caab12e74.deathmessages.Mobs.silverfish.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+2f39a7ec-63bb-479e-852a-005ddfcbd042.deathmessages.Mobs.salmon.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+bc4d51d4-1def-4b49-8d06-d4386055cd8f.deathmessages.Mobs.blaze.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+830317b6-c5ff-4d5c-99fb-e356bc64f313.deathmessages.Mobs.mushroomcow.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+c94a830d-f864-47df-8b54-6c313af468c4.deathmessages.Mobs.husk.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+19ab8fa8-90c6-446b-8533-b2a303b4455f.deathmessages.Mobs.mule.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+023dc63f-d555-412f-b656-99d520d9ec5d.deathmessages.Mobs.spider.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+03045ad0-14b5-44b9-a20a-45cdfc8f54b3.deathmessages.Mobs.zoglin.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+7e6531f9-9734-488b-ac5f-fc0d8405d054.deathmessages.Mobs.evoker.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+bf873254-9420-4a4c-9808-562feb4cbbbe.deathmessages.Mobs.vindicator.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+e2820c8d-c2d4-4aa2-b669-b1bf64e3ba3a.deathmessages.Mobs.zombievillager.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+87cd5857-1fb2-41e3-94f6-11d246f8eaad.deathmessages.Mobs.silverfish.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+6b19b503-aa94-4bea-9c51-58082a0bcac7.deathmessages.Mobs.vex.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+0981aa58-0cf9-477f-b2bd-5c7bfe6968d0.deathmessages.Mobs.enderman.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+a98e7f79-db6e-4be2-b4c3-7837a15073a1.deathmessages.Mobs.pig.Solo.Melee.0: '%1 was
+  slain by a %2'
+22597640-d037-45ac-ad82-dba39a00181d.deathmessages.Mobs.zoglin.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+721ebb99-cb01-4db3-a81e-a9899280ff7e.deathmessages.Mobs.cod.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+312aa88e-ef4b-4ad2-a481-8c2e04e7b586.deathmessages.Mobs.guardian.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+f5b59d7b-5090-4970-abe3-e46843253b20.deathmessages.Mobs.panda.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+72110a02-054f-4e6c-8ff5-42b3d4f18b97.deathmessages.Mobs.guardian.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+4d072f41-b71e-4384-8384-21e652ad804a.deathmessages.Basic-Mode.Solo.Weapon.0: '%1 was
+  slain by a %2 using %3'
+36894af0-8b11-4e08-a09a-f20799e141e2.deathmessages.Natural-Cause.Respawn-Anchor.0: '%1
+  tried using the respawn anchor in the %2!'
+8bb8ef49-433c-4b54-9843-fcb8964be32f.deathmessages.Mobs.stray.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+633c472e-12b9-4334-af44-11f86df68d58.deathmessages.Mobs.slime.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+7082eada-df8e-4c11-a1d9-1fe188229c07.deathmessages.Mobs.chicken.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+574b1c8d-615a-4828-9dee-3fef8ff5afd4.deathmessages.Mobs.slime.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+af2ea755-8423-4e0b-b763-aef283a61a00.deathmessages.Mobs.zombievillager.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+e7b9ce3f-a37a-44bd-b06c-af2916bd078f.deathmessages.Mobs.pufferfish.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+ca553ef9-2ccb-485d-af66-a6e1cda079a1.deathmessages.Mobs.salmon.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+501b3fb9-1f9b-4170-936e-700266a36eab.deathmessages.Mobs.dolphin.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+37070e88-cecf-4d0e-89f1-dfff363b1d1b.deathmessages.Mobs.silverfish.Solo.Melee.0: '%1
+  was slain by a %2'
+25574140-67c2-4dbc-a6ce-9282a20d0c63.deathmessages.Natural-Cause.Projectile-Fireball.0: '%1
+  fireballed themselves'
+e98960b8-af7b-4230-ab4c-d0b5d2e7b7cb.deathmessages.Mobs.endermite.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+1e9b47fc-e80b-4900-bee8-a41d41eb51a3.deathmessages.Mobs.fox.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+82a54531-2445-4ffe-b5e7-46a51d9deec8.deathmessages.Mobs.husk.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+e3955c66-8fd4-4dc3-a461-ed284a03ea69.deathmessages.Mobs.wither.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+ef7aab58-9fec-4dce-b1ca-4e313689cd00.deathmessages.Mobs.wither.Solo.Melee.0: '%1 was
+  slain by a %2'
+186aa66b-8a1f-441c-b3c7-dcfbf980c290.deathmessages.Mobs.illusioner.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+2a77b9c7-827c-441a-adc1-e66618dd718b.deathmessages.Basic-Mode.Solo.Melee.0: '%1 was
+  slain by a %2'
+be6436ae-49d6-478e-8531-49ad13023ace.deathmessages.Mobs.illusioner.Solo.Melee.0: '%1
+  was slain by a %2'
+eedabf67-e380-4d7e-a0ad-485b9c69215d.deathmessages.Custom-Mobs.Mythic-Mobs.SkeletalMinion.Solo.Projectile-Arrow.0: '%1
+  was shot by %2'
+16b42048-62cd-4253-b5e4-a18b3335468e.deathmessages.Mobs.slime.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+39692a6e-d019-42e5-bcf7-137369014ef9.deathmessages.Mobs.piglinbrute.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+223aeb10-33a7-4bd2-84b0-17a868aab300.deathmessages.Mobs.drowned.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+2a6535ae-a5b6-426c-b407-b9aa606cee3f.deathmessages.Mobs.drowned.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+255efb76-77cf-4e8e-a744-297402e2c1be.deathmessages.Mobs.armorstand.Solo.Melee.0: '%1
+  was slain by a %2'
+51f68df1-0f64-4900-b879-de061db9c463.deathmessages.Mobs.panda.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+9c21d938-3cc4-4a46-8034-c2d4b5cfde67.deathmessages.Natural-Cause.Cramming.0: '%1 was
+  killed in a heavily populated space'
+f3bdd7f6-4b57-432b-bda1-322d3b67c200.deathmessages.Mobs.pig.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+163c6f4e-dcc7-4282-a8f0-0f2be568ed6a.deathmessages.Mobs.fox.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+141199fd-350e-447c-b9dc-ad82d6b2da47.deathmessages.Natural-Cause.Hot-Floor.0: '%1
+  was playing on a magma block too long'
+434c8aa8-fe50-4ded-a9d7-b403820ff587.deathmessages.Mobs.dolphin.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+b2847bd3-0298-4c0b-9c48-ca7967a363bf.deathmessages.Natural-Cause.Suffocation.0: '%1
+  was squished to death'
+88526aaf-ecc3-4d25-8a1e-2ae9b936d1cf.deathmessages.Mobs.zoglin.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+fe25f623-2de0-40b4-a9ee-fb329c62b519.deathmessages.Mobs.evoker.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+93e4c76a-b420-4531-8b94-c245b932d9ec.deathmessages.Mobs.ocelot.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+2ecfb311-b66a-4cba-9f4a-accb2567a62f.deathmessages.Mobs.player.Solo.Weapon.0: '%1
+  was slain by %2 somehow using %3'
+52a327db-4952-4968-914e-fe20df19d915.deathmessages.Mobs.zombiehorse.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+aee7596d-3da5-4049-b761-757df36d665d.deathmessages.Mobs.horse.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+60e2bc5e-08b3-4569-8f41-7675283f62b2.deathmessages.Mobs.giant.Solo.Melee.0: '%1 was
+  slain by a %2'
+9f2f082e-9d02-40b8-bfad-23c653beb62f.deathmessages.Mobs.snowman.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+38146f7f-a1f5-4648-90c7-f4414758f8a0.deathmessages.Natural-Cause.Freeze.0: '%1 did
+  not put their snow suit on before they went to play.'
+99c664ef-a0ff-4f03-9b5c-a8613da039df.deathmessages.Mobs.wither.Solo.Explosion.0: '%1
+  stood too close to a %2 while it was spawning'
+373e1361-255e-4fa5-9d4b-b31e56506262.deathmessages.Mobs.fox.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+e87b3bcd-d293-4b0b-9030-c577f8e13979.deathmessages.Mobs.pigzombie.Solo.Melee.0: '%1
+  was slain by a %2'
+5a3f3bd6-d688-4595-a4ca-0e6c4836e27f.deathmessages.Mobs.horse.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+1e0e2840-3517-4213-bb87-f1b9571b74cd.deathmessages.Mobs.warden.Solo.Sonic-Boom.0: '%1
+  was obliterated by a sonically-charged shriek'
+266bd74b-a7cc-42be-9feb-50ae2b39ec81.deathmessages.Mobs.salmon.Solo.Melee.0: '%1 was
+  slain by a %2'
+510ff8fe-c704-4a0a-b5d9-5cbe612a14b1.deathmessages.Mobs.cod.Solo.Melee.0: '%1 was
+  slain by a %2'
+7a3b3191-b709-450c-be6f-4894bbb1f4af.deathmessages.Mobs.skeleton.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+3148ac94-f01b-49a1-ad09-02ed3cd9beae.deathmessages.Mobs.enderman.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+06b3bdd4-2370-43ec-9e14-972be279ea25.deathmessages.Mobs.ravager.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+c64e73cc-3f48-45c8-b419-e9b88e9d21a0.deathmessages.Mobs.parrot.Solo.Melee.0: '%1 was
+  slain by a %2'
+46f7711d-93e6-4240-87cc-f62d58071cbd.deathmessages.Natural-Cause.Void.0: '%1 fell
+  into the void'
+bc4ff637-5a7c-4618-9648-f8dd1a3efbf5.deathmessages.Mobs.mushroomcow.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+14b11b86-4de4-47c7-88a5-eb7a700d0e3a.deathmessages.Mobs.tropicalfish.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+a809d6ed-576a-4fac-9e37-eb1ab14880dc.deathmessages.Mobs.slime.Solo.Melee.0: '%1 was
+  slain by a %2'
+f4a041dd-455d-4778-91fa-17f75ba866c1.deathmessages.Mobs.ravager.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+33c78b49-70a9-43b9-967d-b5135716744b.deathmessages.Mobs.skeletonhorse.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+4fc18617-ea96-4a28-92c2-a163143d4f9a.deathmessages.Mobs.ravager.Solo.Melee.0: '%1
+  was slain by a %2'
+5386afc7-1d18-4bcb-b397-d70415725a64.deathmessages.Mobs.player.Solo.CombatLogX-Kill.0: '%1
+  logged out during combat fighting %2, they died still -.-'
+e0be3e6d-2ec0-401d-b249-e07e0c64f916.deathmessages.Mobs.piglinbrute.Solo.Melee.0: '%1
+  was slain by a %2'
+834a0ad7-fa43-4473-9676-178d43b7b801.deathmessages.Mobs.ravager.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+982b0f94-0544-4ea0-b52e-55112d8ffb05.deathmessages.Mobs.bee.Solo.Weapon.0: '%1 was
+  stung by a %2 somehow using %3'
+d9d61b0f-5d21-4de6-8236-2e3ba3d9525d.deathmessages.Mobs.spider.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+d15613fc-ddb5-4888-8454-9f8706232b47.deathmessages.Mobs.player.Solo.Melee.0: '%1 was
+  slain by %2'
+cd962e1f-6f0b-4b31-a446-918d35bd59ba.deathmessages.Mobs.polarbear.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+144e8947-b6f3-487d-ae4b-707f207d9690.deathmessages.Mobs.strider.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+8356c72c-b68a-4c68-b23f-a41dda12a390.deathmessages.Mobs.zombie.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+8e058492-1a25-49cf-a55d-e6cb9303d7af.deathmessages.Natural-Cause.Dryout.0: '%1 belonged
+  in the water. Not land'
+cbd45de3-3ade-412b-89e5-dae6f866e7f8.deathmessages.Mobs.husk.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+f1046291-6326-43cb-9e56-79a1c21985f7.deathmessages.Mobs.spider.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+cbb6183a-517c-4174-8f38-baf97bbec75c.deathmessages.Mobs.cat.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+ccfacc5f-59f0-4636-9914-4657c596972b.deathmessages.Mobs.blaze.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+8b365e0c-dad9-4652-8f2c-2ac429d31695.deathmessages.Natural-Cause.Fall.0: '%1 fell
+  from a high place'
+775a222d-b84f-483d-97fd-88af40a4781a.deathmessages.Mobs.sheep.Solo.Melee.0: '%1 was
+  slain by a %2'
+4e2c8fd8-4725-466e-a524-289db866ba7e.deathmessages.Mobs.pig.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+ae0129f9-b16c-47df-8744-ccbeef55ffc8.deathmessages.Mobs.vex.Solo.Melee.0: '%1 was
+  slain by a %2'
+e3aef2bf-dc6d-4218-af55-a0ec3804ba54.ib.tilgis.top-stats.title: '&fChoose a Statistic
+  you want to see'
+2dcbc9a2-529d-40c9-a770-92f180f13066.deathmessages.Mobs.player.Solo.Void.0: '%1 was
+  pushed into the void by %2'
+c1c52fc2-89c7-438a-89a7-b17c672f0fc4.deathmessages.Mobs.rabbit.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+edcdae59-4881-4948-9931-53be1ba118ea.deathmessages.Mobs.ghast.Solo.Melee.0: '%1 was
+  slain by a %2'
+d516e0e4-0141-460e-830e-c846d0c200b9.deathmessages.Mobs.enderdragon.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+81cf8eb2-34ab-453b-bef0-ba20a201d664.deathmessages.Mobs.armorstand.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+cc8cc9bd-dff4-4ffb-9baf-d9ab432a18d1.deathmessages.Mobs.silverfish.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+e9f05619-779e-4375-8561-b926f25ebf27.deathmessages.Natural-Cause.Poison.0: '%1 was
+  playing with poison'
+4aac6142-50d9-4a7c-98df-45be6e493ec5.deathmessages.Mobs.player.Solo.Lava.0: '%1 was
+  pushed into lava by %2'
+fe136d0d-8c33-4330-bf35-96a18723d81c.deathmessages.Mobs.rabbit.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+873a0af4-4c93-4a52-8c63-0f94db0d5676.deathmessages.Natural-Cause.Lightning.0: '%1
+  was struck by /lighting'
+3461384e-a1ca-4d67-b487-9085957ae2a3.deathmessages.Mobs.shulker.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+734019ff-2620-436e-aa1c-b30f2959f093.deathmessages.Mobs.player.Solo.Suffocation.0: '%1
+  suffocated in a wall while fighting %2'
+c020b943-9c49-40a8-be5b-2e482bd7a695.deathmessages.Mobs.cod.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+e90680e5-5d1d-4995-9cf4-8c637e168f85.deathmessages.Mobs.armorstand.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+c27c49cd-18cf-4be6-a30f-4d611cb1be2c.deathmessages.Mobs.endermite.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+aa494f06-b20c-4385-9f5b-4d4ecfc183c1.deathmessages.Mobs.traderllama.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+089e7412-38a9-4b36-8f94-7f1be4e88f35.deathmessages.Mobs.traderllama.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+8fe7de07-7f94-4b04-ba83-a5b9ddc9a8b2.deathmessages.Mobs.zoglin.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+b8c78029-025a-416e-8426-8839cb79713e.deathmessages.Mobs.zombievillager.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+fb493004-6029-4f3d-a595-b18d1ef0d2ed.deathmessages.Mobs.pillager.Solo.Melee.0: '%1
+  was slain by a %2'
+56e53466-7947-4db6-8720-f80c2c96dd2b.deathmessages.Mobs.squid.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+543525bf-2724-46d3-bd64-104cb1dde559.deathmessages.Mobs.witch.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+e42e8fc9-ff0f-475f-a494-8754dd10cdf3.deathmessages.Natural-Cause.Drowning.0: '%1 thought
+  they could swim forever'
+a33da2ef-5e97-4a2f-8f15-6c857dac8c8c.deathmessages.Basic-Mode.Gang.Melee.0: "%1 was
+  slain by a group of %2's"
+7c045743-08d7-4923-9947-d2514cd2a97f.sunlight.afk.now: is now AFK.
+f0ad6bf4-bdb9-441a-b8e3-06c7a7c968db.deathmessages.Mobs.warden.Solo.Melee.0: '%1 was
+  slain by %2'
+d002c613-8700-4f16-bf18-bd447695920e.deathmessages.Mobs.player.Solo.Wither.0: "%1
+  withered away from %2's magic"
+76e10df7-e7a6-43f9-b99a-728df0e1e62d.deathmessages.Mobs.polarbear.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+080a7415-6487-4b93-8d3a-e47f68827ed2.deathmessages.Mobs.zombiehorse.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+38afa5b7-7b35-49e0-a0dd-f2d23ffaa5ea.deathmessages.Mobs.chicken.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+7ad944fa-b41e-4814-8929-99d04781e607.deathmessages.Mobs.bat.Solo.Melee.0: '%1 was
+  slain by a %2'
+f6d13b80-b443-4f6b-bdc1-53da76862af6.deathmessages.Mobs.donkey.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+bea3a188-2f28-4825-a971-4f685e2c51d8.deathmessages.Mobs.rabbit.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+f24d48f4-62cf-49af-a104-93df7cbfcb25.deathmessages.Mobs.giant.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+47b174f0-4cb8-4563-be0d-9851f0c71822.deathmessages.Natural-Cause.Dragon-Breath.0: '%1
+  died to a lingering dragons breath'
+49f451a6-db1f-4172-a9f7-b786fe7b9e4c.deathmessages.Mobs.pig.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+a6f63799-4cec-40ac-9e70-471e17d14921.deathmessages.Mobs.turtle.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+1c8674a4-7d04-4dbb-9840-a7bd4a7fdd9e.deathmessages.Mobs.ghast.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+e311af68-dd1a-48bf-a2ec-5fb95ba549ca.deathmessages.Mobs.illusioner.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+dc6b9c7f-ed1d-4b70-994f-2f2eda07f057.deathmessages.Mobs.giant.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+70665cfb-7454-4275-aaf2-1dafe6e12e9d.deathmessages.Mobs.magmacube.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+f630290a-95cd-45d1-a788-7a65ccc98ed3.deathmessages.Mobs.turtle.Solo.Melee.0: '%1 was
+  slain by a %2'
+c3a2e9e2-cf1e-4a03-aee7-2899ab476cae.deathmessages.Mobs.cat.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+c36332dd-88ce-4590-b442-631e31a9887e.deathmessages.Mobs.salmon.Gang.Weapon.0: "%1
+  was ganed up on by some %2's! One wacked them with %3"
+0a677a49-5f62-4b21-b80f-0966da3dd298.deathmessages.Mobs.creeper.Solo.Melee.0: '%1
+  was slain by a %2'
+478b6097-10cf-48e5-8def-36aa8c513e54.deathmessages.Mobs.cod.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+1a36903c-ba8b-421e-930f-f310a7165258.deathmessages.Mobs.fox.Solo.Melee.0: '%1 was
+  slain by a %2'
+9fb389b6-ca72-41c1-9a0f-9f4186143d19.deathmessages.Mobs.ghast.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+79618606-1c70-463e-b8b2-22d3adf78b90.deathmessages.Natural-Cause.TNT.0: '%1 was playing
+  with tnt'
+a24bd404-dfcd-46fd-b37b-011b3971e300.deathmessages.Mobs.armorstand.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+a6cdb804-9a1b-491f-bf6d-571aaa195cd2.deathmessages.Mobs.dolphin.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+47a49e77-be35-4ee6-9431-c8aaf5196eca.deathmessages.Mobs.witch.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+499be3fb-1473-45b0-ad68-05e729ee34ad.deathmessages.Mobs.phantom.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+dc66f699-091a-4b70-87d5-1033dba89ba1.deathmessages.Mobs.witherskeleton.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+560688b4-d72c-4b29-b8f1-9a354353310e.deathmessages.Mobs.villager.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+2a992378-a09c-4cd1-ad05-76c7f9ab7472.deathmessages.Mobs.zombiehorse.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+acf6b65c-95d8-483f-afc8-d6244759e4bd.deathmessages.Mobs.pigzombie.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+6f6bf7a8-633b-4065-b7f4-5ffd011b3dcd.deathmessages.Mobs.zombievillager.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+68e798c4-4852-4b81-bc97-4bee8833c383.deathmessages.Mobs.panda.Gang.Weapon.0: "%1 was
+  ganed up on by some %2's! One wacked them with %3"
+18178a0a-0ba6-4424-8581-35a862c9d409.ib.tilgis.your-stats: '&fYour Stats'
+68d638a6-ff38-4b1a-b389-8a556b57308a.deathmessages.Natural-Cause.Melee.0: '%1 killed
+  themselves'
+b28eafc8-73eb-42aa-b5d5-d130306f482a.deathmessages.Mobs.guardian.Solo.Melee.0: '%1
+  was slain by a %2'
+df7d0276-410b-4ee6-b916-63bad4994510.deathmessages.Mobs.pillager.Solo.Contact.0: '%1
+  was pushed into a cactus by %2'
+3e6a9703-4c95-44b1-9e65-638815e0fad9.deathmessages.Mobs.player.Solo.Explosion.0: '%1
+  blew up %2'
+56dae555-4589-48fc-9508-9b360f2cd640.deathmessages.Mobs.wolf.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+27b15f00-984a-4244-9d7e-a5bc807429b8.deathmessages.Mobs.mule.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+4b9a8625-f294-44f4-bb2c-4b76926664a2.deathmessages.Mobs.polarbear.Solo.Melee.0: '%1
+  was slain by a %2'
+ac1ab93e-807e-40fa-8350-c3e669ce3954.deathmessages.Natural-Cause.Falling-Block.0: '%1
+  was squished by a %2'
+7835dda3-58b0-4a55-8632-061870d28072.deathmessages.Mobs.zombiehorse.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+533624f1-d175-4ea3-95f1-894e5d3302c3.deathmessages.Mobs.zoglin.Solo.Melee.0: '%1 was
+  slain by a %2'
+dee0f6db-3294-4889-8741-df400e20d4ad.deathmessages.Mobs.enderman.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+b2fde10c-76cb-4913-be76-d08a15478f09.deathmessages.Mobs.warden.Gang.Sonic-Boom.0: '%1
+  was obliterated by a bunch of sonically-charged shrieks'
+f05c64bc-3613-44d6-9db1-6f6bdd34b0f0.deathmessages.Mobs.ocelot.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+845f077a-e931-4a1f-9896-e6de1afbab28.sunlight.afk.end: is no longer AFK
+660e3315-7f69-4956-bf2e-644efeff745f.deathmessages.Mobs.cod.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+fcc6bce6-61f8-44d6-af20-71aa4cd294c0.deathmessages.Natural-Cause.Projectile-Snowball.0: '%1
+  shot themselves with snowball'
+8b8d5fe2-59a5-4c80-9768-ecbaac62b391.deathmessages.Mobs.tropicalfish.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+19ffbd8a-24c2-4582-9481-2a917510f30e.deathmessages.Mobs.skeletonhorse.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+cfa384e1-e425-4ba8-b6a3-4341f139212b.deathmessages.Mobs.creeper.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+157cb4cd-575d-45e9-a89d-2c9f9fff6588.deathmessages.Mobs.enderdragon.Solo.Melee.0: '%1
+  was slain by a %2'
+50d4b9b4-409f-4172-b693-c70b9f647271.deathmessages.Mobs.enderdragon.Gang.Melee.0: "%1
+  was slain by a bunch of %2's"
+7ae55561-8776-4bd8-abbe-860ca1665622.deathmessages.Mobs.cow.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+d30c11b4-27e7-46ba-8eca-2ed66b7bebd0.deathmessages.Mobs.wanderingtrader.Solo.Melee.0: '%1
+  was slain by a %2'
+6825e6a8-de3b-4d35-adf1-ae537efa84db.deathmessages.Mobs.traderllama.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+0085a5f9-c1ce-4940-8fb3-1b2fc9306776.deathmessages.Natural-Cause.Custom.0: '%1 died
+  in a unique way'
+d8e265d8-38ac-4783-b892-98fc9ed6b8a0.deathmessages.Mobs.hoglin.Solo.Melee.0: '%1 was
+  slain by a %2'
+152c37ec-8598-49e5-8dd7-2aa1a06fac8e.deathmessages.Mobs.stray.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+4fd91e08-3716-4939-8365-def70df2009c.deathmessages.Mobs.hoglin.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+28a04d52-79d1-46e6-8753-363296fcb721.deathmessages.Mobs.blaze.Solo.Melee.0: '%1 was
+  slain by a %2'
+b8cdf0d1-65bf-4cbb-83d9-4f20fa5e1ab5.deathmessages.Mobs.tropicalfish.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+e7471599-fa30-49d2-b03e-12db0f37f5e8.deathmessages.Mobs.goat.Solo.Melee.0: '%1 was
+  knocked by a %2'
+05901f22-ee0a-4115-93e4-abdfa6ddbf86.deathmessages.Mobs.bat.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+fd754b0d-45c2-430f-abc8-830bc0e20170.deathmessages.Mobs.player.Solo.Fall.0: '%1 was
+  pushed off a high place by %2'
+92e0b0be-96ef-4608-922d-32d6d81b4249.deathmessages.Mobs.witherskeleton.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+89d69e4e-13ce-4196-8cf1-d68d8fe4c4b1.ib.tilgis.topic: '&fCurrent Topic'
+2f32da7b-f650-4061-ae64-d628321880d5.deathmessages.Mobs.illusioner.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+3df473ef-6a05-4639-996a-6a614bc17913.deathmessages.Mobs.cat.Solo.Melee.0: '%1 was
+  slain by a %2'
+0a645bcd-155e-4fe6-bb0c-2e1034c4e25e.deathmessages.Mobs.skeleton.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+793b2453-0454-41b6-9f9f-856755740a94.deathmessages.Mobs.squid.Solo.Melee.0: '%1 was
+  slain by a %2'
+0906b0b2-e9d4-41bc-8baa-4fa82ba4ea52.deathmessages.Mobs.witch.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+f0754c98-ae28-4735-bbd9-2db7b7cf8f57.deathmessages.Mobs.husk.Solo.Weapon.0: '%1 was
+  slain by a %2 somehow using %3'
+a13d23c2-41f5-49fa-9d42-e5269e3fc37d.deathmessages.Mobs.polarbear.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
+86c88863-6e8e-4c5f-bc34-5313e4f1724b.deathmessages.Natural-Cause.Fly-Into-Wall.0: '%1
+  flew into a wall'
+89e02f60-f314-4ba2-af53-e51f8ce3ffc0.deathmessages.Natural-Cause.Bed.0: '%1 tried
+  sleeping in the %2 :kappa:'
+a459e8ec-ed3c-4f06-910b-479235228677.deathmessages.Mobs.witch.Solo.Melee.0: '%1 was
+  slain by a %2'
+7f33dc87-61d1-4d3b-9314-8c51e293eea0.deathmessages.Mobs.parrot.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+adeaa961-78e3-4cd6-a6d0-8f514ac18b9d.deathmessages.Natural-Cause.Projectile-Unknown.0: '%1
+  shot themselves'
+2e598fcf-77bd-4d07-907c-6d9086e8f115.deathmessages.Mobs.villager.Solo.Melee.0: '%1
+  was slain by a %2'
+35731dcc-e6aa-4ce9-bf03-bae84b51e9d7.ib.tilgis.stats: '&fYour Stats'
+74afcaad-cf1d-47d7-994c-7272b19600da.deathmessages.Mobs.chicken.Solo.Melee.0: '%1
+  was slain by a %2'
+586eea64-62a1-4fa2-8dcb-4d924ffd5ac8.deathmessages.Mobs.enderman.Solo.Melee.0: '%1
+  was slain by a %2'
+3dbd1a22-8438-4294-9fbf-65fbc8996f2c.deathmessages.Mobs.horse.Solo.Melee.0: '%1 was
+  slain by a %2'
+a22488f5-a8d5-414f-ae89-dc3fae29c23c.deathmessages.Mobs.bee.Solo.Melee.0: '%1 was
+  stung by a %2'
+4a505e84-c635-401b-b0f9-ae888070382b.deathmessages.Mobs.zombiehorse.Solo.Melee.0: '%1
+  was slain by a %2'
+2bd9fde0-1f18-451f-a350-9df90d637e32.deathmessages.Mobs.endermite.Solo.Weapon.0: '%1
+  was slain by a %2 somehow using %3'
+4f93ef1c-1d66-438e-b92e-9481739c9f69.deathmessages.Mobs.wither.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+2562e0ba-9265-485a-9851-3d51e3b7bce9.deathmessages.Mobs.endermite.Gang.Projectile-Arrow.0: '%1
+  was ganged up on by some %2! One shot them with %3'
+8f8068a6-7f5f-41e1-bdf4-4c48d9b25450.deathmessages.Mobs.piglin.Gang.Melee.0: "%1 was
+  slain by a bunch of %2's"
+473ac5f4-a1b9-4c1d-951f-7f1013a490aa.deathmessages.Mobs.piglin.Solo.Projectile-Arrow.0: '%1
+  was shot by a %2 somehow using %3'
