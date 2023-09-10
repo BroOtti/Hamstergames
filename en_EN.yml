@@ -1,14 +1,14 @@
-7e3739a4-0c05-49f1-98c1-33b79212791f.gsitMessages.action-sit-world-error: '[P]&7 You
+7e3739a4-0c05-49f1-98c1-33b79212791f.gsitMessages.action-sit-world-error: '[P]§7 You
   can''t sit in this world!'
-78c07df4-8877-4c43-98d1-244fd73000ab.ia.4.2: on this server &8(are you introvert?)
+78c07df4-8877-4c43-98d1-244fd73000ab.ia.4.2: on this server §8(are you introvert?)
 57ca07bb-65a2-42b8-b669-4da03abd5527.alonsotags.Invalid-player: Player is not online!
-b8f3f280-e9e4-49d6-85f0-a3f59ad56d5d.gsitMessages.action-pose-world-error: '[P]&7
+b8f3f280-e9e4-49d6-85f0-a3f59ad56d5d.gsitMessages.action-pose-world-error: '[P]§7
   You can''t pose in this world!'
-18c699c2-6bd7-45a3-bcc2-84b9a2d51c7a.gsitMessages.action-emote-now-error: '[P]&c You
+18c699c2-6bd7-45a3-bcc2-84b9a2d51c7a.gsitMessages.action-emote-now-error: '[P]§c You
   can''t emote right now!'
-205f21cb-d3d7-4bcb-bb4a-466473298966.gsitMessages.action-pose-now-error: '[P]&7 You
+205f21cb-d3d7-4bcb-bb4a-466473298966.gsitMessages.action-pose-now-error: '[P]§7 You
   can''t pose right now!'
-a901e3f2-5f88-41a8-a34f-ec0f1d82d51a.mpdb.syncInProgress: '&cData sync in progress!
+a901e3f2-5f88-41a8-a34f-ec0f1d82d51a.mpdb.syncInProgress: '§cData sync in progress!
   Please wait...'
 a2e9566e-1e9a-4b63-ab82-596f9f596300.bungee.stop: 'Our server has been shut down,
   please reconnect in a few moments!'
@@ -16,269 +16,267 @@ a2e9566e-1e9a-4b63-ab82-596f9f596300.bungee.stop: 'Our server has been shut down
   seem to be available in this server!
 2973914a-7aa5-45a8-82ba-584eb32592a6.alonsotags.Disabled-world: You cannot use this
   command in this world. Try later!
-8927fb9d-4e07-4bce-b7f4-34a2e9a3eb8b.chatmanager.Footer: '#ff9999Enjoy playing %1!'
+8927fb9d-4e07-4bce-b7f4-34a2e9a3eb8b.chatmanager.Footer: '§x§f§f§9§9§9§9Enjoy playing
+  %1!'
 2c3da0a9-4fbc-4a36-97df-65f18b8a0802.dh.points-lb.title: '[Top 10 Pointiest Players!]'
 c5d93e84-9308-46d0-b80d-fd64b785377f.dh.money-lb.title: '[Top 10 Richest Players!]'
-45c68131-453d-4287-951e-f13dfc106e7a.chatmanager.motd: '&7&o(Brand new and the best
+45c68131-453d-4287-951e-f13dfc106e7a.chatmanager.motd: '§7&o(Brand new and the best
   community)'
-733aff92-e7b5-4e83-a197-81a2450b954b.chatmanger.mention.header: '#FFFF00@ &lMENTIONED
-  #FFFF00@'
-d3bf9104-2b4e-4e76-8299-03caa23caed0.hub.move: You have been sent to the &6Lobby§7!
-86697c9a-00da-4d2b-91b6-159badd99ddd.chatcolor.gui-selected: '&eSelected'
-2c93db2c-fcf2-4dd0-b897-c7baed3a212f.gsitMessages.action-crawl-info: '&7Use your&f
-  Shift&7 Key to get up.'
-180db7d5-06ea-4088-823e-596570ba031b.gsitPlugin.plugin-disabled: '[P]&7 The Plugin
+733aff92-e7b5-4e83-a197-81a2450b954b.chatmanger.mention.header: '§x§F§F§F§F§0§0@ &lMENTIONED
+  §x§F§F§F§F§0§0@'
+d3bf9104-2b4e-4e76-8299-03caa23caed0.hub.move: You have been sent to the §6Lobby§7!
+86697c9a-00da-4d2b-91b6-159badd99ddd.chatcolor.gui-selected: '§eSelected'
+2c93db2c-fcf2-4dd0-b897-c7baed3a212f.gsitMessages.action-crawl-info: '§7Use your§f
+  Shift§7 Key to get up.'
+180db7d5-06ea-4088-823e-596570ba031b.gsitPlugin.plugin-disabled: '[P]§7 The Plugin
   was successfully disabled.'
 ff651667-d558-4471-ac65-117f4d1ac07b.ia.9.1: Join our Community
 3bc8567f-db4f-4db3-83a7-c302f0c84f20.alonsotags.inactive.lore: |-
-  &bDescription
-   &b| &7Here you can view a tag
-   &b| &7that you've selected.
+  §bDescription
+   §b| §7Here you can view a tag
+   §b| §7that you've selected.
 
-  &bInformation
-   &b| &7Tag Selected: &7N/A
-   &b| &7Status: &c&l❌
+  §bInformation
+   §b| §7Tag Selected: §7N/A
+   §b| §7Status: §c&l❌
 
-  &c&l| &cᴛʜᴇʀᴇ ᴀʀᴇ ɴᴏᴛ ᴛᴀɢꜱ ꜱᴇʟᴇᴄᴛᴇᴅ
-d139121e-a03b-4316-8b41-ae83d16dc52b.ia.toggle-sound-off: '&7You''''ve toggled &c&l❌
-  &cDisabled&7 the sound announcement &8&o(/toggle)'
-46c94e38-5c71-4bfb-975f-bdb3f6311c20.gsitMessages.action-pose-region-error: '[P]&7
+  §c&l| §cᴛʜᴇʀᴇ ᴀʀᴇ ɴᴏᴛ ᴛᴀɢꜱ ꜱᴇʟᴇᴄᴛᴇᴅ
+d139121e-a03b-4316-8b41-ae83d16dc52b.ia.toggle-sound-off: '§7You''''ve toggled §c&l❌
+  §cDisabled§7 the sound announcement §8&o(/toggle)'
+46c94e38-5c71-4bfb-975f-bdb3f6311c20.gsitMessages.action-pose-region-error: '[P]§7
   You can''t pose in this region!'
-6dabf468-e902-4ffa-be73-34d6cfaa2721.gsitMessages.action-pose-location-error: '[P]&7
+6dabf468-e902-4ffa-be73-34d6cfaa2721.gsitMessages.action-pose-location-error: '[P]§7
   You can''t pose here!'
 c87a33af-da67-44cb-a6fd-6f9f5ec2c5f1.ia.2.2: or unlock more kits for playing on this
   server
 33c77d75-9c45-4a90-9cac-bd975a1ec38f.gsitMessages.command-gsit-playertoggle-off: >-
-  [P]&7 You have &c&l✘&c Disabled&7 click-interactions for playersit!
-  &8&o(/toggle)
-4b3b0989-d096-4054-bffc-65b68b687632.alonsotags.Tag-selected: You selected &f%1&7
+  [P]§7 You have §c&l✘§c Disabled§7 click-interactions for playersit! §8&o(/toggle)
+4b3b0989-d096-4054-bffc-65b68b687632.alonsotags.Tag-selected: You selected §f%1§7
   tag!
-5ee2b40d-125c-40e2-b96b-22f403febcab.gsitMessages.command-reload: '[P]&7 The Settings
+5ee2b40d-125c-40e2-b96b-22f403febcab.gsitMessages.command-reload: '[P]§7 The Settings
   were successfully reloaded.'
-32762da6-870c-4010-9ae9-bae297315e48.chatmanager.msg.reply: '&bClick &7to reply.'
-e8c1ea88-3dc9-4654-abcc-b796ae39cffc.alonsotags.close: '&c&l❌ &cClose'
-86e9c49e-574c-4bd1-8e35-5df6bc19b93c.gsitPlugin.plugin-link: '[P]&7 Link with&f %Link%&7
+32762da6-870c-4010-9ae9-bae297315e48.chatmanager.msg.reply: '§bClick §7to reply.'
+e8c1ea88-3dc9-4654-abcc-b796ae39cffc.alonsotags.close: '§c&l❌ §cClose'
+86e9c49e-574c-4bd1-8e35-5df6bc19b93c.gsitPlugin.plugin-link: '[P]§7 Link with§f %Link%§7
   successful!'
-b346f9a6-ab10-4635-8733-80fda5d83636.dh.your-money: '&fYour Balance:'
+b346f9a6-ab10-4635-8733-80fda5d83636.dh.your-money: '§fYour Balance:'
 0d258305-d1ce-443e-be6e-2de8bd9829ed.bungeeguard.no-data-kick-message: >-
-  &cYou did not join over our Proxy, try to use
-  &bplay.[lang]prefix[/lang]&cinstead.
-2e430b91-c25c-45fa-81aa-8b09ca0c47ce.gsitMessages.action-emote-stop: '[P]&a You stopped
+  §cYou did not join over our Proxy, try to use §bplay.[lang]prefix[/lang]§cinstead.
+2e430b91-c25c-45fa-81aa-8b09ca0c47ce.gsitMessages.action-emote-stop: '[P]§a You stopped
   emoting.'
-294e884d-716a-4ec4-b721-dcc725974e26.bungee.restart.connect.title: '&bThe server is
+294e884d-716a-4ec4-b721-dcc725974e26.bungee.restart.connect.title: '§bThe server is
   starting currently.'
 78063a85-641e-44aa-b4ec-dfad56b1aeac.ia.6.2: You can sell some goods in here!
 c9e54d23-43e9-4f29-a6ef-5e4286054ab0.alonsotags.Target-not-loaded: Target player couldn't
   be loaded. Player must reconnect to the server!
-d9998c47-7988-4f4d-a2e0-db6bcca04d7c.bungee.restart.subtitle: '&bWe connect you once
-  the server is back &6online&b.'
+d9998c47-7988-4f4d-a2e0-db6bcca04d7c.bungee.restart.subtitle: '§bWe connect you once
+  the server is back §6online§b.'
 0ffa23ba-9c66-45b0-a15e-8553fc6b0ee4.alonsotags.Tag-not-selected: You don't have any
   tag selected.
-1c54fa5a-58da-42e6-9200-e6a475817770.chatcolor.gui-click-to-select: '&bClick &8|&7
+1c54fa5a-58da-42e6-9200-e6a475817770.chatcolor.gui-click-to-select: '§bClick §8|§7
   Select'
-b3dda760-84af-43b6-9f7c-98483b9a6c89.gsitMessages.action-sit-kick-error: '[P]&7 Someone
+b3dda760-84af-43b6-9f7c-98483b9a6c89.gsitMessages.action-sit-kick-error: '[P]§7 Someone
   is already sitting here!'
-6913e6ee-c8a2-43b9-bc50-eb9d7352dddc.dh.money-updated: '&7You''ve updated the &fMoney
-  Leaderboard&7!'
-0440e1dc-5d9c-439a-9b57-01f1a9f6982e.gsitPlugin.plugin-version: '[P]&7 This Plugin
-  can not be used with this Server Version! &f%Version%&7!'
-970c09ff-5d48-4a76-8bcb-78503760f08c.gsitMessages.action-emote-none-error: '[P]&c
+6913e6ee-c8a2-43b9-bc50-eb9d7352dddc.dh.money-updated: '§7You''ve updated the §fMoney
+  Leaderboard§7!'
+0440e1dc-5d9c-439a-9b57-01f1a9f6982e.gsitPlugin.plugin-version: '[P]§7 This Plugin
+  can not be used with this Server Version! §f%Version%§7!'
+970c09ff-5d48-4a76-8bcb-78503760f08c.gsitMessages.action-emote-none-error: '[P]§c
   You''re not using an emote right now!'
-bcd6a436-a8f3-492b-a864-fe8dfbe9018f.mpdb.configReload: '&6Config reload complete!
+bcd6a436-a8f3-492b-a864-fe8dfbe9018f.mpdb.configReload: '§6Config reload complete!
   Check the server log or console for details.'
-f626f93c-258d-43cf-875b-329086824919.gsitMessages.action-crawl-now-error: '[P]&7 You
+f626f93c-258d-43cf-875b-329086824919.gsitMessages.action-crawl-now-error: '[P]§7 You
   can''t crawl right now!'
-98fce703-dfe0-4050-b922-e10345f094ac.gsitMessages.command-sender-error: '[P]&7 This
+98fce703-dfe0-4050-b922-e10345f094ac.gsitMessages.command-sender-error: '[P]§7 This
   Sender cannot execute this Command!'
-ed717aff-586d-42c0-a5cf-5fc553c90cee.mpdb.loginSyncConfirmation: '[lang]prefix[/lang]&6Data
+ed717aff-586d-42c0-a5cf-5fc553c90cee.mpdb.loginSyncConfirmation: '[lang]prefix[/lang]§6Data
   sync complete!'
 1b6caa61-ca28-47d2-a688-4b670b5a8028.dh.playtime-lb: PLAYTIME LEADERBOARD
-0a8c0fe8-436c-4d8b-8094-8b021e7894cd.dh.points-updated: '&7You''ve updated the &fPoints
-  Leaderboard&7!'
-8f2ce7ee-cf79-487d-88b4-0b0ccd08117f.gsitMessages.action-pose-kick-error: '[P]&7 Someone
+0a8c0fe8-436c-4d8b-8094-8b021e7894cd.dh.points-updated: '§7You''ve updated the §fPoints
+  Leaderboard§7!'
+8f2ce7ee-cf79-487d-88b4-0b0ccd08117f.gsitMessages.action-pose-kick-error: '[P]§7 Someone
   is already posing here!'
 34836667-5a55-4d72-878f-8e7738c97c06.ia.8.2: 'together at play.[lang]prefix[/lang]!'
-db64f04c-dd42-4c06-ba30-b629a9332da1.chatcolor.gui-available: '&aAvailable'
-657a3f5c-aa2c-4b96-88db-e9be2d839e72.chatmanager.Broadcast: '#00ffff&lANNOUNCEMENT! '
-8302dcec-13fc-4693-8038-c56256a5161d.mpdb.importingDataComplete: '&eData import complete!'
+db64f04c-dd42-4c06-ba30-b629a9332da1.chatcolor.gui-available: '§aAvailable'
+657a3f5c-aa2c-4b96-88db-e9be2d839e72.chatmanager.Broadcast: '§x§0§0§f§f§f§f&lANNOUNCEMENT! '
+8302dcec-13fc-4693-8038-c56256a5161d.mpdb.importingDataComplete: '§eData import complete!'
 fcb69ba4-fd50-4896-854c-6cd69bd2229f.alonsotags.Tag-cleared: You cleared your current
   tag.
-3e8ecdc5-eb76-4b92-a760-b366e41865a6.dh.tokens-updated: '&7You''ve updated the &fTokens
-  Leaderboard&7!'
-4b6a3e5b-2c92-407e-b3d4-6127cf86b108.gsitPlugin.plugin-enabled: '[P]&7 The Plugin
+3e8ecdc5-eb76-4b92-a760-b366e41865a6.dh.tokens-updated: '§7You''ve updated the §fTokens
+  Leaderboard§7!'
+4b6a3e5b-2c92-407e-b3d4-6127cf86b108.gsitPlugin.plugin-enabled: '[P]§7 The Plugin
   was successfully enabled.'
-357b44df-d93d-49f6-8192-fb547e608f80.dh.your-points: '&fYour Points:'
-493d95b3-53f2-478a-92f6-0c320fe770b4.chatmanager.msg.you: '&bYou'
+357b44df-d93d-49f6-8192-fb547e608f80.dh.your-points: '§fYour Points:'
+493d95b3-53f2-478a-92f6-0c320fe770b4.chatmanager.msg.you: '§bYou'
 4da9a097-45e5-4cb6-b87a-0d34a6fb39c9.alonsotags.Error-purchasing: >-
   Unexpected error purchasing this tag. Try again later, if the problem
   persists, contact an administrator.
 9157dac0-4b19-4f07-866c-c01e8b701a41.mpdb.inventorySyncBackup: >-
-  &6[!] &eRestored the local inventory! &cDon't leave items in your inventory
-  when you disconnect!
-83b5a539-c04c-4800-9f42-d40a32dd4bb0.chatcolor.gui-inactive: '&7Inactive'
+  §6[!] §eRestored the local inventory! §cDon't leave items in your inventory when
+  you disconnect!
+83b5a539-c04c-4800-9f42-d40a32dd4bb0.chatcolor.gui-inactive: '§7Inactive'
 a84e2a42-52ab-498a-9983-ee490449d9a3.ia.1.1: Get free rewards at
-709c93ae-7070-4097-a6d0-9c996b0dab5a.tab.sb.username: '&7Username:'
-6795d378-1a26-4948-a2e2-00b1c6c8f133.ia.no-permission: '&7You don''t have permission
+709c93ae-7070-4097-a6d0-9c996b0dab5a.tab.sb.username: '§7Username:'
+6795d378-1a26-4948-a2e2-00b1c6c8f133.ia.no-permission: '§7You don''t have permission
   to do that!'
 05b2c1e0-5ca1-4f11-9f57-3733c9157844.dh.refresh: ʀᴇꜰʀᴇꜱʜ ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅ
 771982c0-3e5c-47d9-90cc-7cca15b23a29.dh.playtime-lb.title: '[Top 10 Players No Life!]'
 f7fbf7fe-76a8-4888-89be-3197f2a0cbb5.mpdb.armorSyncBackup: >-
-  &6[!] &eRestored the local armor! &cDon't leave items in your inventory when
-  you disconnect!
-04b53dee-4696-4231-898e-962610fa2a54.mpdb.armorSyncError: '&4[WARNING] &cError loading
+  §6[!] §eRestored the local armor! §cDon't leave items in your inventory when you
+  disconnect!
+04b53dee-4696-4231-898e-962610fa2a54.mpdb.armorSyncError: '§4[WARNING] §cError loading
   your armor! Contact the staff team.'
-1e75b8fb-3131-4db1-8cb3-050363cd555a.gsitMessages.action-pose-info: '&7Use your&f
-  Shift&7 Key to get up.'
-6f219eda-fb66-4136-9d8f-7dae25c172b8.alonsotags.Previous-page: '&b&l← &bPrevious'
+1e75b8fb-3131-4db1-8cb3-050363cd555a.gsitMessages.action-pose-info: '§7Use your§f
+  Shift§7 Key to get up.'
+6f219eda-fb66-4136-9d8f-7dae25c172b8.alonsotags.Previous-page: '§b&l← §bPrevious'
 733446ed-d6ff-471a-a48a-aa400e1b013a.mpdb.reloadCmdWarning: >-
-  &cThis plugin does not recommend server reloads. If you have issues after
-  running this command stop using it.
-ef742849-3b8a-4028-9ce6-8538d439ffa1.gsitMessages.action-crawl-region-error: '[P]&7
+  §cThis plugin does not recommend server reloads. If you have issues after running
+  this command stop using it.
+ef742849-3b8a-4028-9ce6-8538d439ffa1.gsitMessages.action-crawl-region-error: '[P]§7
   You can''t crawl in this region!'
 547c0531-cb58-4307-a642-17dc7788dd71.alonsotags.Already-selected: You already have
   this tag enabled!
 0d864c1d-c14c-4d1c-bdbe-de5777a66393.ia.7.1: 'Welcome on [lang]prefix[/lang]'
 752896d5-6372-4dae-ab56-d4d20d07d872.hub.move.already-here: You are already in the
-  lobby &b(Secret 01)
-5a76e163-96cb-4ca2-be58-94032dfe1398.gsitMessages.action-blocked-error: '[P]&7 You
+  lobby §b(Secret 01)
+5a76e163-96cb-4ca2-be58-94032dfe1398.gsitMessages.action-blocked-error: '[P]§7 You
   are not allowed to execute this Command right now!'
 bd83bfdc-5ce1-431a-962c-82f6443f98fa.ia.2.1: Claim your available kits
 6f0ecfca-7b35-481e-af00-9c4aca0042a7.dh.points-lb: POINTS LEADERBOARD
-265a72c0-4c53-46fc-8f5a-fb4300527741.gsitMessages.action-pose-safe-error: '[P]&7 It''s
+265a72c0-4c53-46fc-8f5a-fb4300527741.gsitMessages.action-pose-safe-error: '[P]§7 It''s
   not safe to pose here!'
 27a7be73-cda5-4fc2-8325-579fb58027b5.perms: 'Unfortunately, you do not have the permissions
   for this!'
-b80f4f23-1345-4693-bc11-4ca3a48419ed.gsitMessages.command-gsit-toggle-on: '[P]&7 You''ve
-  &a&l✔ &aEnabled&7 click-interactions to sit! &8&o(/toggle)'
+b80f4f23-1345-4693-bc11-4ca3a48419ed.gsitMessages.command-gsit-toggle-on: '[P]§7 You''ve
+  §a&l✔ §aEnabled§7 click-interactions to sit! §8&o(/toggle)'
 0d415b59-b8ca-46ec-8a41-e1a560464ef0.ia.4.1: View your playtime
-ef2e88e8-f29b-4544-8d05-21295f04451e.chatcolor.gui-click-to-toggle: '&bClick &8|&7
+ef2e88e8-f29b-4544-8d05-21295f04451e.chatcolor.gui-click-to-toggle: '§bClick §8|§7
   Toggle'
-93a8462b-c9dd-4e31-b53d-ed5c0fb1adaf.mpdb.loginSyncFailed: '&cFailed to load your
+93a8462b-c9dd-4e31-b53d-ed5c0fb1adaf.mpdb.loginSyncFailed: '§cFailed to load your
   data! Contact a staff member.'
-f9677241-6d53-41ec-a562-f85f0bd0d356.gsitMessages.action-emote-stop-error: '[P]&c
+f9677241-6d53-41ec-a562-f85f0bd0d356.gsitMessages.action-emote-stop-error: '[P]§c
   You can''t stop emoting!'
-a2e18b28-fed9-4471-a837-60da834d73e7.gsitMessages.action-sit-region-error: '[P]&7
+a2e18b28-fed9-4471-a837-60da834d73e7.gsitMessages.action-sit-region-error: '[P]§7
   You can''t sit in this region!'
-ffd61dcd-c031-4a28-b7b3-663c9038211c.dh.playtime-updated: '&7You''ve updated the &fPlaytime
-  Leaderboard&7!'
+ffd61dcd-c031-4a28-b7b3-663c9038211c.dh.playtime-updated: '§7You''ve updated the §fPlaytime
+  Leaderboard§7!'
 7a2290a0-4b14-4912-9a8f-effbca3b5c21.ia.10.1: Trade for goods using
-470231ec-af64-455b-a190-02421688eec0.mpdb.importingData: '&7Importing players data
+470231ec-af64-455b-a190-02421688eec0.mpdb.importingData: '§7Importing players data
   to the database... Check server console for details.'
-2d9e0c7a-f386-419a-b36b-3752cfe08fe1.mpdb.inventorySyncError: '&cError loading your
+2d9e0c7a-f386-419a-b36b-3752cfe08fe1.mpdb.inventorySyncError: '§cError loading your
   inventory! Contact the staff team.'
-1f184739-5f63-4843-adba-0cbc15bb8ecc.ia.toggle-sound-on: '&7You''''ve toggled &a&l✔
-  &aEnabled&7 the sound announcement &8&o(/toggle)'
+1f184739-5f63-4843-adba-0cbc15bb8ecc.ia.toggle-sound-on: '§7You''''ve toggled §a&l✔
+  §aEnabled§7 the sound announcement §8&o(/toggle)'
 59acba06-b266-4c58-a658-f29c8c5271f5.alonsotags.Please-reconnect: Unexpected error.
   Please reconnect to the server!
-f51f6d75-f63b-4849-8c95-ed773565025f.gsitMessages.action-playersit-info: '&7Use your&f
-  Shift&7 Key to get up.'
-d08201bd-b64f-4817-a462-fa78eef4d2ca.ia.toggle-off: '&7You''''ve toggled &c&l❌ &cDisabled&7
-  the announcement &8&o(/toggle)'
-63bc3550-618b-4146-a613-8312d2dc9e65.chatcolor.set-own-color: '&7Successfully set
+f51f6d75-f63b-4849-8c95-ed773565025f.gsitMessages.action-playersit-info: '§7Use your§f
+  Shift§7 Key to get up.'
+d08201bd-b64f-4817-a462-fa78eef4d2ca.ia.toggle-off: '§7You''''ve toggled §c&l❌ §cDisabled§7
+  the announcement §8&o(/toggle)'
+63bc3550-618b-4146-a613-8312d2dc9e65.chatcolor.set-own-color: '§7Successfully set
   your color to:'
-40debcbe-b229-4416-ad35-0d87aca21dd4.bungee.restart.title: '&bRestarting '
+40debcbe-b229-4416-ad35-0d87aca21dd4.bungee.restart.title: '§bRestarting '
 af7607cb-fb2f-4594-b306-946c146551c2.dh.token-lb.titel: '[Top 10 Dola Dola!]'
 2ccd337f-342b-4780-a0b7-6631feff44ea.ia.7.2: Enjoy your staying playing with us!
-154ee715-fc9f-4b0a-9b88-dfc314c866c8.chatcolor.gui-active: '&bActive'
+154ee715-fc9f-4b0a-9b88-dfc314c866c8.chatcolor.gui-active: '§bActive'
 2a15af05-0abb-45cf-832a-758c071992ad.ia.3.1: Save the Earth
-1306f3a2-f809-4adb-a200-23dda00f6c11.mpdb.loginSyncStarted: '&6Loading your data...'
-7eb7e520-7c3f-47cd-bd4c-c2eb63827bc7.gsitMessages.action-crawl-world-error: '[P]&7
+1306f3a2-f809-4adb-a200-23dda00f6c11.mpdb.loginSyncStarted: '§6Loading your data...'
+7eb7e520-7c3f-47cd-bd4c-c2eb63827bc7.gsitMessages.action-crawl-world-error: '[P]§7
   You can''t crawl in this world!'
-f83074a9-78ba-4386-a7d0-e2f6e28f8f07.gsitMessages.command-permission-error: '[P]&7
+f83074a9-78ba-4386-a7d0-e2f6e28f8f07.gsitMessages.command-permission-error: '[P]§7
   You don''t have Permission to use this Command!'
 9c5685a3-7e65-4cbd-8369-9b7db1461647.dh.token-lb: TOKENS LEADERBOARD
 c4645f69-c0eb-44fd-b518-1be148468ee6.ia.8.1: Invite your friends to play
-95279f9f-eb5c-4394-b05b-d2dab34c5f50.mpdb.noPermission: '&7You do not have permission.'
-065330db-285b-4279-ad3d-a8df014f9409.chatmanger.mention.footer: '#E6E6E6You got mentioned
-  by'
+95279f9f-eb5c-4394-b05b-d2dab34c5f50.mpdb.noPermission: '§7You do not have permission.'
+065330db-285b-4279-ad3d-a8df014f9409.chatmanger.mention.footer: '§x§E§6§E§6§E§6You
+  got mentioned by'
 bf422279-295c-4041-ac16-e8612591f3ca.gsitMessages.command-gsit-playertoggle-on: >-
-  [P]&7 You have &a&l✔ &aEnabled&7 click-interactions for playersit!
-  &8&o(/toggle)
-27caaa24-a1c8-411b-ae5a-a61ebda583dc.gsitMessages.command-gsit-toggle-off: '[P]&7
-  You''ve &c&l✘ &cDisabled&7 click-interactions to sit! &8&o(/toggle)'
+  [P]§7 You have §a&l✔ §aEnabled§7 click-interactions for playersit! §8&o(/toggle)
+27caaa24-a1c8-411b-ae5a-a61ebda583dc.gsitMessages.command-gsit-toggle-off: '[P]§7
+  You''ve §c&l✘ §cDisabled§7 click-interactions to sit! §8&o(/toggle)'
 c5c78938-b9f9-4342-9284-40e9024ec263.alonsotags.Tag-purchased: You successfully purchased
-  tag &f%1&7!
-56d67910-a5c8-49b9-9886-d022778335f5.chatcolor.gui-title: '&8Chatcolor Select'
-13c4b11e-4604-4a9c-afe9-c1ec51790a91.dh.your-tokens: '&fYour Tokens:'
-3eafa6d0-6baa-4616-9e9e-8ba1e8cc59e2.gsitMessages.action-emote-world-error: '[P]&c
+  tag §f%1§7!
+56d67910-a5c8-49b9-9886-d022778335f5.chatcolor.gui-title: '§8Chatcolor Select'
+13c4b11e-4604-4a9c-afe9-c1ec51790a91.dh.your-tokens: '§fYour Tokens:'
+3eafa6d0-6baa-4616-9e9e-8ba1e8cc59e2.gsitMessages.action-emote-world-error: '[P]§c
   You can''t emote in this world!'
-ef1086a8-3f2c-42d7-8bbd-4cc6adecebb9.gsitMessages.command-gcrawl-toggle-off: '[P]&a
+ef1086a8-3f2c-42d7-8bbd-4cc6adecebb9.gsitMessages.command-gcrawl-toggle-off: '[P]§a
   You have disabled double-sneak for crawl.'
-fc587346-0b71-4f44-a826-02b9ee80f5a9.gsitMessages.action-sit-location-error: '[P]&7
+fc587346-0b71-4f44-a826-02b9ee80f5a9.gsitMessages.action-sit-location-error: '[P]§7
   You can''t sit here!'
-40f46b5d-ac9c-48fd-b654-6f32b40346ff.gsitMessages.command-gcrawl-toggle-on: '[P]&a
+40f46b5d-ac9c-48fd-b654-6f32b40346ff.gsitMessages.command-gcrawl-toggle-on: '[P]§a
   You have enabled double-sneak for crawl.'
-b2f62c01-258d-49d6-ad58-7934b1ba0f96.bungeeguard.invalid-token: '&cThe authentication
+b2f62c01-258d-49d6-ad58-7934b1ba0f96.bungeeguard.invalid-token: '§cThe authentication
   process is currently unavailable.'
-bfed87ff-eee1-480b-9b0d-5ad5f0743dbb.gsitPlugin.plugin-reload: '[P]&a The plugin was
+bfed87ff-eee1-480b-9b0d-5ad5f0743dbb.gsitPlugin.plugin-reload: '[P]§a The plugin was
   successfully reloaded.'
 7a8ea03c-72e1-47b3-aeb0-dcd8ac5ddad6.alonsotags.active.lore: |-
-  &bDescription
-   &b| &7Here you can view a tag
-   &b| &7that you've selected.
+  §bDescription
+   §b| §7Here you can view a tag
+   §b| §7that you've selected.
 
-  &bInformation
-   &b| &7Tag Selected: %1
-   &b| &7Status: &a&l✔
+  §bInformation
+   §b| §7Tag Selected: %1
+   §b| §7Status: §a&l✔
 
-  &b&| &bᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴇᴀʀ
-cac09bd4-8768-47a9-bd76-ba60db2ca620.gsitMessages.action-sit-safe-error: '[P]&7 It''s
+  §b&| §bᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴇᴀʀ
+cac09bd4-8768-47a9-bd76-ba60db2ca620.gsitMessages.action-sit-safe-error: '[P]§7 It''s
   not safe to sit here!'
-96ca0a0c-bfc8-4a16-80fe-7b27468350e2.gsitMessages.action-emote-exist-error: '[P]&c
-  The emote&6 %Emote%&c does not exist!'
+96ca0a0c-bfc8-4a16-80fe-7b27468350e2.gsitMessages.action-emote-exist-error: '[P]§c
+  The emote§6 %Emote%§c does not exist!'
 2fc4199e-14ab-47fd-9af7-639def38d7fd.dh.money-lb: LEADERBOARD MONEY
-ca655314-ffe5-4b7a-984f-0a2897d1fa40.chatcolor.gui-unavailable: '&8Unavailable'
-c2596c7c-75de-4c99-89d1-d157b14464c5.gsitMessages.action-sit-info: '&7Use your&f Shift&7
+ca655314-ffe5-4b7a-984f-0a2897d1fa40.chatcolor.gui-unavailable: '§8Unavailable'
+c2596c7c-75de-4c99-89d1-d157b14464c5.gsitMessages.action-sit-info: '§7Use your§f Shift§7
   Key to get up.'
-0321c804-e218-4a1f-b00c-2d835bb1c8d9.chatcolor.gui-color-already-set: '&7Colour already
+0321c804-e218-4a1f-b00c-2d835bb1c8d9.chatcolor.gui-color-already-set: '§7Colour already
   selected!'
-2613828a-c2ba-495a-a7a0-9f47de69c513.bungee.restart.actionbar: '&bDont leave, &6we
+2613828a-c2ba-495a-a7a0-9f47de69c513.bungee.restart.actionbar: '§bDont leave, §6we
   connect you back!'
-d72ed0a5-52ce-436c-be38-d96fa7a70a06.gsitMessages.action-sit-now-error: '[P]&7 You
+d72ed0a5-52ce-436c-be38-d96fa7a70a06.gsitMessages.action-sit-now-error: '[P]§7 You
   can''t sit right now!'
-304eecf5-ab97-4e7d-bffc-a022e8f2ce1a.gsitMessages.command-version-error: '[P]&7 You
-  can''t use this feature with this Server Version! &c%Version%&7!'
+304eecf5-ab97-4e7d-bffc-a022e8f2ce1a.gsitMessages.command-version-error: '[P]§7 You
+  can''t use this feature with this Server Version! §c%Version%§7!'
 70f54379-393e-462b-b745-1bc975bc8547.ia.3.2: Dispose your items and save the earth!
 fb402023-821e-4d2e-9479-a3b353e3d6ab.ia.10.2: Keep you safe from scammer(s)
 0e80cd88-4bbe-4016-8b1f-e13e4fd9a7a8.gsitPlugin.plugin-update: >-
-  [P]&7 New Version available:&a %NewVersion%&7!\n&7You are currently running
-  Version:&c %Version%&7!\n&7Download the latest Version at:\n&b %Path%
+  [P]§7 New Version available:§a %NewVersion%§7!\n§7You are currently running Version:§c
+  %Version%§7!\n§7Download the latest Version at:\n§b %Path%
 bf72153d-9f72-46da-99b9-74e000222d58.ia.1.2: and to keep supporting our server!
 47a21a8b-3473-44d4-8a6f-7c05597d79a9.alonsotags.reloaded: Some messages and options
   have been reloaded. Others may require a restart!
-74bfa7cd-b4aa-498e-8b42-1cd97571c456.gsitMessages.action-emote-region-error: '[P]&c
+74bfa7cd-b4aa-498e-8b42-1cd97571c456.gsitMessages.action-emote-region-error: '[P]§c
   You can''t emote in this region!'
-9d4a06ac-c4af-460d-a637-b6a561f3a40f.chatcolor.current-color: '&7Your color is currently:'
-c3bc89eb-eaa6-4df0-93d1-d53e95bc765b.ia.reload: '&7You reload the configuration and
+9d4a06ac-c4af-460d-a637-b6a561f3a40f.chatcolor.current-color: '§7Your color is currently:'
+c3bc89eb-eaa6-4df0-93d1-d53e95bc765b.ia.reload: '§7You reload the configuration and
   language files.'
-302bf67c-6b7a-4a81-91db-a895ea78f9e0.ia.toggle-on: '&7You''''ve toggled &a&l✔ &aEnabled&7
-  the announcement &8&o(/toggle)'
+302bf67c-6b7a-4a81-91db-a895ea78f9e0.ia.toggle-on: '§7You''''ve toggled §a&l✔ §aEnabled§7
+  the announcement §8&o(/toggle)'
 6512c036-cd87-476e-9c73-dae072ea273d.ia.5.1: Do you need help?
-0e5d0d57-ea1f-455d-8d98-477a15eed9ef.chatmanager.Header: '#ff0000❤ #ff0000&l&nWELCOME
-  BACK!#ff0000 ❤'
-789a1eb1-7dd2-4eae-82e3-7bdae08f3434.prefix: '&bʜᴀᴍsᴛᴇʀ&6ɢᴀᴍᴇs&7.ᴇᴜ '
-739e775e-8caa-47a8-9abb-cb097cc6062f.dh.your-playtime: '&fYour Playtime:'
-2ea09188-aa8f-4712-865d-e60047a676ca.alonsotags.Next-page: '&bNext &l→'
-c00da470-4855-427d-b380-b7c09b31a44d.gsitPlugin.plugin-prefix: '&b&lsɪᴛ &8&l┃&7'
-78608a70-26e7-4181-8044-906cca8dd56a.tab.sb.tokens: '&7Tokens:'
+0e5d0d57-ea1f-455d-8d98-477a15eed9ef.chatmanager.Header: '§x§f§f§0§0§0§0❤ §x§f§f§0§0§0§0&l&nWELCOME
+  BACK!§x§f§f§0§0§0§0 ❤'
+789a1eb1-7dd2-4eae-82e3-7bdae08f3434.prefix: '§bʜᴀᴍsᴛᴇʀ§6ɢᴀᴍᴇs§7.ᴇᴜ '
+739e775e-8caa-47a8-9abb-cb097cc6062f.dh.your-playtime: '§fYour Playtime:'
+2ea09188-aa8f-4712-865d-e60047a676ca.alonsotags.Next-page: '§bNext &l→'
+c00da470-4855-427d-b380-b7c09b31a44d.gsitPlugin.plugin-prefix: '§b&lsɪᴛ §8&l┃§7'
+78608a70-26e7-4181-8044-906cca8dd56a.tab.sb.tokens: '§7Tokens:'
 3ecd0210-e844-4db6-83dc-82eaef241d51.uar.EVENT_RESTART_DELAY_GLOBAL.title: REBOOT
   DELAYED
 067da34c-c686-43fc-9cb2-a99ff8b38a61.uar.COMMAND_FORCE_RESTART.chatMessage: Server
   forced rebooting in
-e1ff0a69-5f33-411e-9ddc-cf86451e12cf.mycmd.block.delay: '&7You can interact again
-  with this block in &c%1s'
-d84381be-2c40-4aba-bad8-67c738d2e481.mycmd.cooldown2: "&7You've skipped the cooldown
+e1ff0a69-5f33-411e-9ddc-cf86451e12cf.mycmd.block.delay: '§7You can interact again
+  with this block in §c%1s'
+d84381be-2c40-4aba-bad8-67c738d2e481.mycmd.cooldown2: "§7You've skipped the cooldown
   from this command"
-f64cfdc4-ae08-4e19-9b08-48cc7ea9831b.tab.sb.balance: '&7Balance:'
-15878977-20f7-4765-94e8-7afbf63bc2d2.tab.sb.playtime: '&7Playtime:'
-24d1eddd-e6d4-4d57-91df-fa4e9d87ca64.mycmd.ECONOMY_COST: '&7This command cost %1.
+f64cfdc4-ae08-4e19-9b08-48cc7ea9831b.tab.sb.balance: '§7Balance:'
+15878977-20f7-4765-94e8-7afbf63bc2d2.tab.sb.playtime: '§7Playtime:'
+24d1eddd-e6d4-4d57-91df-fa4e9d87ca64.mycmd.ECONOMY_COST: '§7This command cost %1.
   New balance %2'
 00d5f7bd-6fe1-4020-b714-aeebee09c212.mycmd.hours: 'hours '
 30c59881-f59f-444f-b6ab-6636831baab0.tab.ani.4.3: ᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ
-c351f873-253f-4a94-8f7c-5e9a2784d65d.mycmd.interaction.delay: '&7You must wait &c%1
-  seconds&8)&7 for interact again'
+c351f873-253f-4a94-8f7c-5e9a2784d65d.mycmd.interaction.delay: '§7You must wait §c%1
+  seconds§8)§7 for interact again'
 e84ccda1-a060-43f8-b987-761ab76d1e14.tab.ani.players: 'Tᴏᴛᴀʟ ᴘʟᴀʏᴇʀs:'
-e3110a09-565b-4cb5-b979-cd4483be936d.tab.ani.2.2: '&fᴡᴇʟᴄᴏᴍᴇ ᴛᴏ Hᴀᴍsᴛᴇʀɢᴀᴍᴇs.ᴇᴜ ʏᴏᴜ
+e3110a09-565b-4cb5-b979-cd4483be936d.tab.ani.2.2: '§fᴡᴇʟᴄᴏᴍᴇ ᴛᴏ Hᴀᴍsᴛᴇʀɢᴀᴍᴇs.ᴇᴜ ʏᴏᴜ
   ᴀʀᴇ'
 4b06dee8-4c63-4cbf-a3c0-699d4fa0970e.uar.COMMAND_USER_VIEWINTERVAL.chatMessage: server
   rebooted %1 ago...
@@ -286,868 +284,868 @@ e3110a09-565b-4cb5-b979-cd4483be936d.tab.ani.2.2: '&fᴡᴇʟᴄᴏᴍᴇ ᴛᴏ
   in
 fda11bc6-495b-4203-8133-ba8535d3771c.uar.EVENT_RESTART_GLOBAL.chatMessage: Rebooting...
   we connect you back!
-26e3c7ed-35ff-4d81-9717-d3c1cd5e87b7.mycmd.npc.nocmd: "&7This NPC doesn't have command(s)
+26e3c7ed-35ff-4d81-9717-d3c1cd5e87b7.mycmd.npc.nocmd: "§7This NPC doesn't have command(s)
   to execute."
 3c656321-780c-40cb-a220-af031ca8b3a6.mycmd.second: 'second '
 2b06711e-6a66-4aa7-bd0c-715e91ef7c56.mycmd.seconds: 'seconds '
-7de42667-35e9-42e6-bcce-984d030877d1.tab.sb.tempfly: '&7TempFly:'
-9416c7a8-06d0-4dc4-8c0a-12eecb64921b.mycmd.warmup1: '&6The command will be performed
-  in &c%1 seconds'
-0ae160ea-62e2-4db1-8dfb-25cec33f0261.mycmd.warmup2: "&7You've skipped the warmup on
+7de42667-35e9-42e6-bcce-984d030877d1.tab.sb.tempfly: '§7TempFly: '
+9416c7a8-06d0-4dc4-8c0a-12eecb64921b.mycmd.warmup1: '§6The command will be performed
+  in §c%1 seconds'
+0ae160ea-62e2-4db1-8dfb-25cec33f0261.mycmd.warmup2: "§7You've skipped the warmup on
   this command"
-09100892-fe81-45bc-9745-dd566a410a75.tab.ani.2.4: '&fɢᴇᴛ ꜰʀᴇᴇ ʀᴇᴡᴀʀᴅꜱ ʙʏ ꜱᴜᴘᴘᴏʀᴛɪɴɢ
+09100892-fe81-45bc-9745-dd566a410a75.tab.ani.2.4: '§fɢᴇᴛ ꜰʀᴇᴇ ʀᴇᴡᴀʀᴅꜱ ʙʏ ꜱᴜᴘᴘᴏʀᴛɪɴɢ
   Hᴀᴍsᴛᴇʀɢᴀᴍᴇs.ᴇᴜ'
 348fb7aa-e61b-4d50-a1e7-0e325c89d807.uar.EVENT_RESTART_DELAY_STAFF.title: REBOOT DELAY
-82846f32-dbaa-47f9-9c01-a00b4776a052.mycmd.holo.delay: '&7You can interact again with
-  this hologram in &c%1s'
-d26ce2e5-4fc6-4154-be1f-b38e6294e81b.tab.ani.2.1: '&fᴊᴏɪɴ ᴏᴜʀ ᴏꜰꜰɪᴄɪᴀʟ ᴅɪꜱᴄᴏʀᴅ ᴄᴏᴍᴍᴜɴɪᴛʏ
+82846f32-dbaa-47f9-9c01-a00b4776a052.mycmd.holo.delay: '§7You can interact again with
+  this hologram in §c%1s'
+d26ce2e5-4fc6-4154-be1f-b38e6294e81b.tab.ani.2.1: '§fᴊᴏɪɴ ᴏᴜʀ ᴏꜰꜰɪᴄɪᴀʟ ᴅɪꜱᴄᴏʀᴅ ᴄᴏᴍᴍᴜɴɪᴛʏ
   ꜰᴏʀ ᴜᴘᴅᴀᴛᴇꜱ,'
-cdfc1726-588a-44ee-b69a-b725b2a93048.uar.restart.subtitle: '&fRestarting in'
-9957252b-687d-4801-8fcc-52d9ad4f337b.tab.ani.3.2: '&fCᴜʀʀᴇɴᴛʟʏ ᴘʟᴀʏɪɴɢ ᴏɴ ᴛɪʟɢɪs!'
-0a81e4b8-1467-446e-a9b9-4d1f10504e3d.mycmd.broadcast-alone: '&7No one received this
+cdfc1726-588a-44ee-b69a-b725b2a93048.uar.restart.subtitle: '§fRestarting in'
+9957252b-687d-4801-8fcc-52d9ad4f337b.tab.ani.3.2: '§fCᴜʀʀᴇɴᴛʟʏ ᴘʟᴀʏɪɴɢ ᴏɴ ᴛɪʟɢɪs!'
+0a81e4b8-1467-446e-a9b9-4d1f10504e3d.mycmd.broadcast-alone: '§7No one received this
   message'
 84322162-8aa5-4f0b-af47-88a571e55004.uar.EVENT_RESTART_DELAY_GLOBAL.subtitle: Restart
   has been delayed by
 9488f6a1-b689-4598-99b4-b1cff79d553d.uar.EVENT_RESTART_GLOBAL.subtitleContent: Please
   wait, we connect you!
-482c134c-fd27-4c16-b3f4-572870100aeb.mycmd.npc.delay: '&7You must wait &c%s seconds&7
+482c134c-fd27-4c16-b3f4-572870100aeb.mycmd.npc.delay: '§7You must wait §c%s seconds§7
   for interact again'
-21e4c6c8-14b8-4143-9490-415222b6e258.mycmd.skipped-execute: "&7You've skipped the
+21e4c6c8-14b8-4143-9490-415222b6e258.mycmd.skipped-execute: "§7You've skipped the
   command execution mode check."
 cd4a4611-a5cf-4768-813a-1d5e70681b11.uar.COMMAND_FORCE_RESTART.subtitle: Forced a
   restart. Restarting in
 8206a62e-2c44-460d-bf7e-209e483a55b7.uar.restart.title: REBOOTING
 8b2d00ca-9bb0-43da-b6d5-8f3e203c5fc1.tab.ani.welcome: ᴡᴇʟᴄᴏᴍᴇ
-29baa872-b8d5-4c76-ac86-28b7a4818750.mycmd.console-deny: "&7You can't run this command
+29baa872-b8d5-4c76-ac86-28b7a4818750.mycmd.console-deny: "§7You can't run this command
   from the console"
 174cee1a-430d-47ae-a8d3-9cbf61e21647.mycmd.minute: 'minute '
-9a4cab7c-d85b-4729-9304-b274334da104.mycmd.lines-empty: '&7All lines are empty.'
-45575dd6-ea41-4022-8695-8bc3fcda8b6b.tab.sb.points: '&7Points:'
-8a934d4a-df77-4b21-8ec3-ecf7a6554862.mycmd.itemnoset: '&7There are no command(s) on
+9a4cab7c-d85b-4729-9304-b274334da104.mycmd.lines-empty: '§7All lines are empty.'
+45575dd6-ea41-4022-8695-8bc3fcda8b6b.tab.sb.points: '§7Points:'
+8a934d4a-df77-4b21-8ec3-ecf7a6554862.mycmd.itemnoset: '§7There are no command(s) on
   this item'
-9c42929b-f1fb-46e9-8b14-e964b1d5deee.mycmd.noperms: "&7You don't have a permission
+9c42929b-f1fb-46e9-8b14-e964b1d5deee.mycmd.noperms: "§7You don't have a permission
   to do that!"
-eed6dff9-d1ca-422d-a44a-5553d0b23b87.tab.ani.3.3: '&fʙᴜʏɪɴɢ ʀᴀɴᴋꜱ ᴀɴᴅ ᴘᴏɪɴᴛꜱ ᴏɴ ᴏᴜʀ
+eed6dff9-d1ca-422d-a44a-5553d0b23b87.tab.ani.3.3: '§fʙᴜʏɪɴɢ ʀᴀɴᴋꜱ ᴀɴᴅ ᴘᴏɪɴᴛꜱ ᴏɴ ᴏᴜʀ
   ꜱᴛᴏʀᴇ!'
-e4fa4f8f-e394-4b1d-9237-bf54bc8f2931.mycmd.cmds.args.l1: '&7Not enough arguments...
+e4fa4f8f-e394-4b1d-9237-bf54bc8f2931.mycmd.cmds.args.l1: '§7Not enough arguments...
   You typed '
 c730d548-3ddd-4039-af68-6fab4ace235c.uar.COMMAND_USER_VIEWINTERVAL.chatMessage: Server
   rebooting in
 f01f4e13-e26f-4b7a-bcdb-f2b50b0e66d4.mycmd.minutes: 'minutes '
-d3e65b82-01bb-4872-8392-6dcfc68d4ad7.mycmd.console_output: '&7Check the console for
+d3e65b82-01bb-4872-8392-6dcfc68d4ad7.mycmd.console_output: '§7Check the console for
   the output.'
-50088488-67dd-4d23-ac52-d8368147a2e5.mycmd.block-removed: '&7Block removed!'
-efaf23c5-6744-4cd2-b075-8e32b91c09d6.tab.ani.2.3: '&fᴘᴜʀᴄʜᴀꜱᴇ ᴄᴏᴍᴍᴀɴᴅꜱ, ᴘᴇʀᴋꜱ, ᴄᴏꜱᴍᴇᴛɪᴄꜱ,
+50088488-67dd-4d23-ac52-d8368147a2e5.mycmd.block-removed: '§7Block removed!'
+efaf23c5-6744-4cd2-b075-8e32b91c09d6.tab.ani.2.3: '§fᴘᴜʀᴄʜᴀꜱᴇ ᴄᴏᴍᴍᴀɴᴅꜱ, ᴘᴇʀᴋꜱ, ᴄᴏꜱᴍᴇᴛɪᴄꜱ,
   ᴀɴᴅ ᴍᴏʀᴇ ʙʏ'
 768ccf05-0c6d-45e6-b873-a8bb44c0afad.uar.restart.chatmessage: Server rebooting in
 81f94e86-0928-40bf-94b1-b0d05f19c209.mycmd.days: 'days '
-38c0458e-ca91-45fc-adba-6aee962906c5.mycmd.sign-created: '&7Sign created! check &b/mycmd-signset
-  &7for more options.'
+38c0458e-ca91-45fc-adba-6aee962906c5.mycmd.sign-created: '§7Sign created! check §b/mycmd-signset
+  §7for more options.'
 cbf0103e-f88e-4ee6-8151-5832a4044276.uar.COMMAND_FORCE_RESTART.title: REBOOT FORCED
 a5bcf5b6-ae93-461e-90ea-3674607891e0.uar.COMMAND_USER_VIEWINTERVAL.title: REBOOTING
-5ba3e6e7-837a-4bb9-bcd5-da102e6df732.tab.ani.3.1: '&fɢɪᴠᴇᴀᴡᴀʏꜱ, ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ ᴀɴᴅ
+5ba3e6e7-837a-4bb9-bcd5-da102e6df732.tab.ani.3.1: '§fɢɪᴠᴇᴀᴡᴀʏꜱ, ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ ᴀɴᴅ
   ᴍᴀɴʏ ᴍᴏʀᴇ!'
-2a104129-f8f0-4723-909e-133a6ee77a4e.mycmd.cooldown1: '&7Wait:&c %1%2%3%4 &7before
+2a104129-f8f0-4723-909e-133a6ee77a4e.mycmd.cooldown1: '§7Wait:§c %1%2%3%4 §7before
   you can use this command again'
 0ce2f1c9-51b3-436f-a3f4-944fea593286.mycmd.day: day
 ca1bb488-a7dd-405a-9bc5-7f8497945a8a.uar.EVENT_RESTART_DELAY_STAFF.chat: Server reboot
   is delayed by
-5885bbb5-cfe1-4510-a296-97289f099e28.mycmd.sign-removed: '&7Sign removed!'
-0f01c37a-4f8a-49b0-a3e4-ead84a8b60ce.mycmd.nomoney: '&7You need &c%1&l$&7 for run
+5885bbb5-cfe1-4510-a296-97289f099e28.mycmd.sign-removed: '§7Sign removed!'
+0f01c37a-4f8a-49b0-a3e4-ead84a8b60ce.mycmd.nomoney: '§7You need §c%1&l$§7 for run
   this command.'
-1d0755a5-ef43-4361-a62c-c3799a982a38.mycmd.cmds.l2: '&8-> &7Output command(s) :'
+1d0755a5-ef43-4361-a62c-c3799a982a38.mycmd.cmds.l2: '§8-> §7Output command(s) :'
 cdaca2a2-9b0e-4b4c-913d-837ced6e1368.tab.ani.store: ꜱᴛᴏʀᴇ
-3f315c9d-fc0a-4615-947d-40b8ae9f316c.mycmd.char-not-allowed: '&7Your input contains
+3f315c9d-fc0a-4615-947d-40b8ae9f316c.mycmd.char-not-allowed: '§7Your input contains
   not allowed characters.'
 8bcefd8b-a620-48d9-b24c-69e1473baf0d.uar.COMMAND_FORCE_RESTART_GLOBAL.chatMessage: Server
   forced rebooting in
-9749347b-147c-4854-b749-458e85498502.mycmd.warmup3: "&7You're already warming up for
-  this command. Wait &c%1 seconds"
+9749347b-147c-4854-b749-458e85498502.mycmd.warmup3: "§7You're already warming up for
+  this command. Wait §c%1 seconds"
 4fa87da2-3811-4b77-81c8-71bf5f9ed69e.mycmd.nodata: NO DATA
-b6e96ecc-0f50-45c1-8953-fdf232f0735b.mycmd.debug.execute: '&7Executing: '
-9f46e8e4-3e75-44ca-a658-84e023976f34.tab.ani.3.4: '&fᴛʜʀᴏᴜɢʜ ᴠᴏᴛɪɴɢ ꜰᴏʀ ᴛʜᴇ ꜱᴇʀᴠᴇʀ
+b6e96ecc-0f50-45c1-8953-fdf232f0735b.mycmd.debug.execute: '§7Executing: '
+9f46e8e4-3e75-44ca-a658-84e023976f34.tab.ani.3.4: '§fᴛʜʀᴏᴜɢʜ ᴠᴏᴛɪɴɢ ꜰᴏʀ ᴛʜᴇ ꜱᴇʀᴠᴇʀ
   ᴜꜱɪɴɢ /ᴠᴏᴛᴇ!'
 bbf836a2-0680-42ed-8672-bef5dd3589f9.mycmd.hour: 'hour '
 4f4944d2-0b46-4e9a-b6cf-9b472fc345e0.uar.EVENT_RESTART_DELAY_STAFF.subtitle: Restart
   has been delayed by
 43440cbb-6054-491a-8c78-638f3c6aa4f7.uar.EVENT_RESTART_DELAY_GLOBAL.chatMessage: Server
   reboot is delayed by
-e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '&7World:'
-c3275e6f-533a-4cf1-9a78-c7defd84ed95.playerpoints.command-reset-usage: '&cUsage: &b/points
-  reset &3<player>'
-f90ab21c-56dc-451c-9bde-0bf938ae1a8b.playerpoints.command-set-success: '&7Set the
-  &b%1 &7of &b%2 &7to &b%3&7.'
-bcae4ea3-37e1-4aad-a2eb-8c4b135589b6.playerpoints.command-take-usage: '&cUsage: &b/points
-  take &3<player> <amount>'
+e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '§7Land:'
+c3275e6f-533a-4cf1-9a78-c7defd84ed95.playerpoints.command-reset-usage: '§cUsage: §b/points
+  reset §3<player>'
+f90ab21c-56dc-451c-9bde-0bf938ae1a8b.playerpoints.command-set-success: '§7Set the
+  §b%1 §7of §b%2 §7to §b%3§7.'
+bcae4ea3-37e1-4aad-a2eb-8c4b135589b6.playerpoints.command-take-usage: '§cUsage: §b/points
+  take §3<player> <amount>'
 e9946006-6c14-4d6c-bcce-e79e96693cc3.playerpoints.noperm: You don't have a permission
   to do that
-bb3a7d07-a74d-44b1-8d8d-e5968dfb0d32.playerpoints.command-give-received: "'&7You have
+bb3a7d07-a74d-44b1-8d8d-e5968dfb0d32.playerpoints.command-give-received: "'§7You have
   received"
-a8f13995-1b81-4601-961c-5f4fec61dac8.playerpoints.command-help-title: '&bAvailable
+a8f13995-1b81-4601-961c-5f4fec61dac8.playerpoints.command-help-title: '§bAvailable
   Commands:'
-e67ac88a-c487-4b0a-8a08-a423a5dd8872.playerpoints.command-look-description: "&8 -
-  &b/points look &3<player> &8- &fView a player's points"
-39cf9ff4-482f-44f4-9f98-5af8e953ed57.playerpoints.command-giveall-usage: '&cUsage:
-  &b/points giveall &3<amount>'
-346825be-ced3-45f6-b20c-928fc7dcd0cb.playerpoints.command-give-description: '&8 -
-  &b/points give &3<player> <amount> &8- &fGive a player points'
-b7704ff0-e16f-4c0c-a606-a8736d628eba.playerpoints.command-reset-success: '&7Reset
-  the &b%1&7 for &b%2&7.'
-bd2b66ba-0484-4943-8c49-ccbb285be0a3.playerpoints.command-take-description: '&8 -
-  &b/points take &3<player> <amount> &8- &fTake points from a player'
-d7481d9f-438a-43c1-8022-8be4bac0801f.playerpoints.command-reset-description: "&8 -
-  &b/points reset &3<player>  &8- &fReset a player''s points"
-f6f7c2e8-00f3-4595-ac81-327e503aff91.playerpoints.command-pay-received: '&7You were
-  paid &b&l%1&b%2&7 by &b%3&7.'
-fe62e35e-2b4e-4a8e-9738-06f38e63a334.playerpoints.command-me-success: '&7You have
-  &b&l%1&b%2&7.'
-4ff99f51-4edf-435c-8cf0-e015c85f5b58.playerpoints.command-look-success: '&b%1 &7has
-  &b&l%2&b%3&7.'
-f27e9ff1-d25f-47a1-9eee-d5c4e027c96e.playerpoints.command-pay-usage: '&cUsage: &b/points
-  pay &3<player> <amount>'
-09d808c1-3ba0-43c2-829b-e68fe80fc908.playerpoints.command-set-description: "&8 - &b/points
-  set &3<player> <amount> &8- &fSet a player''s points"
-59d35e5b-db08-4343-ac6e-facfedb352ef.playerpoints.command-me-usage: '&cUsage: &b/points
+e67ac88a-c487-4b0a-8a08-a423a5dd8872.playerpoints.command-look-description: "§8 -
+  §b/points look §3<player> §8- §fView a player's points"
+39cf9ff4-482f-44f4-9f98-5af8e953ed57.playerpoints.command-giveall-usage: '§cUsage:
+  §b/points giveall §3<amount>'
+346825be-ced3-45f6-b20c-928fc7dcd0cb.playerpoints.command-give-description: '§8 -
+  §b/points give §3<player> <amount> §8- §fGive a player points'
+b7704ff0-e16f-4c0c-a606-a8736d628eba.playerpoints.command-reset-success: '§7Reset
+  the §b%1§7 for §b%2§7.'
+bd2b66ba-0484-4943-8c49-ccbb285be0a3.playerpoints.command-take-description: '§8 -
+  §b/points take §3<player> <amount> §8- §fTake points from a player'
+d7481d9f-438a-43c1-8022-8be4bac0801f.playerpoints.command-reset-description: "§8 -
+  §b/points reset §3<player>  §8- §fReset a player''s points"
+f6f7c2e8-00f3-4595-ac81-327e503aff91.playerpoints.command-pay-received: '§7You were
+  paid §b&l%1§b%2§7 by §b%3§7.'
+fe62e35e-2b4e-4a8e-9738-06f38e63a334.playerpoints.command-me-success: '§7You have
+  §b&l%1§b%2§7.'
+4ff99f51-4edf-435c-8cf0-e015c85f5b58.playerpoints.command-look-success: '§b%1 §7has
+  §b&l%2§b%3§7.'
+f27e9ff1-d25f-47a1-9eee-d5c4e027c96e.playerpoints.command-pay-usage: '§cUsage: §b/points
+  pay §3<player> <amount>'
+09d808c1-3ba0-43c2-829b-e68fe80fc908.playerpoints.command-set-description: "§8 - §b/points
+  set §3<player> <amount> §8- §fSet a player''s points"
+59d35e5b-db08-4343-ac6e-facfedb352ef.playerpoints.command-me-usage: '§cUsage: §b/points
   me'
-d7663dd2-5904-47ad-9189-dec6566fa10e.playerpoints.command-lead-usage: '&cUsage: &b/points
+d7663dd2-5904-47ad-9189-dec6566fa10e.playerpoints.command-lead-usage: '§cUsage: §b/points
   lead'
-5ced4c47-e664-43a0-8696-8c664d07e895.playerpoints.base-command-help: '&7Use &b/points
-  help &7for command information.'
-606c1113-acfc-4abf-993e-ada0a1ab9197.playerpoints.command-help-description: '&8 -
-  &b/points help &8- &fDisplays the help menu... You have arrived'
-0e65acd6-e94a-415b-8497-bfe150fadba4.playerpoints.command-give-usage: '&cUsage: &b/points
+5ced4c47-e664-43a0-8696-8c664d07e895.playerpoints.base-command-help: '§7Use §b/points
+  help §7for command information.'
+606c1113-acfc-4abf-993e-ada0a1ab9197.playerpoints.command-help-description: '§8 -
+  §b/points help §8- §fDisplays the help menu... You have arrived'
+0e65acd6-e94a-415b-8497-bfe150fadba4.playerpoints.command-give-usage: '§cUsage: §b/points
   give '
 7eba699f-29dc-4ff4-ac22-be6cd1069a4e.playerpoints.unknown-player: 'Player could not
   be found: '
 2533fc85-81e6-42d6-a26d-92e80b703b2b.playerpoints.unknown-command: 'Unknown command: '
-a7467a92-54ff-4a94-8614-7ba95be1efd2.playerpoints.command-giveall-description: '&8
-  - &b/points giveall &3<amount> &8-&f Gives all online players points'
-06f9e736-e571-4e02-9ee4-137e5bb7ac49.playerpoints.command-take-lacking-funds: '&b%1
-  &7does not have enough &b&l%1&7 for that, so their balance was set to &b0&7.'
-d199f929-71ab-401c-bf2a-c16f6f0e9b23.playerpoints.command-giveall-success: '&7Gave
-  &b&l%1&b%2&7 to all online players.'
-20412212-f754-4ea3-bfdc-7178039e2cea.playerpoints.command-pay-description: '&8 - &b/points
-  pay &3<player> <amount> &8- &fPay a player'
-e040daa5-510d-4e05-91a9-febb0c5c1830.playerpoints.command-lead-title: '&b&lPoints
-  &8&l➦ &bLeaderboard:'
-97ecc17d-969a-45c0-9225-05a73b770d93.playerpoints.command-take-success: '&7Took &b&l%1&b%2&7
-  from &b%3&7.'
-144d2779-bb0b-4d03-ab34-af9f19448efb.palyerpoints.command-give-success: '&7was given'
-3d1a6cf8-094a-4f34-a432-120a4c854897.playerpoints.command-pay-lacking-funds: '&7You
-  do not have enough &b%1&7 for that.'
-9a5ce02f-d1c0-4e8a-a6fc-4e75ec1814e4.playerpoints.command-look-usage: '&cUsage: &b/points
-  look &3<player>'
-c05bd0e6-cc69-4f3c-a543-28899db41d94.playerpoints.command-me-description: '&8 - &b/points
-  me &8- &fView your points'
-ef8b040c-af85-48a5-a807-4432ef02c1b9.playerpoints.command-pay-sent: '&7You paid &b%1
-  &b&l%2&b%3&7.'
-f2b97046-5b46-4ac3-a353-190e1aee8b78.playerpoints.command-lead-description: '&8 -
-  &b/points lead &3%1&8- &fView the leaderboard'
+a7467a92-54ff-4a94-8614-7ba95be1efd2.playerpoints.command-giveall-description: '§8
+  - §b/points giveall §3<amount> §8-§f Gives all online players points'
+06f9e736-e571-4e02-9ee4-137e5bb7ac49.playerpoints.command-take-lacking-funds: '§b%1
+  §7does not have enough §b&l%1§7 for that, so their balance was set to §b0§7.'
+d199f929-71ab-401c-bf2a-c16f6f0e9b23.playerpoints.command-giveall-success: '§7Gave
+  §b&l%1§b%2§7 to all online players.'
+20412212-f754-4ea3-bfdc-7178039e2cea.playerpoints.command-pay-description: '§8 - §b/points
+  pay §3<player> <amount> §8- §fPay a player'
+e040daa5-510d-4e05-91a9-febb0c5c1830.playerpoints.command-lead-title: '§b&lPoints
+  §8&l➦ §bLeaderboard:'
+97ecc17d-969a-45c0-9225-05a73b770d93.playerpoints.command-take-success: '§7Took §b&l%1§b%2§7
+  from §b%3§7.'
+144d2779-bb0b-4d03-ab34-af9f19448efb.palyerpoints.command-give-success: '§7was given'
+3d1a6cf8-094a-4f34-a432-120a4c854897.playerpoints.command-pay-lacking-funds: '§7You
+  do not have enough §b%1§7 for that.'
+9a5ce02f-d1c0-4e8a-a6fc-4e75ec1814e4.playerpoints.command-look-usage: '§cUsage: §b/points
+  look §3<player>'
+c05bd0e6-cc69-4f3c-a543-28899db41d94.playerpoints.command-me-description: '§8 - §b/points
+  me §8- §fView your points'
+ef8b040c-af85-48a5-a807-4432ef02c1b9.playerpoints.command-pay-sent: '§7You paid §b%1
+  §b&l%2§b%3§7.'
+f2b97046-5b46-4ac3-a353-190e1aee8b78.playerpoints.command-lead-description: '§8 -
+  §b/points lead §3%1§8- §fView the leaderboard'
 5a09d2ac-2a53-4f20-8a1e-47f2c6809a22.playerpoints.invalid-amoun: Amount must be a
   positive whole number.
-244f8abb-b1da-4a88-8364-000e833b9c6b.playerpoints.command-set-usage: '&cUsage: &b/points
-  set &3<player> <amount>'
+244f8abb-b1da-4a88-8364-000e833b9c6b.playerpoints.command-set-usage: '§cUsage: §b/points
+  set §3<player> <amount>'
 40016405-ed73-48ae-a64f-637d071deedf.tempflycommand.base.remove.0: remove
 1bd9b640-7526-40b4-a5e8-364628a04109.PlayerParticlesgui-edit-data-color-orange: '#ff8c00Orange'
 635b18c3-c616-4969-b1da-8fc96ac92c67.tempflygeneral.requirement.fail.default_other: '%1
-  &f%2 &7cannot currently fly!'
+  §f%2 §7cannot currently fly!'
 5f786c3f-f502-4fd8-8c04-2efee5a4f5aa.PlayerParticlesgui-edit-data-color-brown: '#8b4513Brown'
-8b6df645-e002-4527-9e11-cd0f2845588f.PlayerParticlescommand-error-unknown: '&7Command
-  not found! "&b/pp help&7" for more information.'
-e29d0117-86d5-46e0-87ed-26809402773b.tempflygeneral.time.daily_login: '%1 &7You recieved
-  a daily bonus of &f⌚%2&7!'
-5c747044-89d7-4369-ba4e-0153b6fa4d84.PlayerParticlesdata-no-args: '&7Missing argument
-  for effect! Command usage: &b/pp data&3 <effect>'
+8b6df645-e002-4527-9e11-cd0f2845588f.PlayerParticlescommand-error-unknown: '§7Command
+  not found! "§b/pp help§7" for more information.'
+e29d0117-86d5-46e0-87ed-26809402773b.tempflygeneral.time.daily_login: '%1 §7You recieved
+  a daily bonus of §f⌚%2§7!'
+5c747044-89d7-4369-ba4e-0153b6fa4d84.PlayerParticlesdata-no-args: '§7Missing argument
+  for effect! Command usage: §b/pp data§3 <effect>'
 81b9df29-b8d5-4ac6-8a5f-e79d4bd6d1a8.tempflycommand.base.givall.1: addall
-4c84c4b6-c4e9-4e5f-8d16-0f70d854502b.PlayerParticlescommand-descriptions: '&fThe following
+4c84c4b6-c4e9-4e5f-8d16-0f70d854502b.PlayerParticlescommand-descriptions: '§fThe following
   commands are available:'
-77124ef1-201b-457d-ad29-9327d8a1b1bb.tempflygeneral.fly.bypass_enabled: '%1 &7You
+77124ef1-201b-457d-ad29-9327d8a1b1bb.tempflygeneral.fly.bypass_enabled: '%1 §7You
   enabled flight bypass mode!'
 50da3db8-f087-45ae-96fb-ee595fef0e49.PlayerParticlesgui-edit-primary-style-missing-effect: You
   must select an effect first
-ff213edb-21c1-4eeb-8f62-04e22872c6af.PlayerParticlesgroup-list-presets: '&7The following
-  preset groups are available: &b%1'
-db4a0a2b-c65b-4607-8c6c-cc86d0b9cda7.tempflysystem.help.5: '&6/tf pay [player] [time]'
+ff213edb-21c1-4eeb-8f62-04e22872c6af.PlayerParticlesgroup-list-presets: '§7The following
+  preset groups are available: §b%1'
+db4a0a2b-c65b-4607-8c6c-cc86d0b9cda7.tempflysystem.help.5: '§6/tf pay [player] [time]'
 0a6a6bb5-fa54-40e9-a3c5-675c0949eeca.tempflycommand.unit.days.recognized.0: d
-b380eccd-b395-4238-930b-54d9316f95df.PlayerParticlesfixed-edit-data-none: '&7Unable
+b380eccd-b395-4238-930b-54d9316f95df.PlayerParticlesfixed-edit-data-none: '§7Unable
   to edit fixed effect, the effect does not require any data!'
-abb5b97b-9243-4d95-8381-c58513124f75.PlayerParticlesfixed-create-success: '&7Your
+abb5b97b-9243-4d95-8381-c58513124f75.PlayerParticlesfixed-create-success: '§7Your
   fixed effect has been created!'
-0ea6d324-688e-49d6-9e49-45562f3df03e.tempflysystem.help_extended.1: '&7- Give a player
+0ea6d324-688e-49d6-9e49-45562f3df03e.tempflysystem.help_extended.1: '§7- Give a player
   fly time'
 6feb7cd2-391e-42a9-b505-152ff029e410.PlayerParticlescommand-description-fixed: Manage
   your fixed effects
-7f9eee5d-b8ba-44f5-b9e3-b6a89d3524bd.PlayerParticlesgroup-remove-preset: '&7You cannot
+7f9eee5d-b8ba-44f5-b9e3-b6a89d3524bd.PlayerParticlesgroup-remove-preset: '§7You cannot
   remove a preset group!'
 cb255b02-eb0b-4294-a8c4-bd2b4d7375b1.tempflycommand.unit.days.tab_complete: day
-96819d33-756d-477d-8472-b2a8493fdfb4.PlayerParticlesdata-usage-vibration: '&7The effect
-  &b%1 &7requires &bvibration data&7! &7Format: &3<duration>'
-fa27bc0c-9c4a-4687-a7d2-cc8ffdaf5ce4.PlayerParticlesfixed-create-looking-too-far: '&7Unable
+96819d33-756d-477d-8472-b2a8493fdfb4.PlayerParticlesdata-usage-vibration: '§7The effect
+  §b%1 §7requires §bvibration data§7! §7Format: §3<duration>'
+fa27bc0c-9c4a-4687-a7d2-cc8ffdaf5ce4.PlayerParticlesfixed-create-looking-too-far: '§7Unable
   to create fixed effect, you are standing too far away from the block you are looking
   at!'
-8a0ae19b-e4fb-465b-994b-0875258bbadd.PlayerParticlesfixed-list-success: '&7You have
-  fixed effects with these IDs: &b%1'
-3547d08a-4f11-46c6-8b60-8f0b3a677389.PlayerParticlesgui-create-particle: '&bCreate
+8a0ae19b-e4fb-465b-994b-0875258bbadd.PlayerParticlesfixed-list-success: '§7You have
+  fixed effects with these IDs: §b%1'
+3547d08a-4f11-46c6-8b60-8f0b3a677389.PlayerParticlesgui-create-particle: '§bCreate
   A New Particle'
 f8a51393-6dbb-43f1-a2d9-2acf208ccd99.tempflyaesthetic.symbols.infinity: ∞
-e4302dd9-7e1b-4cd3-92e2-592dba2b2422.tempflygeneral.fly.infinite_disabled: '%1 &7You
+e4302dd9-7e1b-4cd3-92e2-592dba2b2422.tempflygeneral.fly.infinite_disabled: '%1 §7You
   disabled your infinite flight!'
 3ca8dfe3-9891-42eb-b345-a9ffbb5d15ce.tempflycommand.base.trails.0: trails
-59a74b0b-2d9c-43fd-9063-c6812d4618c0.PlayerParticlesstyle-invalid: '&7The style &c%1
-  &7does not exist! Use &b/pp styles &7for a list of styles you can use.'
+59a74b0b-2d9c-43fd-9063-c6812d4618c0.PlayerParticlesstyle-invalid: '§7The style §c%1
+  §7does not exist! Use §b/pp styles §7for a list of styles you can use.'
 ecd552ec-a57b-4587-8ef3-49b1e4bc0232.tempflygeneral.unit.seconds: s
-d94e6424-5315-4cdc-9f40-ecf666b8bba2.PlayerParticlesreload-no-permission: "&7You don't
+d94e6424-5315-4cdc-9f40-ecf666b8bba2.PlayerParticlesreload-no-permission: "§7You don't
   have a permission to do that!"
-5ac6912e-8d58-497d-bf04-9201bdd872e4.tempflygeneral.fly.speed_limit_other: '%1 &f%2
-  &8Is currently limited to fly speed &f%3&7.'
-89a1f71e-68ac-4de5-9fad-cac47a96dd26.PlayerParticlesadd-reached-max: '&7Unable to
-  apply particle, you have reached the maximum amount of &c%1 &7allowed!'
-bbbaa67e-e27a-4b57-a8b9-043808468b7c.economydeath.loss: '&bYou died and lost &6$'
-d3181eec-d147-4fe0-8922-8f07ba524184.PlayerParticlesgroup-save-reached-max: '&7Unable
+5ac6912e-8d58-497d-bf04-9201bdd872e4.tempflygeneral.fly.speed_limit_other: '%1 §f%2
+  §8Is currently limited to fly speed §f%3§7.'
+89a1f71e-68ac-4de5-9fad-cac47a96dd26.PlayerParticlesadd-reached-max: '§7Unable to
+  apply particle, you have reached the maximum amount of §c%1 §7allowed!'
+bbbaa67e-e27a-4b57-a8b9-043808468b7c.economydeath.loss: '§bYou died and lost §6$'
+d3181eec-d147-4fe0-8922-8f07ba524184.PlayerParticlesgroup-save-reached-max: '§7Unable
   to save group, you have reached the max number of groups!'
-55be08f7-d642-46c2-ba45-b8a2734425d9.PlayerParticlescommand-descriptions-usage: '&b/pp
-  &3%1 %2'
+55be08f7-d642-46c2-ba45-b8a2734425d9.PlayerParticlescommand-descriptions-usage: '§b/pp
+  §3%1 %2'
 953765e0-a1db-4425-93ce-c5e9310c9466.tempflycommand.base.trails.1: particles
-db0037b6-b511-46b5-a1ba-b750134b4a4d.PlayerParticlesgui-edit-style: '&bEdit Style'
-4dd43cea-b92c-4c00-af85-625d23928199.tempflycommand.syntax_error.cmd_fly.toggle_other: '&b/tf
-  &3(player) [on / off]'
+db0037b6-b511-46b5-a1ba-b750134b4a4d.PlayerParticlesgui-edit-style: '§bEdit Style'
+4dd43cea-b92c-4c00-af85-625d23928199.tempflycommand.syntax_error.cmd_fly.toggle_other: '§b/tf
+  §3(player) [on / off]'
 8df2ac72-9565-4033-8e47-a2c3f6a77d2b.tempflycommand.unit.days.recognized.1: day
 338808fc-92da-4ce1-9b62-1ad5244b0284.tempflycommand.unit.hours.tab_complete: hour
-14585fdd-1d4f-4414-b3af-301dc2be89fb.PlayerParticlesgroup-remove-success: '&7Removed
-  the particle group named &b%1&7!'
+14585fdd-1d4f-4414-b3af-301dc2be89fb.PlayerParticlesgroup-remove-success: '§7Removed
+  the particle group named §b%1§7!'
 d6886352-ef51-4d1b-b0a4-f0609ef4bb8d.tempflycommand.unit.seconds.recognized.0: s
-7f65ae6d-4771-4e0f-8944-6e76baeac786.tempflygeneral.fly.idle_drop: '%1 &7You lost
+7f65ae6d-4771-4e0f-8944-6e76baeac786.tempflygeneral.fly.idle_drop: '%1 §7You lost
   flight due to being idle!'
-6b11047a-fdc4-482d-aa6d-69fbc562bb6a.PlayerParticleseffect-invalid: '&7The effect
-  &c%1 &7does not exist! Use &b/pp effects &7for a list of effects you can use.'
+6b11047a-fdc4-482d-aa6d-69fbc562bb6a.PlayerParticleseffect-invalid: '§7The effect
+  §c%1 §7does not exist! Use §b/pp effects §7for a list of effects you can use.'
 f58d2498-d8ae-474c-b956-d54357d2efdf.PlayerParticlesgui-edit-data-color-black: '#000000Black'
-7e884b7d-1e56-4eb8-9324-092202209ce0.PlayerParticlesstyle-no-permission: "&7You don't
+7e884b7d-1e56-4eb8-9324-092202209ce0.PlayerParticlesstyle-no-permission: "§7You don't
   have a permission to do that!"
-de3ed96e-f7a5-4607-9bb8-d818ffa813aa.PlayerParticlesdisabled-worlds: '&7Particles
-  are disabled in these worlds: &c%1'
-55a1307b-459d-4d0f-842f-75b99fab1d6b.PlayerParticlesdata-invalid-material-not-block: '&7The
-  block material &c%1 &7you entered is not a block!'
+de3ed96e-f7a5-4607-9bb8-d818ffa813aa.PlayerParticlesdisabled-worlds: '§7Particles
+  are disabled in these worlds: §c%1'
+55a1307b-459d-4d0f-842f-75b99fab1d6b.PlayerParticlesdata-invalid-material-not-block: '§7The
+  block material §c%1 §7you entered is not a block!'
 5efda3dc-5498-4ee5-b71c-6d8896d9fa65.PlayerParticlesgui-select-data-description: Sets
-  the particle data to &b%1
+  the particle data to §b%1
 4cbce461-7bcb-4c00-9889-8f9c2f3ea170.PlayerParticlescommand-description-info: Gets
   the description of one of your active particles
-e20c1f3e-6185-4ba7-8c58-f23e76cce346.PlayerParticlesgui-edit-primary-style: '&bEdit
+e20c1f3e-6185-4ba7-8c58-f23e76cce346.PlayerParticlesgui-edit-primary-style: '§bEdit
   Primary Style'
-c835cce4-6b50-44e0-afc3-bfe5008af7e8.PlayerParticlesfixed-info-invalid-args: '&7Unable
+c835cce4-6b50-44e0-afc3-bfe5008af7e8.PlayerParticlesfixed-info-invalid-args: '§7Unable
   to get info, the ID specified must be a number!'
-96f1bfb6-af3d-42b3-9226-231fdfc0a250.PlayerParticlesdata-invalid-material-not-item: '&7The
-  item material &c%1 &7you entered is not an item!'
-c943633e-b269-48b7-b0dc-1ab6bfb55496.PlayerParticlesfixed-remove-success: '&7Your
-  fixed effect with the ID &b%1 &7has been removed!'
+96f1bfb6-af3d-42b3-9226-231fdfc0a250.PlayerParticlesdata-invalid-material-not-item: '§7The
+  item material §c%1 §7you entered is not an item!'
+c943633e-b269-48b7-b0dc-1ab6bfb55496.PlayerParticlesfixed-remove-success: '§7Your
+  fixed effect with the ID §b%1 §7has been removed!'
 9a2322ea-59f7-40f0-a9ca-8e1764b73ed4.tempflycommand.base.help.1: commands
-93ba4e4d-149f-452f-85a9-19061fe76369.PlayerParticlesgui-next-page-button: '&bNext
+93ba4e4d-149f-452f-85a9-19061fe76369.PlayerParticlesgui-next-page-button: '§bNext
   &l→'
-c5bb923a-5d61-4a7f-9c37-6e7424fad93a.PlayerParticlesdata-invalid-item: '&6The item
-  data you entered is invalid! Format:&c <itemName>'
-dd088a57-7e87-4194-ade3-2fb2459f2a8b.PlayerParticlesgui-edit-data: '&bEdit Data'
-61a4f30f-ea95-41eb-bbc3-9cb2d7e880f1.PlayerParticlesfixed-edit-effect-no-permission: "&7You
+c5bb923a-5d61-4a7f-9c37-6e7424fad93a.PlayerParticlesdata-invalid-item: '§6The item
+  data you entered is invalid! Format:§c <itemName>'
+dd088a57-7e87-4194-ade3-2fb2459f2a8b.PlayerParticlesgui-edit-data: '§bEdit Data'
+61a4f30f-ea95-41eb-bbc3-9cb2d7e880f1.PlayerParticlesfixed-edit-effect-no-permission: "§7You
   don't have a permission to do that!"
-7bf2582f-98ca-44b5-8def-573fc41015d3.PlayerParticlesfixed-create-effect-invalid: '&7Unable
-  to create fixed effect, an effect with the name &b%1 &7does not exist!'
-d8ee0104-eaa4-4c52-bd7c-0fb339c06358.PlayerParticlesother-success: '&7Executed /pp
-  command for &b%1&7. Output:'
-e3b4f343-0769-4a8e-9cc3-ef1d46125016.PlayerParticlesreload-success: '&7The plugin
+7bf2582f-98ca-44b5-8def-573fc41015d3.PlayerParticlesfixed-create-effect-invalid: '§7Unable
+  to create fixed effect, an effect with the name §b%1 §7does not exist!'
+d8ee0104-eaa4-4c52-bd7c-0fb339c06358.PlayerParticlesother-success: '§7Executed /pp
+  command for §b%1§7. Output:'
+e3b4f343-0769-4a8e-9cc3-ef1d46125016.PlayerParticlesreload-success: '§7The plugin
   has been reloaded!'
-a4e44fb7-2fce-4f59-b429-e53f93d9d58e.tempflygeneral.fly.speed_other: '%1 &f%2 &7had
-  their speed set to &f%3&7.'
-7918bf54-f98c-44c6-acee-763a41dfabf6.tempflygeneral.requirement.fail.combat: '%1 &7You
+a4e44fb7-2fce-4f59-b429-e53f93d9d58e.tempflygeneral.fly.speed_other: '%1 §f%2 §7had
+  their speed set to §f%3§7.'
+7918bf54-f98c-44c6-acee-763a41dfabf6.tempflygeneral.requirement.fail.combat: '%1 §7You
   are currently combat tagged!'
 66e11832-3c33-4470-a59d-a6a351692489.PlayerParticlesrandom: Random
-639bab74-b8b9-48a8-870b-e691b9ab2301.PlayerParticlesedit-success-style: '&7Your particle
-  with an ID of &b%1 &7has had its style changed to &b%2&7!'
+639bab74-b8b9-48a8-870b-e691b9ab2301.PlayerParticlesedit-success-style: '§7Your particle
+  with an ID of §b%1 §7has had its style changed to §b%2§7!'
 c3596185-d77f-4651-869b-417f39a69bc8.tempflycommand.base.help.0: help
 fbe9bce1-3536-4e83-8db3-8d269123282e.PlayerParticlesgui-edit-primary-data-missing-effect: You
   must select an effect first
 1f7b0769-0201-4d98-b80b-0d5a7dd204ce.PlayerParticlescommand-description-use: Modify
   your primary particle
-78883c33-72b2-4f43-8c15-d0e6e66d1b8e.PlayerParticlescommand-description-group-load: '&b/pp
-  group load &3<name> &8- &fLoads all particles saved in a group'
+78883c33-72b2-4f43-8c15-d0e6e66d1b8e.PlayerParticlescommand-description-group-load: '§b/pp
+  group load §3<name> §8- §fLoads all particles saved in a group'
 79705fcf-d4e0-474c-85b1-bc92679e563a.PlayerParticlesgui-edit-primary-data-description: Edit
   the data of your primary particle
-6ce13825-a593-4604-a0fd-1ada246fed1e.tempflygeneral.time.set_other: '%1 &f%2 &7had
-  their time set to &f⌚%3&7.'
-e621da97-a053-4b01-9746-2353436043c7.tempflygeneral.time.decay: '%1 &7You lost &f⌚%2
-  &7for inactivity!'
-0c787b6e-e7cb-45e1-9935-2794399e8052.tempflygeneral.info.header: '&3&m          &b&m          &f&m          [&b&l
-  Temp Fly &f&m          &b&m          &3&m          &r'
-5b616015-c3ac-4c91-a85e-c7f495aa17f2.tempflygeneral.invalid.sender: '%1 &7Only players
+6ce13825-a593-4604-a0fd-1ada246fed1e.tempflygeneral.time.set_other: '%1 §f%2 §7had
+  their time set to §f⌚%3§7.'
+e621da97-a053-4b01-9746-2353436043c7.tempflygeneral.time.decay: '%1 §7You lost §f⌚%2
+  §7for inactivity!'
+0c787b6e-e7cb-45e1-9935-2794399e8052.tempflygeneral.info.header: '§3&m          §b&m          §f&m          [§b&l
+  Temp Fly §f&m          §b&m          §3&m          &r'
+5b616015-c3ac-4c91-a85e-c7f495aa17f2.tempflygeneral.invalid.sender: '%1 §7Only players
   can use this command!'
-441021fd-7f1c-4869-8a4c-7050e6cb394b.tempflygeneral.fly.speed_restricted: '%1 &7You
+441021fd-7f1c-4869-8a4c-7050e6cb394b.tempflygeneral.fly.speed_restricted: '%1 §7You
   are not allowed to change your fly speed!'
-fc082b04-c38a-4eb5-8246-a6c2c17b7c23.PlayerParticlesfixed-create-effect-no-permission: '&7Unable
-  to create fixed effect, you do not have permission to use the effect &b%1&7!'
+fc082b04-c38a-4eb5-8246-a6c2c17b7c23.PlayerParticlesfixed-create-effect-no-permission: '§7Unable
+  to create fixed effect, you do not have permission to use the effect §b%1§7!'
 73b4c043-60ec-4591-aca7-3e7cf11296a1.tempflycommand.base.shop.0: shop
-acaf95ad-0c30-4bc9-8622-34230ea5ca44.PlayerParticlescommand-description-group-remove: '&b/pp
-  group remove&3 <name> &8-&f Removes a group you have saved'
+acaf95ad-0c30-4bc9-8622-34230ea5ca44.PlayerParticlescommand-description-group-remove: '§b/pp
+  group remove§3 <name> §8-§f Removes a group you have saved'
 e64edf27-30cb-48e5-a966-ab0ec24eb20c.tempflygeneral.unit.days: d
-51824031-2922-4420-aa64-5f74c6d1d5c3.PlayerParticlesedit-success-effect: '&7Your particle
-  with an ID of &b%1 &7has had its effect changed to &b%2&7!'
+51824031-2922-4420-aa64-5f74c6d1d5c3.PlayerParticlesedit-success-effect: '§7Your particle
+  with an ID of §b%1 §7has had its effect changed to §b%2§7!'
 48d1660b-8b7c-400e-997b-d8c121c48086.PlayerParticlesgui-load-a-preset-group-description: Load
   a premade particle group
 037ce5b0-151c-4b5c-bf93-7a655a3e8f4d.PlayerParticlesgui-edit-data-color-yellow: '#ffff00Yellow'
-f0f160d2-c68b-46ea-97e1-d57bf2557bd9.PlayerParticlesgui-click-to-edit-particle: '&bClick
-  &8|&7 edit the effect, style, or data of this particle'
+f0f160d2-c68b-46ea-97e1-d57bf2557bd9.PlayerParticlesgui-click-to-edit-particle: '§bClick
+  §8|§7 edit the effect, style, or data of this particle'
 426d8cab-7fb2-4e2d-9329-9195b5d7aec6.tempflygeneral.unit.hours: h
-e577a611-82d0-47c3-ac4f-06bf582d73b5.PlayerParticlescommand-description-group-save: '&b/pp
-  group save &3<name> &8- &fSaves all active particles in a new group'
-b9f6a371-85e4-435c-b33f-6d9aeaacc8c4.PlayerParticlesfixed-clear-no-args: '&6You did
+e577a611-82d0-47c3-ac4f-06bf582d73b5.PlayerParticlescommand-description-group-save: '§b/pp
+  group save §3<name> §8- §fSaves all active particles in a new group'
+b9f6a371-85e4-435c-b33f-6d9aeaacc8c4.PlayerParticlesfixed-clear-no-args: '§6You did
   not provide a radius to clear fixed effects for!'
-7fda98b3-a09b-43a2-b2ad-1eb4b9a5b93b.PlayerParticlesother-no-permission: "&7You don't
+7fda98b3-a09b-43a2-b2ad-1eb4b9a5b93b.PlayerParticlesother-no-permission: "§7You don't
   have a permission to do that!"
 839aa4ec-276c-45f4-8817-0018d098b22d.PlayerParticlescommand-description-version: Display
   the plugin version and author
-a50a864c-fd0f-4968-833d-60bce1191cf8.PlayerParticlesgui-load-a-preset-group: '&bLoad
+a50a864c-fd0f-4968-833d-60bce1191cf8.PlayerParticlesgui-load-a-preset-group: '§bLoad
   A Preset Group'
-4ab2bb40-2773-4965-b9c4-d0e472cbe179.PlayerParticlesfixed-create-out-of-range: '&7Unable
-  to create fixed effect, you must be within &b%1 &7blocks of your desired location!'
-e5a3a9a5-0ff0-46dc-a342-bcfb1f4ca046.PlayerParticlescommand-descriptions-help-other: '&b/ppo
-  &3<player> <command> &8-&f Run a command as a player'
-3adee27d-64c3-4193-af67-00ab68b9597d.tempflygeneral.fly.enabled_other: '%1 &f%2 &7is
+4ab2bb40-2773-4965-b9c4-d0e472cbe179.PlayerParticlesfixed-create-out-of-range: '§7Unable
+  to create fixed effect, you must be within §b%1 §7blocks of your desired location!'
+e5a3a9a5-0ff0-46dc-a342-bcfb1f4ca046.PlayerParticlescommand-descriptions-help-other: '§b/ppo
+  §3<player> <command> §8-§f Run a command as a player'
+3adee27d-64c3-4193-af67-00ab68b9597d.tempflygeneral.fly.enabled_other: '%1 §f%2 §7is
   now flying'
-c97dc8ff-9512-4920-aac8-ebefb9da1ae6.tempflysystem.help_extended.2: '&6/tf remove
+c97dc8ff-9512-4920-aac8-ebefb9da1ae6.tempflysystem.help_extended.2: '§6/tf remove
   [player] [time]'
 99974143-295c-48a3-8855-8b74e24995c3.PlayerParticlesgui-edit-data-color-green: '#008000Green'
 d523ee65-8ce6-40d6-a350-50eec16512cc.tempflycommand.unit.seconds.tab_complete: second
-d05b9d82-8070-4141-bb03-f4340f9c5a35.PlayerParticlesgui-color-info: '&f'
+d05b9d82-8070-4141-bb03-f4340f9c5a35.PlayerParticlesgui-color-info: '§f'
 db66fb6f-7da4-41ad-a471-8775890524ee.PlayerParticlesgui-edit-primary-data-unavailable: Your
   primary effect does not use any data
 a8b89707-62ea-456e-8eaa-1fe9ebe00459.tempflycommand.base.infinite.0: infinite
 16890293-4f02-4b25-bac3-d975111a1d8f.PlayerParticlesgui-save-group-full: You have
   reached the max number of groups
-69a5578d-241a-4a4c-97ff-763b693ad980.PlayerParticlesfixed-edit-effect-invalid: '&7Unable
-  to edit fixed effect, an effect with the name &c%1 &7does not exist!'
+69a5578d-241a-4a4c-97ff-763b693ad980.PlayerParticlesfixed-edit-effect-invalid: '§7Unable
+  to edit fixed effect, an effect with the name §c%1 §7does not exist!'
 cfc73e9c-4642-4c78-8b17-2ecf29a5a13d.PlayerParticlescommand-description-toggle: Toggles
   particle visibility on/off
 14bcb7fa-e0d5-4a4e-b419-f6e20a0aba7d.PlayerParticlescommand-description-effects: Display
   a list of effects you can use
-f3ccb623-fe8f-4f39-82a5-f7467dc76a19.tempflygeneral.time.given_other: '%1 &f%2 &7got
-  &f⌚%3&7.'
-05f0cd53-1e9f-42d0-a277-a8d75d298fe7.tempflygeneral.invalid.economy: '%1 &7You must
-  have a &8(&fvault&8)&7 economy installed to use the shop!'
-7582f4c9-b332-491f-a644-f01ea31fdf5c.PlayerParticlesfixed-list-none: '&7You do not
+f3ccb623-fe8f-4f39-82a5-f7467dc76a19.tempflygeneral.time.given_other: '%1 §f%2 §7got
+  §f⌚%3§7.'
+05f0cd53-1e9f-42d0-a277-a8d75d298fe7.tempflygeneral.invalid.economy: '%1 §7You must
+  have a §8(§fvault§8)§7 economy installed to use the shop!'
+7582f4c9-b332-491f-a644-f01ea31fdf5c.PlayerParticlesfixed-list-none: '§7You do not
   have any fixed effects!'
-dae4458e-13bf-48b0-b056-7cffd9854a28.PlayerParticlesremove-effect-success: '&7Removed
-  &b%1 &7of your particles with the effect of &b%2&7!'
-d669dc67-1b20-4001-a40c-20dfd629ac2c.PlayerParticlesfixed-create-style-invalid: '&7Unable
-  to create fixed effect, a style with the name &c%1 &7does not exist!'
+dae4458e-13bf-48b0-b056-7cffd9854a28.PlayerParticlesremove-effect-success: '§7Removed
+  §b%1 §7of your particles with the effect of §b%2§7!'
+d669dc67-1b20-4001-a40c-20dfd629ac2c.PlayerParticlesfixed-create-style-invalid: '§7Unable
+  to create fixed effect, a style with the name §c%1 §7does not exist!'
 ac449efd-209d-495d-a820-31078e7e444a.PlayerParticlescommand-description-data: Check
   what type of data an effect uses
-05ef982d-46b1-4cb3-be84-486a7ac321a4.PlayerParticlescommand-description-fixed-list: '&b/pp
-  fixed list &8-&f Lists all IDs of your fixed effects'
-8495a4a6-5408-45e5-9f28-92111aefc3df.tempflygeneral.invalid.number: '%1 &f%2 &7is
+05ef982d-46b1-4cb3-be84-486a7ac321a4.PlayerParticlescommand-description-fixed-list: '§b/pp
+  fixed list §8-§f Lists all IDs of your fixed effects'
+8495a4a6-5408-45e5-9f28-92111aefc3df.tempflygeneral.invalid.number: '%1 §f%2 §7is
   not a valid number!'
 69eae38a-3208-4763-ada7-f1b3536daf0b.PlayerParticlescommand-description-remove: Removes
   some particles
 e0574790-b1f1-4125-aa90-bae69b0aea7d.tempflycommand.base.bypass.0: bypass
-c83c5797-2dd7-434d-a604-ecee3c0c6301.PlayerParticlesremove-style-none: '&7You do not
-  have any particles applied with the style &b%1&7!'
-adaa7eaa-493b-4b8c-a31b-5599a0274123.PlayerParticlesremove-effect-style-none: '&7You
-  do not have any particles applied with the effect or style &b%1&7!'
-56007461-8022-44c6-8488-c2a86a21e7f9.tempflysystem.help.6: '&7- send another player
+c83c5797-2dd7-434d-a604-ecee3c0c6301.PlayerParticlesremove-style-none: '§7You do not
+  have any particles applied with the style §b%1§7!'
+adaa7eaa-493b-4b8c-a31b-5599a0274123.PlayerParticlesremove-effect-style-none: '§7You
+  do not have any particles applied with the effect or style §b%1§7!'
+56007461-8022-44c6-8488-c2a86a21e7f9.tempflysystem.help.6: '§7- send another player
   fly time'
-76af474b-ddea-4b99-93b9-be6663956c0e.tempflygeneral.info.minutes: '&fMinutes: &b%1'
-440ed012-4150-43de-b76f-9e78faf03783.PlayerParticlestoggle-off: '&7Particles have
-  been toggled &coff&7!'
-7c826754-397d-4ce9-b807-41a5487a2397.PlayerParticlesgui-particle-name: '&b&lPARTICLE
-  &8┃ &f#%1'
-710890a6-0735-453a-bb0f-7fab8171da58.PlayerParticlesuse-particle-modified: '&7Your
-  primary particle has been modified to use the effect &b%1&7, style &b%2&7, and data
-  &b%3&7!'
-fdfcadbb-7804-43cb-ac13-6f5e56f926c7.PlayerParticlesgui-disabled: '&6The server administrator
+76af474b-ddea-4b99-93b9-be6663956c0e.tempflygeneral.info.minutes: '§fMinutes: §b%1'
+440ed012-4150-43de-b76f-9e78faf03783.PlayerParticlestoggle-off: '§7Particles have
+  been toggled §coff§7!'
+7c826754-397d-4ce9-b807-41a5487a2397.PlayerParticlesgui-particle-name: '§b&lPARTICLE
+  §8┃ §f#%1'
+710890a6-0735-453a-bb0f-7fab8171da58.PlayerParticlesuse-particle-modified: '§7Your
+  primary particle has been modified to use the effect §b%1§7, style §b%2§7, and data
+  §b%3§7!'
+fdfcadbb-7804-43cb-ac13-6f5e56f926c7.PlayerParticlesgui-disabled: '§6The server administrator
   has disabled the GUI!'
 0d3556b7-5d27-43d3-983c-00f97a028742.tempflycommand.unit.minutes.recognized.1: min
-3f8d560e-55f2-4683-9b8e-4dcfbff68592.PlayerParticlesrainbow: '&cR&6a&ei&an&bb&9o&dw'
-2514638a-acf6-42b8-982d-b780d5fcb490.PlayerParticlesgui-edit-data-description: '&bClick
-  &8|&7 edit the data of this particle'
-abb850ea-0714-466c-b6c9-7bc3b50909f0.PlayerParticlesstyle-list: '&7You can use the
-  following styles: &a%1'
-139b05c5-ac07-4057-8a8a-709c6d9557e5.PlayerParticlesgui-edit-primary-effect: '&bEdit
+3f8d560e-55f2-4683-9b8e-4dcfbff68592.PlayerParticlesrainbow: '§cR§6a§ei§an§bb§9o§dw'
+2514638a-acf6-42b8-982d-b780d5fcb490.PlayerParticlesgui-edit-data-description: '§bClick
+  §8|§7 edit the data of this particle'
+abb850ea-0714-466c-b6c9-7bc3b50909f0.PlayerParticlesstyle-list: '§7You can use the
+  following styles: §a%1'
+139b05c5-ac07-4057-8a8a-709c6d9557e5.PlayerParticlesgui-edit-primary-effect: '§bEdit
   Primary Effect'
-b1a65e31-09d0-498b-9394-3cf10168fb5f.PlayerParticlesdata-invalid-note: '&7The note
-  data you entered is invalid! Format:&c <0-24>|<&brainbow>|<random>'
+b1a65e31-09d0-498b-9394-3cf10168fb5f.PlayerParticlesdata-invalid-note: '§7The note
+  data you entered is invalid! Format:§c <0-24>|<§brainbow>|<random>'
 1729227c-4d2c-4ff8-8893-3dc10e1c825b.tempflycommand.base.time.2: balance
-c5714db3-e5c2-45b4-a90d-09fe3a1753d3.PlayerParticlesdata-usage-none: '&7The effect
-  &b%1 &7does not use any data!'
-8556db57-3a81-4ca9-af8b-25d8dc6c9854.PlayerParticlesfixed-info-success: '&bID&8: &f%1
-  &bWorld&8: &f%2 &bX&8: &f%3 &bY&8: &f%4 &bZ&8: &f%5 &bEffect&8: &f%6 &bStyle&8:
-  &f%7 &bData&8: &f%8'
-d9b5c7c5-80d1-47a7-a97b-ae5a91845977.PlayerParticlesgui-select-effect: '&bSelect Particle
+c5714db3-e5c2-45b4-a90d-09fe3a1753d3.PlayerParticlesdata-usage-none: '§7The effect
+  §b%1 §7does not use any data!'
+8556db57-3a81-4ca9-af8b-25d8dc6c9854.PlayerParticlesfixed-info-success: '§bID§8: §f%1
+  §bWorld§8: §f%2 §bX§8: §f%3 §bY§8: §f%4 §bZ§8: §f%5 §bEffect§8: §f%6 §bStyle§8:
+  §f%7 §bData§8: §f%8'
+d9b5c7c5-80d1-47a7-a97b-ae5a91845977.PlayerParticlesgui-select-effect: '§bSelect Particle
   Effect'
-48a6866d-7dcb-4a87-9409-6572eed813bf.PlayerParticlesdata-invalid-vibration: '&7The
-  vibration &cdata you entered is invalid! Format: &c<duration>'
+48a6866d-7dcb-4a87-9409-6572eed813bf.PlayerParticlesdata-invalid-vibration: '§7The
+  vibration §cdata you entered is invalid! Format: §c<duration>'
 64ad26ae-8d42-4a83-94d9-87783ea1ebbd.tempflycommand.base.reload.0: reload
-0e675cd7-bed7-4e6a-b939-c5947b494b50.tempflyaesthetic.trail.removed_self: '%1 &a7our
+0e675cd7-bed7-4e6a-b939-c5947b494b50.tempflyaesthetic.trail.removed_self: '%1 §a7our
   trail was removed!'
-a956c80f-c978-4c3d-80d0-713548ec9c02.PlayerParticlesgroup-preset-no-permission: "&7You
+a956c80f-c978-4c3d-80d0-713548ec9c02.PlayerParticlesgroup-preset-no-permission: "§7You
   don't have a permission to do that!"
-5f707a2f-e43b-4fae-b630-be89e533116c.tempflygeneral.fly.enabled_self: '%1 &7Your flight
+5f707a2f-e43b-4fae-b630-be89e533116c.tempflygeneral.fly.enabled_self: '%1 §7Your flight
   was enabled!'
 7928ee9c-b03e-459d-93f7-faa29c0fc516.PlayerParticlesgui-manage-your-groups-name: Manage
   Your Groups
-69f6abe9-47d4-4303-9c89-bd11331e60fe.PlayerParticlesstyle-event-spawning-info: '&cNote:
-  &7The style &b%1 &7spawns particles based on an event.'
-4eccda99-315c-4514-a13e-7e20514b000a.PlayerParticlesfixed-info-no-args: '&7You did
+69f6abe9-47d4-4303-9c89-bd11331e60fe.PlayerParticlesstyle-event-spawning-info: '§cNote:
+  §7The style §b%1 §7spawns particles based on an event.'
+4eccda99-315c-4514-a13e-7e20514b000a.PlayerParticlesfixed-info-no-args: '§7You did
   not specify an ID to display info for!'
-106e960a-172b-4831-b0c8-6dcc0c8a854d.tempflygeneral.invalid.vault_perms: '%1 &7You
-  must install the plugin &8(&fvault&8) &7for the ability to set offline player time!'
-15a721b5-8154-4366-bce1-763fb19255e7.tempflygeneral.fly.speed_limit_self: '%1 &7Your
-  fly speed is currently limited to &f%2&7.'
-9e3e4e0c-a74e-4f7a-89cc-2fd762e02574.PlayerParticlesedit-invalid-property: '&7An invalid
-  property &b%1 &7was provided. Valid properties: &beffect&7, &bstyle&7, &bdata'
+106e960a-172b-4831-b0c8-6dcc0c8a854d.tempflygeneral.invalid.vault_perms: '%1 §7You
+  must install the plugin §8(§fvault§8) §7for the ability to set offline player time!'
+15a721b5-8154-4366-bce1-763fb19255e7.tempflygeneral.fly.speed_limit_self: '%1 §7Your
+  fly speed is currently limited to §f%2§7.'
+9e3e4e0c-a74e-4f7a-89cc-2fd762e02574.PlayerParticlesedit-invalid-property: '§7An invalid
+  property §b%1 §7was provided. Valid properties: §beffect§7, §bstyle§7, §bdata'
 bff09532-7a33-4f27-8b7d-118e122f5e6e.tempflygeneral.unit.minutes: m
-dc463ab2-5111-4169-87a8-e1dab38fc5f3.tempflysystem.prefix: '&b&lᴛᴇᴍᴘᴏ ғʟʏ &8&l┃'
-654bc188-c5d9-439d-a95f-b87d4cfce709.PlayerParticlesgroup-no-name: '&7You did not
-  provide a group name! &b/pp &3%1 <groupName>'
-751dfcc2-42d4-430f-9503-ab56d5ab7129.PlayerParticlesdata-invalid-block: '&7The block
-  data you entered is invalid! &7Format: &c<blockName>'
+dc463ab2-5111-4169-87a8-e1dab38fc5f3.tempflysystem.prefix: '§b&lᴛᴇᴍᴘᴏ ғʟʏ §8&l┃'
+654bc188-c5d9-439d-a95f-b87d4cfce709.PlayerParticlesgroup-no-name: '§7You did not
+  provide a group name! §b/pp §3%1 <groupName>'
+751dfcc2-42d4-430f-9503-ab56d5ab7129.PlayerParticlesdata-invalid-block: '§7The block
+  data you entered is invalid! §7Format: §c<blockName>'
 f48cfc55-d60c-447f-bb10-fe4c092bd3d7.PlayerParticlesgui-edit-data-color-red: '#ff0000Red'
-4811d8ee-bc0a-4b44-aeea-4de7c0c38ec3.PlayerParticlesgui-shift-click-to-delete: '&bShift-click
-  &8|&7 delete'
-8357525e-dcf6-4d8e-9be2-f29f497fe88f.PlayerParticlesgui-toggle-visibility-off: '&fParticles
-  are currently &chidden'
-20c35dad-85e6-48a5-9d93-b1a6c2343c18.PlayerParticleseffect-no-permission: "&7You don't
+4811d8ee-bc0a-4b44-aeea-4de7c0c38ec3.PlayerParticlesgui-shift-click-to-delete: '§bShift-click
+  §8|§7 delete'
+8357525e-dcf6-4d8e-9be2-f29f497fe88f.PlayerParticlesgui-toggle-visibility-off: '§fParticles
+  are currently §chidden'
+20c35dad-85e6-48a5-9d93-b1a6c2343c18.PlayerParticleseffect-no-permission: "§7You don't
   have a permission to do that!"
 7185d0cb-83f9-4fb2-826e-65f3a51b34e1.tempflycommand.base.givall.0: givall
-64c48859-b07b-42d5-b6ae-ec1360cb742e.PlayerParticlesfixed-edit-style-no-permission: "&7You
+64c48859-b07b-42d5-b6ae-ec1360cb742e.PlayerParticlesfixed-edit-style-no-permission: "§7You
   don't have a permission to do that!"
-64c2167b-2422-465d-8b86-944714ffc0d0.tempflygeneral.invalid.player: '%1 &7The player
-  &f%2 &7was not found...'
+64c2167b-2422-465d-8b86-944714ffc0d0.tempflygeneral.invalid.player: '%1 §7The player
+  §f%2 §7was not found...'
 042c3c8b-f511-48ca-a4bd-f5d7f866c32d.PlayerParticlescommand-description-reload: Reloads
   the config.yml and lang file
 50559d81-ce54-447c-a4d6-9e7ae2689ea7.tempflycommand.base.pay.0: pay
-ffd3e67b-5234-47b1-a053-053be1d3f993.PlayerParticlescommand-descriptions-help-1: '&b/pp&3
-  %1 &8-&f %2'
-923c42d6-3d02-437e-8c18-770b01fc1ce8.tempflygeneral.time.first_join: '%1 &7You recieved
-  &f⌚%2 &7of flight time. Fly with &b/temporarilyfly&7.'
-bb7d5fdd-85ef-45fd-8d04-8be076ae95d4.tempflygeneral.info.days: '&fDays: &b⌚%1'
-62b99bc4-4618-4a77-bfa2-d433926b21f6.PlayerParticlescommand-description-group-info: '&b/pp
-  group info&3 <name>&8 -&f List the particles saved in the group'
-0503aaba-bbdd-4128-85c1-921d1007ac77.PlayerParticlesgroup-info-header: '&7The group
-  &b%1 &7has the following particles:'
-aaeed4f0-a249-4d84-b8eb-37972e5ca63d.tempflygeneral.fly.infinite_enabled: '%1 &7You
+ffd3e67b-5234-47b1-a053-053be1d3f993.PlayerParticlescommand-descriptions-help-1: '§b/pp§3
+  %1 §8-§f %2'
+923c42d6-3d02-437e-8c18-770b01fc1ce8.tempflygeneral.time.first_join: '%1 §7You recieved
+  §f⌚%2 §7of flight time. Fly with §b/temporarilyfly§7.'
+bb7d5fdd-85ef-45fd-8d04-8be076ae95d4.tempflygeneral.info.days: '§fDays: §b⌚%1'
+62b99bc4-4618-4a77-bfa2-d433926b21f6.PlayerParticlescommand-description-group-info: '§b/pp
+  group info§3 <name>§8 -§f List the particles saved in the group'
+0503aaba-bbdd-4128-85c1-921d1007ac77.PlayerParticlesgroup-info-header: '§7The group
+  §b%1 §7has the following particles:'
+aaeed4f0-a249-4d84-b8eb-37972e5ca63d.tempflygeneral.fly.infinite_enabled: '%1 §7You
   enabled your infinite flight!'
-c23a29ed-0056-49ad-9efb-9369e293711b.PlayerParticlescommand-description-group-list: '&b/pp
-  group list &3<name> &8- &fList all particle groups you have saved'
+c23a29ed-0056-49ad-9efb-9369e293711b.PlayerParticlescommand-description-group-list: '§b/pp
+  group list §3<name> §8- §fList all particle groups you have saved'
 69d30fce-a9fd-43f5-98d4-079727b04ed9.PlayerParticlesgui-edit-data-color-cyan: '#008b8bCyan'
 bb1e933d-6d51-432e-ba62-ca1688d67c1d.PlayerParticlescommand-description-group: Manage
   your groups
-062e45ee-6694-427a-a5ba-ab30bf7c0e61.tempflygeneral.invalid.funds: '%1 &7This costs
-  &f%2&7! You do not have enough money!'
-df7d4645-a2e9-4eee-beca-ae3be2dd4b86.PlayerParticlesfixed-remove-invalid: '&7Unable
-  to remove fixed effect, you do not have a fixed effect with the ID of &c%1&7!'
+062e45ee-6694-427a-a5ba-ab30bf7c0e61.tempflygeneral.invalid.funds: '%1 §7This costs
+  §f%2§7! You do not have enough money!'
+df7d4645-a2e9-4eee-beca-ae3be2dd4b86.PlayerParticlesfixed-remove-invalid: '§7Unable
+  to remove fixed effect, you do not have a fixed effect with the ID of §c%1§7!'
 ac4a0819-782e-4192-aeeb-8c7057a7f10c.tempflycommand.base.trail_remove.0: remove_trail
-884c901f-cffd-4d3f-a58e-b84f9db26cf4.tempflygeneral.invalid.particle: '%1 &f%2 &7is
+884c901f-cffd-4d3f-a58e-b84f9db26cf4.tempflygeneral.invalid.particle: '%1 §f%2 §7is
   not a valid particle type!'
-0dcfd27e-b979-46c1-9101-a87aac9506ea.PlayerParticlesgui-save-group-chat-message: '&7Use
-  &b/pp group save &3<name> &7to save a new particle group.'
+0dcfd27e-b979-46c1-9101-a87aac9506ea.PlayerParticlesgui-save-group-chat-message: '§7Use
+  §b/pp group save §3<name> §7to save a new particle group.'
 b5f994d6-1a29-4444-8b4e-54e0a0b8df63.PlayerParticlesgui-select-style-description: Sets
-  the particle style to &b%1
-ab5f4610-26ed-4515-9cde-228fa4c30876.PlayerParticlesdata-usage-color-transition: '&7The
-  effect &b%1 &7requires &bcolor transition data&7! &7Format: &3<<0-255> <0-255> <0-255>>|<rainbow>|<random>
+  the particle style to §b%1
+ab5f4610-26ed-4515-9cde-228fa4c30876.PlayerParticlesdata-usage-color-transition: '§7The
+  effect §b%1 §7requires §bcolor transition data§7! §7Format: §3<<0-255> <0-255> <0-255>>|<rainbow>|<random>
   <<0-255> <0-255> <0-255>>|<rainbow>|<random>'
-1e3916f8-9498-4975-bbb1-3cb56b41bc82.PlayerParticlesremove-style-success: '&7Removed
-  &b%1 &7of your particles with the style of &b%2&7!'
-ca93a289-c88a-44ba-b972-f2d4dc6d921b.PlayerParticlesid-invalid: '&7The ID you entered
+1e3916f8-9498-4975-bbb1-3cb56b41bc82.PlayerParticlesremove-style-success: '§7Removed
+  §b%1 §7of your particles with the style of §b%2§7!'
+ca93a289-c88a-44ba-b972-f2d4dc6d921b.PlayerParticlesid-invalid: '§7The ID you entered
   is invalid, it must be a positive whole number!'
-52b3b96f-7bba-4179-8b8e-ba2bb5f52a29.PlayerParticleslist-none: '&7You do not have
+52b3b96f-7bba-4179-8b8e-ba2bb5f52a29.PlayerParticleslist-none: '§7You do not have
   any active particles!'
 3fd61efa-4d7b-4a8b-b5ff-eb80f57814c1.tempflycommand.base.shop.1: buy
-92b243ef-25bd-466f-9b59-bb0e359a0924.PlayerParticlesdata-usage-block: '&7The effect
-  &b%1 &7requires: &bblock data&7! &7Format: &b<blockName>'
-ef9b0fc0-7b41-4de4-8390-65b785e47806.PlayerParticlesid-unknown: '&7You do not have
-  a particle applied with the ID &b%1&c!'
-452555ca-5290-4481-a387-7ba18cf0a936.PlayerParticlesfixed-edit-missing-args: '&7Unable
+92b243ef-25bd-466f-9b59-bb0e359a0924.PlayerParticlesdata-usage-block: '§7The effect
+  §b%1 §7requires: §bblock data§7! §7Format: §b<blockName>'
+ef9b0fc0-7b41-4de4-8390-65b785e47806.PlayerParticlesid-unknown: '§7You do not have
+  a particle applied with the ID §b%1§c!'
+452555ca-5290-4481-a387-7ba18cf0a936.PlayerParticlesfixed-edit-missing-args: '§7Unable
   to edit fixed effect, you are missing some arguments!'
-051adfeb-9194-4ee8-a233-c52a6ee02184.PlayerParticlesedit-success-data: '&7Your particle
-  with an ID of &b%1 &7has had its data changed to &b%2&7!'
-8de09e3f-4bc8-4b80-94d5-2ce5bb5807bc.tempflygeneral.info.seconds: '&fSeconds&7: &b%1'
-86136398-4028-4ab4-ab0c-28082bc0c8e1.PlayerParticlesremove-no-args: '&7You did not
-  specify an ID to remove! &b/pp remove&3 <ID>'
-a766fd97-0b48-4304-8a57-52286fbcdf0e.PlayerParticlescommand-description-fixed-create-console: '&b/pp
-  fixed create&3 <x> <y> <z> <world> <effect> <style> [data] &8-&f Creates a new fixed
+051adfeb-9194-4ee8-a233-c52a6ee02184.PlayerParticlesedit-success-data: '§7Your particle
+  with an ID of §b%1 §7has had its data changed to §b%2§7!'
+8de09e3f-4bc8-4b80-94d5-2ce5bb5807bc.tempflygeneral.info.seconds: '§fSeconds§7: §b%1'
+86136398-4028-4ab4-ab0c-28082bc0c8e1.PlayerParticlesremove-no-args: '§7You did not
+  specify an ID to remove! §b/pp remove§3 <ID>'
+a766fd97-0b48-4304-8a57-52286fbcdf0e.PlayerParticlescommand-description-fixed-create-console: '§b/pp
+  fixed create§3 <x> <y> <z> <world> <effect> <style> [data] §8-§f Creates a new fixed
   effect'
-ef5911de-8ffa-4dd9-b0d0-c5cdc669abe9.PlayerParticlesgui-previous-page-button: '&b&l←
-  &bPrevious'
-eca107d6-e4c5-4349-9cb4-e9535e4e05b2.PlayerParticlesreset-others-none: '&7No particles
-  were removed for &b%1&7.'
-bb65ada8-e814-432b-88cb-b6f9c8eef0d0.PlayerParticlescommand-error-missing-effects-or-styles: "&7You
+ef5911de-8ffa-4dd9-b0d0-c5cdc669abe9.PlayerParticlesgui-previous-page-button: '§b&l←
+  §bPrevious'
+eca107d6-e4c5-4349-9cb4-e9535e4e05b2.PlayerParticlesreset-others-none: '§7No particles
+  were removed for §b%1§7.'
+bb65ada8-e814-432b-88cb-b6f9c8eef0d0.PlayerParticlescommand-error-missing-effects-or-styles: "§7You
   don't have a permission to do that!"
-af79f6f7-2065-4e0b-b27b-8b5fed00c86b.PlayerParticlesgui-edit-primary-style-description: '&fEdit
+af79f6f7-2065-4e0b-b27b-8b5fed00c86b.PlayerParticlesgui-edit-primary-style-description: '§fEdit
   the style of your primary particle'
 cb96c6a6-a02a-4350-b3a7-17b4e5ddff5b.PlayerParticlescommand-description-reset: Removes
   all your active particles
-95908359-d4dd-496a-955a-fcdfc6b33f4f.PlayerParticlesfixed-teleport-no-args: '&7You
+95908359-d4dd-496a-955a-fcdfc6b33f4f.PlayerParticlesfixed-teleport-no-args: '§7You
   did not specify an ID to teleport to!'
-9103bc33-b5c0-472c-8609-abd7d410b8cf.tempflysystem.help_extended.0: '&6/tf give [player]
+9103bc33-b5c0-472c-8609-abd7d410b8cf.tempflysystem.help_extended.0: '§6/tf give [player]
   [time]'
-ced6785a-16dc-471f-a306-aab8aa42fc9b.tempflygeneral.time.purchased: '%1 &7You purchased
-  &f⌚%2&7 for &b&l$&b%3&7!'
-1630e413-08a3-407e-98fb-439886cb5c93.PlayerParticlesfixed-create-style-no-permission: "&7You
+ced6785a-16dc-471f-a306-aab8aa42fc9b.tempflygeneral.time.purchased: '%1 §7You purchased
+  §f⌚%2§7 for §b&l$§b%3§7!'
+1630e413-08a3-407e-98fb-439886cb5c93.PlayerParticlesfixed-create-style-no-permission: "§7You
   don't have a permission to do that!"
-992d6540-528c-4f83-9de1-98301a72080f.PlayerParticlesgui-select-data-vibration: '&b%1
-  &fticks'
-5a17f733-c8a7-4fd8-8525-057ec5ee7a66.tempflygeneral.info.infinite: '&7Infinite: &3&lUser
+992d6540-528c-4f83-9de1-98301a72080f.PlayerParticlesgui-select-data-vibration: '§b%1
+  §fticks'
+5a17f733-c8a7-4fd8-8525-057ec5ee7a66.tempflygeneral.info.infinite: '§7Infinite: §3&lUser
   has unlimited flight!'
 449e564b-1a1e-4f8a-ad75-0e1c9d2b5b8f.tempflycommand.base.pay.1: send
-39d91c30-f49d-4490-a625-617601c4c4f4.PlayerParticlesgui-active-particles: '&fParticles
-  active:&b %1'
-3cbae586-c7fa-4889-a356-cdd4991896c7.PlayerParticlesdata-invalid-color: '&7The color
-  data you entered is invalid! Format:&c <<0-255> <0-255> <0-255>>|<&brainbow>|<random>'
+39d91c30-f49d-4490-a625-617601c4c4f4.PlayerParticlesgui-active-particles: '§fParticles
+  active:§b %1'
+3cbae586-c7fa-4889-a356-cdd4991896c7.PlayerParticlesdata-invalid-color: '§7The color
+  data you entered is invalid! Format:§c <<0-255> <0-255> <0-255>>|<§brainbow>|<random>'
 22ad8b51-2a8d-478d-b3ac-dbd5d2edc8c4.PlayerParticlesgui-edit-data-color-lime-green: '#32cd32Lime
   Green'
-cf0a2a97-9bed-4ca7-88d1-5be853014f77.tempflygeneral.time.set_self: '%1 &7Your time
-  was set to &f⌚%2&7.'
-7f7d516c-7661-47b7-9e6d-01e787fcb51a.PlayerParticlesfixed-clear-success: '&7Cleared
-  &b%1 &7fixed effects within &b%2 &7blocks of your location!'
-312d097b-54d1-4c12-9dd7-c96231c3f7ba.PlayerParticlesfixed-edit-success: '&7Updated
-  the &b%1 &7of the fixed effect with an ID of &b%2&7!'
-c11d0006-288a-4dd0-b23a-0e394870829b.PlayerParticlesgui-toggle-visibility-info: '&bClick
-  &8|&7 toggle particle visibility'
-8403fb3f-a3c9-494e-89a5-106845f10f31.PlayerParticlesfixed-remove-args-invalid: '&7Unable
+cf0a2a97-9bed-4ca7-88d1-5be853014f77.tempflygeneral.time.set_self: '%1 §7Your time
+  was set to §f⌚%2§7.'
+7f7d516c-7661-47b7-9e6d-01e787fcb51a.PlayerParticlesfixed-clear-success: '§7Cleared
+  §b%1 §7fixed effects within §b%2 §7blocks of your location!'
+312d097b-54d1-4c12-9dd7-c96231c3f7ba.PlayerParticlesfixed-edit-success: '§7Updated
+  the §b%1 §7of the fixed effect with an ID of §b%2§7!'
+c11d0006-288a-4dd0-b23a-0e394870829b.PlayerParticlesgui-toggle-visibility-info: '§bClick
+  §8|§7 toggle particle visibility'
+8403fb3f-a3c9-494e-89a5-106845f10f31.PlayerParticlesfixed-remove-args-invalid: '§7Unable
   to remove, the ID specified must be a number!'
-090ad891-2cea-4f0e-befe-878baf931c0b.PlayerParticlesgroup-list-none: '&7You do not
+090ad891-2cea-4f0e-befe-878baf931c0b.PlayerParticlesgroup-list-none: '§7You do not
   have any particle groups saved!'
 505a8eed-1cc8-44c5-973b-05ef70cd60ef.PlayerParticlesgui-manage-your-groups-description: Create,
   delete, and load your particle groups
-498b904d-2e5d-476f-9f2c-b4808a4b275d.tempflygeneral.requirement.pass.combat: '%1 &7You
+498b904d-2e5d-476f-9f2c-b4808a4b275d.tempflygeneral.requirement.pass.combat: '%1 §7You
   are no longer combat tagged, fly away!'
-b437fbee-c41b-4b53-ad34-03839b2eb28a.PlayerParticlescommand-description-fixed-create: '&b/pp
-  fixed create &3<<x> <y> <z>|<looking>> <effect> <style> [data] &8-&f Creates a new
+b437fbee-c41b-4b53-ad34-03839b2eb28a.PlayerParticlescommand-description-fixed-create: '§b/pp
+  fixed create §3<<x> <y> <z>|<looking>> <effect> <style> [data] §8-§f Creates a new
   fixed effect'
-9c04bd51-065d-4005-be50-cc383d4bce1c.PlayerParticlesother-unknown-player: '&7The player
-  &c%1 &7was not found.'
+9c04bd51-065d-4005-be50-cc383d4bce1c.PlayerParticlesother-unknown-player: '§7The player
+  §c%1 §7was not found.'
 b234f1da-0ee0-46df-826d-70ffd8bd9a1d.PlayerParticlescommand-description-help: Displays
   the help menu... You have arrived
-217215b5-92fe-4b5f-a15f-873b78635615.tempflycommand.syntax_error.cmd_fly.toggle_self: '&b/tf
-  &3[on / off]'
-a7013064-cfb7-40eb-9214-96afd4701127.tempflygeneral.time.given_self: '%1 &7You recieved
-  &f⌚%2&7.'
-4c3fb3d3-d99e-4d80-8487-35d86218892f.tempflygeneral.time.given_all: '%1 &7You gave
-  &fALL &7players &f⌚%2&7.'
-0d45659f-635f-4a37-b20b-d23824dc63bf.PlayerParticlesgui-back-button: '&b&l← &bGoBack'
+217215b5-92fe-4b5f-a15f-873b78635615.tempflycommand.syntax_error.cmd_fly.toggle_self: '§b/tf
+  §3[on / off]'
+a7013064-cfb7-40eb-9214-96afd4701127.tempflygeneral.time.given_self: '%1 §7You recieved
+  §f⌚%2§7.'
+4c3fb3d3-d99e-4d80-8487-35d86218892f.tempflygeneral.time.given_all: '%1 §7You gave
+  §fALL §7players §f⌚%2§7.'
+0d45659f-635f-4a37-b20b-d23824dc63bf.PlayerParticlesgui-back-button: '§b&l← §bGoBack'
 7bf4cf25-4f34-4b9e-9906-70791182afa0.PlayerParticlesgui-manage-your-particles-description: Create,
   edit, and delete your particles
-8aa64b11-015b-48ea-baa8-c411af405b12.PlayerParticlesgui-saved-groups: '&fSaved groups:
-  &b%1'
-f30abf88-403c-4dcd-933c-c7b44e540dde.PlayerParticlesfixed-clear-invalid-args: '&7The
+8aa64b11-015b-48ea-baa8-c411af405b12.PlayerParticlesgui-saved-groups: '§fSaved groups:
+  §b%1'
+f30abf88-403c-4dcd-933c-c7b44e540dde.PlayerParticlesfixed-clear-invalid-args: '§7The
   radius you provided is invalid, it must be a positive whole number!'
 f4a161d0-cc84-4697-911b-0615ab8a5338.tempflycommand.base.set.0: set
-dc614f68-4bd8-4925-bb8b-5fb3db2f15de.tempflysystem.help_extended.4: '&6/tf set [player]
+dc614f68-4bd8-4925-bb8b-5fb3db2f15de.tempflysystem.help_extended.4: '§6/tf set [player]
   [time]'
-c3026f3a-95d9-4ec8-820d-21e3e95be4f5.PlayerParticlesfixed-edit-style-invalid: '&7Unable
-  to edit fixed effect, a style with the name &c%1 &7does not exist!'
-85603392-a0c2-4139-a70f-e90aec0e2193.PlayerParticlesfixed-teleport-success: '&7Teleported
-  to your fixed effect with an ID of &c%1&7!'
-c3aff064-021b-46ad-8fb8-784d51a4824a.tempflygeneral.info.footer: '&3&m          &b&m          &f&m          [&b&l
-  Temp Fly &f&m          &b&m          &3&m          &r'
-09e59f32-2835-448d-82fa-5bea4b14f8c8.PlayerParticlesgroup-save-success-overwrite: '&7The
-  group named &b%1 &7has been updated with your current particles!'
-2ce81415-ef33-4e72-b0b4-97bd415fef3c.tempflygeneral.fly.already_enabled: '%1 &7Your
+c3026f3a-95d9-4ec8-820d-21e3e95be4f5.PlayerParticlesfixed-edit-style-invalid: '§7Unable
+  to edit fixed effect, a style with the name §c%1 §7does not exist!'
+85603392-a0c2-4139-a70f-e90aec0e2193.PlayerParticlesfixed-teleport-success: '§7Teleported
+  to your fixed effect with an ID of §c%1§7!'
+c3aff064-021b-46ad-8fb8-784d51a4824a.tempflygeneral.info.footer: '§3&m          §b&m          §f&m          [§b&l
+  Temp Fly §f&m          §b&m          §3&m          &r'
+09e59f32-2835-448d-82fa-5bea4b14f8c8.PlayerParticlesgroup-save-success-overwrite: '§7The
+  group named §b%1 §7has been updated with your current particles!'
+2ce81415-ef33-4e72-b0b4-97bd415fef3c.tempflygeneral.fly.already_enabled: '%1 §7Your
   flight is already enabled!'
-ae0bffa5-c213-41b6-8945-411d5ddbf8e2.PlayerParticlesfixed-info-invalid: '&7Unable
-  to get info, you do not have a fixed effect with the ID of &c%1&7!'
-fa810ba7-271b-4584-82ec-8ecdde868842.tempflygeneral.invalid.permission: "%1 &7You
+ae0bffa5-c213-41b6-8945-411d5ddbf8e2.PlayerParticlesfixed-info-invalid: '§7Unable
+  to get info, you do not have a fixed effect with the ID of §c%1§7!'
+fa810ba7-271b-4584-82ec-8ecdde868842.tempflygeneral.invalid.permission: "%1 §7You
   don't have a permission to do that!"
 228bf952-1c9f-4071-8660-7f4cb2ff835f.tempflycommand.base.speed.0: speed
 1918f41e-5097-4dc2-acdc-28c09ed6cec0.PlayerParticlesgui-edit-data-color-gray: '#808080Gray'
 2417e7d8-3b3d-4aca-bca4-18cdbf1bf1f3.tempflycommand.unit.hours.recognized.0: h
-5f7fca70-0754-4a51-a7db-931de0743462.PlayerParticlesgui-no-permission: "&7You don't
+5f7fca70-0754-4a51-a7db-931de0743462.PlayerParticlesgui-no-permission: "§7You don't
   have a permission to do that!"
-1fc1b620-055e-40d1-a9d7-65eea003b36d.tempflygeneral.invalid.reciever: '%1 &7You cannot
+1fc1b620-055e-40d1-a9d7-65eea003b36d.tempflygeneral.invalid.reciever: '%1 §7You cannot
   pay yourself!'
-218eefeb-c3b7-45e9-8910-7a4d0ed01075.PlayerParticlesgui-color-icon-name: '&b'
-72f8a8de-b920-4c15-a035-060da2a51c2a.PlayerParticlesgroup-save-no-particles: '&7Unable
+218eefeb-c3b7-45e9-8910-7a4d0ed01075.PlayerParticlesgui-color-icon-name: '§b'
+72f8a8de-b920-4c15-a035-060da2a51c2a.PlayerParticlesgroup-save-no-particles: '§7Unable
   to save group, you do not have any particles applied!'
-954f7628-7ef4-44ba-96d6-128d53b0e353.PlayerParticlesgui-reset-particles: '&bReset
+954f7628-7ef4-44ba-96d6-128d53b0e353.PlayerParticlesgui-reset-particles: '§bReset
   Your Particles'
-19784aa0-1a46-4e20-a026-960725cd476e.PlayerParticlesremove-id-success: '&7Your particle
-  with the ID &b%1 &7has been removed!'
+19784aa0-1a46-4e20-a026-960725cd476e.PlayerParticlesremove-id-success: '§7Your particle
+  with the ID §b%1 §7has been removed!'
 32adbb61-6598-466d-9a76-4d087e3fd96a.PlayerParticlescommand-description-worlds: Find
   out what worlds particles are disabled in
-0b0316f2-56f7-4e82-9dc1-9c22c61f27b9.PlayerParticlesadd-particle-applied: '&7A new
-  particle has been applied with the effect &b%1&7, style &b%2&7, and data &b%3&7!'
-a30e6419-d7b8-457f-adac-be3f395c64e6.tempflygeneral.invalid.time_other: '%1 &f%2 [lang]tempfly.time_other[/lang]'
-e05d55e8-b726-4394-8555-ef9d0aef08f7.PlayerParticleseffect-list-empty: "&7You don't
+0b0316f2-56f7-4e82-9dc1-9c22c61f27b9.PlayerParticlesadd-particle-applied: '§7A new
+  particle has been applied with the effect §b%1§7, style §b%2§7, and data §b%3§7!'
+a30e6419-d7b8-457f-adac-be3f395c64e6.tempflygeneral.invalid.time_other: '%1 §f%2 [lang]tempfly.time_other[/lang]'
+e05d55e8-b726-4394-8555-ef9d0aef08f7.PlayerParticleseffect-list-empty: "§7You don't
   have a permission to do that!"
-25d2e01e-8383-43d0-878c-e2c616432871.tempflygeneral.time.sent_other: '%1 &7You sent
-  &f%2&f ⌚%3&7.'
-0333e3ce-0209-4072-b32c-d34255998525.PlayerParticlesfixed-create-missing-args: '&7Unable
-  to create fixed effect, you are missing &b%1 &7required arguments!'
-47cfe43a-329f-481d-8973-1dcfc85a7836.PlayerParticlesfixed-edit-looking-too-far: '&7Unable
+25d2e01e-8383-43d0-878c-e2c616432871.tempflygeneral.time.sent_other: '%1 §7You sent
+  §f%2§f ⌚%3§7.'
+0333e3ce-0209-4072-b32c-d34255998525.PlayerParticlesfixed-create-missing-args: '§7Unable
+  to create fixed effect, you are missing §b%1 §7required arguments!'
+47cfe43a-329f-481d-8973-1dcfc85a7836.PlayerParticlesfixed-edit-looking-too-far: '§7Unable
   to edit fixed effect, you are standing too far away from the block you are looking
   at!'
-ad25be22-9075-4746-88c7-dd0272359f73.tempflygeneral.time.format: '&f%1&f%2'
+ad25be22-9075-4746-88c7-dd0272359f73.tempflygeneral.time.format: '§f%1§f%2'
 063b0a5d-3428-486d-8494-14f8a8a6368e.PlayerParticlesgui-reset-particles-description: Deletes
   all your active particles
 60b6ac6f-1412-4877-8635-9f6494691168.tempflycommand.unit.minutes.recognized.2: minute
-54bfaad9-1310-48db-8796-f099f57b94ce.PlayerParticlesgui-select-data-color-transition-start: '&7Select
-  the &bstart &7color'
+54bfaad9-1310-48db-8796-f099f57b94ce.PlayerParticlesgui-select-data-color-transition-start: '§7Select
+  the §bstart §7color'
 4da55d8f-c792-45c4-b769-b52f81e3159a.tempflycommand.base.give.1: add
-84a61b5c-ee93-4bf9-9888-ff1965279527.PlayerParticlesfixed-teleport-no-permission: "&7You
+84a61b5c-ee93-4bf9-9888-ff1965279527.PlayerParticlesfixed-teleport-no-permission: "§7You
   don't have a permission to do that!"
-9f12fc1f-5705-4972-a7ea-aaea8f216346.PlayerParticlesfixed-no-permission: "&7You don't
+9f12fc1f-5705-4972-a7ea-aaea8f216346.PlayerParticlesfixed-no-permission: "§7You don't
   have a permission to do that!"
-9f41a831-b72f-4698-82fe-9ff691d42897.PlayerParticlescommand-description-fixed-remove: '&b/pp
-  fixed remove&3 <ID> &8-&f Removes a fixed effect by its ID'
+9f41a831-b72f-4698-82fe-9ff691d42897.PlayerParticlescommand-description-fixed-remove: '§b/pp
+  fixed remove§3 <ID> §8-§f Removes a fixed effect by its ID'
 981c78df-bd0f-468c-9d7d-4a433f03ed4c.PlayerParticlesgui-create-particle-description: Create
   a new particle with an effect, style, and data
-662992d0-81b1-4eb8-977b-04acf090b232.PlayerParticlesother-unknown-command: '&7The
-  command &b/pp &3%1 &7does not exist.'
-f7278ecf-46b7-4b02-883e-fab401944c0d.PlayerParticlesfixed-create-invalid-coords: '&7Unable
+662992d0-81b1-4eb8-977b-04acf090b232.PlayerParticlesother-unknown-command: '§7The
+  command §b/pp §3%1 §7does not exist.'
+f7278ecf-46b7-4b02-883e-fab401944c0d.PlayerParticlesfixed-create-invalid-coords: '§7Unable
   to create fixed effect, one or more coordinates you entered is invalid!'
 404d4b93-c4c9-405e-981c-e37b23ec85f1.tempflycommand.unit.seconds.recognized.1: sec
 c450d78a-6a99-45f6-be93-1acc0d92ad9e.tempflycommand.enable.0: on
 35b015a9-0704-40a9-8bca-bd8219a13383.tempflycommand.enable.1: enable
 57c7ea54-4557-4af0-9e57-65a2ac497add.tempflycommand.unit.hours.recognized.1: hour
-bf3200d3-6ff7-4794-a4db-0210939684a5.PlayerParticlesprefix: '&b&l%1 &8┃ &7'
+bf3200d3-6ff7-4794-a4db-0210939684a5.PlayerParticlesprefix: '§b&l%1 §8┃ §7'
 e41af4d4-556c-45ab-90a9-d12ea2b749d8.tempflycommand.base.time.0: time
 c8ed06e2-c347-44bc-82c7-ce6cccf5ce46.tempflycommand.unit.seconds.recognized.2: second
-cdbd3d29-68bf-4328-990f-4de8bae551d7.PlayerParticlesgui-toggle-visibility-on: '&fParticles
-  are currently &avisible'
-d78fb5cc-2dae-4900-96b7-e560d7d7efb3.PlayerParticlesupdate-available: '&7An update
-  (&bv%1&7) is available! You are running &bv%2&7. &bhttps://www.spigotmc.org/resources/playerparticles.40261/'
-7f23d547-3ae2-4c53-b90d-ff2e65759713.PlayerParticlesfixed-edit-data-error: '&7Unable
-  to edit fixed effect, the data provided is not correct! Use &b/pp data &3<effect>
-  &7to find the correct data format!'
-f4cf74cb-4892-4f57-a154-0d75f67a1c7a.tempflysystem.help.2: '&7- Toggle tempfly'
+cdbd3d29-68bf-4328-990f-4de8bae551d7.PlayerParticlesgui-toggle-visibility-on: '§fParticles
+  are currently §avisible'
+d78fb5cc-2dae-4900-96b7-e560d7d7efb3.PlayerParticlesupdate-available: '§7An update
+  (§bv%1§7) is available! You are running §bv%2§7. §bhttps://www.spigotmc.org/resources/playerparticles.40261/'
+7f23d547-3ae2-4c53-b90d-ff2e65759713.PlayerParticlesfixed-edit-data-error: '§7Unable
+  to edit fixed effect, the data provided is not correct! Use §b/pp data §3<effect>
+  §7to find the correct data format!'
+f4cf74cb-4892-4f57-a154-0d75f67a1c7a.tempflysystem.help.2: '§7- Toggle tempfly'
 9e53b009-fae2-40c9-a321-241de5714235.PlayerParticlesgui-edit-data-color-white: '#ffffffWhite'
-f2e16bd7-8cce-4a8a-9de3-7c1badc9a31b.tempflyaesthetic.trail.removed_other: '%1 &f%2
-  &7had their trail removed!'
-ace8963d-93d5-49ef-b17b-50dbf2341b12.PlayerParticlesgui-edit-effect-description: '&bClick
-  &8|&7 edit the effect of this particle'
+f2e16bd7-8cce-4a8a-9de3-7c1badc9a31b.tempflyaesthetic.trail.removed_other: '%1 §f%2
+  §7had their trail removed!'
+ace8963d-93d5-49ef-b17b-50dbf2341b12.PlayerParticlesgui-edit-effect-description: '§bClick
+  §8|§7 edit the effect of this particle'
 39523b27-9869-44b5-8cc6-20b48dbf833f.PlayerParticlesgui-edit-data-color-magenta: '#ca1f7bMagenta'
-707734c5-a306-4772-a6eb-474889b2d4e0.tempflyaesthetic.trail.set_self: '%1 &7Your trail
-  was set to &f%2&7!'
-25e63530-8991-4ee2-90a3-427182e30804.tempflysystem.help.1: '&6/tf'
-18042ea1-25f4-4113-97f4-eab4dc522ca1.PlayerParticlesfixed-max-reached: '&6You have
+707734c5-a306-4772-a6eb-474889b2d4e0.tempflyaesthetic.trail.set_self: '%1 §7Your trail
+  was set to §f%2§7!'
+25e63530-8991-4ee2-90a3-427182e30804.tempflysystem.help.1: '§6/tf'
+18042ea1-25f4-4113-97f4-eab4dc522ca1.PlayerParticlesfixed-max-reached: '§6You have
   reached the maximum allowed fixed effects!'
-eaf2fb4a-2490-4e13-a6b8-f118dec71f61.PlayerParticlesgui-save-group-hotbar-message: '&7Type
-  &b1 &7word in chat for the new group name. Type &ccancel&7 to cancel. &8(&b%1&7s
-  left&8)'
-3437c0cc-4f71-480b-8509-57a53d0ba17d.PlayerParticlescommand-description-fixed-clear: '&b/pp
-  fixed clear &3<radius> &8-&f Clears all fixed effects of all players within the
+eaf2fb4a-2490-4e13-a6b8-f118dec71f61.PlayerParticlesgui-save-group-hotbar-message: '§7Type
+  §b1 §7word in chat for the new group name. Type §ccancel§7 to cancel. §8(§b%1§7s
+  left§8)'
+3437c0cc-4f71-480b-8509-57a53d0ba17d.PlayerParticlescommand-description-fixed-clear: '§b/pp
+  fixed clear §3<radius> §8-§f Clears all fixed effects of all players within the
   given radius'
 bd64db01-1b9a-42c3-9b8f-56b531cbb9bf.PlayerParticlescommand-description-list: Lists
   the IDs of your active particles
-317c9f6e-fa57-4f6a-a13c-63745b88aaeb.PlayerParticlesdata-invalid-material-block: '&7The
-  block material &c%1&7 you entered does not exist!'
+317c9f6e-fa57-4f6a-a13c-63745b88aaeb.PlayerParticlesdata-invalid-material-block: '§7The
+  block material §c%1§7 you entered does not exist!'
 4d1edc72-35e4-4a17-859c-b9a6228f9646.tempflygeneral.requirement.pass.default: '%1
-  &7You may now fly!'
-c260a0e3-12be-4494-ba1b-2adb9f6324af.PlayerParticlesdata-usage-note: '&7The effect
-  &b%1 &7requires &bnote data! &7Format: &3<0-24>|<&brainbow>|<random>'
+  §7You may now fly!'
+c260a0e3-12be-4494-ba1b-2adb9f6324af.PlayerParticlesdata-usage-note: '§7The effect
+  §b%1 §7requires §bnote data! §7Format: §3<0-24>|<§brainbow>|<random>'
 08142ea8-e8f8-4d58-9867-e4f05c5bc481.tempflycommand.base.time.1: bal
-171055f9-c489-4e24-a986-1c8631c7d337.PlayerParticlesgroup-load-preset-success: '&7Applied
-  &b%1 &7particle(s) from the preset group named &b%2&7!'
+171055f9-c489-4e24-a986-1c8631c7d337.PlayerParticlesgroup-load-preset-success: '§7Applied
+  §b%1 §7particle(s) from the preset group named §b%2§7!'
 f85c0b13-cabc-45c1-ac9a-09693f4ae2dc.PlayerParticlesgui-create-particle-unavailable: You
   have reached the maximum amount of particles you can create
-939f277c-4d08-43cf-b011-d1db92b16006.PlayerParticlesfixed-create-data-error: '&7Unable
-  to create fixed effect, the data provided is not correct! Use &b/pp data &3<effect>
-  &7to find the correct data format!'
-ebbaa102-cf33-4ab6-a94c-a91b1ba7421b.PlayerParticlescommand-description-fixed-edit: '&b/pp
-  fixed edit&3 <id> <effect|style|data|location> <args> &8-&f Edit part of a fixed
+939f277c-4d08-43cf-b011-d1db92b16006.PlayerParticlesfixed-create-data-error: '§7Unable
+  to create fixed effect, the data provided is not correct! Use §b/pp data §3<effect>
+  §7to find the correct data format!'
+ebbaa102-cf33-4ab6-a94c-a91b1ba7421b.PlayerParticlescommand-description-fixed-edit: '§b/pp
+  fixed edit§3 <id> <effect|style|data|location> <args> §8-§f Edit part of a fixed
   effect by its ID'
-e3b8e97c-a97e-4fe6-b908-3d829d582ead.tempflyaesthetic.featherboard.seconds: '&f%1s '
-fc5a53a2-3042-41ae-980c-cd9d131d4642.tempflygeneral.time.max_other: '%1 &f%2 &7has
+e3b8e97c-a97e-4fe6-b908-3d829d582ead.tempflyaesthetic.featherboard.seconds: '§f%1s '
+fc5a53a2-3042-41ae-980c-cd9d131d4642.tempflygeneral.time.max_other: '%1 §f%2 §7has
   reached the maximum allowed time!'
-0d1522ac-1134-497e-b4d3-e4b0a7c6f563.tempflygeneral.requirement.fail.height: '%1 &f%2
-  &7is the maximum altitude for flight!'
-1f95c50d-c4b8-409c-bc39-fa073d9c654d.PlayerParticlesgui-color-subtext: '&7'
-215a4e79-0213-41d9-987f-b7334f831421.PlayerParticlesdata-invalid-color-transition: '&7The
-  color transition data you entered is invalid! Format: &3<<0-255> <0-255> <0-255>>|<&brainbow>|<random>
+0d1522ac-1134-497e-b4d3-e4b0a7c6f563.tempflygeneral.requirement.fail.height: '%1 §f%2
+  §7is the maximum altitude for flight!'
+1f95c50d-c4b8-409c-bc39-fa073d9c654d.PlayerParticlesgui-color-subtext: '§7'
+215a4e79-0213-41d9-987f-b7334f831421.PlayerParticlesdata-invalid-color-transition: '§7The
+  color transition data you entered is invalid! Format: §3<<0-255> <0-255> <0-255>>|<§brainbow>|<random>
   <<0-255> <0-255> <0-255>>|<rainbow>|<random>'
-a7b7138b-8833-43f0-b019-7e17234f70a4.tempflysystem.help.4: '&7- View remaining fly
+a7b7138b-8833-43f0-b019-7e17234f70a4.tempflysystem.help.4: '§7- View remaining fly
   time'
 bbccd9fc-fafe-47da-bb69-9590a3fe85b4.PlayerParticlesgui-edit-data-unavailable: The
   effect of this particle does not use any data
-01301cb9-af23-4604-8083-1a99f2de5bc0.PlayerParticlesgui-edit-effect: '&bEdit Effect'
+01301cb9-af23-4604-8083-1a99f2de5bc0.PlayerParticlesgui-edit-effect: '§bEdit Effect'
 b3027c68-1a20-4136-8234-314c0db64113.PlayerParticlesgui-manage-your-particles-name: Manage
   Your Particles
-61abe3d8-2cdf-4b8a-93dd-1f1f494465f8.PlayerParticlesdisabled-worlds-none: '&7Particles
+61abe3d8-2cdf-4b8a-93dd-1f1f494465f8.PlayerParticlesdisabled-worlds-none: '§7Particles
   are not disabled in any worlds.'
-fead46e9-a3d7-43f2-a0d4-40a72dfeaa7f.tempflygeneral.info.player: '&fPlayer: &n%1'
-ae580939-b6bb-4fa4-bf1b-ff8d206af997.tempflysystem.help.0: '&8&l------&dTemp&fFly&8&l------'
+fead46e9-a3d7-43f2-a0d4-40a72dfeaa7f.tempflygeneral.info.player: '§fPlayer: &n%1'
+ae580939-b6bb-4fa4-bf1b-ff8d206af997.tempflysystem.help.0: '§8&l------§dTemp§fFly§8&l------'
 464275a1-9e74-4ad9-889b-6717a2e1f137.PlayerParticlescommand-description-gui: Display
   the GUI for easy editing of particles
 5ae96ee6-1387-4e3f-bf6f-56e453e68c64.PlayerParticlescommand-description-default: The
   main command. By default, opens the GUI
-2558f0c8-bfe3-4b5b-8cc2-09a3d03c45b1.tempflygeneral.time.removed_self: '%1 &7You lost
-  &f⌚%2&7.'
-8ff255c3-cd3d-4eda-a8da-187794c77d78.tempflygeneral.invalid.time_self: '%1 &7You have
+2558f0c8-bfe3-4b5b-8cc2-09a3d03c45b1.tempflygeneral.time.removed_self: '%1 §7You lost
+  §f⌚%2§7.'
+8ff255c3-cd3d-4eda-a8da-187794c77d78.tempflygeneral.invalid.time_self: '%1 §7You have
   no more flight time!'
-acc5db47-03ce-4ad5-9d2c-9b5925545fe7.tempflygeneral.fly.speed_self: '%1 &7Your fly
-  speed was set to &f%2&7.'
-681c3571-58ce-4918-a66c-8f0b47bb9c22.PlayerParticleseffect-list: '&7You can use the
-  following effects: &a%1'
-c0096e65-5fd9-4cfe-8019-7b3337bf2b5a.tempflygeneral.fly.disabled_other: '%1 &f%2 &7is
+acc5db47-03ce-4ad5-9d2c-9b5925545fe7.tempflygeneral.fly.speed_self: '%1 §7Your fly
+  speed was set to §f%2§7.'
+681c3571-58ce-4918-a66c-8f0b47bb9c22.PlayerParticleseffect-list: '§7You can use the
+  following effects: §a%1'
+c0096e65-5fd9-4cfe-8019-7b3337bf2b5a.tempflygeneral.fly.disabled_other: '%1 §f%2 §7is
   no longer flying!'
 bf4ce1fc-0c65-4fa0-be43-ffdbb4dd3b5e.tempflycommand.base.trail_set.0: trail
 24cf1a06-ebe8-4c7e-b6c8-0e64cbd0c345.tempflycommand.unit.minutes.tab_complete: minute
-765ce1b9-ab71-4bd3-8d0b-93b50818c279.tempflygeneral.invalid.flyer_self: '%1 &7You
+765ce1b9-ab71-4bd3-8d0b-93b50818c279.tempflygeneral.invalid.flyer_self: '%1 §7You
   are not flying!'
-a6be88d9-044f-4c40-8b51-aa883a7cec6b.PlayerParticlestoggle-on: '&7Particles have been
-  toggled &aon&7!'
-8cc72792-6c88-4013-802f-88599528d65e.PlayerParticlesgui-select-style: '&bSelect Particle
+a6be88d9-044f-4c40-8b51-aa883a7cec6b.PlayerParticlestoggle-on: '§7Particles have been
+  toggled §aon§7!'
+8cc72792-6c88-4013-802f-88599528d65e.PlayerParticlesgui-select-style: '§bSelect Particle
   Style'
-59966f1a-5f90-44ff-b77a-37f7639d9095.tempflysystem.help_extended.5: '&7- Set a players
+59966f1a-5f90-44ff-b77a-37f7639d9095.tempflysystem.help_extended.5: '§7- Set a players
   fly time'
-d6a80512-7783-4875-93f0-fbea6cbb349d.tempflygeneral.fly.disabled_self: '%1 &7Your
+d6a80512-7783-4875-93f0-fbea6cbb349d.tempflygeneral.fly.disabled_self: '%1 §7Your
   flight was disabled!'
-c3ffc145-02f3-48cf-a299-98230050067e.PlayerParticlesgroup-no-permission: "&7You don't
+c3ffc145-02f3-48cf-a299-98230050067e.PlayerParticlesgroup-no-permission: "§7You don't
   have a permission to do that!"
-d3376ab3-34ff-4a8e-90fd-e21906aeb7a4.tempflysystem.help.3: '&6/tf time'
-cd32bd17-2f22-46aa-b69d-5abb8939f466.PlayerParticleslist-output: '&bID&8: &f%1 &bEffect&8:
-  &f%2 &bStyle&8: &f%3 &bData&8: &f%4'
-ac9d6dfc-ae10-44f8-ad93-b5f4589ce96f.PlayerParticlesgui-color-unavailable: '&c'
+d3376ab3-34ff-4a8e-90fd-e21906aeb7a4.tempflysystem.help.3: '§6/tf time'
+cd32bd17-2f22-46aa-b69d-5abb8939f466.PlayerParticleslist-output: '§bID§8: §f%1 §bEffect§8:
+  §f%2 §bStyle§8: §f%3 §bData§8: §f%4'
+ac9d6dfc-ae10-44f8-ad93-b5f4589ce96f.PlayerParticlesgui-color-unavailable: '§c'
 35578709-1c03-4ef5-a267-a0a7f3e12f04.PlayerParticlesgui-save-group: Save New Group
-ebffc68f-37e3-4e00-924c-f2a81e2fb52c.PlayerParticlesgui-edit-primary-effect-description: '&fEdit
+ebffc68f-37e3-4e00-924c-f2a81e2fb52c.PlayerParticlesgui-edit-primary-effect-description: '§fEdit
   the effect of your primary particle'
-081a554a-aaae-4630-acb0-f40cd99234f4.PlayerParticlesgui-edit-style-description: '&bClick
-  &8|&7 edit the style of this particle'
+081a554a-aaae-4630-acb0-f40cd99234f4.PlayerParticlesgui-edit-style-description: '§bClick
+  §8|§7 edit the style of this particle'
 70be4bf5-7084-46e4-b8bf-81d1d114980a.tempflycommand.base.give.0: give
-2f8b4885-6da9-49d1-9f50-9865144b5a5d.tempflysystem.help_extended.3: '&7- Remove fly
+2f8b4885-6da9-49d1-9f50-9865144b5a5d.tempflysystem.help_extended.3: '§7- Remove fly
   time from a player'
-977284db-3ed8-44b2-8fb0-3d05bf000304.PlayerParticlesfixed-edit-invalid-id: '&7Unable
+977284db-3ed8-44b2-8fb0-3d05bf000304.PlayerParticlesfixed-edit-invalid-id: '§7Unable
   to edit fixed effect, the ID specified is invalid or does not exist!'
-44da0176-e25d-4124-9e6d-44ad270c3587.PlayerParticlesfixed-create-style-non-fixable: '&7Unable
-  to create fixed effect, the style &c%1 &7can not be used in fixed effects!'
+44da0176-e25d-4124-9e6d-44ad270c3587.PlayerParticlesfixed-create-style-non-fixable: '§7Unable
+  to create fixed effect, the style §c%1 §7can not be used in fixed effects!'
 44d6b5c6-21db-40f1-9696-d4baacff4b59.PlayerParticlesgui-edit-data-color-pink: '#ffb6c1Pink'
 288004a5-8ef2-46a1-a54e-8fd5ee947c9d.tempflycommand.disable.0: off
 35d354df-2868-4234-9936-a81fa905942d.tempflycommand.disable.1: disable
-0c204c47-7700-4cd5-89b8-e14831041367.PlayerParticlesgui-playerparticles: '&8Particles
+0c204c47-7700-4cd5-89b8-e14831041367.PlayerParticlesgui-playerparticles: '§8Particles
   Menu'
 d647e58d-c694-4e25-abb5-a5cabf58a2d7.PlayerParticlescommand-description-edit: Edit
   a particle
-655c0691-c873-42fa-9776-62bbc225ecd6.tempflygeneral.time.removed_other: '%1 &f%2 &7lost
-  &f⌚%3&7.'
-7cc318a9-014d-4348-b595-2e2b4960ac3a.PlayerParticlesgui-select-data: '&bSelect Particle
+655c0691-c873-42fa-9776-62bbc225ecd6.tempflygeneral.time.removed_other: '%1 §f%2 §7lost
+  §f⌚%3§7.'
+7cc318a9-014d-4348-b595-2e2b4960ac3a.PlayerParticlesgui-select-data: '§bSelect Particle
   Data'
-c2cd6a5b-d396-491b-a01a-c016c47c2f62.PlayerParticlesremove-effect-none: '&7You do
-  not have any particles applied with the effect &b%1&7!'
-3cabf40c-beae-4f67-9d13-bbaecdb2c77f.PlayerParticlesdata-usage-item: '&7The effect
-  &b%1 &7requires &bitem &bdata&7! &7Format: &b<itemName>'
+c2cd6a5b-d396-491b-a01a-c016c47c2f62.PlayerParticlesremove-effect-none: '§7You do
+  not have any particles applied with the effect §b%1§7!'
+3cabf40c-beae-4f67-9d13-bbaecdb2c77f.PlayerParticlesdata-usage-item: '§7The effect
+  §b%1 §7requires §bitem §bdata§7! §7Format: §b<itemName>'
 d3eef32e-e385-4eb0-9919-027ac95ea1d0.PlayerParticlescommand-description-styles: Display
   a list of styles you can use
 91eca89b-7b4d-4b4d-a82d-c589709896c0.PlayerParticlesgui-select-effect-description: Sets
-  the particle effect to &b%1
+  the particle effect to §b%1
 9d974d18-4242-4414-9eb3-c5ed1a003ec9.PlayerParticlesgui-save-group-no-particles: You
   do not have any particles applied
-4e65e4dd-8ffd-46c3-8ada-0db88c29258b.PlayerParticlesgroup-list-output: '&7You have
-  the following groups saved: &b%1'
-5d5156d0-d442-4f84-8cb0-d2875e9b544a.PlayerParticlesgui-editing-particle: '&bEditing
+4e65e4dd-8ffd-46c3-8ada-0db88c29258b.PlayerParticlesgroup-list-output: '§7You have
+  the following groups saved: §b%1'
+5d5156d0-d442-4f84-8cb0-d2875e9b544a.PlayerParticlesgui-editing-particle: '§bEditing
   Particle #%1'
-e10bc542-5d99-4f1e-b8d1-4c3e77910958.PlayerParticlesreset-others-success: '&7Removed
-  particles for &b%1&7!'
-c2fea39b-acc8-4f4a-ba1f-68b379464699.tempflygeneral.info.hours: '&fHours: &b%1'
-5d9e04c7-7438-4eca-b467-cfe66308e5f2.PlayerParticlesfixed-invalid-command: '&7Invalid
-  sub-command for &b/pp fixed&7!'
-dd24beb5-26b1-41bb-a1c7-1509b077d353.tempflygeneral.requirement.fail.region: '%1 &7Flight
+e10bc542-5d99-4f1e-b8d1-4c3e77910958.PlayerParticlesreset-others-success: '§7Removed
+  particles for §b%1§7!'
+c2fea39b-acc8-4f4a-ba1f-68b379464699.tempflygeneral.info.hours: '§fHours: §b%1'
+5d9e04c7-7438-4eca-b467-cfe66308e5f2.PlayerParticlesfixed-invalid-command: '§7Invalid
+  sub-command for §b/pp fixed§7!'
+dd24beb5-26b1-41bb-a1c7-1509b077d353.tempflygeneral.requirement.fail.region: '%1 §7Flight
   is disabled in this region!'
-ec80b85d-9416-4da7-b4aa-5e95d956e803.PlayerParticlescommand-description-fixed-teleport: '&b/pp
-  fixed teleport&3 <id> &8-&f Teleports you to one of your fixed effects'
-b240bebf-c481-4ae5-a0c7-5e5b66697aec.tempflysystem.reload: '%1 &aYou reloaded the
+ec80b85d-9416-4da7-b4aa-5e95d956e803.PlayerParticlescommand-description-fixed-teleport: '§b/pp
+  fixed teleport§3 <id> §8-§f Teleports you to one of your fixed effects'
+b240bebf-c481-4ae5-a0c7-5e5b66697aec.tempflysystem.reload: '%1 §aYou reloaded the
   plugin.'
-14f23706-d3dd-43f9-9d81-9dd500353e5b.tempflygeneral.time.max_self: '%1 &7You have
+14f23706-d3dd-43f9-9d81-9dd500353e5b.tempflygeneral.time.max_self: '%1 §7You have
   reached the maximum allowed time!'
-9d0ae266-7780-44b2-96f0-961834e590db.PlayerParticlescommand-description-fixed-info: '&b/pp
-  fixed info &3<ID> &8-&f Gets info on one of your fixed effects'
-e65224a0-4734-4b71-baa5-d368eb7a5f9e.PlayerParticlesfixed-remove-no-args: '&7You did
+9d0ae266-7780-44b2-96f0-961834e590db.PlayerParticlescommand-description-fixed-info: '§b/pp
+  fixed info §3<ID> §8-§f Gets info on one of your fixed effects'
+e65224a0-4734-4b71-baa5-d368eb7a5f9e.PlayerParticlesfixed-remove-no-args: '§7You did
   not specify an ID to remove!'
-d18e66e6-e405-49a5-93fc-82ae8c0e79e8.PlayerParticlesgui-edit-primary-data: '&bEdit
+d18e66e6-e405-49a5-93fc-82ae8c0e79e8.PlayerParticlesgui-edit-primary-data: '§bEdit
   Primary Data'
-618529b1-4fba-4568-8ce3-6b9de713af4c.PlayerParticlesgui-manage-your-groups: '&bManage
+618529b1-4fba-4568-8ce3-6b9de713af4c.PlayerParticlesgui-manage-your-groups: '§bManage
   Your Groups'
 ee0785da-1c51-41af-836a-565b393affa6.PlayerParticlesgui-edit-data-color-purple: '#8a2be2Purple'
-ddafb1cd-ea8d-4c97-94b0-f7a06ad455de.PlayerParticlesgui-select-data-color-transition-end: '&7Select
-  the &3end &7color'
-674457c9-7c1c-44a7-bf6b-26dece2eadbd.PlayerParticlescommand-descriptions-help-2: '&b/pp
-  &3%1 %2 &8-&f %3'
-41ef8fe3-5958-4432-9968-ecd9c1603481.tempflygeneral.fly.bypass_disabled: '%1 &7You
+ddafb1cd-ea8d-4c97-94b0-f7a06ad455de.PlayerParticlesgui-select-data-color-transition-end: '§7Select
+  the §3end §7color'
+674457c9-7c1c-44a7-bf6b-26dece2eadbd.PlayerParticlescommand-descriptions-help-2: '§b/pp
+  §3%1 %2 §8-§f %3'
+41ef8fe3-5958-4432-9968-ecd9c1603481.tempflygeneral.fly.bypass_disabled: '%1 §7You
   disabled flight bypass mode!'
-342a1cb4-2f05-4a7e-b950-d3ec04218fc7.PlayerParticlesfixed-edit-out-of-range: '&7Unable
-  to edit fixed effect, you must be within &b%1 &7blocks of your desired location!'
-d7e6d51a-24f2-4aa9-8430-8235f7b50f5d.PlayerParticlesgui-particle-info: ' &8 - &bID&8:
-  &f%1 &bEffect&8: &f%2 &bStyle&8: &f%3 &bData&8: &f%4'
-3a38babc-c191-4d11-89ac-6fc37e3bb180.PlayerParticlesother-missing-args: '&7You are
-  missing some arguments. &b/ppo &3<player> <command>'
-11873245-546d-4e92-ad32-1a7301285d7d.PlayerParticlesgroup-reserved: '&7The group name
-  &bactive &cis reserved and cannot be used!'
-285de702-803c-4878-b125-f7b7468df255.tempflygeneral.time.sent_self: '%1 &f%2 &7sent
-  you &f⌚%3&7.'
-2bd503f9-edea-4bb7-84ea-a882f14a7584.PlayerParticlesreset-success: '&7Removed &b%1
-  &7active particle(s)!'
-6dbea9f5-6284-476d-804f-c78c5dec4744.tempflyaesthetic.featherboard.minutes: '&f%1m '
-9748c5e2-1ef2-4b95-ba46-b5c9b4a3ec66.PlayerParticlesgroup-load-success: '&7Applied
-  &b%1 &7particle(s) from your saved group named &b%2&7!'
-a7129dad-b3fd-49ac-87f5-b5229d05ae93.PlayerParticlescommand-description-fixed-clear-console: '&b/pp
-  fixed clear&3 <radius> <x> <y> <z> <world> &8-&f Clears all fixed effects of all
+342a1cb4-2f05-4a7e-b950-d3ec04218fc7.PlayerParticlesfixed-edit-out-of-range: '§7Unable
+  to edit fixed effect, you must be within §b%1 §7blocks of your desired location!'
+d7e6d51a-24f2-4aa9-8430-8235f7b50f5d.PlayerParticlesgui-particle-info: ' §8 - §bID§8:
+  §f%1 §bEffect§8: §f%2 §bStyle§8: §f%3 §bData§8: §f%4'
+3a38babc-c191-4d11-89ac-6fc37e3bb180.PlayerParticlesother-missing-args: '§7You are
+  missing some arguments. §b/ppo §3<player> <command>'
+11873245-546d-4e92-ad32-1a7301285d7d.PlayerParticlesgroup-reserved: '§7The group name
+  §bactive §cis reserved and cannot be used!'
+285de702-803c-4878-b125-f7b7468df255.tempflygeneral.time.sent_self: '%1 §f%2 §7sent
+  you §f⌚%3§7.'
+2bd503f9-edea-4bb7-84ea-a882f14a7584.PlayerParticlesreset-success: '§7Removed §b%1
+  §7active particle(s)!'
+6dbea9f5-6284-476d-804f-c78c5dec4744.tempflyaesthetic.featherboard.minutes: '§f%1m '
+9748c5e2-1ef2-4b95-ba46-b5c9b4a3ec66.PlayerParticlesgroup-load-success: '§7Applied
+  §b%1 §7particle(s) from your saved group named §b%2§7!'
+a7129dad-b3fd-49ac-87f5-b5229d05ae93.PlayerParticlescommand-description-fixed-clear-console: '§b/pp
+  fixed clear§3 <radius> <x> <y> <z> <world> §8-§f Clears all fixed effects of all
   players within the given radius'
 ecd43879-916e-49f6-a844-b2615c3f6342.tempflycommand.base.remove.1: take
-d6bf9ea5-78c0-4fac-824b-14e70cf149e4.PlayerParticlesgui-fixed-effects: '&fFixed effects:
-  &b%1'
+d6bf9ea5-78c0-4fac-824b-14e70cf149e4.PlayerParticlesgui-fixed-effects: '§fFixed effects:
+  §b%1'
 3a00751c-3400-40f6-8d79-2e8f7d9bc0d7.PlayerParticlescommand-description-add: Add a
   new particle
 98c53249-1783-4af2-9563-28b597601de7.PlayerParticlesgui-edit-data-color-blue: '#0000ffBlue'
-0ef463cd-ef24-4443-87a4-6f66a2ee76f5.tempflygeneral.requirement.fail.world: '%1 &7Flight
+0ef463cd-ef24-4443-87a4-6f66a2ee76f5.tempflygeneral.requirement.fail.world: '%1 §7Flight
   is disabled in this world!'
 16ea5c94-76c8-4d6c-8aaa-f90548e42088.PlayerParticlesgui-edit-data-color-light-blue: '#add8e6Light
   Blue'
-74eb5e6d-99de-4e38-813c-2a1526f0d8f6.PlayerParticleslist-you-have: '&7You have the
+74eb5e6d-99de-4e38-813c-2a1526f0d8f6.PlayerParticleslist-you-have: '§7You have the
   following particles applied:'
-609a9014-24be-4b55-a5a2-6a7973efcdab.PlayerParticlesdata-usage-color: '&7The effect
-  &b%1 &7requires &bcolor data&7 Format: &3<<0-255> <0-255> <0-255>>|<rainbow>|<random>'
-4ef6a01c-ea20-4fc8-8d7c-b58b94c9eebc.PlayerParticlesfixed-clear-no-permission: "&7You
+609a9014-24be-4b55-a5a2-6a7973efcdab.PlayerParticlesdata-usage-color: '§7The effect
+  §b%1 §7requires §bcolor data§7 Format: §3<<0-255> <0-255> <0-255>>|<rainbow>|<random>'
+4ef6a01c-ea20-4fc8-8d7c-b58b94c9eebc.PlayerParticlesfixed-clear-no-permission: "§7You
   don't have a permission to do that!"
-355877b8-e280-44ad-8cc3-9e7e397a4095.PlayerParticlesdata-invalid-material-item: '&7The
-  item material &c%1 &7you entered does not exist!'
-73308749-e7d2-424d-a049-6aa0bd4dd49f.PlayerParticlesfixed-teleport-invalid-args: '&7Unable
+355877b8-e280-44ad-8cc3-9e7e397a4095.PlayerParticlesdata-invalid-material-item: '§7The
+  item material §c%1 §7you entered does not exist!'
+73308749-e7d2-424d-a049-6aa0bd4dd49f.PlayerParticlesfixed-teleport-invalid-args: '§7Unable
   to teleport, the ID specified is invalid!'
-d22d93dd-a3f3-41c2-b16e-bf8ee1d4267f.tempflygeneral.fly.already_disabled: '%1 &7Your
+d22d93dd-a3f3-41c2-b16e-bf8ee1d4267f.tempflygeneral.fly.already_disabled: '%1 §7Your
   flight is already disabled!'
 21018b2d-9d68-4bec-9919-63bab8d45c40.tempflycommand.unit.minutes.recognized.0: m
-118a5d87-ae5a-4bd0-b48b-04f0924acff7.PlayerParticlesgui-manage-your-particles: '&bManage
+118a5d87-ae5a-4bd0-b48b-04f0924acff7.PlayerParticlesgui-manage-your-particles: '§bManage
   Your Particles'
-cbbd33bd-8dfd-4289-8dff-ff25010f5903.PlayerParticlesgui-data-none: '&7&o(none)'
+cbbd33bd-8dfd-4289-8dff-ff25010f5903.PlayerParticlesgui-data-none: '§7&o(none)'
 e85ad02d-0aa9-49a9-94b7-ff69e9f3ce03.PlayerParticlesgui-edit-data-color-light-gray: '#c0c0c0Light
   Gray'
-b4893461-ff6b-41e3-84d8-3cd9a000fbd5.PlayerParticlesgroup-save-success: '&7Your current
-  particles have been saved under the group named &b%1&7!'
-86da1059-0ec6-44c9-8f80-2870cdb8a3c4.PlayerParticlesremove-unknown: '&7An effect or
-  style with the name of &b%1 &7does not exist!'
-a945b6d4-cf62-42fa-865a-c1dca97e44f6.tempflyaesthetic.featherboard.days: '&f⌚%1d '
-d77d9019-3376-41e7-8d53-f0e1723d6e7e.PlayerParticlesgui-click-to-load: '&bClick &8|&7
+b4893461-ff6b-41e3-84d8-3cd9a000fbd5.PlayerParticlesgroup-save-success: '§7Your current
+  particles have been saved under the group named §b%1§7!'
+86da1059-0ec6-44c9-8f80-2870cdb8a3c4.PlayerParticlesremove-unknown: '§7An effect or
+  style with the name of §b%1 §7does not exist!'
+a945b6d4-cf62-42fa-865a-c1dca97e44f6.tempflyaesthetic.featherboard.days: '§f⌚%1d '
+d77d9019-3376-41e7-8d53-f0e1723d6e7e.PlayerParticlesgui-click-to-load: '§bClick §8|§7
   load the following %1 particle(s):'
-9e144144-f3c6-402f-89cf-2f8707b4f361.PlayerParticlesgroup-invalid: '&7A saved group
-  or preset group does not exist with the name &b%1&7!'
-2c6c20be-a88a-4ae2-878a-e61f408cd02a.tempflyaesthetic.trail.set_other: '%1 &f%2 &7had
-  their trail set to &f%3&7!'
-9f8021dc-1cd0-41e7-91cf-7b710a2eb8ff.PlayerParticlesfixed-edit-invalid-property: '&7Unable
-  to edit fixed effect, an invalid property was specified! Only &blocation&7, &beffect&7,
-  &bstyle&7, and &bdata &7are valid.'
-88280180-e5af-415d-a739-0cca875bbf53.tempflygeneral.fly.idle: '%1 &7You are now considered
+9e144144-f3c6-402f-89cf-2f8707b4f361.PlayerParticlesgroup-invalid: '§7A saved group
+  or preset group does not exist with the name §b%1§7!'
+2c6c20be-a88a-4ae2-878a-e61f408cd02a.tempflyaesthetic.trail.set_other: '%1 §f%2 §7had
+  their trail set to §f%3§7!'
+9f8021dc-1cd0-41e7-91cf-7b710a2eb8ff.PlayerParticlesfixed-edit-invalid-property: '§7Unable
+  to edit fixed effect, an invalid property was specified! Only §blocation§7, §beffect§7,
+  §bstyle§7, and §bdata §7are valid.'
+88280180-e5af-415d-a739-0cca875bbf53.tempflygeneral.fly.idle: '%1 §7You are now considered
   idle.'
-403d420a-fac3-4923-9fdc-262ac62b9e04.PlayerParticlesgui-save-group-description: "&bClick
-  &8|&7 save a new group. You will be prompted\n&7to enter the new group name in chat."
+403d420a-fac3-4923-9fdc-262ac62b9e04.PlayerParticlesgui-save-group-description: "§bClick
+  §8|§7 save a new group. You will be prompted\n§7to enter the new group name in chat."
 74809cea-d1f2-48f7-aca1-d00d0ef56855.PlayerParticlesgui-select-data-note: 'Note #%1'
 48c45eb8-2170-4c80-a6df-58cc0658db5d.tempflygeneral.requirement.fail.default: '%1
-  &7The requirements have not been met to fly in this area.'
-ad0bd8e3-1d47-4eff-907f-f2de589abf3c.PlayerParticlesfixed-edit-style-non-fixable: '&7Unable
-  to edit fixed effect, the style &c%1 &7can not be used in fixed effects!'
-b811b891-d657-4489-b599-865516d5101a.PlayerParticlesfixed-edit-invalid-coords: '&7Unable
+  §7The requirements have not been met to fly in this area.'
+ad0bd8e3-1d47-4eff-907f-f2de589abf3c.PlayerParticlesfixed-edit-style-non-fixable: '§7Unable
+  to edit fixed effect, the style §c%1 §7can not be used in fixed effects!'
+b811b891-d657-4489-b599-865516d5101a.PlayerParticlesfixed-edit-invalid-coords: '§7Unable
   to edit fixed effect, one or more coordinates you entered is invalid!'
-2a3df0ca-b5b0-4a65-b7e0-e7fe9c7d588b.tempflyaesthetic.featherboard.hours: '&f%1h '
-28cb989f-3ce1-4fc3-91a0-a1e7e9514e4e.PlayerParticlesgui-commands-info: '&fFind info
-  about commands with &b/pp help'
-1ab969d0-abd6-48bd-b045-b3cec2421d3d.tempflygeneral.invalid.command: '%1 &7Command
-  not found! &b"/help"&7 for more information!'
+2a3df0ca-b5b0-4a65-b7e0-e7fe9c7d588b.tempflyaesthetic.featherboard.hours: '§f%1h '
+28cb989f-3ce1-4fc3-91a0-a1e7e9514e4e.PlayerParticlesgui-commands-info: '§fFind info
+  about commands with §b/pp help'
+1ab969d0-abd6-48bd-b045-b3cec2421d3d.tempflygeneral.invalid.command: '%1 §7Command
+  not found! §b"/help"§7 for more information!'
 525b9f49-19b7-4c62-a5e1-e1a6b63dd8ad.excellentcratesCrate.Open.Error.Cost.Exp.2: '#d4d9d8You
   need #fd5e5e%1 Levels #d4d9d8 to open it!'
 7f76a1e9-cc3c-4628-bf5f-f5d60d41d500.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.3: '#ffed6a&lCurrent:'
-df97bc25-c2e5-497b-ab11-464d99ed8797.excellentenchantmentsCommand.Enchant.Done: '&aSuccessfully
+df97bc25-c2e5-497b-ab11-464d99ed8797.excellentenchantmentsCommand.Enchant.Done: '§aSuccessfully
   enchanted!'
 d9c19cca-46be-410b-b707-69c4c0f50f63.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.12: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aAdd Text'
@@ -1170,11 +1168,11 @@ d7df123f-0531-401b-b2d5-ff371559a7d7.excellentcratesEditor.CrateEditorType.CRATE
   #bdc8c9Left-Click: #bbff6aChange'
 320d1ff2-1bec-4617-a489-0c8b2959c4b8.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Name: '#ffed6a&lChance'
 65bcde5a-d539-4c2e-82cc-fad1b3e24564.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.0: '#bdc8c9Chance:
-  &f%1%'
+  §f%1%'
 44574c83-b7e2-4e30-a416-5753ddc1b036.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Name: '#ffed6a&lKeys'
-24366b74-240d-44bc-99f0-2d8edb756d52.menu.bank.menu.info: "\n&bInformation\n&b| &7Username:
-  &f%1\n&b| &7Interest: &f⌚%2\n\n&b| &7Balance: &b%3\n&b| &7Bank: &b$%4\n\n&b| &7Registered
-  User(s): &3%5"
+24366b74-240d-44bc-99f0-2d8edb756d52.menu.bank.menu.info: "\n§bInformation\n§b| §7Username:
+  §f%1\n§b| §7Interest: §f⌚%2\n\n§b| §7Balance: §b%3\n§b| §7Bank: §b$%4\n\n§b| §7Registered
+  User(s): §3%5"
 77af42ce-7792-473f-bac9-aa5dbf670d32.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.4: '#ffed6a▪
   #bdc8c9Required: #ffed6a%1'
 2702a2b8-fb22-428a-80ef-e5d27d3f9ab8.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.8: '#bbff6a&lActions:'
@@ -1198,7 +1196,7 @@ de0974e8-d40d-4b2f-aefd-325f9d256881.excellentcratesEditor.CrateEditorType.Rewar
 d806ba2d-08d7-4ad9-b2ec-de19eeb488ab.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.9: '#bbff6a&lActions:'
 f8bd1fcb-6fdf-467f-805d-aa5df4f76380.excellentcratesCrate.Open.Reward.Broadcast.0: <!
   prefix:"false" sound:"BLOCK_NOTE_BLOCK_BELL" !>
-9de142b1-3032-4432-8e41-1d1bdeb978b8.clearlag.will-removed-in: '&b&lWARNING!&b ᴀʟʟ
+9de142b1-3032-4432-8e41-1d1bdeb978b8.clearlag.will-removed-in: '§b&lWARNING!§b ᴀʟʟ
   ɪᴛᴇᴍꜱ/ᴇɴᴛɪᴛɪᴇꜱ ᴡɪʟʟ ʙᴇ ʀᴇᴍᴏᴠᴇᴅ ɪɴ:'
 14a974fc-6d7e-422c-96b9-5a1462ead25b.excellentcratesEditor.Reward.Enter.Permissions: '#d4d9d8Enter
   #aefd5e[Permission Node]'
@@ -1226,7 +1224,7 @@ ab1d137a-4aca-4e77-9929-21ec07a833d9.excellentcratesCommand.Open.Notify: '#d4d9d
   #bdc8c9Virtual: #ffed6a%1'
 8d80cec4-efda-4fa2-bfe9-d262728c3174.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.1: '#bdc8c9to
   open this crate.'
-38cf02be-9578-46d0-815c-f0f1525c6a84.menu.bank.withdrew.title: '&eWithdrew Money'
+38cf02be-9578-46d0-815c-f0f1525c6a84.menu.bank.withdrew.title: '§eWithdrew Money'
 11541c0c-67d6-40d2-a034-67e557142863.excellentcratesCommand.Give.Usage: '%1 %2 [amount]
   [-s]'
 fb578ebb-28c2-4504-b6bc-049187301bdc.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.9: '#bbff6a▪
@@ -1244,9 +1242,9 @@ bb617f9f-5c92-4d5d-a596-13c5821bd0ff.excellentcratesEditor.CrateEditorType.CRATE
   %4 %5'
 9800e2b4-1fd9-4fa7-be3d-37c6bd51be93.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.9: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aChange'
-5184fee0-d33d-41fa-9fd6-44f09c80aac8.menu.bank.menu.deposit: "\n    - '&aDescription\n\
-  \    - ' &a| &7Click to open a deposit\n    - ' &a| &7menu for you to keep\n   \
-  \ - ' &a| &7your money to the bank.\n\n&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+5184fee0-d33d-41fa-9fd6-44f09c80aac8.menu.bank.menu.deposit: "\n§aDescription\n§a|
+  §7Click to open a deposit\n§a| §7menu for you to keep\n§a| §7your money to the bank.\n
+  \n§a&l| §aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 b587b958-da54-47ca-b7e8-97561bc2534a.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.6: '#bbff6a&lActions:'
 f689acc1-8818-488a-9073-f81694a19cc2.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.6: '#ffed6a▪
   #bdc8c9Enabled: #ffed6a%1'
@@ -1257,7 +1255,7 @@ dc88127c-6c4f-499d-af91-1002d1c9843f.excellentcratesCrate.Open.Error.Cooldown.On
   list of commands to run'
 0bbe0ca8-11f8-4c03-9b76-4faf588621de.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.2: '#ffa76a&lNotes:'
 dada90bc-7cb6-4b76-a60b-d91510dbdd49.excellentcratesEditor.CrateEditorType.CRATE_OBJECT.Name: '#ffed6a&l%1
-  &7(ID: &f%2&7)'
+  §7(ID: §f%2§7)'
 91b3a225-63aa-4681-88eb-4c57e5cb05ae.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.7: '#bbff6a▪
   #bdc8c9[Q/Drop] Key: #bbff6aDelete #ff6a6a(No Undo)'
 b3eb57b9-5c2d-408c-a95d-48fb78f4b2b8.excellentcratesEditor.Crate.Enter.Block.Location: '#d4d9d8Click
@@ -1273,7 +1271,7 @@ c9606f76-0763-4afc-8698-bdb02452d2aa.excellentcratesEditor.CrateEditorType.KEY_V
 4027f72e-de89-400a-938b-bfdb69640d8f.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.5: '#bdc8c9%1'
 13604518-9e49-4fa2-9307-aa1937a8e463.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Lore.2: '#bbff6a&lActions:'
 aba1aa16-956e-41ef-9ffc-17801aa804e6.excellentenchantmentsCommand.TierBook.Done: Given
-  &6%1&7 enchanted book to &6%2&7.
+  §6%1§7 enchanted book to §6%2§7.
 ec3e513a-1625-4834-ba0b-0fcbe7fce809.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.6: '#bbff6a▪
   #bdc8c9[Num 3]: #bbff6aBy Name'
 9513e856-4993-45a3-8d66-f52f2f9356e1.excellentenchantmentsCommand.Enchant.Desc: Enchants
@@ -1310,8 +1308,8 @@ b3a26c2f-4492-4ae8-bb2e-933363a60625.excellentcratesEditor.CrateEditorType.REWAR
   #bdc8c9Right-Click: #bbff6aGet Copy'
 bed33c40-df74-48f5-a21e-684c31ff0ff3.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.15: '#bbff6a▪
   #bdc8c9Shift-Right: #bbff6aChange Y Offset'
-1c832922-35be-4a63-88cb-3c569c2a6161.menu.bank.deposit: "\n&aDescription\n&a| &7Deposit
-  your money\n&a| &7to the bank\n\n&a| &7Deposit: &f$%1\n\n&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴅᴇᴘᴏꜱɪᴛ"
+1c832922-35be-4a63-88cb-3c569c2a6161.menu.bank.deposit: "\n§aDescription\n§a| §7Deposit
+  your money\n§a| §7to the bank\n\n§a| §7Deposit: §f$%1\n\n§a&l| §aᴄʟɪᴄᴋ ᴛᴏ ᴅᴇᴘᴏꜱɪᴛ"
 97477f6f-1f60-4eb8-bb84-5c8ee1db7936.excellentcratesEditor.Crate.BlockPushback.Lore.1: '#bdc8c9back
   from the crate block when'
 c82eaf59-7f3d-4f4f-be82-b0ee60452226.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Name: '#ffed6a&lDisplay
@@ -1320,7 +1318,7 @@ c82eaf59-7f3d-4f4f-be82-b0ee60452226.excellentcratesEditor.CrateEditorType.KEY_C
   #aefd5e[Preview Name]'
 b66c6fb3-c929-42de-be51-2bf8a53dc53c.excellentcratesCrate.Open.Error.InventorySpace.2: '#d4d9d8Clean
   up inventory slots to open the crate!'
-209d378a-2920-465f-82c6-2fcab5e8de9d.excellentenchantmentsCommand.TierBook.Error: '&cInvalid
+209d378a-2920-465f-82c6-2fcab5e8de9d.excellentenchantmentsCommand.TierBook.Error: '§cInvalid
   tier!'
 c3f228d2-3063-4010-92be-9cdcc9a7c650.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.6: '#ff6a6a&lWarning:'
 17116b74-327f-4364-bcc8-ab25bc8ecb76.excellentcratesCrate.Open.Error.Cooldown.OneTimed.0: <!
@@ -1345,7 +1343,7 @@ e3126160-f5cb-4d68-98b0-f8644b788945.excellentcratesEditor.CrateEditorType.EDITO
   obtains this reward.'
 76a30780-6ac1-4c7a-8237-61db9208d1b6.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.0: '#bdc8c9Sets
   the crate display name.'
-4a88808c-53e7-4583-ace6-51be331d2030.menu.bank.menu.interest.title: '&bBank Interest'
+4a88808c-53e7-4583-ace6-51be331d2030.menu.bank.menu.interest.title: '§bBank Interest'
 b2595b19-a406-42a8-8622-cfe87b06129f.excellentcratesCommand.Give.Done: '#d4d9d8Given
   #fdf35ex%1#d4d9d8 of #fdf35e%2#d4d9d8 crate(s) to #fdf35e%3#d4d9d8.'
 e491f4e4-3f2a-4678-a711-16d0ed4b180e.excellentcratesCrate.Open.Error.NoRewards.2: '#d4d9d8There
@@ -1355,7 +1353,7 @@ e491f4e4-3f2a-4678-a711-16d0ed4b180e.excellentcratesCrate.Open.Error.NoRewards.2
 bd0d47b3-e030-4db2-904f-504501434a0c.excellentcratesCommand.ResetLimit.Done.Reward: '#d4d9d8Reset
   #fdf35e%1#d4d9d8 win limit for #fdf35e%2#d4d9d8 reward of #fdf35e%3#d4d9d8.'
 0a13f292-8b95-43ad-a001-7f25232287bc.excellentenchantmentsCommand.Book.Done: Given
-  &6%1&7 enchanted book to &6%2&7.
+  §6%1§7 enchanted book to §6%2§7.
 cdf41f09-3872-4961-b496-b8aaeb9b72c1.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.14: '#bbff6a▪
   #bdc8c9Shift-Left: #bbff6aToggle'
 4d6d15b5-cdbc-4f76-a356-05980fe0af26.excellentcratesCrate.Open.Error.Cost.Money.0: <!
@@ -1380,7 +1378,7 @@ b489e079-2e06-4881-85e0-6a0e56d9cf3a.excellentcratesCommand.Key.Set.Desc: Set ke
   type:"titles:20:80:20" sound:"ENTITY_VILLAGER_NO" !>
 ff3c25b3-bacc-4cca-93f3-6025f6ff52b0.excellentcratesEditor.Reward.Enter.Id: '#d4d9d8Enter
   #aefd5e[Reward Identifier]'
-1b27590a-a2d0-4679-a4ca-2375a82ea858.excellentenchantmentsError.NoEnchant: '&cInvalid
+1b27590a-a2d0-4679-a4ca-2375a82ea858.excellentenchantmentsError.NoEnchant: '§cInvalid
   enchantment.'
 8cacf16a-224c-4db6-862a-90c5c03f38c9.excellentcratesCommand.Menu.Done.Others: '#d4d9d8Opened
   #fdf35e%1#d4d9d8 crate menu for #fdf35e%2#d4d9d8.'
@@ -1393,14 +1391,14 @@ d5b8846e-219b-45a5-81ab-8b7b715bf28a.excellentcratesEditor.CrateEditorType.CRATE
 b9e86347-31b3-4fc4-8b69-bb043db0e123.excellentenchantmentsFitItemType.ARMOR: Armor
 92e1232e-74a5-4fcc-871b-85758f590161.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.10: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aAdd Command'
-7fca2fbb-8769-4715-ada9-b9fe477af4eb.excellentcratesCommand.Key.Show.Format.List.2: '&7'
+7fca2fbb-8769-4715-ada9-b9fe477af4eb.excellentcratesCommand.Key.Show.Format.List.2: '§7'
 fc9f57b3-25f0-4f24-bdb1-0c9bc4981503.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Name: '#ffed6a&lRun
   Commands'
-7255b834-b573-4940-afdc-7f9b52a9704e.clearlag.autoremoval: '&c&l| &cᴛʜᴇʀᴇ ᴀʀᴇ &4%1&c
+7255b834-b573-4940-afdc-7f9b52a9704e.clearlag.autoremoval: '§c&l| §cᴛʜᴇʀᴇ ᴀʀᴇ §4%1§c
   ᴇɴᴛɪᴛɪᴇꜱ ᴏɴ ᴛʜᴇ ɢʀᴏᴜɴᴅ ʀᴇᴍᴏᴠᴇᴅ!'
 799d7d0c-7b71-4462-9d65-285127d22793.excellentenchantmentsFitItemType.PICKAXE: Pickaxe
 b1205123-48be-47b9-82da-308c1187abe1.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.1: '#bdc8c9Rarity:
-  &f%1'
+  §f%1'
 438ca918-82f2-442b-a267-a619d963063b.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.8: '#bbff6a&lActions:'
 4979bb80-c91f-46bc-9865-15cfa549fe8b.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.5: '#ffa76a&lNotes:'
 58f43545-d1c1-447f-88fb-f8958f019dc9.excellentcratesEditor.CrateEditorType.CRATE_CREATE.Lore.0: '#bdc8c9Creates
@@ -1426,7 +1424,7 @@ b3a34a5f-aded-41be-82fc-107124751a59.excellentcratesEditor.Reward.Enter.Rarity: 
   #aefd5e[Rarity]'
 f73bb8c3-3467-45e5-bbb8-911a1edc3f21.excellentcratesCrate.Open.Error.Cooldown.Temporary.2: '#d4d9d8You
   can open in #fd5e5e%1'
-72cb42a7-7e20-4d21-a4bd-ce3e90462f72.menu.bank.interest.title: '&bYour next Interest'
+72cb42a7-7e20-4d21-a4bd-ce3e90462f72.menu.bank.interest.title: '§bYour next Interest'
 093b2aaa-319e-4cc8-9bd0-bd2597807037.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.4: '#ffa76a&lNotes:'
 e004e105-5be5-4e36-9351-9b19e1f371cc.menu.bank.menu.interest: "\n&bDescription\n &b|
   &7This is a bank, here you can\n&b| &f&nDeposit&7 and &f&nWithdrew\n&b| &7funds
@@ -1521,20 +1519,20 @@ ccca7a2c-c00e-43e9-b381-1a02e2500230.excellentcratesEditor.CrateEditorType.REWAR
 9aa06bca-7571-4278-b6b4-e5b10bd19fd4.excellentenchantmentsFitItemType.BOOTS: Boots
 68d8da3d-88f9-4e09-ba83-81972ea5ce4e.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.12: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aChange Amount'
-cb123489-3268-4660-ac3d-88a327dac21d.menu.goback: '&b&l⤊ &bGoBack'
+cb123489-3268-4660-ac3d-88a327dac21d.menu.goback: '§b&l⤊ §bGoBack'
 5689fdf0-fa50-49aa-98cb-c67681761c72.excellentcratesCrate.Open.Error.NoRewards.0: <!
   type:"titles:20:80:20" sound:"ENTITY_VILLAGER_NO" !>
 67f78c98-b8a8-4312-b3db-e6ec9cb25d74.excellentcratesEditor.Crate.Enter.Id: '#d4d9d8Enter
   #aefd5e[Crate Identifier]'
 ffc14298-9afc-4987-a754-30b2468e2091.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Name: '#ffed6a&l%1
-  &7(ID: &f%2&7)'
+  §7(ID: §f%2§7)'
 9397ad59-d46d-478e-9cf3-584628ea74fe.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.3: '#ff6a6a&lWarning:'
 cb740eb9-fb9c-4f48-b300-e8d5b02fbe77.excellentcratesCommand.Preview.Usage: '%1 [player]'
 f84779b8-553d-46a4-a7db-e55b71c05462.excellentcratesEditor.CrateEditorType.CRATE_CREATE.Name: '#ffed6a&lCreate
   a Crate'
-e52dd131-45c3-4c25-878d-aab1dc29e248.menu.bank.menu.withdraw: "\n&eDescription\n&e|
-  &7Click to open a withdrew\n&e| &7menu if you want to take\n&e| &7your money from
-  the bank.\n\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+e52dd131-45c3-4c25-878d-aab1dc29e248.menu.bank.menu.withdraw: "\n§eDescription\n§e|
+  §7Click to open a withdrew\n§e| §7menu if you want to take\n§e| §7your money from
+  the bank.\n\n§e&l| §eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 c980cae0-da82-4e23-8653-ec3fe635c226.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.9: '#bbff6a&lActions:'
 55f57317-2c81-4a1e-b980-cf6cde734b50.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.10: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aChange'
@@ -1646,7 +1644,7 @@ c0ff24e7-b95e-44d4-bdcd-af9894b9617d.excellentcratesCommand.Open.Desc: Makes [pl
 8749f687-baa2-4f01-9b9c-822017ce2cb7.excellentcratesCommand.ResetLimit.Done.Crate: '#d4d9d8Reset
   #fdf35e%1#d4d9d8 win limit for all rewards of #fdf35e%2#d4d9d8.'
 d32166fb-5fa9-4c90-b18a-0dd6444d9273.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.3: '#ffed6a&lCurrent:'
-d86bc626-68fe-413d-9bdd-a287207917e2.menu.bank.deposit.title: '&aDeposit Money'
+d86bc626-68fe-413d-9bdd-a287207917e2.menu.bank.deposit.title: '§aDeposit Money'
 8a391874-3b80-49ed-9f93-10e2cea913a3.excellentcratesEditor.CrateEditorType.REWARD_SORT.Name: '#ffed6a&lSort
   Rewards'
 122ef877-43be-40f9-b477-04ceda61c864.excellentcratesCrate.Open.Reward.Broadcast.2: '#aefd5e&lWOW!#d4d9d8
@@ -1682,8 +1680,8 @@ eb18b1a6-8826-4456-9b1b-e1dd67d5ca61.excellentcratesEditor.CrateEditorType.KEY_C
   #bdc8c9Left-Click: #bbff6aCreate'
 baab14b8-3f84-420a-8000-2a2fe71814eb.excellentcratesEditor.CrateEditorType.EDITOR_CRATES.Lore.3: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aOpen'
-1f15d911-9828-4597-b496-fe1926d9bf36.menu.bank.withdrew: "\n&eDescription\n&e| &7Withdrew
-  your money\n &e| &7to the bank\n\n&e| &7Withdrew: &f$%1\n\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ᴡɪᴛʜᴅʀᴇᴡ"
+1f15d911-9828-4597-b496-fe1926d9bf36.menu.bank.withdrew: "\n§eDescription\n§e| §7Withdrew
+  your money\n §e| §7to the bank\n\n§e| §7Withdrew: §f$%1\n\n§e&l| §eᴄʟɪᴄᴋ ᴛᴏ ᴡɪᴛʜᴅʀᴇᴡ"
 32008c67-a584-484b-912f-885eabd17845.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.10: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aChange'
 5911ef87-c0a7-4d39-8586-cba422609708.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Name: '#ffed6a&lGiven
@@ -1726,8 +1724,8 @@ b75747b9-7b25-42da-9eb8-c7d79a7171de.excellentcratesCommand.Open.Usage: '%1 [pla
   #bdc8c9Right-Click: #bbff6aClear Text'
 ba83fcae-4963-4ecb-ba77-f6ce7c52e460.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_REWARDS.Lore.2: '#bbff6a&lActions:'
 d271d188-5243-499a-b065-353b1edf0e19.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Lore.3: '#ffa76a&lNotes:'
-b3aa6a6e-10a6-4fce-a9a2-f0db29f01da0.bank.menu.interest: "\n&bInformation\n&b| &7Interest:
-  &f%bankplus_interest_cooldown%\n"
+b3aa6a6e-10a6-4fce-a9a2-f0db29f01da0.bank.menu.interest: "\n§bInformation\n§b| §7Interest:
+  §f%bankplus_interest_cooldown%\n"
 021b03ff-2778-4899-b4d8-44d5f5d71a4a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.9: '#bbff6a▪
   #bdc8c9Right-Click: #bbff6aObtain'
 88f3b510-714e-471e-a67d-e3c043c0c10b.excellentcratesCrate.Open.Reward.Broadcast.3: '#d4d9d8'
@@ -1759,8 +1757,8 @@ cff25232-f6b5-44fe-ba28-c5fdbf82e0d2.excellentcratesEditor.Crate.Enter.KeyId: '#
   #aefd5e[Key Identifier]'
 4f86df2a-ebe5-44b4-a100-b2e0371c8a5e.excellentcratesCommand.Key.GiveAll.Desc: Give
   key to all online players.
-0130cd5c-6377-498e-884c-ca9f41b2e3d2.excellentcratesCommand.Key.Show.Format.List.3: '&6▸
-  &e%1: &6%2'
+0130cd5c-6377-498e-884c-ca9f41b2e3d2.excellentcratesCommand.Key.Show.Format.List.3: '§6▸
+  §e%1: §6%2'
 14a5191b-c1c9-465e-ac63-0075d82a8b68.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.1: '#bdc8c9specified
   order.'
 d3c79301-0f7e-4e06-ab5a-dd43e96563b7.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.3: '#ffed6a&lCurrent:'
@@ -1791,7 +1789,7 @@ a5cf0bbe-6a8d-4adf-8b60-179af9c2c89b.excellentcratesEditor.CrateEditorType.REWAR
 eef869ef-8605-4b17-9da5-aa976b91cc6f.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_BROADCAST.Lore.4: '#ffed6a&lCurrent:'
 2c3abdcd-adaa-422d-96cb-c71cea498874.excellentcratesCommand.ResetCooldown.Usage: '%1
   %2'
-26ceedff-ff14-409e-ab61-c9f391b0cc3a.menu.bank.menu.info.title: '&bYour Information'
+26ceedff-ff14-409e-ab61-c9f391b0cc3a.menu.bank.menu.info.title: '§bYour Information'
 a1461f0c-154a-43ec-a03e-78b5274cba1f.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.7: '#ffa76a▪
   #bdc8c9Negative value will make crate one-timed!'
 1631ce3d-cf77-4f2f-a5bb-fcd14b060361.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.0: '#bdc8c9Sets
@@ -1817,7 +1815,7 @@ ede30369-c353-433f-bdd7-6927b0d1765a.excellentenchantmentsFitItemType.TOOL: Tool
   the physical key item.'
 d6207e94-b6ad-4512-aa92-c34419dcba8a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.9: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aChange Money'
-88fdbd7d-0291-4ec6-a557-540446f1a291.menu.close: '&c&l❌ &cClose'
+88fdbd7d-0291-4ec6-a557-540446f1a291.menu.close: '§c&l❌ §cClose'
 f71f976d-17b3-49fe-a1be-14b7ab0216a0.excellentcratesCommand.Key.Show.Desc: Show amount
   of your or other player keys.
 7b6a3b83-125a-4acb-8502-e000937c107b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.3: '#ffed6a&lCurrent:'
@@ -1837,8 +1835,8 @@ cf2da1aa-31e3-495d-a246-e7e69a06ae1d.excellentcratesEditor.CrateEditorType.CRATE
 0f31effe-fc50-4bd6-afb7-ef286a7d3f40.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.7: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aChange'
 44c931d4-50a2-4b4b-88bf-abfb619a9371.excellentcratesCommand.Key.Show.Usage: '[player]'
-03c5a730-0ea5-4501-b3d3-067a17c08809.excellentcratesCommand.Key.Show.Format.List.1: '&6&m              &6&l[
-  &a%1 &e&lCrate Keys &6&l]&6&m              &6'
+03c5a730-0ea5-4501-b3d3-067a17c08809.excellentcratesCommand.Key.Show.Format.List.1: '§6&m              §6&l[
+  §a%1 §e&lCrate Keys §6&l]§6&m              §6'
 0fe5c2ce-9c26-4230-b1c5-9847de8d98fd.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.0: '#bdc8c9Sets
   the reward display name.'
 aeb829a6-28b8-4020-bbd7-7a9a00d214f9.excellentcratesEditor.Crate.Enter.Cooldown: '#d4d9d8Enter
@@ -1883,22 +1881,22 @@ eefadd41-ae4c-4390-a43f-48331f058877.excellentcratesEditor.CrateEditorType.CRATE
   #bdc8c9Model: #ffed6a%1'
 33ade2df-d622-405f-97e6-ee29792e9012.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.7: '#bbff6a▪
   #bdc8c9Drag & Drop: #bbff6aReplace'
-67e15770-c23b-40b5-9152-699b7540b1cb.dh.menu.l3: '&7teleport to warps, upgrade,'
-515b82f5-1347-4019-8232-e55adf10458e.dh.farmserver.menu.l5: '&7are worth differently'
-43b48310-4c1f-4a80-b83a-8fa1f0528c4b.dh.farmserver.menu.l3: '&7From here you can go
+67e15770-c23b-40b5-9152-699b7540b1cb.dh.menu.l3: '§7teleport to warps, upgrade,'
+515b82f5-1347-4019-8232-e55adf10458e.dh.farmserver.menu.l5: '§7are worth differently'
+43b48310-4c1f-4a80-b83a-8fa1f0528c4b.dh.farmserver.menu.l3: '§7From here you can go
   into the farm worlds'
-e9926a30-eb5d-4dd3-b3a3-9100c1c4df0b.dh.farmserver.menu.l6: '&4&lNot all enchantments
+e9926a30-eb5d-4dd3-b3a3-9100c1c4df0b.dh.farmserver.menu.l6: '§4&lNot all enchantments
   work!'
-d96727cf-4361-4318-95d9-311918d1f95d.dh.farmserver.menu.l2: '&7I am your Farm world
+d96727cf-4361-4318-95d9-311918d1f95d.dh.farmserver.menu.l2: '§7I am your Farm world
   Manager.'
-a4e0d237-e83e-4a45-9e00-f9cea8ebbf9e.dh.menu.l2: '&7You can open the menu,'
-64bc0c72-fc78-4240-9177-b5655951b9fc.dh.farmserver.menu.l4: '&7to farm different materials
+a4e0d237-e83e-4a45-9e00-f9cea8ebbf9e.dh.menu.l2: '§7You can open the menu,'
+64bc0c72-fc78-4240-9177-b5655951b9fc.dh.farmserver.menu.l4: '§7to farm different materials
   that'
-fb033e33-a884-4769-932f-c04226f2ceb4.dh.menu.l4: '&7do jobs, visit the shop and more'
-ae6706c9-7810-470a-b5c1-f6f806bda6df.dh.farmserver.menu.l7: "&4&lYou can't sell items
+fb033e33-a884-4769-932f-c04226f2ceb4.dh.menu.l4: '§7do jobs, visit the shop and more'
+ae6706c9-7810-470a-b5c1-f6f806bda6df.dh.farmserver.menu.l7: "§4&lYou can't sell items
   on the farm server!"
-0daacfa9-bf0e-411c-a307-016feaeb913f.dh.farmserver.menu.l1: '&aFarmworlds'
-2e814119-1841-4a0e-9870-c1f6b39f58cf.dh.menu.l1: '&b&lOpen the Menu'
+0daacfa9-bf0e-411c-a307-016feaeb913f.dh.farmserver.menu.l1: '§aFarmworlds'
+2e814119-1841-4a0e-9870-c1f6b39f58cf.dh.menu.l1: '§b&lOpen the Menu'
 dd130f3c-f766-41c1-9a36-7ddc9f416801.excellentenchantmentsFitItemType.WEAPON: Weapon
 fea814d5-3f2d-4347-a06b-443f7ade3963.menu.farm.normal.normal.lore: "§eNormal Overworld
   Farmworld\n\n§2Benefits:\n§aGraves\n§aMedium Difficulty\n§aSome ores\n\n§4Disadvantages:\n
@@ -2060,7 +2058,7 @@ ee36c596-a3a0-4c77-9b46-06eea710bdab.SuperVanishMessages.InvalidSender: '&b&l%1 
 fe6745eb-03bc-4a58-87be-e6e7edb47772.cmd.warps.desc.s23: "&bDescription\n &b| &7Click
   to view all available\n &b| &7player warps.\n &4| &cThis is not available in farm
   worlds\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
-caf15856-7ee3-41a1-92d0-3f07fc8bbdba.cmd.main.title.s4: '&b&lProfile &f%player_name%'
+caf15856-7ee3-41a1-92d0-3f07fc8bbdba.cmd.main.title.s4: '&b&lProfile &f%1'
 0ed0155e-15e2-4984-9e72-8b78619cbda3.cmd.main.title.s41: '&b&lSocial Media'
 2235f2c1-0993-467d-bfa5-5d420654753b.SuperVanishMessages.UndismissedRecreationWarning: '&b&l%1
   &8&l┃ &7You are now receiving notifications about this recreation.'
@@ -2087,8 +2085,8 @@ eb17bb7b-cb6d-42af-b86c-cd470e72fa88.cmd.links.desc.s29.1: "&f\n§x§7§2§8§9�
 b71fd07b-ee6f-404b-86f3-1dd3051afb86.cmd.main.title.s10: '&b&lJobs'
 56d9e049-712b-4250-8071-78994967d7cf.cmd.main.desc.s21: "&bDescription\n &b| &7Claim
   your available &fDAILY&7, &fWEEKLY&7, and\n &b| &fMONTHLY&7 rewards!\n &3| &fClick
-  to view.\n&bInformation\n &8▪ &7Daily: &f⌚%sunlight_kits_cooldown_daily%\n &8▪ &7Weekly:
-  &f⌚%sunlight_kits_cooldown_weekly%\n &8▪ &7Monthly: &f⌚%sunlight_kits_cooldown_monthly%"
+  to view.\n&bInformation\n &8▪ &7Daily: &f⌚%1\n &8▪ &7Weekly: &f⌚%2\n &8▪ &7Monthly:
+  &f⌚%3"
 93dc9087-b27d-451b-8fe1-d5330f164b2d.cmd.purchase.choose.desc.s4: "&f\n&b&lInformation\n
   &8▪ &7Name: &f%player_name%\n &8▪ &7Tokens: &f⛃%tmtokens_get_tokens_fixed%"
 a3c18b28-e866-4eb2-8b9a-398661ba211e.cmd.main.desc.s25: "&bDescription\n &b| &7View
