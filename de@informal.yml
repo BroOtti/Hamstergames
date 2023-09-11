@@ -751,7 +751,7 @@ d523ee65-8ce6-40d6-a350-50eec16512cc.tempflycommand.unit.seconds.tab_complete: S
 dbd7629d-dde4-4249-a4f4-5584e9ea2a4e.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.11: '#bbff6a&lAktionen:'
 a522eab3-dd94-40fc-a799-8c74d92d5e51.excellentenchantmentsCommand.TierBook.Desc: Schenkt
   ein verzaubertes Buch.
-d05b9d82-8070-4141-bb03-f4340f9c5a35.PlayerParticlesgui-color-info: '&f'
+d05b9d82-8070-4141-bb03-f4340f9c5a35.PlayerParticlesgui-color-info: '§f'
 db66fb6f-7da4-41ad-a471-8775890524ee.PlayerParticlesgui-edit-primary-data-unavailable: Dein
   primärer Effekt verwendet keine Daten
 80b82f60-3eb5-46d5-91e7-603d9351a7ce.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.6: '#ffed6a▪
@@ -916,7 +916,7 @@ c5714db3-e5c2-45b4-a90d-09fe3a1753d3.PlayerParticlesdata-usage-none: '&7Der Effe
   &b&l%2&b%3&7.'
 d9b5c7c5-80d1-47a7-a97b-ae5a91845977.PlayerParticlesgui-select-effect: '&bAuswahl
   Partikeleffekt'
-657a3f5c-aa2c-4b96-88db-e9be2d839e72.chatmanager.Broadcast: '#00ffff&lANKÜNDIGUNG! '
+657a3f5c-aa2c-4b96-88db-e9be2d839e72.chatmanager.Broadcast: '§x§0§0§f§f§f§f&lANKÜNDIGUNG! '
 da81febc-d07f-4f1b-ac3d-ea22021068c4.cmd.purchase.choose.title.s22: '&b&lPunkte &7Einkauf'
 48a6866d-7dcb-4a87-9409-6572eed813bf.PlayerParticlesdata-invalid-vibration: >-
   &7Die von dir eingegebenen Schwingungs &cDaten sind ungültig! Format: &c<Dauer>
@@ -1051,8 +1051,8 @@ f27e9ff1-d25f-47a1-9eee-d5c4e027c96e.playerpoints.command-pay-usage: '&cAnwendun
 a84e2a42-52ab-498a-9983-ee490449d9a3.ia.1.1: Erhalte kostenlose Belohnungen bei
 ed27448f-fda2-49bf-8995-688d8164c7d9.excellentcratesCrate.Open.Error.Cooldown.OneTimed.1: '#fd5e5e&lWhoops!'
 50559d81-ce54-447c-a4d6-9e7ae2689ea7.tempflycommand.base.pay.0: bezahlen.
-ffd3e67b-5234-47b1-a053-053be1d3f993.PlayerParticlescommand-descriptions-help-1: '&b/pp&3
-  %1 &8-&f %2'
+ffd3e67b-5234-47b1-a053-053be1d3f993.PlayerParticlescommand-descriptions-help-1: '§b/pp§3
+  %1 §8-§f %2'
 09d808c1-3ba0-43c2-829b-e68fe80fc908.playerpoints.command-set-description: '&8 - &b/points
   set &3<Spieler> <Menge> &8- &fSetze die Punkte eines Spielers'
 709c93ae-7070-4097-a6d0-9c996b0dab5a.tab.sb.username: '&7Benutzername:'
@@ -1532,7 +1532,7 @@ e2c5bf1b-c8c0-4454-8a79-0423f65f67e5.cmd.close: '&c&l✘ &cClose'
   nicht selbst bezahlen!'
 593bcf78-5d77-4874-938b-b3b35c9b21ee.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.15: '#bbff6a▪
   #bdc8c9Shift-Right: #bbff6aDisable Preview'
-218eefeb-c3b7-45e9-8910-7a4d0ed01075.PlayerParticlesgui-color-icon-name: '&b'
+218eefeb-c3b7-45e9-8910-7a4d0ed01075.PlayerParticlesgui-color-icon-name: '§b'
 72f8a8de-b920-4c15-a035-060da2a51c2a.PlayerParticlesgroup-save-no-particles: '&7Kannst
   du die Gruppe nicht speichern, hast du keine Partikel angewendet!'
 39deadcc-b99e-4f77-8b9c-d60ef48436cb.cmd.languages.desc.s33: "&bBeschreibung\n &b|
@@ -1609,7 +1609,7 @@ e375d0be-c157-455c-8865-bfa5c26fce58.excellentcratesEditor.CrateEditorType.KEY_C
   Token in Dinge um\n &b| &7das du brauchst, wie Punkte!\n &3| &fKlick zum Ansehen."
 9fb55997-f3e8-4041-9821-3a046a3b4f95.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.1: '#bdc8c9wenn
   du eine Vorschau siehst und die Kiste öffnest.'
-ad25be22-9075-4746-88c7-dd0272359f73.tempflygeneral.time.format: '&f%1&f%2'
+ad25be22-9075-4746-88c7-dd0272359f73.tempflygeneral.time.format: '§f%1§f%2'
 6cfdc84b-1482-4857-8a78-ffae726dd843.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.8: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aAttach Block'
 c730d548-3ddd-4039-af68-6fab4ace235c.uar.COMMAND_USER_VIEWINTERVAL.chatMessage: Server-Neustart
@@ -1713,7 +1713,7 @@ e3652b96-5538-4e72-b3d4-fc13855a06b6.excellentcratesEditor.CrateEditorType.KEY_C
 c81a9ccc-65e8-4b7e-8076-7de227be2a41.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.9: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aTeilchen wechseln'
 57c7ea54-4557-4af0-9e57-65a2ac497add.tempflycommand.unit.hours.recognized.1: Stunde
-bf3200d3-6ff7-4794-a4db-0210939684a5.PlayerParticlesprefix: '&b&l%1 &8┃ &7'
+bf3200d3-6ff7-4794-a4db-0210939684a5.PlayerParticlesprefix: '§b&l%1 §8┃ §7'
 e5d39733-e0f9-4e5e-b9b6-226ed9e53ade.excellentenchantmentsFitItemType.LEGGINGS: Leggings
 7ebffb7c-6bff-4c30-9df3-a0ce46062a36.triton.no-permission: '&cKeine Erlaubnis. Erlaubnis
   erforderlich: &4%1'
@@ -1907,7 +1907,7 @@ fc5a53a2-3042-41ae-980c-cd9d131d4642.tempflygeneral.time.max_other: '%1 &f%2 &7h
 56e18f77-4814-4516-a4b2-054e4953ee0a.cmd.links.desc.s29.3: "&f\n§x§7§2§8§9§d§aBeschreibung\n
   §x§7§2§8§9§d§a| &7Klicke, um dein\n §x§7§2§8§9§d§a| &7Discord Profil!\n&f\n §x§7§2§8§9§d§a&l|
   #7289daᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
-1f95c50d-c4b8-409c-bc39-fa073d9c654d.PlayerParticlesgui-color-subtext: '&7'
+1f95c50d-c4b8-409c-bc39-fa073d9c654d.PlayerParticlesgui-color-subtext: '§7'
 215a4e79-0213-41d9-987f-b7334f831421.PlayerParticlesdata-invalid-color-transition: >-
   &7Die von dir eingegebenen Farbübergangsdaten sind ungültig! Format: &3<<0-255>
   <0-255> <0-255>>|<&brainbow>|<random> <<0-255> <0-255> <0-255>>|<rainbow>|<random>
@@ -1987,8 +1987,8 @@ cff25232-f6b5-44fe-ba28-c5fdbf82e0d2.excellentcratesEditor.Crate.Enter.KeyId: '#
 a5bcf5b6-ae93-461e-90ea-3674607891e0.uar.COMMAND_USER_VIEWINTERVAL.title: AM NEUSTARTEN
 2558f0c8-bfe3-4b5b-8cc2-09a3d03c45b1.tempflygeneral.time.removed_self: '%1 &7Du hast
   &f⌚%2&7 verloren.'
-0130cd5c-6377-498e-884c-ca9f41b2e3d2.excellentcratesCommand.Key.Show.Format.List.3: '&6▸
-  &e%1: &6%2'
+0130cd5c-6377-498e-884c-ca9f41b2e3d2.excellentcratesCommand.Key.Show.Format.List.3: '§6▸
+  §e%1: §6%2'
 5ba3e6e7-837a-4bb9-bcd5-da102e6df732.tab.ani.3.1: '&fɢᴇᴡɪɴɴsᴘɪᴇʟᴇ, ᴀɴᴋᴜ̈ɴᴅɪɢᴜɴɢᴇɴ
   ᴜɴᴅ ᴠɪᴇʟᴇs ᴍᴇʜʀ!'
 8ff255c3-cd3d-4eda-a8da-187794c77d78.tempflygeneral.invalid.time_self: '%1 &7Du hast
@@ -2029,7 +2029,7 @@ c3ffc145-02f3-48cf-a299-98230050067e.PlayerParticlesgroup-no-permission: '&7Dazu
 d3376ab3-34ff-4a8e-90fd-e21906aeb7a4.tempflysystem.help.3: '&6/tf Zeit'
 cd32bd17-2f22-46aa-b69d-5abb8939f466.PlayerParticleslist-output: '&bID&8: &f%1 &bEffect&8:
   &f%2 &bStyle&8: &f%3 &bData&8: &f%4'
-ac9d6dfc-ae10-44f8-ad93-b5f4589ce96f.PlayerParticlesgui-color-unavailable: '&c'
+ac9d6dfc-ae10-44f8-ad93-b5f4589ce96f.PlayerParticlesgui-color-unavailable: '§c'
 427c8ec6-5741-481d-ac84-47b537a0aa1b.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.7: '#bbff6a&lAktionen:'
 891847ff-bb49-4260-8f7f-9b0db304bc32.excellentenchantmentsCommand.TierBook.Desc: Schenkt
   ein verzaubertes Buch.
@@ -2389,7 +2389,7 @@ f0fb4c2d-1ef0-4865-a8f7-16797b4b97b3.excellentcratesEditor.CrateEditorType.REWAR
 302bf67c-6b7a-4a81-91db-a895ea78f9e0.ia.toggle-on: '&7Sie haben die Ankündigung um
   &a&l ✔ &aAktiviert&7 &8&o(/toggle)'
 6512c036-cd87-476e-9c73-dae072ea273d.ia.5.1: Brauchst du Hilfe?
-0e5d0d57-ea1f-455d-8d98-477a15eed9ef.chatmanager.Header: '§x§f§f§0§0§0§0❤ #ff0000&l&nWILLKOMMEN
+0e5d0d57-ea1f-455d-8d98-477a15eed9ef.chatmanager.Header: '§x§f§f§0§0§0§0❤ §x§f§f§0§0§0§0&l&nWILLKOMMEN
   ZURÜCK!§x§f§f§0§0§0§0 ❤'
 ff3535d1-b338-4cab-bfbe-cbd68ffad22d.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Name: '#ffed6a&lVorschau
   Artikel'
@@ -2446,7 +2446,7 @@ eefadd41-ae4c-4390-a43f-48331f058877.excellentcratesEditor.CrateEditorType.CRATE
 ad0bd8e3-1d47-4eff-907f-f2de589abf3c.PlayerParticlesfixed-edit-style-non-fixable: >-
   &7Kann nicht bearbeitet werden, der Stil &c%1 &7kann nicht in festen Effekten verwendet
   werden!
-e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '&7Welt:'
+e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '§7Welt:'
 b811b891-d657-4489-b599-865516d5101a.PlayerParticlesfixed-edit-invalid-coords: >-
   &7Fixierter Effekt kann nicht bearbeitet werden, eine oder mehrere Koordinaten,
   die du eingegeben hast, sind ungültig!
@@ -6105,8 +6105,8 @@ ccfacc5f-59f0-4636-9914-4657c596972b.deathmessages.Mobs.blaze.Gang.Weapon.0: "%1
 89d69e4e-13ce-4196-8cf1-d68d8fe4c4b1.ib.tilgis.topic: '&fCurrent Topic'
 775a222d-b84f-483d-97fd-88af40a4781a.deathmessages.Mobs.sheep.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-e3aef2bf-dc6d-4218-af55-a0ec3804ba54.ib.tilgis.top-stats.title: '&fChoose a Statistic
-  you want to see'
+e3aef2bf-dc6d-4218-af55-a0ec3804ba54.ib.tilgis.top-stats.title: '&fWähle eine Statistik
+  die du sehen möchtest'
 2dcbc9a2-529d-40c9-a770-92f180f13066.deathmessages.Mobs.player.Solo.Void.0: '%1 wurde
   von %2 ins Leere geschoben'
 c1c52fc2-89c7-438a-89a7-b17c672f0fc4.deathmessages.Mobs.rabbit.Solo.Weapon.0: '%1
@@ -6167,7 +6167,7 @@ f0ad6bf4-bdb9-441a-b8e3-06c7a7c968db.deathmessages.Mobs.warden.Solo.Melee.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 2e598fcf-77bd-4d07-907c-6d9086e8f115.deathmessages.Mobs.villager.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
-35731dcc-e6aa-4ce9-bf03-bae84b51e9d7.ib.tilgis.stats: '&fYour Stats'
+35731dcc-e6aa-4ce9-bf03-bae84b51e9d7.ib.tilgis.stats: '&fDeine Stats'
 68ec60d2-3182-4c9c-9147-592851421e10.deathmessages.Mobs.illusioner.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 74afcaad-cf1d-47d7-994c-7272b19600da.deathmessages.Mobs.chicken.Solo.Melee.0: '%1
@@ -6351,7 +6351,7 @@ c27c49cd-18cf-4be6-a30f-4d611cb1be2c.deathmessages.Mobs.endermite.Solo.Projectil
   wurde von einem %2 irgendwie mit %3 erschossen'
 56e53466-7947-4db6-8720-f80c2c96dd2b.deathmessages.Mobs.squid.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-7c045743-08d7-4923-9947-d2514cd2a97f.sunlight.afk.now: is now AFK.
+7c045743-08d7-4923-9947-d2514cd2a97f.sunlight.afk.now: ist nun AFK
 0fd48006-060e-459e-bf92-b9f20dd0c0ca.deathmessages.Mobs.cavespider.Gang.Melee.0: "%1
   wurde von einer Bande von %2 erschlagen"
 d002c613-8700-4f16-bf18-bd447695920e.deathmessages.Mobs.player.Solo.Wither.0: "%1
