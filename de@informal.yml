@@ -452,7 +452,7 @@ c943633e-b269-48b7-b0dc-1ab6bfb55496.PlayerParticlesfixed-remove-success: '&7Dei
 fe6745eb-03bc-4a58-87be-e6e7edb47772.cmd.warps.desc.s23: "&bBeschreibung\n &b| &7Klick
   um alle verfügbaren\n &b| &7Spieler-Warps.\n &4| &cDies ist in Farmwelten nicht
   verfügbar\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
-caf15856-7ee3-41a1-92d0-3f07fc8bbdba.cmd.main.title.s4: '&b&lProfil &f%Spieler_name%'
+caf15856-7ee3-41a1-92d0-3f07fc8bbdba.cmd.main.title.s4: '&b&lProfil &f%player_name%'
 aba1aa16-956e-41ef-9ffc-17801aa804e6.excellentenchantmentsCommand.TierBook.Done: Gib
   &6%1&7 das verzauberte Buch an &6%2&7.
 ec3e513a-1625-4834-ba0b-0fcbe7fce809.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.6: '#bbff6a▪
@@ -688,7 +688,7 @@ b71fd07b-ee6f-404b-86f3-1dd3051afb86.cmd.main.title.s10: '&b&lJobs'
   &fKlick zur Ansicht.\n&bInformationen\n &8▪ &7Täglich: &f⌚%sunlight_kits_cooldown_daily%\n
   &8▪ &7Wöchentlich: &f⌚%sunlight_kits_cooldown_weekly%\n &8▪ &7Monatlich: &f⌚%Sonnenlicht_kits_abkühlen_monatlich%"
 93dc9087-b27d-451b-8fe1-d5330f164b2d.cmd.purchase.choose.desc.s4: "&f\n&b&lInformation\n
-  &8▪ &7Name: &f%Spieler_name%\n &8▪ &7Tokens: &f⛃%tmtokens_get_tokens_fixed%"
+  &8▪ &7Name: &f%player_name%\n &8▪ &7Tokens: &f⛃%tmtokens_get_tokens_fixed%"
 b2595b19-a406-42a8-8622-cfe87b06129f.excellentcratesCommand.Give.Done: >-
   #d4d9d8Gabe #fdf35ex%1#d4d9d8 von #fdf35e%2#d4d9d8 Kiste(n) an
   #fdf35e%3#d4d9d8.
