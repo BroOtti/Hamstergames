@@ -330,12 +330,12 @@ db0037b6-b511-46b5-a1ba-b750134b4a4d.PlayerParticlesgui-edit-style: '&bEdit Styl
   &7Вы больше не невидимка!'
 5184fee0-d33d-41fa-9fd6-44f09c80aac8.menu.bank.menu.deposit: |2-
 
-      - '&aDescription
-      - ' &a| &7Нажмите, чтобы открыть вклад
-      - ' &a| &7меню для хранения
-      - ' &a| &7Ваши деньги в банке.
+  §aОписание
+  §a| §7Кликните, чтобы открыть вклад
+  §a| §7меню для хранения
+  §a| §7Ваши деньги в банк.
 
-  &a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
+  §a&l| §aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 012d8054-56a1-4fba-a207-4a3b13adbb36.excellentenchantmentsFitItemType.AXE: Топор
 8df2ac72-9565-4033-8e47-a2c3f6a77d2b.tempflycommand.unit.days.recognized.1: день
 3181e360-101e-4309-821b-8dc9e7138f81.excellentenchantmentsFitItemType.HOE: Мотыга
@@ -443,7 +443,7 @@ c943633e-b269-48b7-b0dc-1ab6bfb55496.PlayerParticlesfixed-remove-success: '&7В�
 fe6745eb-03bc-4a58-87be-e6e7edb47772.cmd.warps.desc.s23: "&bDescription\n &b| &7Нажмите,
   чтобы просмотреть все доступные\n &b| &7Игровые варпы.\n &4| &cЭто недоступно в
   мирах ферм\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
-caf15856-7ee3-41a1-92d0-3f07fc8bbdba.cmd.main.title.s4: '&b&lПрофиль &f%имя_игрока%'
+caf15856-7ee3-41a1-92d0-3f07fc8bbdba.cmd.main.title.s4: '&b&lПрофиль &f%1'
 aba1aa16-956e-41ef-9ffc-17801aa804e6.excellentenchantmentsCommand.TierBook.Done: Зачарованная
   книга §6%1§7 передана §6%2§7.
 ec3e513a-1625-4834-ba0b-0fcbe7fce809.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.6: '#bbff6a▪
@@ -672,8 +672,8 @@ b9f6a371-85e4-435c-b33f-6d9aeaacc8c4.PlayerParticlesfixed-clear-no-args: >-
 b71fd07b-ee6f-404b-86f3-1dd3051afb86.cmd.main.title.s10: '&b&lJobs'
 56d9e049-712b-4250-8071-78994967d7cf.cmd.main.desc.s21: "&bDescription\n &b| &7Получите
   доступные &fDAILY&7, &fWEEKLY&7 и\n &b| &fMONTHLY&7 вознаграждения!\n &3| &fНажмите
-  для просмотра.\n&bИнформация\n &8▪ &7Ежедневно: &f⌚%sunlight_kits_cooldown_daily%\n
-  &8▪ &7Еженедельно: &f⌚%sunlight_kits_cooldown_weekly%\n &8▪ &7Месяц: &f⌚%sunlight_kits_cooldown_monthly%"
+  для просмотра.\n&bИнформация\n &8▪ &7Ежедневные: &f⌚%1\n &8▪ &7Еженедельные: &f⌚%2\n
+  &8▪ &7Ежемесячно: &f⌚%3"
 93dc9087-b27d-451b-8fe1-d5330f164b2d.cmd.purchase.choose.desc.s4: "&f\n&b&lИнформация\n
   &8▪ &7Имя: &f%имя_игрока%\n &8▪ &7Токены: &f⛃%tmtokens_get_tokens_fixed%"
 b2595b19-a406-42a8-8622-cfe87b06129f.excellentcratesCommand.Give.Done: >-
@@ -745,7 +745,7 @@ d523ee65-8ce6-40d6-a350-50eec16512cc.tempflycommand.unit.seconds.tab_complete: �
 dbd7629d-dde4-4249-a4f4-5584e9ea2a4e.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.11: '#bbff6a&lДействия:'
 a522eab3-dd94-40fc-a799-8c74d92d5e51.excellentenchantmentsCommand.TierBook.Desc: Дает
   заколдованную книгу.
-d05b9d82-8070-4141-bb03-f4340f9c5a35.PlayerParticlesgui-color-info: '&f'
+d05b9d82-8070-4141-bb03-f4340f9c5a35.PlayerParticlesgui-color-info: '§f'
 db66fb6f-7da4-41ad-a471-8775890524ee.PlayerParticlesgui-edit-primary-data-unavailable: Ваш
   первичный эффект не использует никаких данных
 80b82f60-3eb5-46d5-91e7-603d9351a7ce.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.6: '#ffed6a▪
@@ -845,7 +845,7 @@ b9e86347-31b3-4fc4-8b69-bb043db0e123.excellentenchantmentsFitItemType.ARMOR: Б�
   #bdc8c9Левый клик: #bbff6aДобавить команду'
 0a8c0fe8-436c-4d8b-8094-8b021e7894cd.dh.points-updated: '&7Вы обновили таблицу лидеров
   &fPoints Leaderboard&7!'
-7fca2fbb-8769-4715-ada9-b9fe477af4eb.excellentcratesCommand.Key.Show.Format.List.2: '&7'
+7fca2fbb-8769-4715-ada9-b9fe477af4eb.excellentcratesCommand.Key.Show.Format.List.2: '§7'
 fc9f57b3-25f0-4f24-bdb1-0c9bc4981503.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Name: '#ffed6a&lКоманды
   запуска'
 e425d3ee-4dbe-4f9e-9506-65b2e99f745c.cmd.links.title.s22: §х§ф§7§б§5§2§9Веб-сайт
@@ -875,11 +875,11 @@ de75bebd-a51e-4f11-b797-03eeecacff77.cmd.main.desc.s37: "&bDescription\n &b| &7�
   &8| &c■ &nRED_GLASS&7 (отключено)"
 438ca918-82f2-442b-a267-a619d963063b.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.8: '#bbff6a&lДействия:'
 4979bb80-c91f-46bc-9865-15cfa549fe8b.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Lore.5: '#ffa76a&lНоты:'
-3f8d560e-55f2-4683-9b8e-4dcfbff68592.PlayerParticlesrainbow: '&cR&6a&ei&an&bb&9o&dw'
+3f8d560e-55f2-4683-9b8e-4dcfbff68592.PlayerParticlesrainbow: '§cR§6a§ei§an§bb§9o§dw'
 58f43545-d1c1-447f-88fb-f8958f019dc9.excellentcratesEditor.CrateEditorType.CRATE_CREATE.Lore.0: '#bdc8c9Создает
   новый ящик.'
 69cb362f-f1a5-4c66-91b2-1c666300a012.cmd.main.desc.s4: "&bИнформация:\n &8| &7Ранг:
-  &b%formatter_text_replace_&__{luckperms_prefix}%\n &8| &7Время игры: &b%plan_player_time_total%"
+  &b%1\n &8| &7Время игры: &b%2"
 2514638a-acf6-42b8-982d-b780d5fcb490.PlayerParticlesgui-edit-data-description: '&bClick
   &8|&7 редактировать данные этой частицы'
 b74e6675-3e2b-4481-b459-78dda018fb74.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Name: '#ffed6a&lБлочная
@@ -901,15 +901,15 @@ fe62e35e-2b4e-4a8e-9738-06f38e63a334.playerpoints.command-me-success: '&7Вы и
 c5714db3-e5c2-45b4-a90d-09fe3a1753d3.PlayerParticlesdata-usage-none: '&7Эффект &b%1&7не
   использует никаких данных!'
 8556db57-3a81-4ca9-af8b-25d8dc6c9854.PlayerParticlesfixed-info-success: >-
-  &bID&8: &f%1 &bWorld&8: &f%2 &bX&8: &f%3 &bY&8: &f%4 &bZ&8: &f%5 &bEffect&8:
-  &f%6 &bStyle&8: &f%7 &bData&8: &f%8
+  §bID§8: §f%1 §bWorld§8: §f%2 §bX§8: §f%3 §bY§8: §f%4 §bZ§8: §f%5 §bEffect§8: §f%6
+  §bStyle§8: §f%7 §bData§8: §f%8
 6210d086-90b4-4347-a084-2e18e86c400e.excellentenchantmentsFitItemType.SWORD: Меч
 5310f1ed-b5cd-472b-8dc4-d79ee2e183c6.cmd.upgrade.choose.title.s22: '&b&lHome &7Upgrades'
-4ff99f51-4edf-435c-8cf0-e015c85f5b58.playerpoints.command-look-success: '&b%1 &7has
-  &b&l%2&b%3&7.'
+4ff99f51-4edf-435c-8cf0-e015c85f5b58.playerpoints.command-look-success: '§b%1 §7has
+  §b&l%2§b%3§7.'
 d9b5c7c5-80d1-47a7-a97b-ae5a91845977.PlayerParticlesgui-select-effect: '&bSelect Particle
   Effect'
-657a3f5c-aa2c-4b96-88db-e9be2d839e72.chatmanager.Broadcast: '#00ffff&lANNOUNCEMENT! '
+657a3f5c-aa2c-4b96-88db-e9be2d839e72.chatmanager.Broadcast: '§x§0§0§f§f§f§f&lANNOUNCEMENT! '
 da81febc-d07f-4f1b-ac3d-ea22021068c4.cmd.purchase.choose.title.s22: '&b&lPoints &7Purchase'
 48a6866d-7dcb-4a87-9409-6572eed813bf.PlayerParticlesdata-invalid-vibration: '&7Введенные
   вами данные о вибрации &cdata недействительны! Формат: &c<duration'
@@ -1043,8 +1043,8 @@ f27e9ff1-d25f-47a1-9eee-d5c4e027c96e.playerpoints.command-pay-usage: '&cUsage: &
 a84e2a42-52ab-498a-9983-ee490449d9a3.ia.1.1: Получайте бесплатные вознаграждения на
 ed27448f-fda2-49bf-8995-688d8164c7d9.excellentcratesCrate.Open.Error.Cooldown.OneTimed.1: '#fd5e5e&lWhoops!'
 50559d81-ce54-447c-a4d6-9e7ae2689ea7.tempflycommand.base.pay.0: оплата
-ffd3e67b-5234-47b1-a053-053be1d3f993.PlayerParticlescommand-descriptions-help-1: '&b/pp&3
-  %1 &8-&f %2'
+ffd3e67b-5234-47b1-a053-053be1d3f993.PlayerParticlescommand-descriptions-help-1: '§b/pp§3
+  %1 §8-§f %2'
 09d808c1-3ba0-43c2-829b-e68fe80fc908.playerpoints.command-set-description: '&8 - &b/points
   set &3<player> <amount> &8- &fSet a player''''s points'
 709c93ae-7070-4097-a6d0-9c996b0dab5a.tab.sb.username: '&7Имя пользователя:'
@@ -1069,9 +1069,9 @@ c8ab7b8c-55b3-4ba6-b6b0-3f0dbdd9d198.excellentcratesCommand.Give.Desc: Пере�
 bb7d5fdd-85ef-45fd-8d04-8be076ae95d4.tempflygeneral.info.days: '&fДни: &b⌚%1'
 f7fbf7fe-76a8-4888-89be-3197f2a0cbb5.mpdb.armorSyncBackup: >-
   &6[!] &eRestored local armor! &cDon't leave items in your inventory when you disconnect!
-01e603ed-9e16-4ce9-a8ea-dac424f5f526.cmd.main.desc.s43: "&bDescription\n &b| &7Пожертвовав
-  на наш сервер, вы получите\n &b| &7a специальные привилегии ☺.\n &3| &fНажмите для
-  просмотра.\n&bИнформация\n &8▪ &7Ранг: &f%formatter_text_replace_&__{luckperms_prefix}%"
+01e603ed-9e16-4ce9-a8ea-dac424f5f526.cmd.main.desc.s43: "&bDescription\n &b| &7Играйте
+  на нашем сервере и разблокируйте\n &b| &7a специальные привилегии ☺.\n &3| &fНажмите
+  для просмотра.\n&bИнформация\n &8▪ &7Ранг: &f%1"
 91969594-74a5-4bfa-b8ff-903f1b6e2153.excellentcratesCommand.Key.Set.Done: >-
   #d4d9d8Установка #fdf35ex%1#d4d9d8 ключа(ей) #fdf35e%2#d4d9d8 для
   #fdf35e%3#d4d9d8.
@@ -1159,8 +1159,8 @@ adba8262-39fe-40ae-814c-bb179fb50c77.excellentcratesEditor.CrateEditorType.REWAR
   из списка не сможет'
 e295e951-a309-453a-846d-e73cacdb804c.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Name: '#ffed6a&lСоздать
   вознаграждение'
-ec742b0e-d03a-4eb8-87af-bd73642ee30a.cmd.kits.choose.title.s24: '&b⌘ &8| &bДонаторский
-  набор'
+ec742b0e-d03a-4eb8-87af-bd73642ee30a.cmd.kits.choose.title.s24: '&b⌘ &8| &bPlaytime
+  Kit'
 ef742849-3b8a-4028-9ce6-8538d439ffa1.gsitMessages.action-crawl-region-error: '[P]&7
   В этом регионе нельзя ползать!'
 fc33cbfa-1b8b-4a74-8ad9-cc1f9738100f.excellentcratesCommand.ResetLimit.Usage: '%1
@@ -1523,7 +1523,7 @@ e2c5bf1b-c8c0-4454-8a79-0423f65f67e5.cmd.close: '&c&l✘ &cClose'
   можете платить сами!'
 593bcf78-5d77-4874-938b-b3b35c9b21ee.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.15: '#bbff6a▪
   #bdc8c9Сдвиг вправо: #bbff6aОтключить предварительный просмотр'
-218eefeb-c3b7-45e9-8910-7a4d0ed01075.PlayerParticlesgui-color-icon-name: '&b'
+218eefeb-c3b7-45e9-8910-7a4d0ed01075.PlayerParticlesgui-color-icon-name: '§b'
 72f8a8de-b920-4c15-a035-060da2a51c2a.PlayerParticlesgroup-save-no-particles: '&7Невозможно
   сохранить группу, у вас нет ни одной примененной частицы!'
 39deadcc-b99e-4f77-8b9c-d60ef48436cb.cmd.languages.desc.s33: "&bDescription\n &b|
@@ -1601,7 +1601,7 @@ e375d0be-c157-455c-8865-bfa5c26fce58.excellentcratesEditor.CrateEditorType.KEY_C
   просмотра."
 9fb55997-f3e8-4041-9821-3a046a3b4f95.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.1: '#bdc8c9
   при предварительном просмотре и открытии ящика.'
-ad25be22-9075-4746-88c7-dd0272359f73.tempflygeneral.time.format: '&f%1&f%2'
+ad25be22-9075-4746-88c7-dd0272359f73.tempflygeneral.time.format: '§f%1§f%2'
 6cfdc84b-1482-4857-8a78-ffae726dd843.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.8: '#bbff6a▪
   #bdc8c9Левый клик: #bbff6aПрисоединить блок'
 c730d548-3ddd-4039-af68-6fab4ace235c.uar.COMMAND_USER_VIEWINTERVAL.chatMessage: Перезагрузка
@@ -1704,7 +1704,7 @@ e3652b96-5538-4e72-b3d4-fc13855a06b6.excellentcratesEditor.CrateEditorType.KEY_C
 c81a9ccc-65e8-4b7e-8076-7de227be2a41.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.9: '#bbff6a▪
   #bdc8c9Левый клик: #bbff6aИзменить частицу'
 57c7ea54-4557-4af0-9e57-65a2ac497add.tempflycommand.unit.hours.recognized.1: час
-bf3200d3-6ff7-4794-a4db-0210939684a5.PlayerParticlesprefix: '&b&l%1 &8┃ &7'
+bf3200d3-6ff7-4794-a4db-0210939684a5.PlayerParticlesprefix: '§b&l%1 §8┃ §7'
 e5d39733-e0f9-4e5e-b9b6-226ed9e53ade.excellentenchantmentsFitItemType.LEGGINGS: Леггинсы
 7ebffb7c-6bff-4c30-9df3-a0ce46062a36.triton.no-permission: '&cНет разрешения. Требуется
   разрешение: &4%1'
@@ -1798,7 +1798,7 @@ a0c64a09-8a8f-4129-b65b-1d5e31773285.cmd.links.desc.s29.2: "&f\n§x§7§2§8§9�
   в
 8da8afd2-22da-4ca4-af41-60f8a4996a9c.SuperVanishMessages.RemindingMessage: '&b&l%1
   &8&l┃ &7Вы все еще невидимы!'
-25e63530-8991-4ee2-90a3-427182e30804.tempflysystem.help.1: '&6/tf'
+25e63530-8991-4ee2-90a3-427182e30804.tempflysystem.help.1: '§6/tf'
 a17d8514-c552-4f57-8afb-e93ec08e6042.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.7: '#bbff6a▪
   #bdc8c9[Num 4]: #bbff6aПо редкости'
 d7c1dc60-4616-47c1-b661-af1ed5e3deb4.excellentcratesCommand.Editor.Desc: Откройте
@@ -1891,7 +1891,7 @@ b3aa6a6e-10a6-4fce-a9a2-f0db29f01da0.bank.menu.interest: |2
 021b03ff-2778-4899-b4d8-44d5f5d71a4a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.9: '#bbff6a▪
   #bdc8c9Правый клик: #bbff6aПолучить'
 81f94e86-0928-40bf-94b1-b0d05f19c209.mycmd.days: 'дней '
-e3b8e97c-a97e-4fe6-b908-3d829d582ead.tempflyaesthetic.featherboard.seconds: '&f%1s '
+e3b8e97c-a97e-4fe6-b908-3d829d582ead.tempflyaesthetic.featherboard.seconds: '§f%1s '
 88f3b510-714e-471e-a67d-e3c043c0c10b.excellentcratesCrate.Open.Reward.Broadcast.3: '#d4d9d8'
 fc5a53a2-3042-41ae-980c-cd9d131d4642.tempflygeneral.time.max_other: '%1 &f%2 &7достигнуто
   максимально допустимое время!'
@@ -1901,7 +1901,7 @@ fc5a53a2-3042-41ae-980c-cd9d131d4642.tempflygeneral.time.max_other: '%1 &f%2 &7�
 56e18f77-4814-4516-a4b2-054e4953ee0a.cmd.links.desc.s29.3: "&f\n§x§7§2§8§9§d§aОписание\n
   §x§7§2§8§9§d§a| &7Нажмите, чтобы снять ссылку с вашего\n §x§7§2§8§9§d§a| &7discord
   profile!\n&f\n §x§7§2§8§9§d§a&l| #7289daᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
-1f95c50d-c4b8-409c-bc39-fa073d9c654d.PlayerParticlesgui-color-subtext: '&7'
+1f95c50d-c4b8-409c-bc39-fa073d9c654d.PlayerParticlesgui-color-subtext: '§7'
 215a4e79-0213-41d9-987f-b7334f831421.PlayerParticlesdata-invalid-color-transition: >-
   &7Введенные вами данные о переходе цвета недействительны! Формат: &3<<0-255> <0-255>
   <0-255>>|<&brainbow>|<random> <<0-255> <0-255> <0-255>>|<rainbow>|<random>
@@ -1982,8 +1982,8 @@ cff25232-f6b5-44fe-ba28-c5fdbf82e0d2.excellentcratesEditor.Crate.Enter.KeyId: '#
 a5bcf5b6-ae93-461e-90ea-3674607891e0.uar.COMMAND_USER_VIEWINTERVAL.title: РЕБОТИНГ
 2558f0c8-bfe3-4b5b-8cc2-09a3d03c45b1.tempflygeneral.time.removed_self: '%1 &7Вы потеряли
   &f⌚%2&7.'
-0130cd5c-6377-498e-884c-ca9f41b2e3d2.excellentcratesCommand.Key.Show.Format.List.3: '&6▸
-  &e%1: &6%2'
+0130cd5c-6377-498e-884c-ca9f41b2e3d2.excellentcratesCommand.Key.Show.Format.List.3: '§6▸
+  §e%1: §6%2'
 5ba3e6e7-837a-4bb9-bcd5-da102e6df732.tab.ani.3.1: '&fɢɪᴠᴇᴀᴡᴀʏꜱ, ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ ᴀɴᴅ
   ᴍᴀɴʏ ᴍᴏʀᴇ!'
 8ff255c3-cd3d-4eda-a8da-187794c77d78.tempflygeneral.invalid.time_self: '%1 &7У вас
@@ -2024,7 +2024,7 @@ c3ffc145-02f3-48cf-a299-98230050067e.PlayerParticlesgroup-no-permission: '&7Вы
 d3376ab3-34ff-4a8e-90fd-e21906aeb7a4.tempflysystem.help.3: '&6/tf время'
 cd32bd17-2f22-46aa-b69d-5abb8939f466.PlayerParticleslist-output: '&bID&8: &f%1 &bEffect&8:
   &f%2 &bStyle&8: &f%3 &bData&8: &f%4'
-ac9d6dfc-ae10-44f8-ad93-b5f4589ce96f.PlayerParticlesgui-color-unavailable: '&c'
+ac9d6dfc-ae10-44f8-ad93-b5f4589ce96f.PlayerParticlesgui-color-unavailable: '§c'
 427c8ec6-5741-481d-ac84-47b537a0aa1b.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.7: '#bbff6a&lДействия:'
 891847ff-bb49-4260-8f7f-9b0db304bc32.excellentenchantmentsCommand.TierBook.Desc: Дает
   заколдованную книгу.
@@ -2254,7 +2254,7 @@ ace22fd2-fd46-4a4f-aa4e-adc00e9ba29e.excellentcratesEditor.CrateEditorType.REWAR
 74bfa7cd-b4aa-498e-8b42-1cd97571c456.gsitMessages.action-emote-region-error: '[P]&c
   Вы не можете использовать эмоцию в этом регионе!'
 f8d5286c-96fe-437e-8ef9-6543338b9514.cmd.languages.title.s29: '&b&lNederlands'
-6dbea9f5-6284-476d-804f-c78c5dec4744.tempflyaesthetic.featherboard.minutes: '&f%1m '
+6dbea9f5-6284-476d-804f-c78c5dec4744.tempflyaesthetic.featherboard.minutes: '§f%1m '
 133fef28-5f21-4169-84c1-3abd23da9aaf.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.1: '#bdc8c9Используется
   в графических интерфейсах и сообщениях.'
 fb6aefac-a8f4-4407-b963-b989949cce99.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.0: '#bdc8c9Устанавливает
@@ -2382,7 +2382,7 @@ f0fb4c2d-1ef0-4865-a8f7-16797b4b97b3.excellentcratesEditor.CrateEditorType.REWAR
 302bf67c-6b7a-4a81-91db-a895ea78f9e0.ia.toggle-on: '&7Вы переключили &a&l✔ &aEnabled&7
   объявление &8&o(/toggle)'
 6512c036-cd87-476e-9c73-dae072ea273d.ia.5.1: Нужна ли вам помощь?
-0e5d0d57-ea1f-455d-8d98-477a15eed9ef.chatmanager.Header: '§x§f§f§0§0§0§0❤ #ff0000&l&nWELCOME
+0e5d0d57-ea1f-455d-8d98-477a15eed9ef.chatmanager.Header: '§x§f§f§0§0§0§0❤ §x§f§f§0§0§0§0&l&nWELCOME
   BACK!§x§f§f§0§0§0§0 ❤'
 ff3535d1-b338-4cab-bfbe-cbd68ffad22d.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Name: '#ffed6a&lPreview
   Item'
@@ -2400,7 +2400,7 @@ ff27de84-304a-4e50-8320-80910e4ece70.excellentenchantmentsCommand.Book.Usage: '%
   §cИнвентарь выпадает после смерти
   §cНет драконьих яиц
   §cНет зачарований
-a945b6d4-cf62-42fa-865a-c1dca97e44f6.tempflyaesthetic.featherboard.days: '&f⌚%1d '
+a945b6d4-cf62-42fa-865a-c1dca97e44f6.tempflyaesthetic.featherboard.days: '§f⌚%1d '
 73c30a93-763c-41e2-94ab-83a800a5de24.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.1: '#bdc8c9
   можно получить эту награду еще раз.'
 d77d9019-3376-41e7-8d53-f0e1723d6e7e.PlayerParticlesgui-click-to-load: '&bClick &8|&7
@@ -2438,11 +2438,11 @@ eefadd41-ae4c-4390-a43f-48331f058877.excellentcratesEditor.CrateEditorType.CRATE
 ad0bd8e3-1d47-4eff-907f-f2de589abf3c.PlayerParticlesfixed-edit-style-non-fixable: >-
   &7Невозможно отредактировать фиксированный эффект, стиль &c%1&7 не может быть использован
   в фиксированных эффектах!
-e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '&7World:'
+e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '§7Земля:'
 b811b891-d657-4489-b599-865516d5101a.PlayerParticlesfixed-edit-invalid-coords: >-
   &7Невозможно отредактировать фиксированный эффект, одна или несколько введенных
   координат недействительны!
-2a3df0ca-b5b0-4a65-b7e0-e7fe9c7d588b.tempflyaesthetic.featherboard.hours: '&f%1h '
+2a3df0ca-b5b0-4a65-b7e0-e7fe9c7d588b.tempflyaesthetic.featherboard.hours: '§f%1h '
 28cb989f-3ce1-4fc3-91a0-a1e7e9514e4e.PlayerParticlesgui-commands-info: '&fПоиск информации
   о командах с помощью &b/pp help'
 2ea09188-aa8f-4712-865d-e60047a676ca.alonsotags.Next-page: '&bNext &l→'
@@ -5829,7 +5829,8 @@ a459e8ec-ed3c-4f06-910b-479235228677.deathmessages.Mobs.witch.Solo.Melee.0: '%1 
   убит %2 с помощью магии'
 56e53466-7947-4db6-8720-f80c2c96dd2b.deathmessages.Mobs.squid.Gang.Projectile-Arrow.0: 'На
   %1 напали несколько %2! Один выстрелил в них из %3'
-7c045743-08d7-4923-9947-d2514cd2a97f.sunlight.afk.now: is now AFK.
+7c045743-08d7-4923-9947-d2514cd2a97f.sunlight.afk.now: сейчас находится в состоянии
+  AFK.
 7ba91c56-213f-4e71-b1e8-9270df939758.deathmessages.Mobs.illusioner.Solo.Projectile-Arrow.0: '%1
   был застрелен %2 каким-то образом с помощью %3'
 4302cecc-6de4-490e-ad93-1ef744c66a5f.deathmessages.Mobs.wither.Solo.Projectile-Arrow.0: '%1
@@ -5976,7 +5977,7 @@ e3955c66-8fd4-4dc3-a461-ed284a03ea69.deathmessages.Mobs.wither.Gang.Projectile-A
   %1 напали несколько %2! Один выстрелил в них из %3'
 186aa66b-8a1f-441c-b3c7-dcfbf980c290.deathmessages.Mobs.illusioner.Gang.Weapon.0: "На
   %1 набросились несколько %2! Один ударил их %3"
-845f077a-e931-4a1f-9896-e6de1afbab28.sunlight.afk.end: is no longer AFK
+845f077a-e931-4a1f-9896-e6de1afbab28.sunlight.afk.end: больше не AFK
 c4bbab57-05a2-4088-a449-0fc03d999d01.deathmessages.Mobs.guardian.Gang.Projectile-Arrow.0: 'На
   %1 напали несколько %2! Один выстрелил в них из %3'
 2a77b9c7-827c-441a-adc1-e66618dd718b.deathmessages.Basic-Mode.Solo.Melee.0: '%1 был
@@ -6069,8 +6070,8 @@ cbd45de3-3ade-412b-89e5-dae6f866e7f8.deathmessages.Mobs.husk.Gang.Weapon.0: "Н�
   набросились несколько %2! Один ударил их %3"
 cbb6183a-517c-4174-8f38-baf97bbec75c.deathmessages.Mobs.cat.Solo.Weapon.0: '%1 был
   убит %2 каким-то образом с помощью %3'
-e3aef2bf-dc6d-4218-af55-a0ec3804ba54.ib.tilgis.top-stats.title: '&fChoose a Statistic
-  you want to see'
+e3aef2bf-dc6d-4218-af55-a0ec3804ba54.ib.tilgis.top-stats.title: '&fВыберите статистику,
+  которую вы хотите увидеть'
 4e2c8fd8-4725-466e-a524-289db866ba7e.deathmessages.Mobs.pig.Gang.Weapon.0: "На %1
   набросились несколько %2! Один ударил их %3"
 ae0129f9-b16c-47df-8744-ccbeef55ffc8.deathmessages.Mobs.vex.Solo.Melee.0: '%1 был
@@ -6715,3 +6716,231 @@ c7c22133-5271-40dc-9020-c6e2a38a5e4c.cmd.settings.desc.true.s25: "\n&b&lИнфо
 d494c8e3-57d3-4526-a426-1833fa2896f3.cmd.settings.desc.false.s25: "\n&bInformation:\n
   &b| &7Статус: &c&l❌ &cDisabled\n &b| &7Toggle: &bVote Broadcast\n\n&b&l| &bᴄʟɪᴄᴋ
   ᴛᴏ ᴛᴏɢɢʟᴇ"
+652d5921-764c-4641-9683-fefcaf7d5742.cmd.rules.global: '&b&l| &bGlobal Rules'
+d0447afb-7492-464f-ac5d-4e0a4c9ba220.cmd.rules.server.3-5: "&7& Любые мошенничества,
+  в которых фигурирует реальная жизнь\n&8 ♢ &fobjects\n&8 ♢ &fpossessions\n&8 ♢ &fmoney\n
+  &f\n&7Будет считаться запрещенным и повлечет за собой гораздо более суровое\n&7Наказание."
+113e6e2a-db4a-4304-9b51-ce1dacc07ca3.cmd.ref.22.title: '&bKeys'
+e2c898fb-64bf-4897-854d-c08009204d2b.cmd.your-too-poor: ʏᴏᴜ'ʀᴇ ᴛᴏᴏ ᴘᴏᴏʀ
+1bc5aa8b-bde3-46dd-a336-5d3b931f1537.cmd.ref.29.here.player: "&7Реферальные баллы,
+  необходимые для получения званий\n&f\" Амазонит &7(5RP)\n&f\" Карнелин &7(12RP)\n\
+  &f\" Эпидот &7(20RP)\n&f\" Обсидиан &7(36RP)"
+53157dee-5041-413f-b959-b625d766028d.cmd.rules.server.3-4: "&7& Пожалуйста, не сообщайте
+  личную информацию других людей.\n&7 Такие как настоящие имена, адреса, другие аккаунты
+  в социальных сетях и т.д.\n&7 без их разрешения. Предоставление такой информации
+  со злым умыслом\n&7m может быть расценено как doxxing, что приведет к немедленному
+  бану."
+ebeeafe6-7931-4a9b-9090-65e663c067aa.cmd.rules.chat.1-4: "&7&ІВаше имя пользователя
+  Minecraft и /nick <nickname>.\n&7&, если он у вас есть, должны соответствовать всем
+  нашим правилам.\n&7 Кроме того, ваш /nick не должен имитировать другого пользователя\n
+  &7и должен соответствовать следующим критериям:\n&f\n &8♢ &fЛегко читаемый и набираемый
+  с английской клавиатуры\n     &8&o (т.е. никаких ников с префиксом \"& k \"!)\n
+  &f\n &8♢ &fНе пытаться ложно обозначить свою принадлежность к\n    команды сотрудников.\n
+  &f\n &8♢ &fНе содержит неуместного содержания"
+6f979d9c-2203-48a6-8e13-305405287c43.cmd.rules.server.3-1: "&7&В случае, если вы будете
+  наказаны персоналом сервера\n&7 за нарушение каких-либо правил, попытки уклониться
+  от наказания будут\n&7приведут к ужесточению наказания."
+2a9c8e6f-a2e8-4e6a-9b26-ad2458c22cab.cmd.rank.carneline.desc: "§x§f§0§8§f§2§b&lРанг\n
+  §x§9§e§5§d§1§b ● &7Префикс: §x§f§0§8§f§2§b[ᴄᴀʀɴᴇʟɪɴᴇ]\n§x§9§e§5§d§1§b ● &7Цвет:
+  §x§f§0§8§f§2§bКадмий оранжевый\n&f\n§x§f§0§8§f§2§b&lПреимущества\n §x§0§0§f§0§0&l✔
+  &7Разблокированный доступ к /hat\n §x§0§0§f§f§0§0&l✔ &7Unlocked access to /extinguish\n
+  §x§0§0§f§0§0&l✔ &7Unlocked access to /sellall\n §x§0§0§f§0§0&l✔ &7обход нескольких
+  команд\n §x§0§0§f§f§0§0&l✔ &7 обход множественных сообщений\n §x§0§0§f§0§0&l✔ &7colorable
+  playerwarps\n §x§0§0§f§0§0&l✔ &7grave teleportation\n §x§0§0§f§0§0&l✔ &7Незапертые
+  могилы телепортация\n&f\n§x§f§0§8§f§2§b&lБонус\n &8◆ &f8 предметы аукциона &7(/ah)\n
+  &8◆ &f8 playerwarps &7(/pwarp)\n &8◆ &f20 сэтомы &7(/sethome <имя>)\n &8◆ &f5 jobs
+  &7(/jobs join <job>)\n &8◆ &f15 chestshop &7(/chestshop)\n &8◆ &f7 нации\n &8◆ &f7
+  роли\n &8◆ &f7 части\n &8◆ &f4 собственные земли\n &8◆ &f13 члены\n &8◆ &f8 земли
+  &7(/lands)\n &8◆ &f40 куски\n\n§x§f§0§8§f§2§b&lЦена\n§x§9§e§5§d§1§b§l 72 часа игрового
+  времени§x§9§e§5§d§1§b или§x§9§e§5§d§1§b§l 299 жетонов\n\n§x§f§0§8§f§2§b&l| §x§f§0§8§f§2§b&l"
+248a2009-e1ba-4f30-9cf9-b4e199125d3e.cmd.ref.4.lore: "&7Ваши реферальные баллы: &f%1\n
+  &7Вы привлекли &f%2&7разных людей\n&7И код: &f%3"
+06b6d2df-428a-4271-befd-19482fb03a24.cmd.ref.31.keys.green: '&7Купите это сейчас за
+  &f%1&7реферальный балл%2'
+5a71262c-3b47-4ae9-8bc3-9c95ba3f34d6.cmd.ref.29.epidote: '&7Покупка с &f%1&7реферальными
+  баллами'
+f95973e5-cc3b-4aaa-889c-adcc2a6134ce.cmd.main.lore.s44: "&bDescription\n &b| &7Посмотрите
+  и используйте свои реферальные\n &b| &7 баллов, чтобы получить приятное вознаграждение.\n
+  &3| &fНажмите для просмотра.\n &4| &cЭто доступно только на сайте Tilgis "
+b1a9cda1-8d56-4eca-9ae0-6e2ee6a9e46a.cmd.event.money: '&b&lБесплатные деньги&7 (получите
+  эти деньги!)'
+038682d2-b7dc-47ab-9485-11930985cb1b.cmd.ref.29.obsidian: '&aYou получил самый высокий
+  рейндж из реферальных баллов.'
+1825bd59-cdda-4ac6-bdb3-385f894364f9.cmd.event.noevent.description: "&7Извините, но
+  в настоящее время мы\n&7не проводим мероприятия\n\n&7Приходите позже...\n&7Следующее
+  мероприятие может состояться &f01.12.2023"
+82339929-1c1b-46f4-bd69-1cbe4514e13b.cmd.you-already-have-this: ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ʜᴀᴠᴇ ᴛʜɪs
+1b4a0bdb-1ff2-4754-a668-f544dc56fd0f.cmd.rank.amethyst.desc: "§x§9§9§6§6§c§c&lРанг\n
+  §x§3§5§1§6§5§4 ● &7Префикс: §x§9§9§6§6§c§c[ᴀᴍᴇᴛʜʏsᴛ]\n§x§3§5§1§6§5§4 ● &7Цвет: §x§9§9§6§6§c§cКристалл
+  аметиста\n&f\n§x§9§9§6§6§c§c&lПреимущества\n §x§0§0§f§f§0§0&l✔ &7Разблокированный
+  доступ к /near\n §x§0§0§f§f§0§0&l✔ &7Незаблокированный доступ к /сундуку\n&f\n§x§9§9§6§6§c§c&lБонус\n
+  &8◆ &f25 предметы аукциона &7(/ah)\n &8◆ &f25 playerwarps &7(/pwarp)\n &8◆ &f40
+  sethomes &7(/sethome <имя>)\n &8◆ &f9 job limits &7(/jobs join <job>)\n &8◆ &f50
+  chestshop &7(/chestshop)\n &8◆ &f65 нации\n &8◆ &f75 роли\n &8◆ &f75 части\n &8◆
+  &f50 собственные земли\n &8◆ &f75 члены\n &8◆ &f55 земли &7(/lands)\n &8◆ &f500
+  куски\n&f\n§x§9§9§6§6§c§c&lЦена\n §x§3§5§1§6§5§4&l720 часов игрового времени §x§3§5§1§6§5§4
+  или §x§3§5§1§6§5§4&l3 490 жетонов\n\n§x§9§9§6§6§c§c&l| §x§9§9§6§6§c§c&l"
+8dd637f1-3f85-4695-acc8-20d1099f1a86.cmd.event.claimed.title: '&cОбъявление'
+99001d52-e82b-4b39-857e-e18958e73dfe.cmd.settings.title.false.s25: '&bMob Holograms&8|
+  &7[Disabled]'
+ce59a733-0c4e-47bd-be02-9047ed57ec08.cmd.rules.chat.1-5: "&7& Мы просим, чтобы все
+  драмы, связанные с игроками, решались вне\n&7&Общественные каналы чата, это означает,
+  что вам следует обращаться либо в\n&7/msg &nin-game&7."
+0de4e38f-8534-4a72-9285-6dd4b1871355.cmd.rank.obsidian.desc: "§x§5§d§3§3§7§a&lРанг\n
+  §x§2§c§1§4§3§d ● &7Префикс: §x§5§d§3§3§7§a[ᴏʙsɪᴅɪᴀɴ]\n§x§2§c§1§4§3§d ● &7Цвет: §x§5§d§3§3§7§aРегалия\n
+  &f\n§x§5§d§3§3§7§a&lПерки\n §x§0§0§f§0§0&l✔ &7Разблокированный доступ к /condense\n
+  &f\n§x§5§d§3§3§7§a&lБонус\n &8◆ &f16 предметы аукциона &7(/ah)\n &8◆ &f16 playerwarps
+  &7(/pwarp)\n &8◆ &f30 sethomes &7(/sethome <имя>)\n &8◆ &f7 job limits &7(/jobs
+  join <job>)\n &8◆ &f30 chestshop &7(/chestshop)\n &8◆ &f25 нации\n &8◆ &f32 роли\n
+  &8◆ &f32 части\n &8◆ &f12 собственные земли\n &8◆ &f37 члены\n &8◆ &f15 земли &7(/lands)\n
+  &8◆ &f100 куски\n&f\n§x§5§d§3§3§7§a&lЦена\n §x§2§c§1§4§3§d&l336 часов игрового времени§x§2§c§1§4§3§dор
+  §x§2§c§1§4§3§d&l999 жетонов\n\n§x§5§d§3§3§7§a&l| §x§5§d§3§3§7§a&l"
+2fc05bb0-9ff4-4384-b870-7f48450e3220.cmd.rules.chat.1-0: "&7& Избегайте харассмента
+  в отношении других игроков или персонала.\n&7Это относится ко всем чатам, будь то\n
+  &7&общий&7, &n/message&n или любой другой\n&7 доступный канал."
+43e0fd06-aeda-43fd-b263-f13ee2759578.cmd.rules.global.2-6: "&7& Эксплуатация нашей
+  системы правил в своих интересах\n&7& любым способом является наказуемым нарушением.
+  То, что вы не видите\n&7& точного примера в наших правилах, не означает, что это
+  разрешено."
+1fbd7ba2-d992-46e3-b5d7-d25128d46740.cmd.settings.title.unknown.s25: "\n&bDescription\n
+  &b| &7Включает или отключает голограммы\n &b| &7 над мобами. (Может увеличить производительность)\n"
+100d9cd4-0b56-4211-a4fc-d2deb6a4c89e.cmd.farmworlds.wrongserver.lore: "\n&bDescription\n
+  &b| &7Перейдите на\n &b| &fFarm&7 сервер!\n&f\n &3| &7Убедитесь, что у вас есть\n
+  &3| &7Пустой инвентарь для ведения хозяйства!\n&f\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+2aed0a5d-ef98-4b22-a9d0-433f84d3d19c.cmd.rules.server: '&b&l| &bServer Rules'
+48dde147-0b05-4cad-bb8e-7dbaca9fc58b.cmd.main.desc.31: "&bDescription\n &b| &7Получите
+  удовольствие от этого\n &b| &7 событии и получите в награду\n &b| &7несколько классных
+  вещей☺.\n &3| &fНажмите для просмотра.\n&bИнформация\n &8▪ &7Ограничено"
+453cb168-9e24-4887-bd48-94edf3699bd7.cmd.rules.global.2-4: "&7& Злоупотребление глюками/багами/исключениями
+  является очень серьезным нарушением\n&7Решение о том, является ли что-либо глюком
+  или нет\n&7 будет приниматься модераторами. Если вы обнаружили глюк\n&7bug, проблемы
+  и т.д., пожалуйста, немедленно сообщите об этом в наш дискорд!\n&7Не делитесь глюками
+  с другими людьми, и не используйте их для\n&7Вашей выгоды!"
+f8030775-7095-404b-89e6-5369a3eb890b.cmd.rules.chat: '&b&l| &bChat Rules'
+b0f5139f-56b7-4d13-a0e0-5204b39a3990.cmd.ref.click-to-buy: '&7ᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ'
+227c6eb0-46a3-494e-86d3-d6fcbd29e4a3.cmd.ref.29.get: '&7Get '
+ce07efe2-086a-4772-aab5-0bf37b0601e2.cmd.rules.chat.1-6: "&7&lРеклама других серверов
+  Minecraft, розыгрыши призов, собственные каналы социальных сетей/создания контента
+  или вещи\n&7 Собственные каналы социальных сетей/создания контента, или вещи\n&7
+  подобной направленности запрещена без согласования с\n&7& нашего персонала (сотрудников).
+  Это включает в себя рекламу во всех доступных\n&7Каналы для подписи, или написанные
+  книги, Реклама внутриигровых торгов или\n&7магазинов разрешена, но, пожалуйста,
+  воздержитесь от репостов рекламных\n&7сообщений слишком часто."
+a0ca460b-fe01-4dd5-8817-14fa468d4cff.cmd.ref.24.title: '&bEssential stuff'
+4342473f-5220-4cd2-addb-46aad668ce95.cmd.event.claimed.desc: "&4& Извините!\n\n&4|
+  &7Мы не можем дать вам больше.\n&4| &7 чем всем остальным...\n&4| &7- это было бы
+  несправедливо.\n \n&6| &fHave Fun, Hamster :D"
+10e502c9-137c-4182-98aa-861ca3fef22c.cmd.rank.epidote.desc: "§x§4§a§e§1§f§0&lРанг\n
+  §x§2§8§7§1§7§8 ● &7Префикс: §x§4§a§e§1§f§0[ᴇᴘɪᴅᴏᴛᴇ]\n§x§2§8§7§1§7§8 ● &7Цвет: §x§4§a§e§1§f§0Бирюзовый\n
+  &f\n§x§4§a§e§1§f§0&lПреимущества\n §x§0§0§f§0§0&l✔ &7Разблокированный доступ к /nick\n
+  &f\n§x§4§a§e§1§f§0&lБонус\n&8◆ &f11 предметы аукциона &7(/ah)\n&8◆ &f11 playerwarps
+  &7(/pwarp)\n&8◆ &f25 sethomes &7(/sethome <имя>)\n&8◆ &f6 job limits &7(/jobs join
+  <job>)\n&8◆ &f20 chestshop &7(/chestshop)\n&8◆ &f9 нации\n&8◆ &f10 роли\n&8◆ &f10
+  части\n&8◆ &f5 собственные земли\n&8◆ &f17 члены\n&8◆ &f9 земли &7(/lands)\n&8◆
+  &f50 куски\n\n§x§4§a§e§1§f§0&lЦена\n §x§2§8§7§1§7§8&l168 часов игрового времени
+  §x§2§8§7§1§7§8 или §x§2§8§7§1§7§8&l519 жетонов\n\n§x§4§a§e§1§f§0&l| §x§4§a§e§1§f§0&l"
+8d6970c6-bc56-4a2e-843b-39ca14ac2a52.cmd.rules.chat.1-1: "&7& Спам запрещен во всех
+  доступных каналах.\n&7Это включает в себя отправку повторяющихся сообщений, отправку\n
+  &7различных сообщений в быстрой последовательности, символьный\n&7& Спам, а также
+  отправка сообщений, набранных всеми или большинством заглавных букв."
+b33ba3f4-ab00-4fc5-8500-f266b0f9cc0b.cmd.rules.chat.1-3: "&7& Включение в разговор
+  оскорбительного содержания в любой форме\n&7запрещено во всех доступных каналах
+  и включает в себя такие темы\n&7 такие как:\n &8♢ &fpolitics\n &8♢ &fрелигии\n &8♢
+  &факты насилия\n &8♢ &frape (сексуальные темы)\n &8♢ &fsuicide/Self-Harm\n &8♢ &fterrorism\n
+  &8♢ &fwar\n &8♢ &fschool Shootings\n &8♢ &f&o(& Другие серьезные темы!)\n&f\n&7Также
+  следует помнить, что язык вражды, включая расовые оскорбления\n&7 или производные
+  от них, сексистские или гомофобные высказывания,\n&7и другие подобные типы сообщений
+  не допускаются!"
+cc10a5ad-4f58-4657-966e-ec0f62ed2769.cmd.rules.server.3-2: "&7&Модификация клиента
+  таким образом, чтобы получить значительное\n&7& Преимущество перед игроками является
+  запрещенным нарушением.\n&8&o (Например: вход в систему со взломанным клиентом)."
+1c4b61e5-6ab3-4679-b0ba-8061e581aa5a.cmd.rank.ruby.desc: "§x§d§b§0§0§4§8&lРанг\n§x§7§5§0§d§2§f
+  ● &7Префикс: §x§d§b§0§0§4§8[ʀᴜʙʏ]\n§x§7§5§0§d§2§f ● &7Цвет: §x§d§b§0§0§4§8UA Красный\n
+  &f\n§x§d§b§0§0§4§8&lПреимущества\n §x§0§0§f§0§0&l✔ &7Разблокированный доступ к /anvil\n
+  §x§0§0§f§f§0§0&l✔ &7Незаблокированный доступ к /loom\n §x§0§0§f§f§0§0&l✔ &7Unlocked
+  access to /crawl\n&f\n§x§d§b§0§0§4§8&lБонус\n&8◆ &f20 предметы аукциона &7(/ah)\n
+  &8◆ &f20 playerwarps &7(/pwarp)\n&8◆ &f35 sethomes &7(/sethome <имя>)\n&8◆ &f8 job
+  limits &7(/jobs join <job>)\n&8◆ &f40 chestshop &7(/chestshop)\n&8◆ &f36 нации\n
+  &8◆ &f56 роли\n&8◆ &f56 части\n&8◆ &f29 собственные земли\n&8◆ &f59 члены\n&8◆ &f23
+  земли &7(/lands)\n&8◆ &f250 куски\n&f\n§x§d§b§0§0§4§8&lЦена\n §x§7§5§0§d§2§f&l504
+  часа игрового времени §x§7§5§0§d§2§ за §x§7§5§0§d§2§f&l2,000 жетонов\n\n§x§d§b§0§0§4§8&l|
+  §x§d§b§0§0§4§8&l"
+d2aac60a-5794-46b0-a514-8094f3435fc3.cmd.rules.global.2-5: "&7&Любое использование
+  лаг-машин/ферм/строений\n&7Вызывающее лаги сервера/клиента, будет наказываться в
+  зависимости от\n&7- тяжести"
+025a494a-05d1-4029-8134-e4a60502510a.cmd.rank.amazonite.desc: "§x§b§7§f§0§2§e&lРанг\n
+  §x§7§4§9§1§2§d ● &7Префикс: §x§b§7§f§0§2§e[ᴀᴍᴀᴢᴏɴɪᴛᴇ]\n§x§7§4§9§1§2§d ● &7Цвет:
+  §x§b§7§f§0§2§eЗеленая ящерица\n&f\n§x§b§7§f§0§2§e&lПреимущества\n §x§0§0§f§f§0§0&l✔
+  &7Разблокированный доступ к /workbench\n §x§0§0§f§f§0§0&l✔ &7Незаблокированный доступ
+  к /recipe\n §x§0§0§f§f§0§0&l✔ &7Unlocked access to graves auto-loot\n&f\n§x§b§7§f§0§2§e&lБонус\n
+  &8◆ &f3 предметы аукциона &7(/ah)\n &8◆ &f3 playerwarps &7(/pwarp)\n &8◆ &f15 сэтомы
+  &7(/sethome <имя>)\n &8◆ &f4 jobs &7(/jobs join <job>)\n &8◆ &f8 chestshop &7(/chestshop)\n
+  &8◆ &f5 нации\n &8◆ &f5 роли\n &8◆ &f5 части\n &8◆ &f3 собственные земли\n &8◆ &f7
+  члены\n &8◆ &f7 земли &7(/lands)\n &8◆ &f35 куски\n&f\n§x§b§7§f§0§2§e&lЦена\n §x§7§4§9§1§2§d&l15
+  часов игрового времени §x§7§4§9§1§2§dor §x§7§4§9§1§2§d&l90 жетонов\n\n§x§b§7§f§0§2§e&l|
+  §x§b§7§f§0§2§e&l"
+4b60f13f-1ce5-44fe-a9ba-31512af34c22.cmd.event.keys: '&b&lFree Keys &7 (черт, не надо
+  играть...)'
+56c5b485-abde-4d70-a69d-266546cca486.cmd.click-to-buy: ᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ
+0c96fde1-80c6-45a4-b59e-bf8384745baa.cmd.event.keys.desc: "&bDescription\n &b| &7Получите
+  ключ ULTIMATE\n &b| &7в своем инвентаре (шутка)\n &3| &fНажмите для просмотра.\n
+  &bИнформация\n &8▪ &7Ключи: &fКаждый ключ, 3x"
+23e92892-e947-4481-9d91-f0ca8da3e4c7.cmd.event.tag: '&b&lБесплатная метка &7 (только
+  одна)'
+8f04f233-7a83-4c33-8847-f427971bb467.cmd.event.tag.desc: "&bDescription\n &b| &7Получить
+  редкий тег игрока\n &b| &7который лишь немногие игроки могут\n &b| &7- получить
+  в своей жизни :D\n &3| &fКликните для просмотра.\n&bИнформация\n &8▪ &7Tag: §xF§xF§x9§xA§x2§x0ᴇᴠᴇɴᴛ
+  2023"
+ced35d86-5f49-4fa9-957a-aba0e352aebd.cmd.event.xp: '&b&lFree XP &7(Points)'
+a06532b3-aeba-4210-9232-7efafc6b35ba.cmd.event.money.desc: "&bDescription\n &b| &7Получите
+  много денег\n &b| &7В качестве бонуса за участие в мероприятии ☺\n &3| &fНажмите
+  для просмотра.\n&bInformation\n &8▪ &7Деньги: &f5000"
+a316835e-cfc9-46f2-95a5-c15abf88add5.cmd.ref.31.keys.red: '&7Для покупки этого продукта
+  вам необходимо как минимум &f%1 &7реферальных баллов%2'
+1bc04c58-ab3f-44aa-b4d3-88b75e15224f.cmd.rules.chat.1-2: "&7&lKeep chat &nsafe for
+  work&7&l SFW! Разжигание порнографии, 18+\n&7& или любые другие темы, которые могут
+  содержать материалы для взрослых, запрещены.\n&7&Это не сообщество &nonlyfans&7,
+  поэтому держите чат SFW!"
+4d3640fe-d655-45a6-8c43-c2d116ca4b3d.cmd.warps.farm-server.desc: "&bDescription\n
+  &b| &7Нажмите, чтобы\n &b| &7 присоединиться к\n &b| &7Farm server.\n &b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴠɪᴇᴡ"
+d68934a9-1d3c-4c24-a897-8d7318691a80.cmd.farmworlds.wrongserver.title: '&cSry, неверный
+  сервер!'
+27353bdd-89d6-477d-8087-d24e3ac6990f.cmd.settings.title.true.s25: '&bMob Holograms
+  &8| &7[Toggle]'
+5d0af030-66d9-43c4-8e3e-ace5fc4d7830.npc.lobby.tilgis.l3: '&7Статус: &f%pinger_online_mc1.storagedata.xyz:25255%'
+738fa94e-cb70-4fe3-b8f4-bdd4ff70b833.cmd.ref.buy-now: '&7Приобретите &f%1&7ранг прямо
+  сейчас за %f%2 реферальных баллов'
+fe3c976a-fbe8-4112-87bc-95e8df288cc2.cmd.rules.global.2-1: "&7& Запрещено создавать
+  конструкции, содержащие NSFW/оскорбительные материалы.\n&7Эти правила распространяются
+  на знаки и письменные книги!"
+8a642cab-369c-4735-9e70-a2c3683de3f3.cmd.rules.server.3-3: "&7& Возврат денег за покупки
+  в магазине запрещен\n&7& И повлечет за собой немедленный бан навсегда с нашего\n\
+  &7server."
+5b76be6e-33bd-4587-8c1a-38558d193343.cmd.rules.global.2-2: "&7&ІВаш скин для Minecraft
+  должен соответствовать всем нашим правилам.\n&7Пожалуйста, не носите такие скины:\n
+  &8♢ &fpornography Skin (Sexual Skin, etc.)"
+36a17ccd-2e01-4ffb-a5b3-62ce5497b83e.cmd.ref.20.title: '&bRanks'
+4c722657-574d-42c8-9ebb-ba1f1f75f15e.cmd.event.items.desc: "&bDescription\n &b| &7Только
+  некоторые игроки\n &b| &7могут получить эти предметы.\n &3| &fНажмите для просмотра.\n
+  &bИнформация\n &8▪ &7Предметы: &fНекоторые из них хороши!"
+21d44bec-413d-43d7-9c4d-51cd929e2e62.cmd.ref.29: '&7Ваш ранг - &f'
+2e4d0d9b-2a8a-4d92-926d-0044fd61f63b.cmd.event.noevent.title: '&cВ настоящее время
+  событие отсутствует'
+17393372-f0b9-402e-ba1b-387b691d9735.npc.lobby.tilgis.l4: '&7Players: &f%pinger_players_mc1.storagedata.xyz:25255%'
+55654b90-7953-493a-a7bc-85a9549820ea.cmd.main.title.31: '&b&lEvent'
+67a460c3-1846-4ad5-a417-d24fc239e21d.cmd.rules.global.2-3: "&7& Запрещено выдавать
+  себя за сотрудников, используя скины,\n&7&lt- Запрещено выдавать себя за сотрудников
+  с помощью скинов, игровых имен или сообщений в чате.\n&7 Это включает в себя &nMini-Modding&7!"
+558124b9-93a7-4303-8c9e-ceb6d4e06e67.cmd.red.29.done: '&cНет возможности обновления
+  в настоящее время.'
+6b6bf5cb-070e-434e-a22f-ced704ce1e2e.cmd.ref.4.title: '&bYour referral stats'
+7ceb327f-60ea-4484-a2da-5869cbf224c0.cmd.event.items: '&b&lБесплатные предметы&7 (не
+  помешало бы!)'
+2c6b7471-9cdf-4f64-8ed5-4c215e81028b.cmd.settings.title.s16: '&bMob Holograms &8|
+  &7[Toggle]'
+05b254c0-bfbf-4df8-bedf-0ca2693469cb.cmd.warps.farm-server.title: '&bFarming Server'
+1cd25a26-fd54-4ba0-93a5-3d79262669e0.cmd.main.title.s44: '&b&lРефераты'
+71606dcd-bd52-4da2-b31e-004d56047155.cmd.event.xp.desc: "&bDescription\n &b| &7Получите
+  несколько xp\n &b| &7В качестве бонуса к событию ☺.\n &3| &fНажмите для просмотра.\n
+  &bИнформация\n &8▪ &7XP: &f250"
