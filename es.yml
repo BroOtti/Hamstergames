@@ -11,7 +11,7 @@ fdd6351d-20ff-4796-956e-09507bfd9dbb.SuperVanishMessages.OnVanish: '&b&l%1 &8&l�
   eres invisible!'
 d2aba586-1e12-48c1-8109-830f2171d3f0.deathmessages.Mobs.pigzombie.Gang.Weapon.0: "¡%1
   fue asaltado por unos %2! Uno los golpeó con %3"
-18178a0a-0ba6-4424-8581-35a862c9d409.ib.tilgis.your-stats: '&fYour Stats'
+18178a0a-0ba6-4424-8581-35a862c9d409.ib.tilgis.your-stats: 'Tus estadísticas'
 5ab4a572-4de1-49ce-b6c1-9d6f50ff8571.deathmessages.Mobs.endermite.Solo.Melee.0: '%1
   fue asesinado por un %2'
 7aeed6b5-e26e-43a5-bd15-8ca805ba39a4.lands.messages.lands.command.relations.allies.remove.broadcast: '&7%1
@@ -233,7 +233,8 @@ f92649af-7e51-407f-b32e-4fc40ec4d41b.excellentcratesEditor.CrateEditorType.CRATE
   de la pantalla'
 fea814d5-3f2d-4347-a06b-443f7ade3963.menu.farm.normal.normal.lore: "§eNormal Overworld
   Farmworld\n\n§2Beneficios:\n§Graves\n§Dificultad media\n§aAlgunos minerales\n\n
-  §4Desventajas:\n§No hay estructuras\n§No todos los minerales\n§cNo hay encantamientos"
+  §4Desventajas:\n§No hay estructuras\n§No todos los minerales\n§No hay encantamientos\n
+  §Costes: 4150"
 5aa35e56-d2b2-4694-9c26-235d6b195b08.deathmessages.Mobs.creeper.Solo.Explosion.0: '%1
   fue volado por un %2'
 d3f79d06-b9dd-4982-86c3-05f6ace11245.deathmessages.Mobs.rabbit.Gang.Melee.0: "%1 fue
@@ -534,7 +535,7 @@ c8570235-c7e6-4098-aa90-f88602672eec.deathmessages.Basic-Mode.Gang.Magic.0: "%1 
 cb255b02-eb0b-4294-a8c4-bd2b4d7375b1.tempflycommand.unit.days.tab_complete: día
 3b65d987-60c9-458a-bb1d-2a2c86bc519d.menu.farm.end.normal.lore: "§eNormal Fin Farmworld\n
   \n§2Beneficios:\n§aGraves\n§aDificultad Media\n\n§4Desventajas:\n§No hay estructuras\n
-  §No hay huevos de dragón\n§No hay encantamientos"
+  §No hay huevos de dragón\n§No hay encantamientos\n§Coste: 4150"
 dc8147b2-88a1-402d-8129-918ba7c84bcd.deathmessages.Mobs.snowman.Solo.Melee.0: '%1
   fue asesinado por un %2'
 96819d33-756d-477d-8472-b2a8493fdfb4.PlayerParticlesdata-usage-vibration: '&7El efecto
@@ -1391,7 +1392,7 @@ b098760e-be5f-463a-93c1-90570f091bbf.deathmessages.Mobs.wither.Solo.Projectile-F
   de la tarifa'
 639bab74-b8b9-48a8-870b-e691b9ab2301.PlayerParticlesedit-success-style: '&7¡Su partícula
   con un ID de &b%1 &7ha cambiado su estilo a &b%2&7!'
-845f077a-e931-4a1f-9896-e6de1afbab28.sunlight.afk.end: is no longer AFK
+845f077a-e931-4a1f-9896-e6de1afbab28.sunlight.afk.end: ya no está AFK
 cdde693a-281a-4a25-8b01-085fa63ec8bf.deathmessages.Mobs.skeleton.Solo.Weapon.0: '%1
   fue asesinado por un %2 de alguna manera usando %3'
 bcf3f34e-9469-4a58-9bf5-1da7ca66caf3.lands.messages.lands.command.rent.set.sold: "&cNo
@@ -1444,9 +1445,9 @@ d096d45a-97d3-487c-994e-6fc1e3f95767.deathmessages.Mobs.piglinbrute.Gang.Weapon.
 98b6ec5b-d351-4020-ae6b-ec32a3c0c195.cmd.main.title.s21: '&b&lRecompensaDelDía &7Premio'
 77a46af2-340f-4ee5-a0c3-63b2b4e6eaec.lands.messages.lands.command.leave.owner: "&cNo
   puedes abandonar este terreno. &7Como propietario de un terreno puedes borrarlo
-  o simplemente transferir la propiedad.\n [T]&c✘ Borrar &8[&8CLICK&8][C]tierras borrar[/C][H]&7Click
-  para borrar tierras&2 %1&7.[/H][/T]\n  [T]&2✔ Transferir propiedad &8[&8CLICK&8][SC]tierras
-  setowner [/SC][H]&7Click para copiar este comando.[/H][/T]\n"
+  o simplemente transferir la propiedad.\n [T]&c✘ Borrar &8[&8CLICK&8][C]borrar tierras[/C][H]&7Haz
+  click para borrar tierras&2 %1&7.[/H][/T]\n  [T]&2✔ Transferir propiedad &8[&8CLICK&8][SC]tierras
+  setowner [/SC][H]&7Click para copiar\neste comando.[/H][/T]\n"
 f3d46a88-7c0e-4f64-a47b-57f74cd8362c.lands.messages.general.prefix.help: '&b&lʟᴀɴᴅs
   &8&l| &7Uso: '
 98e04f2c-c33c-4fdc-8409-61f95d5d201f.lands.messages.help.command.lands.unban: '[T]&e%1
@@ -1479,11 +1480,11 @@ bed33c40-df74-48f5-a21e-684c31ff0ff3.excellentcratesEditor.CrateEditorType.CRATE
 eedabf67-e380-4d7e-a0ad-485b9c69215d.deathmessages.Custom-Mobs.Mythic-Mobs.SkeletalMinion.Solo.Projectile-Arrow.0: '%1
   fue disparado por %2'
 c149e37c-62d2-4bd6-b4a0-d3c77a5a3dbd.lands.messages.lands.command.assign.confirm: "&cSu
-  selección tiene una altura baja. &7Las subáreas, a diferencia de las reclamaciones,
-  tienen una altura y no se extienden de abajo a arriba por defecto.\n  [T] &7✖ Continuar:
-  &e/%1 &8[CLIC][H]&7Haga clic aquí para continuar.[/H][C]%2[/C][/T]\n  [T] &7✖ Expandir
-  completamente: &e/%3 &8[CLIC][H]&7Haga clic aquí para expandir la selección desde
-  la parte inferior hasta la superior de la reclamación.[/H][C]%4[/C][/T]\n"
+  selección tiene poca altura. &7Las subáreas, a diferencia de las reclamaciones,
+  tienen una altura y no se extienden de abajo arriba por defecto.\n  [T] &7✖ Continuar:
+  &e/%1 &8[CLICK][H]&7Haga clic aquí para continuar.[/H][C]%2[/C][/T]\n  [T] &7✖ Expandir
+  completamente: &e/%3 &8[CLIC][H]&7Haga clic aquí para expandir la selección desde\n
+  la parte inferior a la superior de la reclamación.[/H][C]%4[/C][/T]\n"
 065a1e9f-0698-4b20-ba26-66085d6148c2.lands.messages.help.command.lands.selection.main: '[T]&e%1
   %2 %3 &8- &7Modo de selección[H]&7Con este comando puedes redimensionar una subárea
   o expandir tu selección a infinitos niveles y. &7Clic para ejecutar.[/H][C]%4[/C][/T]'
@@ -1496,7 +1497,7 @@ c149e37c-62d2-4bd6-b4a0-d3c77a5a3dbd.lands.messages.lands.command.assign.confirm
   place capture flag here. &7Ya hay una bandera de captura colocada en este chunk."
 da775029-333e-4026-ae09-d5086b654adf.menu.farm.nether.hard.lore: "§4Hard Nether Farmworld\n
   \n§2Beneficios:\n§Todos los minerales\n§Estructuras\n\n§4Desventajas:\n§Dificultad\n
-  §El inventario se cae al morir\n§No hay encantamientos"
+  §El inventario se cae al morir\n§No hay encantamientos\n§Cuesta 4500"
 2a5b98ee-3537-4f8b-9e6a-f1c682dbf3a0.triton.selector-gui-name: '&bSeleccione un idioma'
 97477f6f-1f60-4eb8-bb84-5c8ee1db7936.excellentcratesEditor.Crate.BlockPushback.Lore.1: '#bdc8c9de
   vuelta del bloque de cajas cuando'
@@ -2185,8 +2186,8 @@ e0574790-b1f1-4125-aa90-bae69b0aea7d.tempflycommand.base.bypass.0: bypass
   de bloque'
 285c58c0-ca73-4f7c-bbcd-cbbc5f41eaad.lands.messages.lands.command.relations.allies.add.nation: "&cNo
   puedes entrar en alianza con tierra&4 %1&c. &7La tierra está gobernada por nación&9
-  %2&7.\n [T]&7✖ Enviar solicitud de alianza a nation&9 %3 &7en lugar de: &e/%4 &8[CLICK][H]&7Haz
-  clic aquí para enviar una solicitud de alianza a nation&9 %5&7.[/H][C]%6[/C].[/T]\n"
+  %2&7.\n  [T]&7✖ Enviar solicitud de alianza a nation&9 %3 &7en lugar de: &e/%4 &8[CLICK][H]&7Haz
+  click\naquí para enviar una solicitud de alianza a nation&9 %5&7.[/H][C]%6[/C][/T]\n"
 f5a0be37-15f1-4c89-980c-df5dc4759132.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.4: '#ffed6a&lCorriente:'
 c83c5797-2dd7-434d-a604-ecee3c0c6301.PlayerParticlesremove-style-none: '&7¡No tiene
   ninguna partícula aplicada con el estilo &b%1&7!'
@@ -2358,7 +2359,7 @@ f441c016-6b8b-463d-b492-5dca45898ec3.lands.messages.help.command.lands.admin.pla
 3b65fdee-b474-41e5-8cdc-f968b28a4ff3.deathmessages.Natural-Cause.Custom.0: '%1 murió
   de una manera única'
 69cb362f-f1a5-4c66-91b2-1c666300a012.cmd.main.desc.s4: "&bInformación:\n &8| &7Rango:
-  &b%formatter_text_replace_&__{luckperms_prefix}%%\n &8| &7Tiempo de juego: &b%plan_jugador_tiempo_total%%."
+  &b%1\n &8| &7Tiempo de juego: &b%2"
 2514638a-acf6-42b8-982d-b780d5fcb490.PlayerParticlesgui-edit-data-description: '&bClick
   &8|&7 editar los datos de esta partícula'
 b74e6675-3e2b-4481-b459-78dda018fb74.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Name: '#ffed6a&lBloque
@@ -2652,9 +2653,9 @@ d9ebaf87-9072-4692-977a-2a4cadf7df40.deathmessages.Mobs.enderman.Gang.Projectile
   se puede asignar la selección a un área por defecto. &7Las áreas se pueden borrar
   en el menú de áreas del terreno."
 4e1d4ff5-418b-4641-af95-087c6e03589f.menu.farm.nether.normal.lore: "§eNormal Nether
-  Farmworld\n\n§2Beneficios:\n§Graves\n§Dificultad media\n§Mineral de oro + Mineral
-  de cuarzo\n\n§4Desventajas:\n§No hay estructuras\n§No hay escombros antiguos\n§No
-  hay encantamientos"
+  Farmworld\n\n§2Beneficios:\n§Graves\n§aDificultad Media\n§Mineral de oro + Mineral
+  de cuarzo\n\n§4Desventajas:\n§No hay estructuras\n§No hay restos antiguos\n§Sin
+  encantamientos\n§Costes: 4150"
 654bc188-c5d9-439d-a95f-b87d4cfce709.PlayerParticlesgroup-no-name: '&7¡No ha indicado
   el nombre del grupo! &b/pp &3%1 <nombredelgrupo>'
 751dfcc2-42d4-430f-9503-ab56d5ab7129.PlayerParticlesdata-invalid-block: '&7¡Los datos
@@ -2700,7 +2701,7 @@ c1db505d-9a13-49e0-8853-873e5d06b905.cmd.main.title.s25: '&b&lWarps'
 9957252b-687d-4801-8fcc-52d9ad4f337b.tab.ani.3.2: ¡&fCᴜʀʀᴇɴᴛʟʏ ᴘʟᴀʏɪɴɢ ᴏɴ ᴛɪʟɢɪs!
 ccfacc5f-59f0-4636-9914-4657c596972b.deathmessages.Mobs.blaze.Gang.Weapon.0: "¡%1
   fue asaltado por unos %2! Uno los golpeó con %3"
-89d69e4e-13ce-4196-8cf1-d68d8fe4c4b1.ib.tilgis.topic: '&fCurrent Topic'
+89d69e4e-13ce-4196-8cf1-d68d8fe4c4b1.ib.tilgis.topic: '&fTema actual'
 fa3c8281-71f1-404e-bfa7-61cf0b8a410a.deathmessages.Mobs.panda.Solo.Melee.0: '%1 fue
   asesinado por un %2'
 11fc82e4-0449-4bdf-a829-dc40d69b1dfd.cmd.settings.desc.unknown.s40: "\n&bDescripción:\n
@@ -2846,13 +2847,13 @@ f7fbf7fe-76a8-4888-89be-3197f2a0cbb5.mpdb.armorSyncBackup: '&6[!] &e¡Restaurada
 a8ae3b05-2593-45db-8050-d8429f8dcb65.lands.messages.help.command.lands.rent.main: '[T]&e%1
   %2 %3 &8- &7Gestionar alquiler[H]&7Gestiona la zona alquilada en tu posición actual.
   &7Haz clic para copiar.[/H][SC]%4[/SC][/T]'
-01e603ed-9e16-4ce9-a8ea-dac424f5f526.cmd.main.desc.s43: "Descripción\n &b| &7Dona
-  por nuestro servidor y desbloquea\n ventajas especiales ☺\n &3| &fHaga clic para
-  ver.\n&bInformación\n &8▪ &7Rango: &f%formatter_text_replace_&__{luckperms_prefix}%%."
+01e603ed-9e16-4ce9-a8ea-dac424f5f526.cmd.main.desc.s43: "Descripción\n &b| &7Juega
+  en nuestro servidor y desbloquea\n &b| &7a ventajas especiales ☺\n &3| &fHaz clic
+  para ver.\n&bInformación\n &8▪ &7Rango: &f%1"
 9210728a-8ea8-4543-9cfe-ccc6a9fea0da.lands.messages.help.command.lands.withdraw: '[T]&e%1
   %2 %3 &8- &7Retirar dinero[H]&7Clic para copiar.[/H][SC]%4[/SC][/T]'
-e3aef2bf-dc6d-4218-af55-a0ec3804ba54.ib.tilgis.top-stats.title: '&fChoose a Statistic
-  you want to see'
+e3aef2bf-dc6d-4218-af55-a0ec3804ba54.ib.tilgis.top-stats.title: '&fElija la estadística
+  que desea ver'
 91969594-74a5-4bfa-b8ff-903f1b6e2153.excellentcratesCommand.Key.Set.Done: '#d4d9d8Set
   #fdf35ex%1#d4d9d8 de #fdf35e%2#d4d9d8 clave(s) para #fdf35e%3#d4d9d8.'
 04b53dee-4696-4231-898e-962610fa2a54.mpdb.armorSyncError: '&4[ADVERTENCIA] &c¡Error
@@ -3099,8 +3100,8 @@ f0754c98-ae28-4735-bbd9-2db7b7cf8f57.deathmessages.Mobs.husk.Solo.Weapon.0: '%1 
   asesinado por un %2 de alguna manera usando %3'
 4911f93f-4e1f-4b72-906b-495d26b272a3.lands.messages.help.command.lands.unclaim.all: '[T]&e%1
   %2 &8- &7Reclamar todos los trozos[H]&7Clic para copiar.[/H][SC]%3[/SC][/T]'
-ec742b0e-d03a-4eb8-87af-bd73642ee30a.cmd.kits.choose.title.s24: '&b⌘ &8| &bDonator
-  Kit'
+ec742b0e-d03a-4eb8-87af-bd73642ee30a.cmd.kits.choose.title.s24: '&b⌘ &8| &bKit para
+  jugar'
 cc8cc9bd-dff4-4ffb-9baf-d9ab432a18d1.deathmessages.Mobs.silverfish.Solo.Weapon.0: '%1
   fue asesinado por un %2 de alguna manera usando %3'
 ef742849-3b8a-4028-9ce6-8538d439ffa1.gsitMessages.action-crawl-region-error: "[P]&7
@@ -3427,8 +3428,8 @@ e1f93182-2f71-4b63-9d81-b3e61a31594c.lands.messages.lands.command.spawn.chunk: "
   you to the initial claim of this land."
 65adbf27-2d9f-4c0e-bb73-fced33048515.lands.messages.lands.command.claim.create.force_near: "&7Creado
   automáticamente un nuevo land&2 %1&7, porque el anterior no estaría conectado a
-  esta reclamación.\n [T]&7✖ Renombrar: &e/lands rename &8<&ename&8> &8[&8CLICK&8][SC]lands
-  rename[/SC][H]&7Click para copiar este comando.[/H].[/T]\n"
+  esta reclamación.\n  [T]&7✖ Renombrar: &e/lands rename &8<&ename&8> &8[&8CLICK&8][SC]lands
+  rename[/SC][H]&7Click\npara copiar este comando[/H][/T].\n"
 ff99cd47-ad39-4b94-a595-e949fed79611.lands.messages.lands.command.wild.no-location: "No
   se ha podido encontrar una ubicación segura para ti que coincida con el filtro de
   la configuración. Por favor, ajusta la distancia máxima y mínima y configura el
@@ -3481,8 +3482,8 @@ ffc14298-9afc-4987-a754-30b2468e2091.excellentcratesEditor.CrateEditorType.REWAR
   has especificado un ID al que teletransportarte!'
 377bd7fe-e6a4-4e5b-90ce-21323670f682.lands.messages.lands.command.relations.enemies.add.nation: "&cNo
   puedes declarar tierra&4 %1 &como enemigo. &7La tierra está gobernada por nación&9
-  %2&7.\n [T]&7✖ Declara nación&9 %3 &7enemiga en su lugar: &e/%4 &8[CLICK][H]&7Haz
-  clic aquí para declarar nación&9 %5 &7enemiga.[/H][C]%6[/C][/T]\n"
+  %2&7.\n  [T]&7✖ Declara nación&9 %3 &7enemiga en su lugar: &e/%4 &8[CLICK][H]&7Click
+  aquí\npara declarar nación&9 %5 &7como enemiga.[/H][C]%6[/C][/T]\n"
 ccac4b2b-1014-4746-a006-44636565b55c.deathmessages.Mobs.tropicalfish.Gang.Weapon.0: "¡%1
   fue asaltado por unos %2! Uno los golpeó con %3"
 9103bc33-b5c0-472c-8609-abd7d410b8cf.tempflysystem.help_extended.0: '&6/tf dar [jugador]
@@ -3542,7 +3543,7 @@ e52dd131-45c3-4c25-878d-aab1dc29e248.menu.bank.menu.withdraw: "\nDescripción\n&
   del banco.\n\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 39d91c30-f49d-4490-a625-617601c4c4f4.PlayerParticlesgui-active-particles: '&fPartículas
   activas:&b %1'
-7c045743-08d7-4923-9947-d2514cd2a97f.sunlight.afk.now: is now AFK.
+7c045743-08d7-4923-9947-d2514cd2a97f.sunlight.afk.now: está ahora AFK.
 c980cae0-da82-4e23-8653-ec3fe635c226.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.9: '#bbff6a&lAcciones:'
 f0ad6bf4-bdb9-441a-b8e3-06c7a7c968db.deathmessages.Mobs.warden.Solo.Melee.0: '%1 fue
   asesinado por %2'
@@ -3721,7 +3722,7 @@ d002c613-8700-4f16-bf18-bd447695920e.deathmessages.Mobs.player.Solo.Wither.0: "%
 0d45659f-635f-4a37-b20b-d23824dc63bf.PlayerParticlesgui-back-button: '&b&l← &bGoBack'
 2e598fcf-77bd-4d07-907c-6d9086e8f115.deathmessages.Mobs.villager.Solo.Melee.0: '%1
   fue asesinado por un %2'
-35731dcc-e6aa-4ce9-bf03-bae84b51e9d7.ib.tilgis.stats: '&fYour Stats'
+35731dcc-e6aa-4ce9-bf03-bae84b51e9d7.ib.tilgis.stats: 'Tus estadísticas'
 68ec60d2-3182-4c9c-9147-592851421e10.deathmessages.Mobs.illusioner.Solo.Weapon.0: '%1
   fue asesinado por un %2 de alguna manera usando %3'
 fd778bb4-4fde-4998-b89e-d11b72e93c43.lands.messages.help.command.lands.admin.debug: '[T]&e%1
@@ -4145,7 +4146,7 @@ f8d421e0-cf6f-42fc-aa32-7136a20b4735.cmd.farmworlds.time.o.easy: '§x§5§E§9§
   &8- %1&8: %2'
 43d3c66b-316c-44eb-ac66-d2e4884dc692.menu.farm.normal.hard.lore: "§4Hard Overworld
   Farmworld\n\n§2Beneficios:\n§aEstructuras\n§Todos los minerales\n\n§4Desventajas:\n
-  §Dificultad\n§El inventario se cae al morir\n§No hay encantamientos"
+  §Dificultad\n§El inventario se cae al morir\n§No hay encantamientos\n§Cuesta 4500"
 b75f4151-7d47-436f-82b0-6c2fe12fbddc.excellentcratesEditor.Crate.Enter.AnimationConfig: '#d4d9d8Enter
   #aefd5e[Nombre de la animación]'
 c792b99a-8aad-48eb-9c25-28958534d4ac.lands.messages.general.command.argument.optional: '&8<&e%1&8>'
@@ -4233,10 +4234,10 @@ a6eea5dd-f2bb-44d9-9042-3434b9440710.deathmessages.Mobs.husk.Gang.Projectile-Arr
   fue atacado por unos %2! Uno les disparó con %3'
 cbe4898b-f698-47ee-866a-a7f02b722b74.deathmessages.Mobs.villager.Solo.Melee.0: '%1
   fue asesinado por un %2'
-74ac4ae6-a755-404e-a1a0-7facdd46fa89.lands.messages.lands.command.claim.create.auto: "&7Creaste
-  automáticamente una nueva tierra&2 %1&7, porque no tenías ninguna para la que pudieras
-  reclamar.\n [T]&7✖ Renombrar: &e/lands rename &8<&ename&8> &8[&8CLICK&8][SC]lands
-  rename[/SC][H]&7Click para copiar este comando.[/H].[/T]\n"
+74ac4ae6-a755-404e-a1a0-7facdd46fa89.lands.messages.lands.command.claim.create.auto: "&7Creado
+  automáticamente un nuevo land&2 %1&7, porque no tenías ninguno para el que pudieras
+  reclamar.\n  [T]&7✖ Renombrar: &e/lands rename &8<&ename&8> &8[&8CLICK&8][SC]lands
+  rename[/SC][H]&7Click\npara copiar este comando[/H][/T].\n"
 06243861-9295-4d0d-8a93-4361b2678a41.excellentcratesEditor.Crate.Enter.Block.Hologram.Text: '#d4d9d8Enter
   #aefd5e[Texto]'
 c1f73575-302e-41ff-8749-714f5ae90f33.deathmessages.Mobs.vex.Gang.Projectile-Arrow.0: '¡%1
@@ -4291,9 +4292,9 @@ c5d3d9a3-3875-41a3-aba0-4e70d0a79ec8.excellentcratesEditor.CrateEditorType.CRATE
 47d7511b-dd43-41c5-9e94-076e082373ec.lands.messages.wars.command.declare.mutual.target: "&7El
   enemigo %1 &7envía una declaración de guerra contra %2 &8(&7YOU&8)&7. &7Si los defensores
   se rinden durante la guerra, tendrán que pagar&c %3 &7a los atacantes.\n [T]&2✔
-  Aceptar &8[&8CLICK&8][H]&7Haz clic aquí para aceptar la declaración de guerra.[/H][C]wars
-  declare %4[/C][/T]\n [T]&c✘ Denegar &8[&8CLICK&8][H]&7Haz clic aquí para denegar
-  la declaración de guerra.[/H][C]wars deny[/C][/T]\n"
+  Aceptar &8[&8CLICK&8][H]&7Haz clic aquí para aceptar la declaración de guerra.[/H][C]guerra\n
+  declarar %4[/C][/T]\n [T]&c✘ Denegar &8[&8CLICK&8][H]&7Haga clic aquí para denegar
+  la declaración de guerra.[/H][C]wars\nnegar[/C][/T]\n"
 7eb7e520-7c3f-47cd-bd4c-c2eb63827bc7.gsitMessages.action-crawl-world-error: "[P]&7
   ¡No puedes arrastrarte en este mundo!"
 7205c862-0750-4912-85b2-9d8862c6e16c.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.2: '#bdc8c9y
@@ -4410,9 +4411,9 @@ b6df58af-c776-4241-a9d9-24783d0a0601.lands.messages.lands.command.leave.area.suc
 354cc497-6ffa-4c7e-9fd5-dcd1c9afe0ad.deathmessages.Mobs.pillager.Gang.Melee.0: "%1
   fue asesinado por un grupo de %2"
 8da13c26-17af-4a74-8ec6-423ba689ac6c.lands.messages.lands.command.merge.nation: "&cNo
-  puedes fusionar tierra&4 %1 &cinto&4 %2&c. &7Tierra&2 %3 &7es la capital de la nación&9
-  %4&7.\n [T]&7✖ Cambiar capital: &e/nations setcapital &8<&eland&8>[H]&7Haz clic
-  aquí para cambiar la capital de la nación. Esto te permitirá fusionar tierras %5.
+  puedes fusionar land&4 %1 &cinto&4 %2&c. &7Land&2 %3 &7es la capital de nation&9
+  %4&7.\n  [T]&7✖ Cambiar capital: &e/nations setcapital &8<&eland&8>[H]&7Haz clic
+  aquí para cambiar\nla capital de la nación. Esto te permitirá fusionar tierras %5.
   Haz clic para copiar.[/H][SC]nations setcapital[/SC][/T]\n"
 e25a9d33-bd4d-42f8-b631-5e95ef6704d7.lands.messages.general.inbox.relation.enemy.offer: '&7%1
   &7quiere ser neutral con nosotros.'
@@ -4505,7 +4506,8 @@ a7204c68-5863-49b6-b030-2462da052011.cmd.settings.desc.true.s22: "\n&bInformaci�
   &b| &7Estado: &a&l✔ &aHabilitado\n &b| &7Toggle: &bChat\n\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ"
 f4196f9b-d12c-429d-bb45-f5998d489e91.menu.farm.normal.easy.lore: "§2Fácil Overworld
   Farmworld\n\n§2Beneficios:\n§aMantener inventario\n§Dificultad fácil\n§Minerales
-  básicos\n\n§4Desventajas:\n§cNo Strucutres\n§No hay minerales\n§cSin encantamientos"
+  básicos\n\n§4Desventajas:\n§No hay estructuras\n§Casi no hay minerales\n§No hay
+  encantamientos"
 404d4b93-c4c9-405e-981c-e37b23ec85f1.tempflycommand.unit.seconds.recognized.1: sec
 fb33581a-2a23-46b8-b406-11624b256412.deathmessages.Mobs.bat.Gang.Weapon.0: "¡%1 fue
   asaltado por unos %2! Uno los golpeó con %3"
@@ -4711,7 +4713,7 @@ efaf23c5-6744-4cd2-b075-8e32b91c09d6.tab.ani.2.3: '&fᴘᴜʀᴄʜᴀꜱᴇ ᴄ�
   #bdc8c9Left-Click: #bbff6aCambiar'
 a0c64a09-8a8f-4129-b65b-1d5e31773285.cmd.links.desc.s29.2: "&f\n§x§7§2§8§9§d§aDescripción\n
   §x§7§2§8§9§d§a| &7Haga clic para vincular su\n §x§7§2§8§9§d§a| &7¡Perfil de discordia!\n
-  &f\n §x§7§2§8§9§d§a&l| #7289daᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+  &f\n§x§7§2§8§9§d§a&l| §x§7§2§8§9§d§aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 e651a801-44e2-4187-a743-848ad6fb9d06.cmd.settings.title.true.s24: '&bVoto Emisión
   &8| &7[Activado]'
 5911ef87-c0a7-4d39-8586-cba422609708.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Name: '#ffed6a&lArtículos
@@ -4933,7 +4935,7 @@ c5f46110-b284-430c-b7c8-ce4ac2b61c66.deathmessages.Mobs.cat.Solo.Melee.0: '%1 fu
   &f%2 &7es la altitud máxima de vuelo!'
 56e18f77-4814-4516-a4b2-054e4953ee0a.cmd.links.desc.s29.3: "&f\n§x§7§2§8§9§d§aDescripción\n
   §x§7§2§8§9§d§a| &7Haga clic para desvincular su\n §x§7§2§8§9§d§a| &7¡Perfil de discordia!\n
-  &f\n §x§7§2§8§9§d§a&l| #7289daᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+  &f\n§x§7§2§8§9§d§a&l| §x§7§2§8§9§d§aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 3aa031d4-8d2a-4782-bc0d-2b78755f5deb.lands.messages.lands.command.delete.confirm: "&7Por
   favor, confirme la eliminación de tierras&2 %1 &7haciendo clic a continuación:\n
   [T]&2✔ Confirme: &e/%2 &8[CLICK][H]&7Haga clic aquí para confirmar esta acción.[/H][C]%3[/C][/T]\n"
@@ -4947,7 +4949,7 @@ c5f46110-b284-430c-b7c8-ce4ac2b61c66.deathmessages.Mobs.cat.Solo.Melee.0: '%1 fu
   <0-255> <0-255>|<&brainbow>|<random> <<0-255> <0-255> <0-255>|<rainbow>|<random>'
 b21f6736-414b-42e6-8722-b9f0934fc4d3.deathmessages.Mobs.cow.Gang.Melee.0: "%1 fue
   asesinado por un grupo de %2"
-fdfa5f9b-2699-4570-b8e1-7a828300108d.cmd.main.title.s43: 'Donante'
+fdfa5f9b-2699-4570-b8e1-7a828300108d.cmd.main.title.s43: '&b&lHora de jugar'
 40f46b5d-ac9c-48fd-b654-6f32b40346ff.gsitMessages.command-gcrawl-toggle-on: '[P]&a
   Has activado la doble visión para el rastreo.'
 8e094cc8-56b3-4d4a-b6fa-065329fcd90c.cmd.settings.desc.false.s20: "\n&bInformación:\n
@@ -5207,7 +5209,7 @@ c9a90f19-90e4-49f7-ab75-1b520fbc4a99.lands.messages.lands.command.merge.connecti
   fue volado por un %2'
 c43e58a9-4f9f-4510-bddf-f95bebf08c10.cmd.main.desc.s16: "&bDescripción\n &b| &7Ver
   sus kits disponibles o\n &b| &7¡Reclame, & previsualice un kit!\n &3| &fHaga clic
-  para ver.\n &bInformación\n &8▪ &7Gratis: &f1\n &8▪ &7Premium: &f6"
+  para ver.\n&bInformación\n &8▪ &7Gratis: &f1\n &8▪ &7Tiempo de juego: &f6"
 14a5191b-c1c9-465e-ac63-0075d82a8b68.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.1: '#bdc8c9orden
   especificado.'
 d3c79301-0f7e-4e06-ab5a-dd43e96563b7.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.3: '#ffed6a&lCorriente:'
@@ -5808,9 +5810,9 @@ b86d7ea2-7b27-470c-9990-577833ca0a21.lands.messages.general.inbox.war.end.won: "
 6abc5e48-9341-40ba-8667-2761cd9ac40d.lands.messages.lands.command.rent.remove.tenant.success: '&7Retiró
   al arrendatario&3 %1 &7de la zona&6 %2 &7de tierra&2 %3 &7y pagó&c %4 &7como indemnización.'
 ec1f148b-1533-4624-9d81-755eabea8a39.lands.messages.lands.command.trust.land.banned: "&cNo
-  puedes confiar en el jugador&4 %1&c en la tierra&4 %2&c. &7Está baneado en toda
-  la tierra.\n [T]&2✔ Desbanear: &e/%3 &8[&8CLICK&8][H]&7Haz click aquí para desbanear
-  a este jugador de toda la tierra.[/H][C]%4[/C][/T]\n"
+  puedes confiar en el jugador&4 %1&c en la tierra&4 %2&c. &7Están baneados en toda
+  la tierra.\n  [T]&2✔ Desbanear: &e/%3 &8[&8CLICK&8][H]&7Haz click aquí para desbanear
+  a este jugador de toda la tierra.\ntoda la tierra.[/H][C]%4[/C][/T]\n"
 dae5fb78-1a7f-4e84-a6c7-a0731e8f8c67.deathmessages.Mobs.squid.Gang.Melee.0: "%1 fue
   asesinado por un grupo de %2"
 f7c32ec2-0cc8-460f-8018-229a43ace722.lands.messages.help.command.wars.info: '[T]&e%1
@@ -6043,7 +6045,7 @@ ff27de84-304a-4e50-8320-80910e4ece70.excellentenchantmentsCommand.Book.Usage: '%
   %2 %3'
 4fd261fc-18a4-40e6-83cc-4bb64836e1f1.menu.farm.end.hard.lore: "§4Hard End Farmworld\n
   \n§2Beneficios:\n§aEstructuras\n\n§4Desventajas:\n§cDificultad\n§cEl inventario
-  se cae al morir\n§No hay huevos de dragón\n§No hay encantamientos"
+  se cae al morir\n§No hay huevos de dragón\n§No hay encantamientos\n§Cuesta 4500"
 c3b03270-e48f-44a7-be4d-0806b02ffb3f.deathmessages.Mobs.irongolem.Gang.Melee.0: "%1
   fue asesinado por un grupo de %2"
 6c7dcdb4-bbbd-48c2-be9e-d998088d1bc7.deathmessages.Mobs.turtle.Solo.Projectile-Arrow.0: '%1
@@ -6154,7 +6156,7 @@ b9d04968-f4f0-440d-b03d-ed3b4255ca9d.deathmessages.Mobs.donkey.Solo.Projectile-A
 ad0bd8e3-1d47-4eff-907f-f2de589abf3c.PlayerParticlesfixed-edit-style-non-fixable: '&7No
   se puede editar el efecto fijo, el estilo &c%1 &7¡no se puede utilizar en efectos
   fijos!'
-e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '§7Land:'
+e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '§7Tierra:'
 b811b891-d657-4489-b599-865516d5101a.PlayerParticlesfixed-edit-invalid-coords: '&7¡No
   se puede editar el efecto fijo, una o más coordenadas introducidas no son válidas!'
 e5b2aad3-30d2-4c11-9cb1-44e134802531.lands.messages.lands.command.view.area: "[NoPrefix]\n
@@ -6197,7 +6199,7 @@ e96d92ed-52b8-47d5-903a-b2f497562538.lands.messages.general.inbox.relation.ally.
   fue asaltado por unos %2! Uno los golpeó con %3"
 81f218fd-32f6-4847-ab4a-07b629bd5a11.deathmessages.Mobs.bee.Gang.Projectile-Arrow.0: '¡%1
   fue atacado por unos %2! Uno les disparó con %3'
-793e3cbb-0457-4766-a09e-99a86a2963c9.ib.tilgis.top-money-server: '&fServer Money'
+793e3cbb-0457-4766-a09e-99a86a2963c9.ib.tilgis.top-money-server: '&fServidor Dinero'
 c3a658cb-8d1a-46ec-9a3b-b5d46875ea52.deathmessages.Mobs.zombiehorse.Gang.Weapon.0: "¡%1
   fue asaltado por unos %2! Uno los golpeó con %3"
 a0aef7e0-24dd-404c-9d90-caa79e9665cb.deathmessages.Mobs.elderguardian.Solo.Projectile-Arrow.0: '%1
@@ -6244,10 +6246,10 @@ f7d49d63-f40c-405c-abb2-77ecb63b9953.deathmessages.Mobs.player.Gang.Projectile-A
   fue disparado por un %2 de alguna manera usando %3'
 0026fcfa-af91-4b24-ad83-62e75ba569f2.deathmessages.Mobs.wanderingtrader.Solo.Weapon.0: '%1
   fue asesinado por un %2 de alguna manera usando %3'
-2a25b6aa-b06d-4a9c-8dc8-327d60d433df.ib.tilgis.menu: '&fMenu'
+2a25b6aa-b06d-4a9c-8dc8-327d60d433df.ib.tilgis.menu: '&fMenú'
 9fc747d8-d3ac-4dac-b9cd-41bcd5fd64ef.deathmessages.Mobs.ghast.Solo.Weapon.0: '%1 fue
   asesinado por un %2 de alguna manera usando %3'
-eecec122-0696-4f8e-8765-7b953be919d6.ib.tilgis.top-playtime: '&fTop Playtime'
+eecec122-0696-4f8e-8765-7b953be919d6.ib.tilgis.top-playtime: '&fTop Tiempo de juego'
 c1000e17-367c-4ec7-bf50-d74948a238a7.deathmessages.Mobs.witch.Gang.Projectile-Arrow.0: '¡%1
   fue atacado por unos %2! Uno les disparó con %3'
 9dc249b3-f006-4f81-89c3-5fad6ada136f.deathmessages.Mobs.rabbit.Solo.Melee.0: '%1 fue
@@ -6314,7 +6316,7 @@ d520e877-12b4-4f03-b384-71087337182d.deathmessages.Mobs.irongolem.Gang.Melee.0: 
   fue asesinado por un grupo de %2"
 27bd8805-7f14-48d6-aafd-db880b107b41.deathmessages.Mobs.piglin.Gang.Weapon.0: "¡%1
   fue asaltado por unos %2! Uno los golpeó con %3"
-8d386263-d5e3-475d-8ce6-39a368b12fca.ib.tilgis.top-stats: '&fTop Stats'
+8d386263-d5e3-475d-8ce6-39a368b12fca.ib.tilgis.top-stats: '&fTop Estadísticas'
 bdd6d1d0-09cf-426b-ab07-3b66a052cd23.deathmessages.Mobs.vindicator.Solo.Weapon.0: '%1
   fue asesinado por un %2 de alguna manera usando %3'
 635c23eb-35b5-4f89-b42c-72b3339a3669.deathmessages.Mobs.stray.Gang.Weapon.0: "¡%1
@@ -6552,7 +6554,7 @@ bd3a1edb-289d-4e49-846c-3c25ed4aab40.deathmessages.Mobs.cow.Gang.Weapon.0: "¡%1
   fue disparado por un %2 usando %3'
 f38c4fcc-983b-4b7c-9dd9-510dc98d285c.deathmessages.Natural-Cause.End-Crystal.0: '¡1
   explotó! ¡Estaban jugando con un cristal final!'
-07a2f0a6-8da4-4968-9e1f-6013e33ebb22.ib.tilgis.top-lands: '&fTop Claims'
+07a2f0a6-8da4-4968-9e1f-6013e33ebb22.ib.tilgis.top-lands: '&fTop Reclamaciones'
 a55ffa70-e276-47fb-a759-16df2c37b0d0.deathmessages.Mobs.player.Solo.End-Crystal.0: '¡%1
   mató a %2 haciendo estallar un cristal final!'
 d4a1dc69-6429-4cb6-bf76-c5ea1ef79b7e.deathmessages.Mobs.sheep.Solo.Projectile-Arrow.0: '%1
@@ -6575,3 +6577,240 @@ f853a227-d07c-4e43-aade-dd177225a3ae.deathmessages.Mobs.evoker.Solo.Magic.0: '%1
   fue asesinado por un %2 de alguna manera usando %3'
 8c699270-cb04-4e33-ac88-f90416e153cd.deathmessages.Mobs.skeleton.Solo.Weapon.0: '%1
   fue asesinado por un %2 de alguna manera usando %3'
+1bc5aa8b-bde3-46dd-a336-5d3b931f1537.cmd.ref.29.here.player: "&7Puntos de referencia
+  necesarios para los rangos\n&f\" Amazonita &7(5RP)\n&f\" Cornalina &7(12RP)\n&f\"\
+  \ Epidota &7(20RP)\n&f\" Obsidiana &7(36RP)"
+27353bdd-89d6-477d-8087-d24e3ac6990f.cmd.settings.title.true.s25: '&bMob Hologramas
+  &8| &7[Toggle]'
+cc10a5ad-4f58-4657-966e-ec0f62ed2769.cmd.rules.server.3-2: "&7&LModificar tu cliente
+  para tener una mayor\n&7Ventaja sobre los jugadores es una ofensa baneable.\n&8&o(
+  Ej: Iniciar sesión con un cliente hackeado. )"
+558124b9-93a7-4303-8c9e-ceb6d4e06e67.cmd.red.29.done: '&cNo hay actualización disponible
+  actualmente.'
+82339929-1c1b-46f4-bd69-1cbe4514e13b.cmd.you-already-have-this: ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ʜᴀᴠᴇ ᴛʜɪs
+1c4b61e5-6ab3-4679-b0ba-8061e581aa5a.cmd.rank.ruby.desc: "§x§d§b§0§0§4§8&lRango\n
+  §x§7§5§0§d§2§f ● &7Prefijo: §x§d§b§0§0§4§8[ʀᴜʙʏ]\n§x§7§5§0§d§2§f ● &7Color: §x§d§b§0§0§4§8UA
+  Rojo\n&f\n§x§d§b§0§0§4§8&lPerks\n §x§0§0§f§f§0§0&l✔ &7Acceso desbloqueado a /anvil\n
+  §x§0§0§f§0§0&l✔ &7Acceso desbloqueado a /loom\n §x§0§f§f§0§0&l✔ &7Acceso desbloqueado
+  a /crawl\n&f\n§x§d§b§0§0§4§8&lBonus\n&8◆ &f20 artículos de subasta &7(/ah)\n&8◆
+  &f20 jugadores en guerra &7(/pwarp)\n&8◆ &f35 sethomes &7(/sethome <nombre>)\n&8◆
+  &f8 job limits &7(/jobs join <job>)\n&8◆ &f40 cofres &7(/cofres)\n&8◆ &f36 naciones\n
+  &8◆ &f56 roles\n&8◆ &f56 partes\n&8◆ &f29 tierras propias\n&8◆ &f59 miembros\n&8◆
+  &f23 tierras &7(/tierras)\n&8◆ &f250 trozos\n&f\n§x§d§b§0§0§4§8&lPrecio\n §x§7§5§0§d§2§f&l504
+  horas de juego §x§7§5§0§d§2§por §x§7§5§0§d§2§f&l2.000 fichas\n\n§x§d§b§0§0§4§8&l|
+  §x§d§b§0§0§4§8&l"
+1b4a0bdb-1ff2-4754-a668-f544dc56fd0f.cmd.rank.amethyst.desc: "§x§9§9§6§6§c§c&lRango\n
+  §x§3§5§1§6§5§4 ● &7Prefijo: §x§9§9§6§6§c§c[ᴀᴍᴇᴛʜʏsᴛ]\n§x§3§5§1§6§5§4 ● &7Color:
+  §x§9§9§6§6§c§cCristal de Amatista\n&f\n§x§9§9§6§c§c&lPerks\n §x§0§0§f§f§0§0&l✔ &7Acceso
+  desbloqueado a /near\n §x§0§0§f§f§0§0&l✔ &7Acceso desbloqueado a /enderchest\n&f\n
+  §x§9§9§6§6§c§c&lBonus\n &8◆ &f25 artículos de subasta &7(/ah)\n &8◆ &f25 guerras
+  de jugadores &7(/pwarp)\n &8◆ &f40 sethomes &7(/sethome <nombre>)\n &8◆ &f9 job
+  limits &7(/jobs join <job>)\n &8◆ &f50 cofres &7(/cofres)\n &8◆ &f65 naciones\n
+  &8◆ &f75 roles\n &8◆ &f75 partes\n &8◆ &f50 tierras propias\n &8◆ &f75 miembros\n
+  &8◆ &f55 tierras &7(/tierras)\n &8◆ &f500 trozos\n&f\n§x§9§9§6§6§c§c&lPrecio\n §x§3§5§1§6§5§4&l720
+  horas de juego §x§3§5§1§6§5§4o §x§3§5§1§6§5§4&l3.490 fichas\n\n§x§9§9§6§6§c§c&l|
+  §x§9§9§6§6§c§c&l"
+4b60f13f-1ce5-44fe-a9ba-31512af34c22.cmd.event.keys: '&b&lLlaves Gratis &7(maldición,
+  no hay apuestas..)'
+56c5b485-abde-4d70-a69d-266546cca486.cmd.click-to-buy: ᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ
+0c96fde1-80c6-45a4-b59e-bf8384745baa.cmd.event.keys.desc: "&bDescripción\n &b| &7Consigue
+  la llave de ULTIMATE\n &b| &7en tu inventario (es broma)\n &3| &fHaz clic para ver.\n
+  &bInformación\n &8▪ &7Claves: &fCada llave, 3x"
+c7c22133-5271-40dc-9020-c6e2a38a5e4c.cmd.settings.desc.true.s25: "\n&b&lInformación:\n
+  &b| &7Estado: &a&l✔ &aHabilitado\n &b| &7Toggle: &bMob Hologramas\n\n&b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴛᴏɢɢʟᴇ"
+025a494a-05d1-4029-8134-e4a60502510a.cmd.rank.amazonite.desc: "§x§b§7§f§0§2§e&lRango\n
+  §x§7§4§9§1§2§d ● &7Prefijo: §x§b§7§f§0§2§e[ᴀᴍᴀᴢᴏɴɪᴛᴇ]\n§x§7§4§9§1§2§d ● &7Color:
+  §x§b§7§f§0§2§eLagarto Verde\n&f\n§x§b§7§f§0§2§e&lPerks\n §x§0§0§f§f§0§0&l✔ &7Acceso
+  desbloqueado a /workbench\n §x§0§f§f§0§0&l✔ &7Acceso desbloqueado a /recipe\n §x§0§0§f§0§0&l✔
+  &7Acceso desbloqueado a tumbas auto-loot\n&f\n§x§b§7§f§0§2§e&lBonus\n &8◆ &f3 objetos
+  de subasta &7(/ah)\n &8◆ &f3 jugadores en guerra &7(/pwarp)\n &8◆ &f15 sethomes
+  &7(/sethome <nombre>)\n &8◆ &f4 jobs &7(/jobs join <job>)\n &8◆ &f8 chestshops &7(/chestshop)\n
+  &8◆ &f5 naciones\n &8◆ &f5 roles\n &8◆ &f5 partes\n &8◆ &f3 tierras propias\n &8◆
+  &f7 miembros\n &8◆ &f7 tierras &7(/tierras)\n &8◆ &f35 trozos\n&f\n§x§b§7§f§0§2§e&lPrecio\n
+  §x§7§4§9§1§2§d&l15 horas de juego §x§7§4§9§1§2§o §x§7§4§9§1§2§d&l90 fichas\n\n§x§b§7§f§0§2§e&l|
+  §x§b§7§f§0§2§e&l"
+0de4e38f-8534-4a72-9285-6dd4b1871355.cmd.rank.obsidian.desc: "§x§5§d§3§3§7§a&lRango\n
+  §x§2§c§1§4§3§d ● &7Prefijo: §x§5§d§3§3§7§a[ᴏʙsɪᴅɪᴀɴ]\n§x§2§c§1§4§3§d ● &7Color:
+  §x§5§d§3§3§7§aRegalia\n&f\n§x§5§d§3§3§7§a&lPerks\n §x§0§0§f§f§0§0&l✔ &7Acceso desbloqueado
+  a /condense\n&f\n§x§5§d§3§3§7§a&lBonus\n &8◆ &f16 artículos de subasta &7(/ah)\n
+  &8◆ &f16 playerwarps &7(/pwarp)\n &8◆ &f30 sethomes &7(/sethome <nombre>)\n &8◆
+  &f7 job limits &7(/jobs join <job>)\n &8◆ &f30 chestshops &7(/chestshop)\n &8◆ &f25
+  naciones\n &8◆ &f32 roles\n &8◆ &f32 partes\n &8◆ &f12 tierras propias\n &8◆ &f37
+  miembros\n &8◆ &f15 tierras &7(/tierras)\n &8◆ &f100 trozos\n&f\n§x§5§d§3§3§7§a&lPrecio\n
+  §x§2§c§1§4§3§d&l336 horas de juego§x§2§c§1§4§3§o §x§2§c§1§4§3§d&l999 fichas\n\n
+  §x§5§d§3§3§7§a&l| §x§5§d§3§3§7§a&l"
+1fbd7ba2-d992-46e3-b5d7-d25128d46740.cmd.settings.title.unknown.s25: "\n&bDescripción\n
+  &b| &7Activar o desactivar los hologramas\n &b| &7sobre los mobs. (Puede aumentar
+  el rendimiento)\n"
+2a9c8e6f-a2e8-4e6a-9b26-ad2458c22cab.cmd.rank.carneline.desc: "§x§f§0§8§f§2§b&lRango\n
+  §x§9§e§5§d§1§b ● &7Prefijo: §x§f§0§8§f§2§b[ᴄᴀʀɴᴇʟɪɴᴇ]\n§x§9§e§5§d§1§b ● &7Color:
+  §x§f§0§8§f§2§bNaranja Cadmio\n&f\n§x§f§0§8§f§2§b&lPrecios\n §x§0§0§f§f§0§0&l✔ &7Acceso
+  desbloqueado a /hat\n §x§0§f§f§0§0&l✔ &7Acceso desbloqueado a /extinguir\n §x§0§0§f§0§0&l✔
+  &7Acceso no bloqueado a /sellall\n §x§0§0§f§0§0&l✔ &7obviar comandos múltiples\n
+  §x§0§f§f§0§0&l✔ &7multiple messages bypass\n §x§0§0§f§0§0&l✔ &7colorable playerwarps\n
+  §x§0§f§f§0§0&l✔ &7grave teletransporte\n §x§0§0§f§§0§0&l✔ &7Teletransporte de tumbas
+  desbloqueadas\n&f\n§x§f§0§8§f§2§b&lBonus\n &8◆ &f8 objetos de subasta &7(/ah)\n
+  &8◆ &f8 jugadores en guerra &7(/pwarp)\n &8◆ &f20 sethomes &7(/sethome <nombre>)\n
+  &8◆ &f5 jobs &7(/jobs join <job>)\n &8◆ &f15 chestshops &7(/chestshop)\n &8◆ &f7
+  naciones\n &8◆ &f7 roles\n &8◆ &f7 partes\n &8◆ &f4 tierras propias\n &8◆ &f13 miembros\n
+  &8◆ &f8 tierras &7(/tierras)\n &8◆ &f40 trozos\n\n§x§f§0§8§f§2§b&lPrecio\n§x§9§e§5§d§1§b§l
+  72 horas de juego§x§9§e§5§d§1§b o§x§9§e§5§d§1§b§l 299 fichas\n\n§x§f§0§8§f§2§b&l|
+  §x§f§0§8§f§2§b&l"
+23e92892-e947-4481-9d91-f0ca8da3e4c7.cmd.event.tag: '&b&lEtiqueta libre &7(sólo una)'
+71606dcd-bd52-4da2-b31e-004d56047155.cmd.event.xp.desc: "Descripción\n &b| &7Consigue
+  algunos xp\n &b| &7como bonificación de evento ☺\n &3| &fHaz clic para ver.\n&bInformación\n
+  &8▪ &7XP: &f250"
+8f04f233-7a83-4c33-8847-f427971bb467.cmd.event.tag.desc: "&bDescripción\n &b| &7Consigue
+  una etiqueta de jugador poco común\n &b| &7que sólo unos pocos jugadores pueden\n
+  &b| &7conseguir en su vida :D\n &3| &fHaz clic para ver.\nInformación\n &8▪ &7Tag:
+  §xF§xF§x9§xA§x2§x0ᴇᴠᴇɴᴛ 2023"
+d0447afb-7492-464f-ac5d-4e0a4c9ba220.cmd.rules.server.3-5: "&7&lCualquier estafa que
+  incluya la vida real\n&8 ♢ &fobjetos\n&8 ♢ &fposesiones\n&8 ♢ &fdinero\n&f\n&7Se
+  considerará baneable y vendrá con un mucho más pesado\n&7Castigo."
+652d5921-764c-4641-9683-fefcaf7d5742.cmd.rules.global: '&b&l| &bReglas Globales'
+ced35d86-5f49-4fa9-957a-aba0e352aebd.cmd.event.xp: '&b&lGratis XP &7(Puntos)'
+a06532b3-aeba-4210-9232-7efafc6b35ba.cmd.event.money.desc: "Descripción\n &b| &7Consigue
+  mucho dinero\n &b| &7como bono de evento ☺\n Haga clic para ver.\n&bInformación\n
+  &8▪ &7Dinero: &f5000"
+8dd637f1-3f85-4695-acc8-20d1099f1a86.cmd.event.claimed.title: '&cYa reclamado'
+113e6e2a-db4a-4304-9b51-ce1dacc07ca3.cmd.ref.22.title: '&bClaves'
+a316835e-cfc9-46f2-95a5-c15abf88add5.cmd.ref.31.keys.red: '&7Necesitas al menos &f%1
+  &7puntos de referencia%2 para comprar esto'
+ce59a733-0c4e-47bd-be02-9047ed57ec08.cmd.rules.chat.1-5: "&7&lPedimos que todo drama
+  relacionado con los jugadores se trate fuera\n&7De los canales de chat públicos,
+  esto significa que usted debe tomar esto a cualquiera de los dos\n&7/msg &nin-game&7."
+1bc04c58-ab3f-44aa-b4d3-88b75e15224f.cmd.rules.chat.1-2: "&7&l¡Mantenga el chat &nsafe
+  for work&7&l SFW!. Prohibido hablar de pornografía, 18+\n&7o cualquier otro tema
+  que pueda contener contenido para adultos está prohibido\n&7esta no es una comunidad
+  &nonlyfans&7, ¡así que mantén el chat SFW!"
+2fc05bb0-9ff4-4384-b870-7f48450e3220.cmd.rules.chat.1-0: "&7&lEvita acosar a otros
+  jugadores o al personal.\n&7Esto se aplica a todos los chats, ya sean\n&7&ngeneral&7,
+  &n/mensaje&n o cualquier otro\ncanal disponible."
+4d3640fe-d655-45a6-8c43-c2d116ca4b3d.cmd.warps.farm-server.desc: "Descripción\n &b|
+  &7Haga clic para\n &b| &7unirse al\n &b| &7Servidor de la granja.\n &b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴠɪᴇᴡ"
+99001d52-e82b-4b39-857e-e18958e73dfe.cmd.settings.title.false.s25: '&bMob Holograms&8|
+  &7[Desactivado]'
+53157dee-5041-413f-b959-b625d766028d.cmd.rules.server.3-4: "&7&lPor favor, no compartas
+  información personal de otras personas\n&7Tales como nombres reales, direcciones,
+  otras cuentas de redes sociales, etc.\nsin su permiso. Compartir esta información
+  con mala intención\n&7puede ser interpretado como doxxing, lo que resultará en un
+  baneo instantáneo."
+ebeeafe6-7931-4a9b-9090-65e663c067aa.cmd.rules.chat.1-4: "&7&lTu nombre de usuario
+  de Minecraft y /nick <nickname>.\n&7Si tienes uno deben cumplir con todas nuestras
+  reglas.\n&7Además, tu /nick no debe imitar a otro usuario\n&7y debe cumplir los
+  siguientes criterios:\n&f\n &8♢ &fFácilmente legible y escribible con un teclado
+  inglés\n     &8&o(es decir, ¡nada de nicks completos con el prefijo \"& k \"!)\n
+  &f\n &8♢ &fNo intente marcarse falsamente como parte de\n    &fdel equipo de personal.\n
+  &f\n &fNo contiene contenido inapropiado."
+d68934a9-1d3c-4c24-a897-8d7318691a80.cmd.farmworlds.wrongserver.title: Lo siento,
+  servidor equivocado.
+43e0fd06-aeda-43fd-b263-f13ee2759578.cmd.rules.global.2-6: "&7&lExplotar nuestro sistema
+  de reglas en beneficio propio\n&7De cualquier manera es un delito punible. Sólo
+  porque no veas\nun ejemplo exacto en nuestras reglas no significa que esté permitido."
+100d9cd4-0b56-4211-a4fc-d2deb6a4c89e.cmd.farmworlds.wrongserver.lore: "\n&bDescripción\n
+  &b| &7Ir al\n ¡&b| &fFarm&7 servidor!\n&f\n &3| &7Asegúrate de tener un\n &3| &7¡Inventario
+  vacío para cultivar!\n&f\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+5d0af030-66d9-43c4-8e3e-ace5fc4d7830.npc.lobby.tilgis.l3: '&7Estado: &f%pinger_online_mc1.storagedata.xyz:25255%'
+6f979d9c-2203-48a6-8e13-305405287c43.cmd.rules.server.3-1: "&7&lEn caso de que seas
+  castigado por el personal del servidor\n&7por infringir alguna norma, los intentos
+  de eludir el castigo supondrán\n&7resultará en un aumento del castigo existente."
+738fa94e-cb70-4fe3-b8f4-bdd4ff70b833.cmd.ref.buy-now: '&7Compra el &f%1 &7rank ahora
+  para %f%2 Puntos de recomendación'
+fe3c976a-fbe8-4112-87bc-95e8df288cc2.cmd.rules.global.2-1: "&7&lEstán prohibidos los
+  carteles con contenido NSFW/ofensivo.\n&7Estas normas se aplican tanto a los carteles
+  como a los libros escritos."
+8a642cab-369c-4735-9e70-a2c3683de3f3.cmd.rules.server.3-3: "&7&lLas devoluciones de
+  cargo en compras en la tienda están prohibidas\n&7Y dará lugar a una prohibición
+  inmediata para siempre de nuestra\n&7servidor."
+5b76be6e-33bd-4587-8c1a-38558d193343.cmd.rules.global.2-2: "&7&lTu skin de Minecraft
+  debe cumplir todas nuestras normas.\n&7Por favor, no uses estos skin:\n &8♢ &fpornografía
+  Skin (Sexual Skin, etc.)"
+36a17ccd-2e01-4ffb-a5b3-62ce5497b83e.cmd.ref.20.title: '&bRangos'
+4c722657-574d-42c8-9ebb-ba1f1f75f15e.cmd.event.items.desc: "&bDescripción\n &b| &7Sólo
+  algunos jugadores\n &b| &7pueden conseguir los objetos.\n &3| &fHaz clic para ver.\n
+  &bInformación\n &8▪ &7Artículos: &f¡Algunos son bonitos!"
+21d44bec-413d-43d7-9c4d-51cd929e2e62.cmd.ref.29: '&7Tu rango es &f'
+e2c898fb-64bf-4897-854d-c08009204d2b.cmd.your-too-poor: ʏᴏᴜ'ʀᴇ ᴛᴏᴏ ᴘᴏᴏʀ
+2e4d0d9b-2a8a-4d92-926d-0044fd61f63b.cmd.event.noevent.title: '&Actualmente no hay
+  ningún evento'
+2aed0a5d-ef98-4b22-a9d0-433f84d3d19c.cmd.rules.server: '&b&l| &bReglas del servidor'
+453cb168-9e24-4887-bd48-94edf3699bd7.cmd.rules.global.2-4: "&7&lEl abuso de glitch/bugs/sugerencias
+  es un delito muy grave\n&7La decisión de si algo es o no un glitch\nserá decidida
+  por los moderadores. Si encuentras, un glitch\n¡&7bug, problemas, etc por favor
+  repórtalo inmediatamente a nuestro discord!\n&7No compartas glitches con otras personas,
+  y no lo utilices para\n¡&7su ventaja!"
+ce07efe2-086a-4772-aab5-0bf37b0601e2.cmd.rules.chat.1-6: "&7&lPublicidad de otros
+  servidores de Minecraft, sorteos, canales propios de medios sociales/creación de
+  contenidos o cosas por el estilo.\n&7propios medios de comunicación social / canales
+  de creación de contenidos, o cosas\n&7de naturaleza similar están prohibidos sin
+  la aprobación de\n&7de nuestro(s) personal(es). Esto incluye anuncios en todos los\n
+  Canales disponibles para firmar o libros escritos.\n&7tiendas está permitido, pero
+  por favor, abstenerse de volver a publicar publicidad\n&7mensajes publicitarios
+  con demasiada frecuencia."
+f8030775-7095-404b-89e6-5369a3eb890b.cmd.rules.chat: Reglas del chat
+b0f5139f-56b7-4d13-a0e0-5204b39a3990.cmd.ref.click-to-buy: '&7ᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ'
+a0ca460b-fe01-4dd5-8817-14fa468d4cff.cmd.ref.24.title: '&bCosas esenciales'
+4342473f-5220-4cd2-addb-46aad668ce95.cmd.event.claimed.desc: "¡Lo siento!\n\n&4| &7No
+  podemos darle más\nque a los demás...\nporque sería injusto.\n \n&6| &fDiviértete,
+  Hamster :D"
+48dde147-0b05-4cad-bb8e-7dbaca9fc58b.cmd.main.desc.31: "Descripción\n &b| &7Diviértete
+  en este\n &b| &7evento y recompensa\n &b| &7algunas cosas guays☺\n &3| &fHaga clic
+  para ver.\n&bInformación\n &8▪ &7Limitado"
+248a2009-e1ba-4f30-9cf9-b4e199125d3e.cmd.ref.4.lore: "&7Tus puntos de referencia:
+  &f%1\n&7Has recomendado a &f%2 &7diferentes personas\n&7Y el código es &f%3"
+d494c8e3-57d3-4526-a426-1833fa2896f3.cmd.settings.desc.false.s25: "\n&bInformación:\n
+  &b| &7Estado: &c&l❌ &cDesactivado\n &b| &7Toggle: &bMob Hologramas\n\n&b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴛᴏɢɢʟᴇ"
+17393372-f0b9-402e-ba1b-387b691d9735.npc.lobby.tilgis.l4: '&7Jugadores: &f%pinger_players_mc1.storagedata.xyz:25255%'
+06b6d2df-428a-4271-befd-19482fb03a24.cmd.ref.31.keys.green: '&7Compre esto ahora por
+  &f%1 &7puntos de referencia%2'
+10e502c9-137c-4182-98aa-861ca3fef22c.cmd.rank.epidote.desc: "§x§4§a§e§1§f§0&lRango\n
+  §x§2§8§7§1§7§8 ● &7Prefijo: §x§4§a§e§1§f§0[ᴇᴘɪᴅᴏᴛᴇ]\n§x§2§8§7§1§7§8 ● &7Color: §x§4§a§e§1§f§0Turquesa\n
+  &f\n§x§4§a§e§1§f§0&lPerks\n §x§0§0§f§f§0§0&l✔ &7Acceso desbloqueado a /nick\n&f\n
+  §x§4§a§e§1§f§0&lBonus\n&8◆ &f11 artículos de subasta &7(/ah)\n&8◆ &f11 guerras de
+  jugadores &7(/pwarp)\n&8◆ &f25 sethomes &7(/sethome <nombre>)\n&8◆ &f6 job limits
+  &7(/jobs join <job>)\n&8◆ &f20 chestshops &7(/chestshop)\n&8◆ &f9 naciones\n&8◆
+  &f10 roles\n&8◆ &f10 partes\n&8◆ &f5 tierras propias\n&8◆ &f17 miembros\n&8◆ &f9
+  tierras &7(/tierras)\n&8◆ &f50 trozos\n\n§x§4§a§e§1§f§0&lPrecio\n §x§2§8§7§1§7§8&l168
+  horas de juego §x§2§8§7§1§7§8o §x§2§8§7§1§7§8&l519 fichas\n\n§x§4§a§e§1§f§0&l| §x§4§a§e§1§f§0&l"
+55654b90-7953-493a-a7bc-85a9549820ea.cmd.main.title.31: '&b&lEvento'
+8d6970c6-bc56-4a2e-843b-39ca14ac2a52.cmd.rules.chat.1-1: "&7&lEl spamming está prohibido
+  en todos los canales disponibles.\n&7Esto incluye enviar mensajes repetidos, enviar\n
+  &7diferentes mensajes en rápida sucesión, caracteres\n&7spam, o el envío de mensajes
+  en mayúsculas."
+5a71262c-3b47-4ae9-8bc3-9c95ba3f34d6.cmd.ref.29.epidote: '&7Compra con &f%1 &7puntos
+  de referencia'
+f95973e5-cc3b-4aaa-889c-adcc2a6134ce.cmd.main.lore.s44: "&bDescripción\n &b| &7Ver
+  y utilizar su referencia\n &b| &7puntos para conseguir bonitas recompensas\n &3|
+  &fHaga clic para ver.\n &4| &cEsto sólo está disponible en Tilgis "
+227c6eb0-46a3-494e-86d3-d6fcbd29e4a3.cmd.ref.29.get: '&7Conseguir '
+b33ba3f4-ab00-4fc5-8500-f266b0f9cc0b.cmd.rules.chat.1-3: "&7&lIncluir cualquier contenido
+  ofensivo en la conversación de cualquier forma\n&7está prohibido en todos los canales
+  disponibles e incluye temas\n&7tales como:\n &8♢ &fpolítica\n &8♢ &freligiones\n
+  &8♢ &hechos de violencia\n &8♢ &violación(Temas sexuales)\n &8♢ &suicidio/Autoagresión\n
+  &8♢ &terrorismo\n &8♢ &guerra\n Tiroteos en escuelas\n &8♢ &f&o(& ¡Otros temas serios!)\n
+  &f\n&7Tenga en cuenta también que la incitación al odio incluyendo, insultos raciales\n
+  &7o sus derivados, declaraciones sexistas u homófobas,\n¡&7y otros tipos similares
+  de mensajes no son tolerados!"
+b1a9cda1-8d56-4eca-9ae0-6e2ee6a9e46a.cmd.event.money: '&b&lDinero gratis &7(¡consigue
+  ese dinero!)'
+038682d2-b7dc-47ab-9485-11930985cb1b.cmd.ref.29.obsidian: '&aYou obtuvo el rango más
+  alto de los puntos de referencia.'
+1825bd59-cdda-4ac6-bdb3-385f894364f9.cmd.event.noevent.description: "&7Lo sentimos,
+  pero actualmente\n&7no organizamos ningún evento\n\n&7Vuelva más tarde...\n&7El
+  próximo evento puede ser &f01.12.2023"
+67a460c3-1846-4ad5-a417-d24fc239e21d.cmd.rules.global.2-3: "Está prohibido suplantar
+  a miembros del personal mediante skins,\n&7nombres en el juego, o mensajes en el
+  chat está prohibido.\n&7¡Esto incluye el &nMini-Modding&7!"
+6b6bf5cb-070e-434e-a22f-ced704ce1e2e.cmd.ref.4.title: '&bTus estadísticas de referencia'
+7ceb327f-60ea-4484-a2da-5869cbf224c0.cmd.event.items: '&b&lObjetos gratuitos &7(¡podría
+  estar bien!)'
+d2aac60a-5794-46b0-a514-8094f3435fc3.cmd.rules.global.2-5: "&7&lCualquier uso de máquinas/granjas/builds
+  con lag.\n&7Que causen lag en el servidor/cliente será sancionado dependiendo de
+  la\n&7gravedad"
+2c6b7471-9cdf-4f64-8ed5-4c215e81028b.cmd.settings.title.s16: '&bMob Hologramas &8|
+  &7[Toggle]'
+05b254c0-bfbf-4df8-bedf-0ca2693469cb.cmd.warps.farm-server.title: Servidor &bFarming
+1cd25a26-fd54-4ba0-93a5-3d79262669e0.cmd.main.title.s44: '&b&lReferencias'
