@@ -1887,7 +1887,8 @@ ae6706c9-7810-470a-b5c1-f6f806bda6df.dh.farmserver.menu.l7: "§4&Je kunt geen it
 dd130f3c-f766-41c1-9a36-7ddc9f416801.excellentenchantmentsFitItemType.WEAPON: Wapen
 fea814d5-3f2d-4347-a06b-443f7ade3963.menu.farm.normal.normal.lore: "§Normale bovenwereld
   Boerenwereld\n\n§2Voordelen:\n§aGraven\n§Middelmatige moeilijkheidsgraad\n§aSommige
-  ertsen\n\n§4Nadelen:\n§cGeen Strucuturen\n§cNiet alle ertsen\n§cGeen betoveringen"
+  ertsen\n\n§4Nadelen:\n§cGeen structuren\n§cNiet alle ertsen\n§cGeen betoveringen\n
+  §Kosten §4150"
 ef3c0faa-b222-4eb4-888a-d194c6558383.triton.setlanguage: '&bJe taal is veranderd in
   &6%1'
 3b65d987-60c9-458a-bb1d-2a2c86bc519d.menu.farm.end.normal.lore: "§eNormaal Einde Boerderijwereld\n
@@ -1925,7 +1926,8 @@ a522eab3-dd94-40fc-a799-8c74d92d5e51.excellentenchantmentsCommand.TierBook.Desc:
 6210d086-90b4-4347-a084-2e18e86c400e.excellentenchantmentsFitItemType.SWORD: Zwaard
 4e1d4ff5-418b-4641-af95-087c6e03589f.menu.farm.nether.normal.lore: "§Normale onderwereld
   boerderij\n\n§2Voordelen:\n§aGraven\n§Middelmatige moeilijkheidsgraad\n§aGouderts
-  + Kwartserts\n\n§4Nadelen:\n§cGeen Strucuturen\n§cGeen oud puin\n§cGeen betoveringen"
+  + Kwartserts\n\n§4Nadelen:\n§cGeen structuren\n§cGeen oud puin\n§cGeen betoveringen\n
+  §Kosten §4150"
 636a0cfe-f45a-465c-bb1e-49f15738bc4b.menu.farm.nether: §4Nether Boerderijen
 2c74032d-351d-4972-b691-6a7134c54b99.excellentenchantmentsFitItemType.BOW: Boog
 bf15f1f0-c9e6-4faa-a620-c278833041a8.excellentenchantmentsFitItemType.CROSSBOW: Kruisboog
@@ -1943,13 +1945,14 @@ f7d463b8-eacd-427a-8366-53c52d7f1bd1.excellentenchantmentsFitItemType.LEGGINGS: 
   §6%1§7 betoverd boek aan §6%2§7.
 43d3c66b-316c-44eb-ac66-d2e4884dc692.menu.farm.normal.hard.lore: "§4Harde overwereld
   Boerenwereld\n\n§2Voordelen:\n§aStructuren\n§aAlle ertsen\n\n§4Nadelen:\n§cHarde
-  moeilijkheidsgraad\n§cInventaris daalt bij overlijden\n§cGeen betoveringen"
+  moeilijkheidsgraad\n§cInventaris daalt bij overlijden\n§cGeen betoveringen\n§Kosten
+  §4500"
 0c8bf1a2-cfce-4447-bc14-331b1ab9a79b.excellentenchantmentsFitItemType.TRIDENT: Trident
 436c74aa-0d1f-42a5-b792-064cff372756.menu.farm.normal.easy: §2EASY
 b47f7209-18ac-475b-aedc-8b2b9472f197.excellentenchantmentsFitItemType.UNIVERSAL: Universeel
 f4196f9b-d12c-429d-bb45-f5998d489e91.menu.farm.normal.easy.lore: "§2Gemakkelijke overwereld
   boerenwereld\n\n§2Voordelen:\n§aVoorraad bijhouden\n§aMakkelijk Moeilijkheidsgraad\n
-  §aBasisertsen\n\n §4Nadelen:\n§cGeen Strucuturen\n§Geen ertsen\n§cGeen betoveringen"
+  §aBasisertsen\n\n§4Nadelen:\n§cGeen structuren\n§cBijna geen ertsen\n§cGeen betoveringen"
 7ebffb7c-6bff-4c30-9df3-a0ce46062a36.triton.no-permission: '&cGeen toestemming. Toestemming
   vereist: &4%1'
 ba957850-2256-4992-9be7-754e73c13209.antieditsign.message: '&bJe kunt alleen je eigen
@@ -2109,7 +2112,7 @@ de75bebd-a51e-4f11-b797-03eeecacff77.cmd.main.desc.s37: "&bBeschrijving\n &b| &7
   hier je instellingen\n &b| &7een bepaalde\n &b| &7functie!\n &3| &fKlik om te bekijken.\n
   &bInformatie\n &8| &a■ &nLIME_GLASS&7 (Ingeschakeld)\n &8| &c■ &nRED_GLASS&7 (Uitgeschakeld)"
 69cb362f-f1a5-4c66-91b2-1c666300a012.cmd.main.desc.s4: "&bInformatie:\n &8| &7Rank:
-  &b%formatter_text_replace_&__{luckperms_prefix}%\n &8| &7Speeltijd: &b%plan_speler_tijd_totaal%"
+  &b%1\n &8| &7Speeltijd: &b%2"
 05f1a19e-1900-40bc-a2e7-b28d7f884ac2.cmd.main.desc.s30: "&bBeschrijving\n &b| &7Ben
   je het eens met onze regels?\n &b| &7lees eerst onze regels & overeenkomsten!\n
   &3| &fKlik om te bekijken"
@@ -2134,9 +2137,9 @@ d161dfb1-37bd-42c9-ada1-d955e03b989a.SuperVanishMessages.NoConfigUpdateAvailable
   gekomen'
 e3c1a250-a950-40c4-b55e-ed0ae05ee9ef.cmd.main.desc.s38: "&bBeschrijving\n &b| &7Open
   het menu om\n &b| &7 EXP Flessen te maken.\n &3| &fKlik om te bekijken."
-01e603ed-9e16-4ce9-a8ea-dac424f5f526.cmd.main.desc.s43: "&bBeschrijving\n &b| &7Doneer
-  voor onze server en ontgrendel\n &b| &7a speciale extraatjes ☺\n &3| &fKlik om te
-  bekijken.\n&bInformatie\n &8▪ &7Rank: &f%formatter_text_replace_&__{luckperms_prefix}%"
+01e603ed-9e16-4ce9-a8ea-dac424f5f526.cmd.main.desc.s43: "&bBeschrijving\n &b| &7Speel
+  op onze server en ontgrendel\n &b| &7a speciale extraatjes ☺\n &3| &fKlik om te
+  bekijken.\n&bInformatie\n &8▪ &7Rank: &f%1"
 41ccbb1b-e526-47c3-ac06-6770147d799f.cmd.languages.title.s19: '&b&lDuits'
 aef0761a-6fdf-47f8-b69a-fbd2c384726c.cmd.main.desc.s36: "&bBeschrijving\n &b| &7Open
   het menu om\n &b| &7alle stemlocaties te bekijken.\n &3| &fKlik om te bekijken."
@@ -2144,7 +2147,7 @@ aef0761a-6fdf-47f8-b69a-fbd2c384726c.cmd.main.desc.s36: "&bBeschrijving\n &b| &7
   &8&l┃ &7Je ontvangt geen meldingen meer over deze recreatie.'
 230f9336-2a17-4195-bc96-26173ea35b9c.cmd.main.title.chapter3: '&6Hoofdstuk 3'
 d70ef22f-39b3-4e01-b658-677298761453.cmd.languages.title.s21: 'Engels'
-ec742b0e-d03a-4eb8-87af-bd73642ee30a.cmd.kits.choose.title.s24: '&b⌘ &8| &bDonator
+ec742b0e-d03a-4eb8-87af-bd73642ee30a.cmd.kits.choose.title.s24: '&b⌘ &8| &bPlaytime
   Kit'
 90cda9b4-98af-4aaf-a0fa-1db465040c73.cmd.main.desc.s5: "&7Survival is een &fMultiplayer
   World&7 met\n&7verschillende werelden die je kunt &3verkennen&7!\n \nElke wereld
@@ -2205,7 +2208,7 @@ f89daba7-7f65-4706-8f40-037715c9dfae.cmd.upgrade.choose.title.s25: '&b&lGroepen'
 6855b6f3-0e79-4fbe-b063-1e30f09e643b.cmd.upgrade.choose.title.s29: '&b&lJobs'
 a0c64a09-8a8f-4129-b65b-1d5e31773285.cmd.links.desc.s29.2: "&f\n§x§7§2§8§9§d§aBeschrijving\n
   §x§7§2§8§9§d§a| &7Klik om uw\n §x§7§2§8§9§d§a| &7discord profiel!\n&f\n§x§7§2§8§9§d§a&l|
-  #7289daᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+  §x§7§2§8§9§d§aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 8da8afd2-22da-4ca4-af41-60f8a4996a9c.SuperVanishMessages.RemindingMessage: '&b&l%1
   &8&l┃ &7Je bent nog steeds onzichtbaar!'
 85714ca4-0bd8-428e-945e-1d8324798ba1.SuperVanishMessages.AlreadyInvisibleMessage: '&b&l%1
@@ -2218,8 +2221,8 @@ a0c64a09-8a8f-4129-b65b-1d5e31773285.cmd.links.desc.s29.2: "&f\n§x§7§2§8§9�
 1ec56c6a-0805-43e4-a651-977fc83c6da5.cmd.upgrade.choose.title.s11: '&b&lPlayerWarps'
 56e18f77-4814-4516-a4b2-054e4953ee0a.cmd.links.desc.s29.3: "&f\n§x§7§2§8§9§d§aBeschrijving\n
   §x§7§2§8§9§d§a| &7Klik om je\n §x§7§2§8§9§d§a| &7discord profiel op te heffen!\n
-  &f\n §x§7§2§8§9§d§a&l| #7289daᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
-fdfa5f9b-2699-4570-b8e1-7a828300108d.cmd.main.title.s43: '&b&lDonateur'
+  &f\n§x§7§2§8§9§d§a&l| §x§7§2§8§9§d§aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+fdfa5f9b-2699-4570-b8e1-7a828300108d.cmd.main.title.s43: '&b&lSpeeltijd'
 41faea65-8b60-4d35-8c08-dc8616608ba7.SuperVanishMessages.PrintedStacktrace: '&b&l%1
   &8&l┃ &7Succesvol een stacktrace gemaakt, zie console!'
 c43e58a9-4f9f-4510-bddf-f95bebf08c10.cmd.main.desc.s16: "&bBeschrijving\n &b| &7Bekijk
@@ -2981,9 +2984,9 @@ d096d45a-97d3-487c-994e-6fc1e3f95767.deathmessages.Mobs.piglinbrute.Gang.Weapon.
   werd aangevallen door een paar %2's! Eén sloeg ze met %3"
 77a46af2-340f-4ee5-a0c3-63b2b4e6eaec.lands.messages.lands.command.leave.owner: "&cJe
   kunt dit land niet verlaten. &7Als eigenaar van een land kun je het land verwijderen
-  of alleen het eigendom overdragen.\n [T]&c✘ Verwijder &8[&8CLICK&8][C]lands delete[/C][H]&7Klik
+  of alleen het eigendom overdragen.\n [T]&c✘ Verwijder &8[&8CLICK&8][C]land verwijderen[/C][H]&7Klik
   om land&2 %1&7 te verwijderen.[/H][/T]\n  [T]&2✔ Eigendom overdragen &8[&8CLICK&8][SC]lands
-  setowner [/SC][H]&7Klik om deze opdracht te kopiëren.[/H][/T]\n"
+  setowner [/SC][H]&7Klik om te kopiëren\ndeze opdracht.[/H][/T]\n"
 f3d46a88-7c0e-4f64-a47b-57f74cd8362c.lands.messages.general.prefix.help: '&b&lʟᴀɴᴅs
   &8&l| &7Gebruik: '
 98e04f2c-c33c-4fdc-8409-61f95d5d201f.lands.messages.help.command.lands.unban: '[T]&e%1
@@ -3004,8 +3007,8 @@ c149e37c-62d2-4bd6-b4a0-d3c77a5a3dbd.lands.messages.lands.command.assign.confirm
   selectie heeft een lage hoogte. &7Subgebieden hebben, in tegenstelling tot claims,
   een hoogte en reiken niet standaard van onder naar boven.\n  [T] &7✖ Ga verder:
   &e/%1 &8[KLIK][H]&7Klik hier om verder te gaan.[/H][C]%2[/C][/T]\n  [T] &7✖ Volledig
-  uitbreiden: &e/%3 &8[KLIK][H]&7Klik hier om de selectie van onder naar boven uit
-  te breiden.[/H][C]%4[/C][/T]\n"
+  uitbreiden: &e/%3 &8[KLIK][H]&7Klik hier om de selectie uit te breiden van\nuit
+  te breiden van onder naar boven.[/H][C]%4[/C][/T]\n"
 065a1e9f-0698-4b20-ba26-66085d6148c2.lands.messages.help.command.lands.selection.main: '[T]&e%1
   %2 %3 &8- &7Selectiemodus[H]&7Met deze opdracht kun je de grootte van een deelgebied
   wijzigen of je selectie uitbreiden tot oneindig y niveaus. &7Klik om uit te voeren.[/H][C]%4[/C][/T]'
@@ -3343,8 +3346,8 @@ aec7d7b8-b831-481c-b976-75003efd2624.deathmessages.Mobs.armorstand.Gang.Projecti
   werd aangevallen door een paar %2! Je schoot ze neer met %3'
 285c58c0-ca73-4f7c-bbcd-cbbc5f41eaad.lands.messages.lands.command.relations.allies.add.nation: "&cJe
   kunt geen alliantie aangaan met land&4 %1&c. &7Het land wordt bestuurd door natie&9
-  %2&7.\n [T]&7✖ Stuur alliantieverzoek naar natie&9 %3 &7in plaats daarvan: &e/%4
-  &8[KLIK][H]&7Klik hier om een alliantieverzoek te sturen naar natie&9 %5&7.[/H][C]%6[/C][/T]\n"
+  %2&7.\n  [T]&7✖ Stuur alliantieverzoek naar natie&9 %3 &7in plaats daarvan: &e/%4
+  &8[KLIK][H]&7Klik\nhier om een alliantieverzoek te sturen naar natie&9 %5&7.[/H][C]%6[/C][/T]\n"
 b7ae890d-d24a-42de-99d9-ad8e6b78e147.lands.messages.wars.message.kill.killer.defenders: '&7Onze
   teamgenoot&a %1 &7killed de aanvaller&c %2&7: &a+ %3 punten'
 e2f4cafa-c8e5-4148-8f87-971821c5fddf.lands.messages.lands.message.camp.success: '&7Je
@@ -3941,9 +3944,9 @@ e1f93182-2f71-4b63-9d81-b3e61a31594c.lands.messages.lands.command.spawn.chunk: "
   %1 &7heeft nog geen landpawn &8(&e/lands setspawn&8) &7ingesteld. &7Telefoneerde
   je naar de initiële claim van dit land."
 65adbf27-2d9f-4c0e-bb73-fced33048515.lands.messages.lands.command.claim.create.force_near: "&7Automatisch
-  een nieuw land&2 %1&7 gemaakt, omdat je vorige niet verbonden zou zijn met deze
-  claim.\n [T]&7✖ Hernoemen: &e/landen hernoemen &8<&naam&8> &8[&8CLICK&8][SC]landen
-  hernoemen[/SC][H]&7Klik om deze opdracht te kopiëren[/H].[/T]\n"
+  een nieuw land gemaakt&2 %1&7, omdat je vorige niet verbonden zou zijn met deze
+  claim.\n  [T]&7✖ Hernoemen: &e/landen hernoemen &8<&enaam&8> &8[&8CLICK&8][SC]landen
+  hernoemen[/SC][H]&7Klik\nom deze opdracht te kopiëren.[/H][/T]\n"
 ff99cd47-ad39-4b94-a595-e949fed79611.lands.messages.lands.command.wild.no-location: "&cKon
   geen veilige locatie voor je vinden die overeenkomt met de filter in config. &8Pas
   je max en min afstand instellingen aan en stel de world spawn in (/setworldspawn)."
@@ -3968,8 +3971,8 @@ d28d43e9-7848-4f1b-8c9c-37c963356146.lands.messages.wars.command.declare.confirm
   is neergeschoten door een %2 met behulp van %3'
 377bd7fe-e6a4-4e5b-90ce-21323670f682.lands.messages.lands.command.relations.enemies.add.nation: "Je
   kunt land&4 %1 &7niet tot vijand verklaren. &7Het land wordt geregeerd door natie&9
-  %2&7.\n [T]&7✖ Verklaar in plaats daarvan natie&9 %3 &7als vijand: &e/%4 &8[KLIK][H]&7Klik
-  hier om natie&9 %5 &7als vijand te verklaren.[/H][C]%6[/C][/T]\n"
+  %2&7.\n  [T]&7✖ Verklaar in plaats daarvan natie&9 %3 &7als vijand: &e/%4 &8[KLIK][H]&7Klik
+  hier\nom natie&9 %5 &7tot vijand te verklaren.[/H][C]%6[/C][/T]\n"
 ccac4b2b-1014-4746-a006-44636565b55c.deathmessages.Mobs.tropicalfish.Gang.Weapon.0: "%1
   werd aangevallen door een paar %2's! Eén sloeg ze met %3"
 df83825e-d518-4290-bfa7-27c10677554e.deathmessages.Mobs.cod.Solo.Melee.0: '%1 is gedood
@@ -4386,9 +4389,9 @@ a6eea5dd-f2bb-44d9-9042-3434b9440710.deathmessages.Mobs.husk.Gang.Projectile-Arr
 cbe4898b-f698-47ee-866a-a7f02b722b74.deathmessages.Mobs.villager.Solo.Melee.0: '%1
   is gedood door een %2'
 74ac4ae6-a755-404e-a1a0-7facdd46fa89.lands.messages.lands.command.claim.create.auto: "&7Automatisch
-  een nieuw land&2 %1&7 gemaakt, omdat je er geen had die je kon claimen.\n [T]&7✖
-  Hernoemen: &e/landen hernoemen &8<&naam&8> &8[&8CLICK&8][SC]landen hernoemen[/SC][H]&7Klik
-  om deze opdracht te kopiëren[/H].[/T]\n"
+  een nieuw land gemaakt&2 %1&7, omdat je er geen had die je kon claimen.\n  [T]&7✖
+  Hernoemen: &e/landen hernoemen &8<&enaam&8> &8[&8CLICK&8][SC]landen hernoemen[/SC][H]&7Klik\n
+  om deze opdracht te kopiëren.[/H][/T]\n"
 c1f73575-302e-41ff-8749-714f5ae90f33.deathmessages.Mobs.vex.Gang.Projectile-Arrow.0: '%1
   werd aangevallen door een paar %2! Je schoot ze neer met %3'
 ebef04f6-6684-4b36-be78-de731ba87b1e.deathmessages.Mobs.fox.Gang.Weapon.0: "%1 werd
@@ -4417,10 +4420,10 @@ e71456f1-ac1a-428f-86c2-136d06bcd6bb.lands.messages.general.top.hologram.nation.
   is neergeschoten door een %2 met behulp van %3'
 47d7511b-dd43-41c5-9e94-076e082373ec.lands.messages.wars.command.declare.mutual.target: "&7De
   vijand %1 &7stuurt een oorlogsverklaring tegen %2 &8(&7Jij&8)&7. &7Als de verdedigers
-  zich tijdens de oorlog overgeven, moeten ze&c %3 &7aan de aanvallers betalen.\n
-  [T]&2✔ Accepteer &8[&8CLICK&8][H]&7Klik hier om de oorlogsverklaring te accepteren.[/H][C]wars
-  declare %4[/C][/T]\n [T]&c✘ Weiger &8[&8CLICK&8][H]&7Klik hier om de oorlogsverklaring
-  te weigeren.[/H][C]wars deny[/C].[/T]\n"
+  zich tijdens de oorlog overgeven, moeten ze betalen&c %3 &7aan de aanvallers.\n
+  [T]&2✔ Accepteer &8[&8CLICK&8][H]&7Klik hier om de oorlogsverklaring te accepteren.[/H][C]wars\n
+  verklaren %4[/C][/T]\n [T]&c✘ Weigeren &8[&8CLICK&8][H]&7Klik hier om de oorlogsverklaring
+  te weigeren.[/H][C]wars\nontkennen[/C][/T]\n"
 50bcc332-c409-4aa7-898a-26764d72e5e3.deathmessages.Mobs.dolphin.Gang.Weapon.0: "%1
   werd aangevallen door een paar %2's! Eén sloeg ze met %3"
 adfd8793-9c2c-4e3e-953f-5e48c89cbd5d.deathmessages.Natural-Cause.Contact.0: '%1 is
@@ -4515,8 +4518,8 @@ f8e2f6fb-882f-4427-b300-c679284a27a9.deathmessages.Mobs.guardian.Solo.Melee.0: '
   is gedood door een %2'
 8da13c26-17af-4a74-8ec6-423ba689ac6c.lands.messages.lands.command.merge.nation: "&cJe
   kunt land&4 %1 &cinto&4 %2&c niet samenvoegen. &7Land&2 %3 &7is de hoofdstad van
-  natie&9 %4&7.\n [T]&7✖ Wijzig hoofdstad: &e/nations setcapital &8<&eland&8>[H]&7Klik
-  hier om de hoofdstad van de natie te wijzigen. Hiermee kun je land %5 samenvoegen.
+  natie&9 %4&7.\n  [T]&7✖ Wijzig hoofdstad: &e/nations setcapital &8<&eland&8>[H]&7Klik
+  hier om de\nde hoofdstad van het land te wijzigen. Hiermee kun je land %5 samenvoegen.
   Klik om te kopiëren.[/H][SC]nations setcapital[/SC][/T]\n"
 e25a9d33-bd4d-42f8-b631-5e95ef6704d7.lands.messages.general.inbox.relation.enemy.offer: '&7%1
   &7wil neutraal voor ons zijn.'
@@ -5303,8 +5306,8 @@ b86d7ea2-7b27-470c-9990-577833ca0a21.lands.messages.general.inbox.war.end.won: "
   &7als schadevergoeding.'
 ec1f148b-1533-4624-9d81-755eabea8a39.lands.messages.lands.command.trust.land.banned: "&cJe
   kunt speler&4 %1&c niet vertrouwen in het land&4 %2&c. &7Ze zijn verbannen in het
-  hele land.\n [T]&2✔ Unban: &e/%3 &8[&8CLICK&8][H]&7Klik hier om deze speler te unbannen
-  uit het hele land.[/H][C]%4[/C][/T]\n"
+  hele land.\n  [T]&2✔ Unban: &e/%3 &8[&8CLICK&8][H]&7Klik hier om deze speler te
+  unbannen uit het\nhele land.[/H][C]%4[/C][/T]\n"
 dae5fb78-1a7f-4e84-a6c7-a0731e8f8c67.deathmessages.Mobs.squid.Gang.Melee.0: "%1 werd
   gedood door een stel %2's"
 f7c32ec2-0cc8-460f-8018-229a43ace722.lands.messages.help.command.wars.info: '[T]&e%1
@@ -6521,3 +6524,231 @@ aa2d20b5-50ea-40f2-b995-f2b222602eb8.deathmessages.Mobs.magmacube.Solo.Melee.0: 
   is gedood door een %2'
 289f62cc-3936-4ea8-b9f7-f7c991b4a42b.deathmessages.Mobs.llama.Solo.Weapon.0: '%1 is
   gedood door een %2 met behulp van %3'
+23e92892-e947-4481-9d91-f0ca8da3e4c7.cmd.event.tag: '&b&lVrije Tag &7(slechts één
+  tho)'
+738fa94e-cb70-4fe3-b8f4-bdd4ff70b833.cmd.ref.buy-now: '&7Koop nu de &f%1 &7rank voor
+  %f%2 Verwijzingspunten'
+1bc5aa8b-bde3-46dd-a336-5d3b931f1537.cmd.ref.29.here.player: "&7Referral-punten vereist
+  voor de rangen\n&f\" Amazoniet &7(5RP)\n&f\" Carneool &7(12RP)\n&f\" Epidoot &7(20RP)\n\
+  &f\" Obsidiaan &7(36RP)"
+d0447afb-7492-464f-ac5d-4e0a4c9ba220.cmd.rules.server.3-5: "&7&lAlle oplichtingspraktijken
+  die het echte leven omvatten\n&8 ♢ &voorwerpen\n&8 ♢ &bezittingen\n&8 ♢ &fgeld\n
+  &f\n&7Wordt beschouwd als bannable en komt met een veel zwaardere\n&7straf."
+8f04f233-7a83-4c33-8847-f427971bb467.cmd.event.tag.desc: "&bBeschrijving\n &b| &7Krijg
+  een zeldzame speler-tag\n &b| &7die maar een paar spelers\n &b| &7ooit in hun leven
+  kunnen krijgen :D\n &3| &fKlik om te bekijken.\n&bInformatie\n &8▪ &7Tag: §xF§xF§x9§xA§x2§x0ᴇᴠᴇɴᴛ
+  2023"
+71606dcd-bd52-4da2-b31e-004d56047155.cmd.event.xp.desc: "&bBeschrijving\n &b| &7Krijg
+  een paar xp\n &b| &7als eventbonus ☺\n &3| &fKlik om te bekijken.\n&bInformatie\n
+  &8▪ &7XP: &f250"
+a316835e-cfc9-46f2-95a5-c15abf88add5.cmd.ref.31.keys.red: '&7Je hebt minstens &f%1
+  &7referral punt%2 nodig om dit te kopen'
+99001d52-e82b-4b39-857e-e18958e73dfe.cmd.settings.title.false.s25: '&bMob Hologrammen&8|
+  &7[Uitgeschakeld]'
+1bc04c58-ab3f-44aa-b4d3-88b75e15224f.cmd.rules.chat.1-2: "&7&lKeep chat &nsafe for
+  work&7&l SFW! Een pornografie, 18+\n&7of een ander onderwerp dat inhoud voor volwassenen
+  kan bevatten is verboden\n&7dit is geen &nonlyfans&7 community, dus houd de chat
+  SFW!"
+2fc05bb0-9ff4-4384-b870-7f48450e3220.cmd.rules.chat.1-0: "&7&l Vermijd het lastigvallen
+  van andere spelers of personeel.\n&7Dit geldt voor alle chats, of het nu\n&7&algemeen&7,
+  &n/boodschap&n of een ander\n&7beschikbaar kanaal is."
+4c722657-574d-42c8-9ebb-ba1f1f75f15e.cmd.event.items.desc: "&bBeschrijving\n &b| &7Alleen
+  sommige spelers\n &b| &7kunnen de voorwerpen krijgen.\n &3| &fKlik om te bekijken.\n
+  &bInformatie\n &8▪ &7Items: &fSommige zijn leuk!"
+fe3c976a-fbe8-4112-87bc-95e8df288cc2.cmd.rules.global.2-1: "&7&lBouwwerken met NSFW/Offensieve
+  inhoud zijn verboden.\n&7Deze regels gelden voor borden en geschreven boeken!"
+453cb168-9e24-4887-bd48-94edf3699bd7.cmd.rules.global.2-4: "&7&lGlitch/Bug/Issues
+  misbruik is een zeer ernstige overtreding\n&7De beslissing of iets een glitch is
+  of niet\n&7wordt beslist door de moderators. Als je een glitch\n&7bug, problemen,
+  enz. meld het dan onmiddellijk op onze discord!\n&7Deel geen glitches met andere
+  mensen en gebruik het niet voor\n&7uw voordeel!"
+2e4d0d9b-2a8a-4d92-926d-0044fd61f63b.cmd.event.noevent.title: '&cHeden ten dage is
+  er geen gebeurtenis'
+a0ca460b-fe01-4dd5-8817-14fa468d4cff.cmd.ref.24.title: '&bEssentiële dingen'
+038682d2-b7dc-47ab-9485-11930985cb1b.cmd.ref.29.obsidian: '&aYou kreeg het hoogste
+  aantal verwijzingspunten.'
+4342473f-5220-4cd2-addb-46aad668ce95.cmd.event.claimed.desc: "&4&lSorry!\n\n&4| &7We
+  kunnen je niet meer geven\n&4| &7dan alle anderen...\n&4| &7want dat zou oneerlijk
+  zijn.\n \n&6| &f Veel plezier, Hamster :D"
+d494c8e3-57d3-4526-a426-1833fa2896f3.cmd.settings.desc.false.s25: "\n&bInformatie:\n
+  &b| &7Status: &c&l❌ &cDisabled\n &b| &7Toggle: &bMob Hologrammen\n\n&b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴛᴏɢɢʟᴇ"
+b33ba3f4-ab00-4fc5-8500-f266b0f9cc0b.cmd.rules.chat.1-3: "&7&lHet opnemen van beledigende
+  inhoud in gesprekken in welke vorm dan ook\n&7is verboden in alle beschikbare kanalen
+  en omvat onderwerpen\n&7zoals:\n &8♢ &fpolitiek\n &8♢ &freligies\n &8♢ &feiten van
+  geweld\n &8♢ &verkrachting(Seksuele onderwerpen)\n &8♢ &fsuïcide/zelfbeschadiging\n
+  &8♢ &fterrorisme\n &8♢ &foorlog\n &8♢ &fschool schietpartijen\n &8♢ &f&o(& Ander
+  serieus onderwerp!)\n&f\n&7Bedenk ook dat haatdragende taal, waaronder racistische
+  opmerkingen\n&7of afgeleiden daarvan, seksistische of homofobe uitspraken,\n&7en
+  andere soortgelijke berichten worden niet getolereerd!"
+d2aac60a-5794-46b0-a514-8094f3435fc3.cmd.rules.global.2-5: "&7&lElk gebruik van lagmachines/farms/gebouwen\n
+  &7Die server/client lag veroorzaken zullen worden bestraft afhankelijk van de\n\
+  &7ernst"
+025a494a-05d1-4029-8134-e4a60502510a.cmd.rank.amazonite.desc: "§x§b§7§f§0§2§e&lRank\n
+  §x§7§4§9§1§2§d ● &7Prefix: §x§b§7§f§0§2§e[ᴀᴍᴀᴢᴏɴɪᴛᴇ]\n§x§7§4§9§1§2§d ● &7Kleur:
+  §x§b§7§f§0§2§eGroene hagedis\n&f\n§x§b§7§f§0§2§e&lPerks\n §x§0§0§f§f§0§0&l✔ &7Geblokkeerde
+  toegang tot /workbench\n §x§0§0§f§0§0&l✔ &7Geblokkeerde toegang tot /recept\n §x§0§0§f§0§0&l✔
+  &7Gesloten toegang tot graven auto-slot\n&f\n§x§b§7§f§0§2§e&lBonus\n &8◆ &f3veilingitems
+  &7(/ah)\n &8◆ &f3 playerwarps &7(/pwarp)\n &8◆ &f15 sethomes &7(/sethome <naam>)\n
+  &8◆ &f4 jobs &7(/jobs join <job>)\n &8◆ &f8 chestshops &7(/chestshop)\n &8◆ &f5
+  naties\n &8◆ &f5 rollen\n &8◆ &f5 onderdelen\n &8◆ &f3 eigen land\n &8◆ &f7 leden\n
+  &8◆ &f7 land &7(/lands)\n &8◆ &f35 brokken\n&f\n§x§b§7§f§0§2§e&lPrijs\n §x§7§4§9§1§2§d&l15
+  uur speeltijd §x§7§4§9§1§2§dof §x§7§4§9§1§2§d&l90 Tokens\n\n§x§b§7§f§0§2§e&l| §x§b§7§f§0§2§e&l"
+1cd25a26-fd54-4ba0-93a5-3d79262669e0.cmd.main.title.s44: '&b&lReferrals'
+56c5b485-abde-4d70-a69d-266546cca486.cmd.click-to-buy: ᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ
+0c96fde1-80c6-45a4-b59e-bf8384745baa.cmd.event.keys.desc: "&bBeschrijving\n &b| &7Verzamel
+  de sleutel van ULTIMATE\n &b| &7in je inventaris (grapje)\n &3| &fKlik om te bekijken.\n
+  &bInformatie\n &8▪ &7Keys: &fElke sleutel, 3x"
+c7c22133-5271-40dc-9020-c6e2a38a5e4c.cmd.settings.desc.true.s25: "\n&b&lInformatie:\n
+  &b| &7Status: &a&l✔ &aGeschikt\n &b| &7Toggle: &bMob Hologrammen\n\n&b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴛᴏɢɢʟᴇ"
+21d44bec-413d-43d7-9c4d-51cd929e2e62.cmd.ref.29: '&7Uw rang is &f'
+ce59a733-0c4e-47bd-be02-9047ed57ec08.cmd.rules.chat.1-5: "&7&lWe vragen dat alle spelergerelateerde
+  drama's worden afgehandeld buiten de\n&7Of openbare chatkanalen, dit betekent dat
+  je hiermee naar ofwel\n&7/msg &nin-game&7."
+0de4e38f-8534-4a72-9285-6dd4b1871355.cmd.rank.obsidian.desc: "§x§5§d§3§3§7§a&lRank\n
+  §x§2§c§1§4§3§d ● &7Prefix: §x§5§d§3§3§7§a[ᴏʙsɪᴅɪᴀɴ]\n§x§2§c§1§4§3§d ● &7Kleur: §x§5§d§3§3§7§aRegalia\n
+  &f\n§x§5§d§3§3§7§a&lPerks\n §x§0§0§f§f§0§0&l✔ &7Geblokkeerde toegang tot /condense\n
+  &f\n§x§5§d§3§7§a&lBonus\n &8◆ &f16 veilingitems &7(/ah)\n &8◆ &f16 playerwarps &7(/pwarp)\n
+  &8◆ &f30 sethomes &7(/sethome <naam>)\n &8◆ &f7 baangrenzen &7(/jobs join <job>)\n
+  &8◆ &f30 chestshops &7(/chestshop)\n &8◆ &f25 naties\n &8◆ &f32 rollen\n &8◆ &f32
+  onderdelen\n &8◆ &f12 eigen landen\n &8◆ &f37 leden\n &8◆ &f15 land &7(/lands)\n
+  &8◆ &f100 brokken\n&f\n§x§5§d§3§7§a&lPrijs\n §x§2§c§1§4§3§d&l336 uur speeltijd§x§2§c§1§4§3§dof
+  §x§2§c§1§4§3§d&l999 Tokens\n\n§x§5§d§3§3§7§a&l| §x§5§d§3§3§7§a&l"
+53157dee-5041-413f-b959-b625d766028d.cmd.rules.server.3-4: "&7&lGebruik geen persoonlijke
+  informatie van anderen\n&7Zoals echte namen, adressen, andere sociale media-accounts,
+  enz.\n&7Zonder hun toestemming. Dit delen met kwade bedoelingen\n&7Mag worden opgevat
+  als doxxing, wat zal resulteren in een onmiddellijke ban."
+ebeeafe6-7931-4a9b-9090-65e663c067aa.cmd.rules.chat.1-4: "&7&lJouw Minecraft gebruikersnaam
+  en /nick <nicknaam>\n&7Als je er een hebt, moeten deze voldoen aan al onze regels.\n
+  &7Nog mag je /nick geen andere gebruiker imiteren\n&7en moet voldoen aan de volgende
+  criteria:\n&f\n &8♢ &fGemakkelijk leesbaar en typbaar met een Engels toetsenbord\n\
+  \     &8&o(Dus geen volledige bijnamen voorafgegaan door \"& k \"!)\n&f\n &8♢ &fProbeert
+  niet om zichzelf valselijk te markeren als deel uitmakend van\n    &fthet personeelsteam.\n
+  &f\n &8♢ &fBevat geen ongepaste inhoud"
+43e0fd06-aeda-43fd-b263-f13ee2759578.cmd.rules.global.2-6: "&7&l Ons regelsysteem
+  misbruiken om er zelf beter van te worden\n&7Op welke manier dan ook is een strafbare
+  overtreding. Alleen omdat je geen\n&7een exact voorbeeld ziet in onze regels betekent
+  niet dat het is toegestaan."
+1fbd7ba2-d992-46e3-b5d7-d25128d46740.cmd.settings.title.unknown.s25: "\n&bBeschrijving\n
+  &b| &7Zet de hologrammen aan of uit\n &b| &7boven de mobs. (Kan de prestaties verhogen)\n"
+100d9cd4-0b56-4211-a4fc-d2deb6a4c89e.cmd.farmworlds.wrongserver.lore: "\n&bBeschrijving\n
+  &b| &7Ga naar de\n &b| &fFarm&7 server!\n&f\n &3| &7Zorg ervoor dat je een\n &3|
+  &7lege inventaris hebt om te farmen!\n&f\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+2a9c8e6f-a2e8-4e6a-9b26-ad2458c22cab.cmd.rank.carneline.desc: "§x§f§0§8§f§2§b&lRank\n
+  §x§9§e§5§d§1§b ● &7Prefix: §x§f§0§8§f§2§b[ᴄᴀʀɴᴇʟɪɴᴇ]\n§x§9§e§5§d§1§b ● &7Kleur:
+  §x§f§0§8§f§2§bCadmium oranje\n&f\n§x§f§0§8§f§2§b&lPerks\n §x§0§0§f§f§0§0&l✔ &7Geblokkeerde
+  toegang tot /hat\n §x§0§0§f§0§0&l✔ &7Gesloten toegang tot /extinguish\n §x§0§0§f§f§0§0&l✔
+  &7Gesloten toegang tot /sellall\n §x§0§0§f§0§0&l✔ &7meervoudige commando's omzeilen\n
+  §x§0§0§f§0§0&l✔ &7meerdere berichten omzeilen\n §x§0§0§f§0§0&l✔ &7colorable playerwarps\n
+  §x§0§0§f§0§0&l✔ &7grave teleportatie\n §x§0§0§f§f§0§0&l✔ &7Ontsloten graven teleportatie\n
+  &f\n§x§f§0§8§f§2§b&lBonus\n &8◆ &f8veilingitems &7(/ah)\n &8◆ &f8 playerwarps &7(/pwarp)\n
+  &8◆ &f20 sethomes &7(/sethome <naam>)\n &8◆ &f5 jobs &7(/jobs join <job>)\n &8◆
+  &f15 chestshops &7(/chestshop)\n &8◆ &f7 naties\n &8◆ &f7 rollen\n &8◆ &f7 onderdelen\n
+  &8◆ &f4 eigen land\n &8◆ &f13 leden\n &8◆ &f8 land &7(/lands)\n &8◆ &f40 brokken\n
+  \n§x§f§0§8§f§2§b&lPrijs\n§x§9§e§5§d§1§b§l 72 uur speeltijd§x§9§e§5§d§1§b of§x§9§e§5§d§1§b§l
+  299 Tokens\n\n§x§f§0§8§f§2§b&l| §x§f§0§8§f§2§b&l"
+f8030775-7095-404b-89e6-5369a3eb890b.cmd.rules.chat: '&b&l| &bChat Regels'
+ce07efe2-086a-4772-aab5-0bf37b0601e2.cmd.rules.chat.1-6: "&7&lReclame voor andere
+  Minecraft Servers, Giveaways, eigen\n&7eigen social media/content creatie kanalen,
+  of dingen\n&7van gelijke aard zijn verboden zonder goedkeuring van\n&7van onze medewerkers.
+  Dit omvat advertenties in alle beschikbare\n&7kanalen te ondertekenen, of geschreven
+  boeken, Adverteren in spelhandel of\n&7winkels is toegestaan, maar onthoud je alsjeblieft
+  van het te vaak posten van reclame\n&7berichten niet te vaak."
+558124b9-93a7-4303-8c9e-ceb6d4e06e67.cmd.red.29.done: '&cGeen upgrade beschikbaar
+  op dit moment.'
+7ceb327f-60ea-4484-a2da-5869cbf224c0.cmd.event.items: '&b&lGratis artikelen &7(kan
+  leuk zijn!)'
+82339929-1c1b-46f4-bd69-1cbe4514e13b.cmd.you-already-have-this: ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ʜᴀᴠᴇ ᴛʜɪs
+10e502c9-137c-4182-98aa-861ca3fef22c.cmd.rank.epidote.desc: "§x§4§a§e§1§f§0&lRank\n
+  §x§2§8§7§1§7§8 ● &7Prefix: §x§4§a§e§1§f§0[ᴇᴘɪᴅᴏᴛᴇ]\n§x§2§8§7§1§7§8 ● &7Kleur: §x§4§a§e§1§f§0Turkoois\n
+  &f\n§x§4§a§e§1§f§0&lPerks\n §x§0§0§f§f§0§0&l✔ &7Geblokkeerde toegang tot /nick\n
+  &f\n§x§4§a§e§1§f§0&lBonus\n&8◆ &f11 veilingitems &7(/ah)\n&8◆ &f11 playerwarps &7(/pwarp)\n
+  &8◆ &f25 sethomes &7(/sethome <naam>)\n&8◆ &f6 baangrenzen &7(/jobs join <job>)\n
+  &8◆ &f20 chestshops &7(/chestshop)\n&8◆ &f9 naties\n&8◆ &f10 rollen\n&8◆ &f10 onderdelen\n
+  &8◆ &f5 eigen land\n&8◆ &f17 leden\n&8◆ &f9 land &7(/lands)\n&8◆ &f50 brokken\n\n
+  §x§4§a§e§1§f§0&lPrijs\n §x§2§8§7§1§7§8&l168 uur speeltijd §x§2§8§7§1§7§8of §x§2§8§7§1§7§8&l519
+  Tokens\n\n§x§4§a§e§1§f§0&l| §x§4§a§e§1§f§0&l"
+1c4b61e5-6ab3-4679-b0ba-8061e581aa5a.cmd.rank.ruby.desc: "§x§d§b§0§0§4§8&lRank\n§x§7§5§0§d§2§f
+  ● &7Prefix: §x§d§b§0§0§4§8[ʀᴜʙʏ]\n§x§7§5§0§d§2§f ● &7Kleur: §x§d§b§0§0§4§8UA Rood\n
+  &f\n§x§d§b§0§0§4§8&lPerks\n §x§0§0§f§f§0§0&l✔ &7Geblokkeerde toegang tot /anvil\n
+  §x§0§0§f§0§0&l✔ &7Gesloten toegang tot /loom\n §x§0§0§f§f§0§0&l✔ &7Gesloten toegang
+  tot /crawl\n&f\n§x§d§b§0§0§4§8&lBonus\n&8◆ &f20 veilingitems &7(/ah)\n&8◆ &f20 playerwarps
+  &7(/pwarp)\n&8◆ &f35 sethomes &7(/sethome <naam>)\n&8◆ &f8 baangrenzen &7(/jobs
+  join <job>)\n&8◆ &f40 chestshops &7(/chestshop)\n&8◆ &f36 naties\n&8◆ &f56 rollen\n
+  &8◆ &f56 onderdelen\n&8◆ &f29 eigen land\n&8◆ &f59 leden\n&8◆ &f23 land &7(/lands)\n
+  &8◆ &f250 brokken\n&f\n§x§d§b§0§0§4§8&lPrijs\n §x§7§5§0§d§2§f&l504 uur speeltijd
+  §x§7§5§0§d§2§voor §x§7§5§0§d§2§f&l2.000 Tokens\n\n§x§d§b§0§0§4§8&l| §x§d§b§0§0§4§8&l"
+1b4a0bdb-1ff2-4754-a668-f544dc56fd0f.cmd.rank.amethyst.desc: "§x§9§9§6§c§c&lRank\n
+  §x§3§5§1§6§5§4 ● &7Prefix: §x§9§9§6§c§c[ᴀᴍᴇᴛʜʏsᴛ]\n§x§3§5§1§6§5§4 ● &7Kleur: §x§9§6§c§cAmethyst
+  kristal\n&f\n§x§9§9§6§c§c&lPerks\n §x§0§0§f§f§0§0&l✔ &7Geblokkeerde toegang tot
+  /near\n §x§0§0§f§f§0§0&l✔ &7Gesloten toegang tot /enderchest\n&f\n§x§9§9§6§c§c&lBonus\n
+  &8◆ &f25veilingitems &7(/ah)\n &8◆ &f25 playerwarps &7(/pwarp)\n &8◆ &f40 sethomes
+  &7(/sethome <naam>)\n &8◆ &f9 baangrenzen &7(/jobs join <job>)\n &8◆ &f50 chestshops
+  &7(/chestshop)\n &8◆ &f65 naties\n &8◆ &f75 rollen\n &8◆ &f75 onderdelen\n &8◆ &f50
+  eigen land\n &8◆ &f75 leden\n &8◆ &f55 land &7(/lands)\n &8◆ &f500 brokken\n&f\n
+  §x§9§6§c§c&lPrijs\n §x§3§5§1§6§5§4&l720 uur speeltijd §x§3§5§1§6§5§4of §x§3§5§1§6§5§4&l3.490
+  Tokens\n\n§x§9§9§6§6§c§c&l| §x§9§9§6§6§c§c&l"
+ced35d86-5f49-4fa9-957a-aba0e352aebd.cmd.event.xp: '&b&lGratis XP &7(Punten)'
+a06532b3-aeba-4210-9232-7efafc6b35ba.cmd.event.money.desc: "&bBeschrijving\n &b| &7Krijg
+  veel geld\n &b| &7als evenementbonus ☺\n &3| &fKlik om te bekijken.\n&bInformatie\n
+  &8▪ &7Geld: &f5000"
+113e6e2a-db4a-4304-9b51-ce1dacc07ca3.cmd.ref.22.title: '&bKeys'
+4d3640fe-d655-45a6-8c43-c2d116ca4b3d.cmd.warps.farm-server.desc: "&bBeschrijving\n
+  &b| &7Klik om\n &b| &7aan te sluiten bij de\n &b| &7Farm server.\n &b&l| &bᴄʟɪᴄᴋ
+  ᴛᴏ ᴠɪᴇᴡ"
+6f979d9c-2203-48a6-8e13-305405287c43.cmd.rules.server.3-1: "&7&lIn het geval dat je
+  gestraft wordt door serverstaf\n&7Voor het overtreden van regels, zullen pogingen
+  om de straf te ontlopen\n&7resulteren in een verhoging van de bestaande straf."
+8a642cab-369c-4735-9e70-a2c3683de3f3.cmd.rules.server.3-3: "&7&lChargebacks op winkelaankopen
+  zijn verboden\n&7En zal resulteren in een onmiddellijke ban voor altijd van onze\n\
+  &7server."
+8d6970c6-bc56-4a2e-843b-39ca14ac2a52.cmd.rules.chat.1-1: "&7&lSpammen is verboden
+  in alle beschikbare kanalen.\n&7Dit houdt in: herhaalde berichten, snel achter elkaar\n
+  &7verschillende berichten snel achter elkaar, karakter\n&7spam, of het verzenden
+  van berichten in alle, of de meeste, hoofdletters."
+f95973e5-cc3b-4aaa-889c-adcc2a6134ce.cmd.main.lore.s44: "&bBeschrijving\n &b| &7Bekijk
+  en gebruik je verwijzings\n &b| &7punten om mooie beloningen te krijgen\n &3| &fKlik
+  om te bekijken.\n &4| &cDit is alleen beschikbaar op Tilgis "
+cc10a5ad-4f58-4657-966e-ec0f62ed2769.cmd.rules.server.3-2: "&7&LM Je client aanpassen
+  zodat je een groot\n&7Voordeel hebt over spelers is een overtreding die gebannt
+  kan worden.\n&8&o( Ex: Inloggen met een gehackte client. )"
+2c6b7471-9cdf-4f64-8ed5-4c215e81028b.cmd.settings.title.s16: '&bMob Hologrammen &8|
+  &7[Toggle]'
+652d5921-764c-4641-9683-fefcaf7d5742.cmd.rules.global: '&b&l| &bGlobale regels'
+8dd637f1-3f85-4695-acc8-20d1099f1a86.cmd.event.claimed.title: '&cAl opgeëist'
+d68934a9-1d3c-4c24-a897-8d7318691a80.cmd.farmworlds.wrongserver.title: '&cSry, verkeerde
+  server!'
+27353bdd-89d6-477d-8087-d24e3ac6990f.cmd.settings.title.true.s25: '&bMob Hologrammen
+  &8| &7[Toggle]'
+5d0af030-66d9-43c4-8e3e-ace5fc4d7830.npc.lobby.tilgis.l3: '&7Status: &f%pinger_online_mc1.storagedata.xyz:25255%'
+5b76be6e-33bd-4587-8c1a-38558d193343.cmd.rules.global.2-2: "&7&lJe Minecraft skin
+  moet voldoen aan al onze regels.\n&7Draag deze skin alsjeblieft niet:\n &8♢ &fpornografie
+  Skin (Seksuele Skin, etc.)"
+36a17ccd-2e01-4ffb-a5b3-62ce5497b83e.cmd.ref.20.title: '&bRangen'
+e2c898fb-64bf-4897-854d-c08009204d2b.cmd.your-too-poor: ʏᴏᴜ'ʀᴇ ᴛᴏᴏ ᴘᴏᴏʀ
+2aed0a5d-ef98-4b22-a9d0-433f84d3d19c.cmd.rules.server: '&b&l| &bServerregels'
+b0f5139f-56b7-4d13-a0e0-5204b39a3990.cmd.ref.click-to-buy: '&7ᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ'
+48dde147-0b05-4cad-bb8e-7dbaca9fc58b.cmd.main.desc.31: "&bBeschrijving\n &b| &7Heb
+  plezier in dit\n &b| &7evenement en beloon\n &b| &7leuke dingen☺\n &3| &fKlik om
+  te bekijken.\n&bInformatie\n &8▪ &7Beperkt"
+248a2009-e1ba-4f30-9cf9-b4e199125d3e.cmd.ref.4.lore: "&7Je verwijzingspunten: &f%1\n
+  &7Je hebt &f%2 &7verschillende mensen doorverwezen\n&7En de code is &f%3"
+17393372-f0b9-402e-ba1b-387b691d9735.npc.lobby.tilgis.l4: '&7Spelers: &f%pinger_players_mc1.storagedata.xyz:25255%'
+06b6d2df-428a-4271-befd-19482fb03a24.cmd.ref.31.keys.green: '&7Koop dit nu voor &f%1
+  &7referral punt%2'
+55654b90-7953-493a-a7bc-85a9549820ea.cmd.main.title.31: '&b&lGebeurtenis'
+5a71262c-3b47-4ae9-8bc3-9c95ba3f34d6.cmd.ref.29.epidote: '&7Koop met &f%1 &7verwijzingspunten'
+227c6eb0-46a3-494e-86d3-d6fcbd29e4a3.cmd.ref.29.get: '&7Krijgen '
+b1a9cda1-8d56-4eca-9ae0-6e2ee6a9e46a.cmd.event.money: '&b&lGratis geld &7(pak dat
+  geld!)'
+1825bd59-cdda-4ac6-bdb3-385f894364f9.cmd.event.noevent.description: "&7Sorry, maar
+  we\n&7geen evenement\n\n&7Kom later terug...\n&7Het volgende evenement is misschien
+  &f01.12.2023"
+67a460c3-1846-4ad5-a417-d24fc239e21d.cmd.rules.global.2-3: "&7&lIedereen voordoen
+  als personeelslid door middel van skins,\n&7in-game namen of berichten in de chat
+  is verboden.\n&7dit is inclusief &nMini-Modding&7!"
+6b6bf5cb-070e-434e-a22f-ced704ce1e2e.cmd.ref.4.title: '&bJouw verwijzingsstatistieken'
+4b60f13f-1ce5-44fe-a9ba-31512af34c22.cmd.event.keys: '&b&lVrije Sleutels &7(verdomme,
+  niet gokken...)'
+05b254c0-bfbf-4df8-bedf-0ca2693469cb.cmd.warps.farm-server.title: '&bLandbouwserver'
