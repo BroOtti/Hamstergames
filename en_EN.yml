@@ -518,6 +518,7 @@ cb255b02-eb0b-4294-a8c4-bd2b4d7375b1.tempflycommand.unit.days.tab_complete: day
   §cNo Strucutres
   §cNo dragon eggs
   §cNo enchantments
+  §cCosts §4150
 dc8147b2-88a1-402d-8129-918ba7c84bcd.deathmessages.Mobs.snowman.Solo.Melee.0: '%1
   was slain by a %2'
 96819d33-756d-477d-8472-b2a8493fdfb4.PlayerParticlesdata-usage-vibration: '§7The effect
@@ -1670,6 +1671,7 @@ da775029-333e-4026-ae09-d5086b654adf.menu.farm.nether.hard.lore: |-
   §cHard difficulty
   §cInventory drops on death
   §cNo enchantments
+  §cCosts §4500
 2a5b98ee-3537-4f8b-9e6a-f1c682dbf3a0.triton.selector-gui-name: '&bSelect a language'
 97477f6f-1f60-4eb8-bb84-5c8ee1db7936.excellentcratesEditor.Crate.BlockPushback.Lore.1: '#bdc8c9back
   from the crate block when'
@@ -2615,8 +2617,8 @@ f441c016-6b8b-463d-b492-5dca45898ec3.lands.messages.help.command.lands.admin.pla
   in a unique way'
 69cb362f-f1a5-4c66-91b2-1c666300a012.cmd.main.desc.s4: |-
   &bInformation:
-   &8| &7Rank: &b%formatter_text_replace_&__{luckperms_prefix}%
-   &8| &7Playtime: &b%plan_player_time_total%
+   &8| &7Rank: &b%1
+   &8| &7Playtime: &b%2
 2514638a-acf6-42b8-982d-b780d5fcb490.PlayerParticlesgui-edit-data-description: §bClick
   §8|§7 edit the data of this particle
 b74e6675-3e2b-4481-b459-78dda018fb74.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Name: '#ffed6a&lBlock
@@ -2944,9 +2946,10 @@ d9ebaf87-9072-4692-977a-2a4cadf7df40.deathmessages.Mobs.enderman.Gang.Projectile
   §aGold ore + Quartz ore
 
   §4Disadvantages:
-  §cNo Strucutres
+  §cNo Structures
   §cNo anciend debris
   §cNo enchantments
+  §cCosts §4150
 654bc188-c5d9-439d-a95f-b87d4cfce709.PlayerParticlesgroup-no-name: §7You did not provide
   a group name! §b/pp §3%1 <groupName>
 751dfcc2-42d4-430f-9503-ab56d5ab7129.PlayerParticlesdata-invalid-block: '§7The block
@@ -3170,11 +3173,11 @@ a8ae3b05-2593-45db-8050-d8429f8dcb65.lands.messages.help.command.lands.rent.main
   position. &7Click to copy.[/H][SC]%4[/SC][/T]
 01e603ed-9e16-4ce9-a8ea-dac424f5f526.cmd.main.desc.s43: |-
   &bDescription
-   &b| &7Donate for our server and unlock
+   &b| &7Play on our server and unlock
    &b| &7a special perks ☺
    &3| &fClick to view.
   &bInformation
-   &8▪ &7Rank: &f%formatter_text_replace_&__{luckperms_prefix}%
+   &8▪ &7Rank: &f%1
 9210728a-8ea8-4543-9cfe-ccc6a9fea0da.lands.messages.help.command.lands.withdraw: '[T]&e%1
   %2 %3 &8- &7Withdraw money[H]&7Click to copy.[/H][SC]%4[/SC][/T]'
 e3aef2bf-dc6d-4218-af55-a0ec3804ba54.ib.tilgis.top-stats.title: '&fChoose a Statistic
@@ -3450,7 +3453,7 @@ f0754c98-ae28-4735-bbd9-2db7b7cf8f57.deathmessages.Mobs.husk.Solo.Weapon.0: '%1 
   slain by a %2 somehow using %3'
 4911f93f-4e1f-4b72-906b-495d26b272a3.lands.messages.help.command.lands.unclaim.all: '[T]&e%1
   %2 &8- &7Unclaim all chunks[H]&7Click to copy.[/H][SC]%3[/SC][/T]'
-ec742b0e-d03a-4eb8-87af-bd73642ee30a.cmd.kits.choose.title.s24: '&b⌘ &8| &bDonator
+ec742b0e-d03a-4eb8-87af-bd73642ee30a.cmd.kits.choose.title.s24: '&b⌘ &8| &bPlaytime
   Kit'
 cc8cc9bd-dff4-4ffb-9baf-d9ab432a18d1.deathmessages.Mobs.silverfish.Solo.Weapon.0: '%1
   was slain by a %2 somehow using %3'
@@ -4634,6 +4637,7 @@ f8d421e0-cf6f-42fc-aa32-7136a20b4735.cmd.farmworlds.time.o.easy: '§x§5§E§9§
   §cHard difficulty
   §cInventory drops on death
   §cNo enchantments
+  §cCosts §4500
 75019500-4a08-49ff-b5e8-f5a2f56c1af5.deathmessages.Mobs.mule.Gang.Projectile-Arrow.0: '%1
   was ganged up on by some %2! One shot them with %3'
 b75f4151-7d47-436f-82b0-6c2fe12fbddc.excellentcratesEditor.Crate.Enter.AnimationConfig: '#d4d9d8Enter
@@ -5108,8 +5112,8 @@ f4196f9b-d12c-429d-bb45-f5998d489e91.menu.farm.normal.easy.lore: |-
   §aBasic ores
 
   §4Disadvantages:
-  §cNo Strucutres
-  §cNealry no ores
+  §cNo Structures
+  §cNearly no ores
   §cNo enchantments
 404d4b93-c4c9-405e-981c-e37b23ec85f1.tempflycommand.unit.seconds.recognized.1: sec
 fb33581a-2a23-46b8-b406-11624b256412.deathmessages.Mobs.bat.Gang.Weapon.0: '%1 was
@@ -5387,7 +5391,7 @@ a0c64a09-8a8f-4129-b65b-1d5e31773285.cmd.links.desc.s29.2: |-
    §x§7§2§8§9§d§a| &7Click to link your
    §x§7§2§8§9§d§a| &7discord profile!
   &f
-  §x§7§2§8§9§d§a&l| #7289daᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
+  §x§7§2§8§9§d§a&l| §x§7§2§8§9§d§aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 e651a801-44e2-4187-a743-848ad6fb9d06.cmd.settings.title.true.s24: '&bVote Broadcast
   &8| &7[Enabled]'
 5911ef87-c0a7-4d39-8586-cba422609708.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Name: '#ffed6a&lGiven
@@ -5706,7 +5710,7 @@ c5f46110-b284-430c-b7c8-ce4ac2b61c66.deathmessages.Mobs.cat.Solo.Melee.0: '%1 wa
    §x§7§2§8§9§d§a| &7Click to unlink your
    §x§7§2§8§9§d§a| &7discord profile!
   &f
-  §x§7§2§8§9§d§a&l| #7289daᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
+  §x§7§2§8§9§d§a&l| §x§7§2§8§9§d§aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 3aa031d4-8d2a-4782-bc0d-2b78755f5deb.lands.messages.lands.command.delete.confirm: |
   &7Please confirm the deletion of land&2 %1 &7by clicking below:
     [T]&2✔ Confirm: &e/%2 &8[CLICK][H]&7Click here to confirm this action.[/H][C]%3[/C][/T]
@@ -5720,7 +5724,7 @@ c5f46110-b284-430c-b7c8-ce4ac2b61c66.deathmessages.Mobs.cat.Solo.Melee.0: '%1 wa
   <0-255>>|<§brainbow>|<random> <<0-255> <0-255> <0-255>>|<rainbow>|<random>
 b21f6736-414b-42e6-8722-b9f0934fc4d3.deathmessages.Mobs.cow.Gang.Melee.0: '%1 was
   slain by a bunch of %2''s'
-fdfa5f9b-2699-4570-b8e1-7a828300108d.cmd.main.title.s43: '&b&lDonator'
+fdfa5f9b-2699-4570-b8e1-7a828300108d.cmd.main.title.s43: '&b&lPlaytime'
 40f46b5d-ac9c-48fd-b654-6f32b40346ff.gsitMessages.command-gcrawl-toggle-on: '[P]§a
   You have enabled double-sneak for crawl.'
 8e094cc8-56b3-4d4a-b6fa-065329fcd90c.cmd.settings.desc.false.s20: |2-
@@ -6095,7 +6099,7 @@ c43e58a9-4f9f-4510-bddf-f95bebf08c10.cmd.main.desc.s16: |-
    &3| &fClick to view.
   &bInformation
    &8▪ &7Free: &f1
-   &8▪ &7Premium: &f6
+   &8▪ &7Playtime: &f6
 14a5191b-c1c9-465e-ac63-0075d82a8b68.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.1: '#bdc8c9specified
   order.'
 d3c79301-0f7e-4e06-ab5a-dd43e96563b7.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.3: '#ffed6a&lCurrent:'
@@ -7149,6 +7153,7 @@ ff27de84-304a-4e50-8320-80910e4ece70.excellentenchantmentsCommand.Book.Usage: '%
   §cInventory drops on death
   §cNo dragon eggs
   §cNo enchantments
+  §cCosts §4500
 c3b03270-e48f-44a7-be4d-0806b02ffb3f.deathmessages.Mobs.irongolem.Gang.Melee.0: '%1
   was slain by a bunch of %2''s'
 6c7dcdb4-bbbd-48c2-be9e-d998088d1bc7.deathmessages.Mobs.turtle.Solo.Projectile-Arrow.0: '%1
