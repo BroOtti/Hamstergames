@@ -342,9 +342,9 @@ da4a8b56-fd72-484a-8550-1a17bef57b21.lands.messages.help.command.lands.view.stay
   your height. &7Click to execute.[/H][C]%3[/C][/T]
 59a6a0f4-2d49-4a43-b7e1-4db242057cee.cmd.warps.desc.s21: |-
   &bDescription
-   &b| &7Click to view all available
-   &b| &7Random Teleport.
-   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
+   &b● &7Click to view all available
+   &b● &7Random Teleport.
+   &b&l● &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 f5924602-cb09-4842-9405-e95c4958f0bf.deathmessages.Mobs.giant.Gang.Melee.0: '%1 was
   slain by a bunch of %2''s'
 d0447afb-7492-464f-ac5d-4e0a4c9ba220.cmd.rules.server.3-5: |-
@@ -379,7 +379,7 @@ a52b1f7d-cc3f-4ebf-9c12-13bde534da87.lands.messages.general.prefix.normal: '&b&l
 d796fadb-4025-48ec-8e83-f21966dae232.deathmessages.Mobs.slime.Gang.Melee.0: '%1 was
   slain by a bunch of %2''s'
 c4bcd6f4-89ce-4680-a961-a07d13c26c10.cmd.main.title.s28: '&b&lShop'
-78608a70-26e7-4181-8044-906cca8dd56a.tab.sb.tokens: '§7Tokens:'
+78608a70-26e7-4181-8044-906cca8dd56a.tab.sb.tokens: 'Tokens:'
 2a992378-a09c-4cd1-ad05-76c7f9ab7472.deathmessages.Mobs.zombiehorse.Gang.Projectile-Arrow.0: '%1
   was ganged up on by some %2! One shot them with %3'
 24366b74-240d-44bc-99f0-2d8edb756d52.menu.bank.menu.info: |2-
@@ -685,8 +685,8 @@ a60c331b-be03-4d5b-9c64-c0eda30678ac.lands.messages.general.top.hologram.nation.
   %2 %3'
 6113ed6d-13f2-4724-9771-2b55a0e3acca.cmd.main.desc.s14: |-
   &bDescription
-   &b| &7Sell or Bid items on auctionhouse
-   &b| &7With more better price!
+   &b| &7Sell or Bid items on auction house
+   &b| &7With better prices!
    &3| &fClick to view.
 2fa892ae-0d36-4aed-8891-d8ee81922ada.lands.messages.nations.command.chat.format.minecraft: '[NoPrefix]&9Nation
   %1 &8| &7%2 &8»&f %3'
@@ -750,7 +750,6 @@ adaff0a5-9472-427b-a6a6-a768a49ed22d.lands.messages.lands.message.chat-input.lan
    &8| &fStyles Cosmetics
    &8| &fTags Cosmetics
    &8| &fChatColor Cosmetics
-   &8| &fPets Cosmetics
 72df96f6-88ed-41b3-9c54-2a6e1936f000.deathmessages.Mobs.panda.Gang.Weapon.0: '%1 was
   ganed up on by some %2''s! One wacked them with %3'
 10c8447b-984c-4de8-bbdc-7328b32ba9b2.deathmessages.Mobs.wanderingtrader.Solo.Weapon.0: '%1
@@ -1064,12 +1063,12 @@ db0037b6-b511-46b5-a1ba-b750134b4a4d.PlayerParticlesgui-edit-style: §bEdit Styl
   was slain by a %2'
 5184fee0-d33d-41fa-9fd6-44f09c80aac8.menu.bank.menu.deposit: |2-
 
-  §aDescription
-  §a| §7Click to open a deposit
-  §a| §7menu for you to keep
-  §a| §7your money to the bank.
+  &aDescription
+  &a● &7Click to open a deposit
+  &a● &7menu for you to keep
+  &a● &7your money to the bank.
 
-  §a&l| §aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
+  &a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 7e6531f9-9734-488b-ac5f-fc0d8405d054.deathmessages.Mobs.evoker.Gang.Projectile-Arrow.0: '%1
   was ganged up on by some %2! One shot them with %3'
 c280db1f-1a1b-4716-9a6a-99ad3fcc3b9f.deathmessages.Mobs.rabbit.Gang.Weapon.0: '%1
@@ -1169,7 +1168,7 @@ d84381be-2c40-4aba-bad8-67c738d2e481.mycmd.cooldown2: §7You've skipped the cool
 6b11047a-fdc4-482d-aa6d-69fbc562bb6a.PlayerParticleseffect-invalid: >-
   §7The effect §c%1 §7does not exist! Use §b/pp effects §7for a list of effects
   you can use.
-f64cfdc4-ae08-4e19-9b08-48cc7ea9831b.tab.sb.balance: '§7Balance:'
+f64cfdc4-ae08-4e19-9b08-48cc7ea9831b.tab.sb.balance: 'Balance:'
 0989c54c-90f9-4b13-8611-2b6b39469830.cmd.farmworlds.time.n.hard: '§x§6§F§4§6§4§4Time
   in this Farmworld&8: &7'
 0981aa58-0cf9-477f-b2bd-5c7bfe6968d0.deathmessages.Mobs.enderman.Gang.Weapon.0: '%1
@@ -1245,7 +1244,7 @@ b5b18118-78cc-400d-94d3-f690e6bc57e8.lands.messages.list.sign.sold.land.1: '&7La
   &7and start taking over the gamemode!
   &7To receive &bExciting Rewards&7 as you
   &7play, do &b/vote
-15878977-20f7-4765-94e8-7afbf63bc2d2.tab.sb.playtime: '§7Playtime:'
+15878977-20f7-4765-94e8-7afbf63bc2d2.tab.sb.playtime: 'Playtime:'
 a1b1b9b7-8b71-4393-9c1b-6a63d2de05a4.deathmessages.Mobs.zombie.Gang.Weapon.0: '%1
   was ganed up on by some %2''s! One wacked them with %3'
 aca41225-4423-4954-b788-f0b4008d7e88.deathmessages.Mobs.llama.Gang.Weapon.0: '%1 was
@@ -2140,8 +2139,8 @@ b71fd07b-ee6f-404b-86f3-1dd3051afb86.cmd.main.title.s10: '&b&lJobs'
 93dc9087-b27d-451b-8fe1-d5330f164b2d.cmd.purchase.choose.desc.s4: |-
   &f
   &b&lInformation
-   &8▪ &7Name: &f%player_name%
-   &8▪ &7Tokens: &f⛃%tmtokens_get_tokens_fixed%
+   &8▪ &7Name: &f%1
+   &8▪ &7Tokens: &f⛃%2
 b2847bd3-0298-4c0b-9c48-ca7967a363bf.deathmessages.Natural-Cause.Suffocation.0: '%1
   was squished to death'
 b2595b19-a406-42a8-8622-cfe87b06129f.excellentcratesCommand.Give.Done: >-
@@ -2202,31 +2201,29 @@ bd0d47b3-e030-4db2-904f-504501434a0c.excellentcratesCommand.ResetLimit.Done.Rewa
   #fdf35e%3#d4d9d8.
 a3c18b28-e866-4eb2-8b9a-398661ba211e.cmd.main.desc.s25: |-
   &bDescription
-   &b| &7View all available warps region for you
-   &b| &7To teleport!
-   &3| &fClick to view.
+   &b● &7View all available &#20F707warps in this region &ffor you
+   &b● &7to teleport!
+   &3● &fClick to view.
   &bInformation
-   &8▪ &fServer Warps
-   &8▪ &fRTP Warps
+   &8● &#20F707Server Warps
+   &8● &#20F707RTP Warps
 93e4c76a-b420-4531-8b94-c245b932d9ec.deathmessages.Mobs.ocelot.Solo.Weapon.0: '%1
   was slain by a %2 somehow using %3'
 953d352e-683c-4117-abb2-f298807814b1.cmd.main.desc.s19: |-
   &bDescription
-   &b| &7Upgrades your &fHomes&7, &fAuction
-   &b| &fP-Warps&7, &fQuests&7, &f...
-   &b| &7Limits using your points!
-   &3| &fClick to view.
+   &b● &7Upgrades your &fHomes&7, &fAuction
+   &b● &fP-Warps&7, &fQuests&7, &f...
+   &b● &7Limits using your points!
+   &3● &fClick to view.
   &bInformation
-   &8▪ &7Points: &f✪%playerpoints_points%
+   &8▪ &7Points: &f✪%1
    &8▪ &7Upgrades Available
-      &8▶ &fQuests
-      &8▶ &fPlayerWarps
-      &8▶ &fAuctionHouse
-      &8▶ &fChestShop
-      &8▶ &fHomes
-      &8▶ &fParticles (Styles)
-      &8▶ &fParticles (Groups)
-      &8▶ &fJobs
+      &8▶ &#20F707Quests
+      &8▶ &#20F707PlayerWarps
+      &8▶ &#20F707AuctionHouse
+      &8▶ &#20F707ChestShop
+      &8▶ &#20F707Homes
+      &8▶ &#20F707Jobs
       &8▶ &7and more...
 225e108c-c940-4866-947d-626bf50ad6ff.deathmessages.Mobs.sheep.Gang.Weapon.0: '%1 was
   ganed up on by some %2''s! One wacked them with %3'
@@ -2247,13 +2244,13 @@ c8547896-96d1-45cb-8473-b934db7c2a96.deathmessages.Mobs.witch.Solo.Weapon.0: '%1
 c1404bf0-9b31-4177-bc0e-762bdfbefccf.lands.messages.lands.command.general.input.confirm: |
   &7Please confirm this action &8(&e/%1&8) &7by clicking below:
     [T]&2✔ Confirm: &e/%2 &8[CLICK][H]&7Click here to confirm this action.[/H][C]%3[/C][/T]
-7de42667-35e9-42e6-bcce-984d030877d1.tab.sb.tempfly: '§7TempFly: '
+7de42667-35e9-42e6-bcce-984d030877d1.tab.sb.tempfly: 'TempFly: '
 9ea2b862-70f8-4bec-9fba-bd248cc57a04.cmd.kits.choose.desc.s20: |2-
 
   &bDescription
-   &b| &7Click to view a free kit categories
-   &b| &7here you can view, preview and or claim
-   &b| &7free kits from the server
+  &f● &#20F707Click to view a free kit categories
+  &f● &#20F707here you can view, preview and or claim
+  &f● &#20F707free kits from the server
 
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 6e1c3a19-a9b4-49af-9ea6-199ab0ea8b78.lands.messages.general.command.argument.type.y-min: y-min
@@ -2605,9 +2602,9 @@ b9e86347-31b3-4fc4-8b69-bb043db0e123.excellentenchantmentsFitItemType.ARMOR: Arm
 1d1f01b3-816c-4a3d-b7b5-c915ef2f3df2.cmd.kits.choose.desc.s24: |2-
 
   &bDescription
-   &b| &7Click to view a donator kit categories
-   &b| &7here you can view, preview and or claim
-   &b| &7donor kits from the server
+  &f● &fClick to view &#20F707a donator kit &fcategorie
+  &f● &fhere you can view, preview and or claim
+  &f● &#20F707donor kits&f from the server
 
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 56007461-8022-44c6-8488-c2a86a21e7f9.tempflysystem.help.6: §7- send another player
@@ -2928,13 +2925,10 @@ a956c80f-c978-4c3d-80d0-713548ec9c02.PlayerParticlesgroup-preset-no-permission: 
   was slain by a %2'
 c1801390-e85f-442e-8b1e-ba87059ed536.cmd.upgrade.choose.desc.s22: |-
   &bDescription
-   &b| &7Upgrades your set-home limits
-   &b| &7to set more homes!
+   &b● &7Upgrades your set-home limits
+   &b● &7to set more homes!
   &f
-   &3| &fPurchase more points
-   &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!
-  &f
-  &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
+  &b&l● &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 c8775213-a1a5-44e5-ad2a-d72224b58148.lands.messages.lands.command.accept.war: >-
   &cYou currently can't join land&4 %1&c, because it is engaged in a war against
   %2&c. &7Try again when their war is over.
@@ -3053,13 +3047,10 @@ cbd45de3-3ade-412b-89e5-dae6f866e7f8.deathmessages.Mobs.husk.Gang.Weapon.0: '%1 
   ganed up on by some %2''s! One wacked them with %3'
 2bb011eb-0e39-4f2b-a18c-ab7d01c53ef8.cmd.upgrade.choose.desc.s29: |-
   &bDescription
-   &b| &7Upgrade your jobs limits
-   &b| &7to join more jobs!
+   &b● &7Upgrade your jobs limits
+   &b● &7to join more jobs!
   &f
-   &3| &fPurchase more points
-   &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!
-  &f
-  &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
+  &b&l● &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 f0cb5e91-fc97-4390-b4ee-817b76b63505.lands.messages.help.command.lands.selection.expand: '[T]&e%1
   %2 &8- &7Expand selection[H]&7Click to execute.[/H][C]%3[/C][/T]'
 9bd6c977-21f0-4d37-be3f-be080a6b88de.deathmessages.Mobs.squid.Solo.Projectile-Arrow.0: '%1
@@ -3186,19 +3177,20 @@ fa3c8281-71f1-404e-bfa7-61cf0b8a410a.deathmessages.Mobs.panda.Solo.Melee.0: '%1 
 9157dac0-4b19-4f07-866c-c01e8b701a41.mpdb.inventorySyncBackup: >-
   §6[!] §eRestored the local inventory! §cDon't leave items in your inventory
   when you disconnect!
-e004e105-5be5-4e36-9351-9b19e1f371cc.menu.bank.menu.interest: |2-
+e004e105-5be5-4e36-9351-9b19e1f371cc.menu.bank.menu.interest: |-
+  &f
+  &bInformation
+   &f● This is a bank, here you can
+   &f● Deposit and Withdrew
+   &f● funds from your bank account
+   &f● or your account.
 
-  §bDescription
-   §b| §7This is a bank, here you can
-  §b| §f&nDeposit§7 and §f&nWithdrew
-  §b| §7funds from your bank account
-  §b| §7or your account.
-
-  §b| §7With the §b&nInterest§7 feature
-  §b| §7your monet will continue to increase
-  §b| §7for every §f5 Hours§7!
-
-  §b&l| §bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
+   &f● With the Interest feature
+   &f● your money will continue to increase
+   &f● every #20F70712 &fHours§7!
+   
+   &f● Click here to upgrade the bank level
+   &f● Cost to Upgrade: #20F707$ %1
 d161dfb1-37bd-42c9-ada1-d955e03b989a.SuperVanishMessages.NoConfigUpdateAvailable: '&b&l%1
   &8&l┃ &7Your SuperVanish-files are up to date!'
 92f51475-b2ab-48f8-bf1d-37ada5e53ecc.lands.messages.list.hologram.sold.area.3: '&8Shift
@@ -3252,7 +3244,7 @@ fb571985-b924-4a7c-a75b-ca0d72897898.lands.messages.wars.message.noaccess.genera
   &bYour Statistics
   &b | &7Play more on the server
   &b | &7to get exciting rewards.
-  &3 | &7Playtime: &b%plan_player_time_total%
+  &3 | &7Playtime: &b%1
 775a222d-b84f-483d-97fd-88af40a4781a.deathmessages.Mobs.sheep.Solo.Melee.0: '%1 was
   slain by a %2'
 55e19b44-d96a-4dc9-b31e-7419d35c355a.deathmessages.Mobs.mushroomcow.Solo.Weapon.0: '%1
@@ -3289,7 +3281,7 @@ ffd3e67b-5234-47b1-a053-053be1d3f993.PlayerParticlescommand-descriptions-help-1:
 35ea7e80-0375-4d9d-9acf-8e3825baa84f.lands.messages.help.command.lands.claim.fill: >-
   [T]&e%1 %2 &8- &7Claim chunks inside shape[H]&7Claim all chunks inside a shape
   to fill it. Click to execute.[/H][C]%3[/C][/T]
-709c93ae-7070-4097-a6d0-9c996b0dab5a.tab.sb.username: '§7Username:'
+709c93ae-7070-4097-a6d0-9c996b0dab5a.tab.sb.username: 'Nickname:'
 636a0cfe-f45a-465c-bb1e-49f15738bc4b.menu.farm.nether: §4Nether Farmworlds
 794a2fdc-75d5-4c5d-8071-67f220f02df0.deathmessages.Mobs.parrot.Solo.Projectile-Arrow.0: '%1
   was shot by a %2 somehow using %3'
@@ -3350,9 +3342,9 @@ a8ae3b05-2593-45db-8050-d8429f8dcb65.lands.messages.help.command.lands.rent.main
   position. &7Click to copy.[/H][SC]%4[/SC][/T]
 01e603ed-9e16-4ce9-a8ea-dac424f5f526.cmd.main.desc.s43: |-
   &bDescription
-   &b| &7Play on our server and unlock
-   &b| &7a special perks ☺
-   &3| &fClick to view.
+  &f● &fPlay on our server and unlock
+  &f● &#20F707special perks ☺
+  &f● &fClick to view.
   &bInformation
    &8▪ &7Rank: &f%1
 9210728a-8ea8-4543-9cfe-ccc6a9fea0da.lands.messages.help.command.lands.withdraw: '[T]&e%1
@@ -4132,11 +4124,11 @@ f84779b8-553d-46a4-a7db-e55b71c05462.excellentcratesEditor.CrateEditorType.CRATE
 e52dd131-45c3-4c25-878d-aab1dc29e248.menu.bank.menu.withdraw: |2-
 
   §eDescription
-  §e| §7Click to open a withdrew
-  §e| §7menu if you want to take
-  §e| §7your money from the bank.
+  &e● &7Click to open a withdrew
+  &e● &7menu if you want to take
+  &e● &7your money from the bank.
 
-  §e&l| §eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
+  &e&l| §eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 39d91c30-f49d-4490-a625-617601c4c4f4.PlayerParticlesgui-active-particles: '§fParticles
   active:§b %1'
 7c045743-08d7-4923-9947-d2514cd2a97f.sunlight.afk.now: is now AFK.
@@ -4556,7 +4548,7 @@ e80f3075-e440-4e6c-8b22-24fba806e074.lands.messages.help.command.lands.admin.lan
   &4| &7because that would be unfair.
    
   &6| &fHave Fun, Hamster :D
-45575dd6-ea41-4022-8695-8bc3fcda8b6b.tab.sb.points: '§7Points:'
+45575dd6-ea41-4022-8695-8bc3fcda8b6b.tab.sb.points: 'Points:'
 1c8674a4-7d04-4dbb-9840-a7bd4a7fdd9e.deathmessages.Mobs.ghast.Gang.Projectile-Arrow.0: '%1
   was ganged up on by some %2! One shot them with %3'
 af7607cb-fb2f-4594-b306-946c146551c2.dh.token-lb.titel: '[Top 10 Dola Dola!]'
@@ -5185,10 +5177,10 @@ bd72f674-9782-4352-942e-d0c08b7843bb.lands.messages.nations.command.chat.format.
   %11</li> <li>Lands (total players: %12): %13</li> </ul>
 f95973e5-cc3b-4aaa-889c-adcc2a6134ce.cmd.main.lore.s44: |-
   &bDescription
-   &b| &7View and use your referral
-   &b| &7points to get some nice rewards
-   &3| &fClick to view.
-   &4| &cThis is only available on Tilgis 
+   &b● &7View and use your referral
+   &b● &7points to get some nice rewards
+   &3● &fClick to view.
+   &4● &cThis is only available on Tilgis 
 f79892b9-7353-4f72-90a7-37490a49bd07.lands.messages.lands.command.general.noaccess.owner: >-
   &cYou're not allowed to do this for the land&4 %1&c. &7Only the land owner can
   do this. &7Select your own land &8(/&elands edit &8<&eland&8>) &7or create one
@@ -5562,7 +5554,7 @@ d520e877-12b4-4f03-b384-71087337182d.deathmessages.Mobs.irongolem.Gang.Melee.0: 
 27bd8805-7f14-48d6-aafd-db880b107b41.deathmessages.Mobs.piglin.Gang.Weapon.0: '%1
   was ganed up on by some %2''s! One wacked them with %3'
 cc10a5ad-4f58-4657-966e-ec0f62ed2769.cmd.rules.server.3-2: |-
-  &7&LModifying your client so that you have a major
+  &7Modifying your client so that you have a major
   &7Advantage over players is a bannable offense.
   &8&o( Ex: Logging in with a hacked client. )
 78e251fd-3f5d-41d6-a4e5-f899644d9152.lands.messages.wars.message.kill.killer.attackers: '&7Our
@@ -5575,13 +5567,13 @@ c5c78938-b9f9-4342-9284-40e9024ec263.alonsotags.Tag-purchased: You successfully 
   pay §3<player> <amount> §8- §fPay a player
 8b9dab3d-7493-4c5b-ba77-2382230bbcd6.cmd.main.desc.s10: |-
   &bDescription
-   &b| &7Browse a jobs to get
-   &b| &7more income!
-   &3| &fClick to view.
+  &f● &fBrowse &#20F707jobs&f to get
+  &f● &fmore&#20F707 income&f!
+  &f● &fClick to view.
   &bInformation
-   &8▪ &7Employees: &f%jobsr_total_workers%
-   &8▪ &7Jobs Joined: &a%jobsr_user_joinedjobcount%&8/&c%jobsr_maxjobs%
-  &8%jobsr_user_jobs%
+   &8▪ &7Employees: &f%1
+   &8▪ &7Jobs Joined: &a%2&8/&c%3
+  &8%4
 dabcdd3e-d4bc-4d38-8619-0fd05a0e8e6d.deathmessages.Mobs.cat.Gang.Weapon.0: '%1 was
   ganed up on by some %2''s! One wacked them with %3'
 64618744-fc17-4fad-9c2b-639fd31070ce.cmd.kits.choose.title.s20: '&b⌚ &8| &bFree Kit'
@@ -5983,13 +5975,13 @@ b1b87f69-b65e-4243-8720-f32cf4d0fb57.lands.messages.lands.command.unclaim.succes
   got&c %4 &7back.
 80a731b6-0c97-4895-8c18-8166f0b89e52.cmd.upgrade.choose.desc.s33: |-
   &bDescription
-   &b| &7Upgrade your quests limits
-   &b| &7to starts more quests!
+   &b● &7Upgrade your quests limits
+   &b● &7to starts more quests!
   &f
-   &3| &fPurchase more points
-   &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!
+   &3● &fPurchase more points
+   &3● &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!
   &f
-  &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
+  &b&l● &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 c593dc86-e403-4447-b74b-535e95ff4170.deathmessages.Mobs.wanderingtrader.Gang.Weapon.0: '%1
   was ganed up on by some %2''s! One wacked them with %3'
 6c6f99ef-e4dd-4e51-b54b-4d3cc15b7b33.deathmessages.Mobs.hoglin.Gang.Melee.0: '%1 was
@@ -6907,7 +6899,7 @@ b240bebf-c481-4ae5-a0c7-5e5b66697aec.tempflysystem.reload: '%1 §aYou reloaded t
   &8| &9Discord &7%2 &8»&f %3'
 2597a11e-13be-4313-884c-663e4cc88113.deathmessages.Mobs.villager.Gang.Projectile-Arrow.0: '%1
   was ganged up on by some %2! One shot them with %3'
-4820a53b-da09-4f38-b31b-96da4a658980.tab.sb.quests: '&7Quest:'
+4820a53b-da09-4f38-b31b-96da4a658980.tab.sb.quests: 'Quest:'
 5885bbb5-cfe1-4510-a296-97289f099e28.mycmd.sign-removed: §7Sign removed!
 14f23706-d3dd-43f9-9d81-9dd500353e5b.tempflygeneral.time.max_self: '%1 §7You have
   reached the maximum allowed time!'
@@ -7080,8 +7072,8 @@ a386274d-911c-45bb-a786-b3125faf7854.deathmessages.Mobs.elderguardian.Gang.Melee
    &b| &7your items!
    &3| &fClick to view.
   &bInformation
-   &8▪ &7Balance: &f$%vault_eco_balance_formatted%
-   &8▪ &7Points: &f✪%playerpoints_points%
+   &8▪ &7Balance: &f$%1
+   &8▪ &7Points: &f✪%2
 bd1217a8-6527-4962-b954-f34398679519.deathmessages.Mobs.turtle.Gang.Weapon.0: '%1
   was ganed up on by some %2''s! One wacked them with %3'
 59313abe-b727-45dd-9afa-1f4418147474.deathmessages.Mobs.irongolem.Solo.Projectile-Arrow.0: '%1
@@ -7697,7 +7689,7 @@ b9d04968-f4f0-440d-b03d-ed3b4255ca9d.deathmessages.Mobs.donkey.Solo.Projectile-A
 ad0bd8e3-1d47-4eff-907f-f2de589abf3c.PlayerParticlesfixed-edit-style-non-fixable: >-
   §7Unable to edit fixed effect, the style §c%1 §7can not be used in fixed
   effects!
-e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: '§7Land:'
+e96a2ead-b291-4c9c-a0a8-1a68ea5cda24.tab.sb.world: 'Land:'
 b811b891-d657-4489-b599-865516d5101a.PlayerParticlesfixed-edit-invalid-coords: '§7Unable
   to edit fixed effect, one or more coordinates you entered is invalid!'
 e5b2aad3-30d2-4c11-9cb1-44e134802531.lands.messages.lands.command.view.area: >
@@ -7731,13 +7723,10 @@ e5b2aad3-30d2-4c11-9cb1-44e134802531.lands.messages.lands.command.view.area: >
   declarations for %2&7.
 f7fc19fa-25bf-47af-bfc5-21f71eac2079.cmd.upgrade.choose.desc.s15: |-
   &bDescription
-   &b| &7Upgrade your elytra effects
-   &b| &7to fly around with more style
+   &b● &7Upgrade your elytra effects
+   &b● &7to fly around with more style
   &f
-   &3| &fPurchase more points
-   &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!
-  &f
-  &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
+  &b&l● &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 9f793e04-63ba-46a0-a7f4-f2b78dadd31f.lands.messages.help.command.wars.declare: '[T]&e%1
   %2 %3 - &7Declare war[H]&7Click to copy.[/H][SC]%4[/SC][/T]'
 58745628-b72d-4a63-8c9f-d917eddcf40e.deathmessages.Mobs.phantom.Solo.Weapon.0: '%1
