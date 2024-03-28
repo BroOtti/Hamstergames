@@ -7168,3 +7168,67 @@ c7c22133-5271-40dc-9020-c6e2a38a5e4c.cmd.settings.desc.true.s25: "\n&b&lInformat
   ᴛᴏ ᴛᴏɢɢʟᴇ"
 05b254c0-bfbf-4df8-bedf-0ca2693469cb.cmd.warps.farm-server.title: Serveur &bFarming
 1cd25a26-fd54-4ba0-93a5-3d79262669e0.cmd.main.title.s44: '&b&lRéférences'
+eb5083df-3315-4a7e-9a13-b70c1b5f5a25.tab.sb.rank: 'Rank :'
+c1ebfb6f-8010-407b-9736-7fd4152285c3.hub-move: We send you to the lobby...
+3e83bede-45ca-403c-84a1-1fe531e84de4.cmd.discord.link.title: '&x&3&2&4&B&B&0Link yourself
+  to Discord'
+862572b3-25c2-44a9-ad6e-66aea131f620.cmd.discord.link.desc: "&f\n&f● &bYou have to
+  be in our Discord\n&bdc.hamstergames.eu\n&f\n&f● &7Open a private chat with the
+  &b%discordsrv_guild_bot_effective_name%&7 discord bot\n&f● &7Click me and close
+  this gui.\n&f● &7Copy the code from the chat and paste it in the\n&f &f &7Chat with
+  the bot.\n&f\n&7 (ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ᴛʜᴇ ᴄᴏᴅᴇ)"
+f4d6e0da-f544-4daa-8eff-6d7beff727b9.cmd.serverbasierend.title.que-cha: '&b&lQuests
+  and Challenges'
+f2875d08-f534-405d-b712-448c70960e6a.cmd.startmenu.allesandere.desc.rank: "&f● &#20F707Ranks
+  &fidentify&#20F707players &fwith special rights and tasks.\n&f● &fThey allow us
+  to manage the server, &#20F707support the community &fand improve the gaming experience
+  for everyone."
+eba69d59-1909-4bd5-9f73-194874dbcfa2.cmd.startmenu.desc.spielerbasierend: "&f● &#20F707Warps\n
+  &f● &#20F707Upgrades\n&f● &#20F707Auctions\n&f● &#20F707Kits\n&f● &#20F707Quests\n
+  &f● &#20F707Challanges"
+43c9f17b-6b05-4876-b71a-37539c59bfd7.cmd.startmenu.title.allesandere: '&fEverything
+  else'
+d95236a6-f53d-49e8-81c2-2f6c4cf8a801.cmd.rules.accepted: Thanks for accepting the
+  rules.
+d56187bb-d27a-4893-b817-9ae15d3c7399.ActivityRewarder.daily-reward-given: "&7You have
+  collected today's daily reward"
+0edc697c-87a2-4134-94f8-d637196d903a.cmd.settings.desc.unknown.s10: "\n&bInformation :\n
+  &b| &7Status : &c&l❌ &cUnknown\n &b| &7Toggle : &bBest Tools\n\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ
+  ᴛᴏɢɢʟᴇ"
+c0bd9118-1004-471a-ad80-6ce7c66b0b98.cmd.discord.unlink.title: '&x&3&2&4&B&B&0You
+  are linked to Discord'
+485fbf7c-6fb1-444c-a3a0-fe51a35118f5.cmd.startmenu.desc.allesandere: "&f● &#20F707Cosmetics\n
+  &f● &#20F707Enchants\n&f● &#20F707Jobs\n&f● &#20F707Ranks\n&f● &#20F707Rewards\n
+  &f● &#20F707Votes"
+580b52ba-6ec0-4214-9d69-08e4f22102d0.cmd.startmenu.desc.serverbasierend: " &f● &#20F707Rules\n
+  &f● &#20F707Settings\n &f● &#20F707Social Media"
+8c2a6d5a-f565-493f-96a0-317c80805be6.ActivityRewarder.reminder: "&7It looks like you
+  haven't collected today's reward. &b/daily"
+1035c8d9-4263-455e-b688-b126a60e7ed5.cmd.discord.unlink.desc: "&f\n&f● &x&3&2&4&B&B&0You
+  can unlink yourself from Discord.\n&f\n&f● &x&3&2&4&B&B&0You will lose access to
+  your roles\n&f &x&3&2&4&B&B&0that you have on our discord.\n&f\n&f● &bYou will get
+  goodies when linking with discord.\n&f\n&7 (ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ᴜɴʟɪɴᴋ)"
+7053c655-fa59-4985-a022-5940e3e04514.cmd.serverbasierend.desc.que-cha: "&f● &#20F707Quests
+  &7(ʀɪɢʜᴛ ᴄʟɪᴄᴋ)\n&f● &#20F707Challenges &7(ʟᴇғᴛ ᴄʟɪᴄᴋ)"
+93db3f3d-9122-4ac7-a32c-8b961457aed3.cmd.settings.desc.false.s10: "\n&bInformation :\n
+  &b| &7Status : &c&l❌ &cDisabled\n &b| &7Toggle : &bBest Tools\n\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ
+  ᴛᴏɢɢʟᴇ"
+14068897-fec6-4999-b92a-3186d1b0f30e.cmd.rules.accept: I accept the rules !
+54b7f63a-015a-4bd8-8aca-df28ed983892.cmd.startmenu.title.serverbasierend: '&fServer
+  based'
+c6ec28d8-e24a-4fa7-b68d-16db52328817.cmd.settings.title.s10: '&bBest Tools &8 &7[Toggle]'
+3796ccf7-4892-4584-82f0-052bb697db05.EVENT.NACHRICHT: 'We have an event going on right
+  now ! Take a look at the website :'
+1638ccea-d884-4ad0-9688-5abae1d86ec4.cmd.startmenu.allesandere.desc.rewards: cmd.startmenu.allesandere.title.rewards
+b304f207-0b1b-4c99-a30f-eb0d73ce4cbe.cmd.settings.desc.true.s10: "\n&bInformation :\n
+  &b| &7Status : &a&l✔ &aEnabled\n &b| &7Toggle : &bBest Tools\n\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ
+  ᴛᴏɢɢʟᴇ"
+3eca6a43-67f0-45d9-88c3-5ba39ad39dab.cmd.spielerbasierend.bank.desc: "&fᴡɪᴛʜᴅʀᴀᴡ ᴏʀ
+  ᴅᴇᴘᴏsɪᴛ ʏᴏᴜʀ &#FAEA2Eᴍᴏɴᴇʏ\n&fᴛʜᴇ ʜɪɢʜᴇʀ ʏᴏᴜʀ &#FAEA2Eᴍᴏɴᴇʏ &fɢᴇᴛs\n&fᴛʜᴇ ʟᴇss &#FAEA2Eɪɴᴛᴇʀᴇsᴛ
+  &fʏᴏᴜ ɢᴇᴛ\n\n&f&l⭐ &fɪɴᴛᴇʀᴇsᴛ ʟᴇᴠᴇʟ : &#FAEA2E●●● &7- &#FAEA2E●\n&f&l⭐ &fʙᴀɴᴋ ᴍᴏɴᴇʏ :
+  &#FAEA2E%1"
+168acd01-08f8-4bc6-952d-9ed518e1ae73.cmd.startmenu.allesandere.title.rewards: '&fRewards'
+6183e156-9dea-42fa-8bcd-dbb9f7a21eb0.command-not-found: '&7The Command &b%1 &7was
+  not found. If you need help, ask staff or look on our FAQ [/faq]'
+cb176040-0dd7-4d88-8840-84ea0223bb98.cmd.startmenu.title.spielerbasierend: '&fPlayer
+  based'
