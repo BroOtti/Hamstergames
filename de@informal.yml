@@ -28,7 +28,8 @@ d82d7039-1d78-4d2b-9069-ace94c9cdf46.deathmessages.Mobs.zombievillager.Gang.Weap
   wurde von einem %2 irgendwie mit %3 erschlagen'
 7e3739a4-0c05-49f1-98c1-33b79212791f.gsitMessages.action-sit-world-error: '[P]§7 Du
   kannst nicht in dieser Welt sitzen!'
-32ef1b73-a0da-44a9-ad84-f205c515f9b7.advancedenchants.items.white-scroll.full-inventory:
+32ef1b73-a0da-44a9-ad84-f205c515f9b7.advancedenchants.items.white-scroll.full-inventory: '&cDein
+  Inventar ist voll!'
 839295b7-d5a6-499d-9009-0e465d98cb6d.deathmessages.Mobs.player.Solo.Contact.0: '%1
   wurde von %2 in einen Kaktus gestoßen'
 df97bc25-c2e5-497b-ab11-464d99ed8797.excellentenchantmentsCommand.Enchant.Done: §aErfolgreich
@@ -42,7 +43,8 @@ dd130f3c-f766-41c1-9a36-7ddc9f416801.excellentenchantmentsFitItemType.WEAPON: Wa
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 45c01aed-c8bd-4694-9f4e-3dae4fa906f5.lands.messages.help.command.lands.ban: '[T]&e%1
   %2 %3 &8- &7Spieler bannen[H]&7Klick zum Kopieren.[/H][SC]%4[/SC][/T]'
-3881a08d-5183-4e24-aff0-943c4a9d10e6.advancedenchants.commands.not-holding-item:
+3881a08d-5183-4e24-aff0-943c4a9d10e6.advancedenchants.commands.not-holding-item: '&cDu
+  musst ein Item halten!'
 d9c19cca-46be-410b-b707-69c4c0f50f63.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.12: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aAdd Text'
 2c1e3dfa-1a09-4f34-b97d-5b4f2d80f015.deathmessages.Mobs.chicken.Solo.Projectile-Arrow.0: '%1
