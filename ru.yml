@@ -51,18 +51,6 @@ ce620f0d-6013-4f64-b8da-ab1196c02d87.excellentcratesEditor.CrateEditorType.CRATE
   не можешь позировать прямо сейчас!'
 f92649af-7e51-407f-b32e-4fc40ec4d41b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Name: '#ffed6a&lДисплейное
   имя'
-fea814d5-3f2d-4347-a06b-443f7ade3963.menu.farm.normal.normal.lore: |-
-  §eNormal Overworld Farmworld
-
-  §2Блага:
-  §aМогилы
-  §aСредняя сложность
-  §aНекоторые руды
-
-  §4Недостатки:
-   §cНет строений
-  §cНе все руды
-  §cНет зачарований
 77124ef1-201b-457d-ad29-9327d8a1b1bb.tempflygeneral.fly.bypass_enabled: '%1 &7Вы включили
   режим обхода полета!'
 50da3db8-f087-45ae-96fb-ee595fef0e49.PlayerParticlesgui-edit-primary-style-missing-effect: Сначала
@@ -96,16 +84,6 @@ db4a0a2b-c65b-4607-8c6c-cc86d0b9cda7.tempflysystem.help.5: '&6/tf оплата [
 44574c83-b7e2-4e30-a416-5753ddc1b036.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Name: '#ffed6a&lKeys'
 c4bcd6f4-89ce-4680-a961-a07d13c26c10.cmd.main.title.s28: '&b&lShop'
 78608a70-26e7-4181-8044-906cca8dd56a.tab.sb.tokens: '&7Токены:'
-24366b74-240d-44bc-99f0-2d8edb756d52.menu.bank.menu.info: |2-
-
-  &bInformation
-  &b| &7Имя пользователя: &f%1
-  &b| &7Интерес: &f⌚%2
-
-  &b| &7Баланс: &b%3
-  &b| &7Банк: &b$%4
-   
-  &b| &7Зарегистрированный пользователь (ы): &3%5
 b380eccd-b395-4238-930b-54d9316f95df.PlayerParticlesfixed-edit-data-none: >-
   &7Невозможно редактировать фиксированный эффект, эффект не требует никаких данных!
 77af42ce-7792-473f-bac9-aa5dbf670d32.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.4: '#ffed6a▪
@@ -149,17 +127,6 @@ de0974e8-d40d-4b2f-aefd-325f9d256881.excellentcratesEditor.CrateEditorType.Rewar
   #bdc8c9Правая кнопка мыши: #bbff6aОчистить список'
 d806ba2d-08d7-4ad9-b2ec-de19eeb488ab.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.9: '#bbff6a&lДействия:'
 cb255b02-eb0b-4294-a8c4-bd2b4d7375b1.tempflycommand.unit.days.tab_complete: день
-3b65d987-60c9-458a-bb1d-2a2c86bc519d.menu.farm.end.normal.lore: |-
-  §eNormal End Farmworld
-
-  §2Бенефиты:
-  §aМогилы
-  §aСредняя сложность
-
-  §4Недостатки:
-  §cНет строений
-  §cНет драконьих яиц
-  §cНет зачарований
 96819d33-756d-477d-8472-b2a8493fdfb4.PlayerParticlesdata-usage-vibration: '&7Эффект
   &b%1&7требует &bvibration data&7! &7Формат: &3<duration>'
 67e15770-c23b-40b5-9152-699b7540b1cb.dh.menu.l3: '&7teleport to warps, upgrade,'
@@ -188,17 +155,6 @@ f8a51393-6dbb-43f1-a2d9-2acf208ccd99.tempflyaesthetic.symbols.infinity: ∞
 e4302dd9-7e1b-4cd3-92e2-592dba2b2422.tempflygeneral.fly.infinite_disabled: '%1 &7Вы
   отключили бесконечный полет!'
 d3bf9104-2b4e-4e76-8299-03caa23caed0.hub.move: Вы отправлены в &6Lobby§7!
-94a3b212-270e-445f-9f16-a3a4dc4cb7ed.menu.farm.end.easy.lore: |-
-  §2Easy End Farmworld
-
-  §2Выгоды:
-  §aСохранить запасы
-  §aЛегкая сложность
-
-  §4Недостатки:
-  §cНет строений
-  §cНет драконьих яиц
-  §cНет зачарований
 3ca8dfe3-9891-42eb-b345-a9ffbb5d15ce.tempflycommand.base.trails.0: тропы
 86697c9a-00da-4d2b-91b6-159badd99ddd.chatcolor.gui-selected: '&eSelected'
 1c02c090-c261-409b-a88a-5c7a7c22808f.excellentenchantmentsCommand.TierBook.Usage: '%1
@@ -547,17 +503,6 @@ bed33c40-df74-48f5-a21e-684c31ff0ff3.excellentcratesEditor.CrateEditorType.CRATE
   &a| &7Депозит: &f$%1
 
   &a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴅᴇᴘᴏꜱɪᴛ
-da775029-333e-4026-ae09-d5086b654adf.menu.farm.nether.hard.lore: |-
-  §4Трудный неземной мир
-
-  §2Выгоды:
-  §aВсе руды
-  §aСтруктуры
-
-  §4Недостатки:
-  §cТрудная сложность
-  §cИнвентарь пропадает после смерти
-  §cНет зачарований
 2a5b98ee-3537-4f8b-9e6a-f1c682dbf3a0.triton.selector-gui-name: '&bВыбор языка'
 97477f6f-1f60-4eb8-bb84-5c8ee1db7936.excellentcratesEditor.Crate.BlockPushback.Lore.1: '#bdc8c9
   back from the crate block when'
@@ -976,18 +921,6 @@ bff09532-7a33-4f27-8b7d-118e122f5e6e.tempflygeneral.unit.minutes: m
 dc463ab2-5111-4169-87a8-e1dab38fc5f3.tempflysystem.prefix: '&b&lᴛᴇᴍᴘᴏ ғʟʏ &8&l┃'
 4eccda99-315c-4514-a13e-7e20514b000a.PlayerParticlesfixed-info-no-args: '&7Вы не указали
   ID для отображения информации!'
-4e1d4ff5-418b-4641-af95-087c6e03589f.menu.farm.nether.normal.lore: |-
-  §eNormal Nether Farmworld
-
-  §2Бенефиты:
-  §aМогилы
-  §aСредняя сложность
-  §aЗолотая руда + Кварцевая руда
-
-  §4Недостатки:
-  §cНет строений
-  §cНет древних обломков
-  §cНет зачарований
 654bc188-c5d9-439d-a95f-b87d4cfce709.PlayerParticlesgroup-no-name: '&7Вы не указали
   имя группы! &b/pp &3%1 <groupName>'
 751dfcc2-42d4-430f-9503-ab56d5ab7129.PlayerParticlesdata-invalid-block: '&7Введенные
@@ -1048,7 +981,6 @@ ffd3e67b-5234-47b1-a053-053be1d3f993.PlayerParticlescommand-descriptions-help-1:
 09d808c1-3ba0-43c2-829b-e68fe80fc908.playerpoints.command-set-description: '&8 - &b/points
   set &3<player> <amount> &8- &fSet a player''''s points'
 709c93ae-7070-4097-a6d0-9c996b0dab5a.tab.sb.username: '&7Имя пользователя:'
-636a0cfe-f45a-465c-bb1e-49f15738bc4b.menu.farm.nether: §4Небесные фермы
 314f68af-bce6-4b86-8ce4-897a59a08a76.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.6: '#bbff6a▪
   #bdc8c9Сдвиг вправо: #bbff6aПеремещение назад'
 923c42d6-3d02-437e-8c18-770b01fc1ce8.tempflygeneral.time.first_join: '%1 &7Вы получили
@@ -1379,7 +1311,6 @@ b437fbee-c41b-4b53-ad34-03839b2eb28a.PlayerParticlescommand-description-fixed-cr
   #bdc8c9Сокращение: #ffed6a%1'
 9c04bd51-065d-4005-be50-cc383d4bce1c.PlayerParticlesother-unknown-player: '&7Плеер
   &c%1&7не найден.'
-51233d7b-0e5a-4cdb-b7d8-22a39073329f.menu.farm.end: §eEnd Farmworlds
 b234f1da-0ee0-46df-826d-70ffd8bd9a1d.PlayerParticlescommand-description-help: Отображение
   меню помощи... Вы прибыли
 217215b5-92fe-4b5f-a15f-873b78635615.tempflycommand.syntax_error.cmd_fly.toggle_self: '&b/tf
@@ -1551,17 +1482,6 @@ d970d355-4e95-4634-bdf5-aaab0f4ba419.SuperVanishMessages.EntityHitDenied: '&b&l%
   §7Сайт магазина!\n §f\n§x§a§3§c§8§3§4§l| §x§a§3§c§8§3§4ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 32adbb61-6598-466d-9a76-4d087e3fd96a.PlayerParticlescommand-description-worlds: 'Узнайте,
   в каких мирах частицы отключены'
-43d3c66b-316c-44eb-ac66-d2e4884dc692.menu.farm.normal.hard.lore: |-
-  §4Трудный мир фермы
-
-  §2Преимущества:
-  §aСтруктуры
-  §aВсе руды
-
-  §4Недостатки:
-  §cТрудная сложность
-  §cИнвентарь пропадает после смерти
-  §cНет зачарований
 b75f4151-7d47-436f-82b0-6c2fe12fbddc.excellentcratesEditor.Crate.Enter.AnimationConfig: '#d4d9d8Enter
   #aefd5e[Имя анимации]'
 128f728e-10e8-44b9-99bc-cf0e0351725d.excellentcratesEditor.Crate.Enter.OpenCost.Exp: '#d4d9d8Enter
@@ -1637,7 +1557,6 @@ f83074a9-78ba-4386-a7d0-e2f6e28f8f07.gsitMessages.command-permission-error: '[P]
 3e122210-b6c9-4219-b406-c0194c0bee9e.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Lore.0: '#bdc8c9Создавайте
   и управляйте своими ключами здесь!'
 f01f4e13-e26f-4b7a-bcdb-f2b50b0e66d4.mycmd.minutes: 'минут '
-436c74aa-0d1f-42a5-b792-064cff372756.menu.farm.normal.easy: §2EASY
 9c5685a3-7e65-4cbd-8369-9b7db1461647.dh.token-lb: ТАБЛИЦА ЛИДЕРОВ ЖЕТОНОВ
 82bf34df-2964-4a9b-9302-289c85e6b8dc.excellentenchantmentsFitItemType.TRIDENT: Trident
 c4645f69-c0eb-44fd-b518-1be148468ee6.ia.8.1: Пригласите друзей поиграть
@@ -1683,18 +1602,6 @@ f7278ecf-46b7-4b02-883e-fab401944c0d.PlayerParticlesfixed-create-invalid-coords:
   &7Невозможно создать фиксированный эффект, одна или несколько введенных координат
   недействительны!
 0b1fbe23-b171-4ab2-bb6d-407882bd9daf.cmd.main.title.s38: '&b&lEXP'
-f4196f9b-d12c-429d-bb45-f5998d489e91.menu.farm.normal.easy.lore: |-
-  §2Легкий мир фермы
-   
-  §2Возможности:
-  §aСохранение инвентаря
-  §aПростая сложность
-  §aОсновные руды
-   
-  §4Недостатки:
-  §cНет строений
-  §cНет руд
-  §cНет зачарований
 404d4b93-c4c9-405e-981c-e37b23ec85f1.tempflycommand.unit.seconds.recognized.1: сек
 d3e65b82-01bb-4872-8392-6dcfc68d4ad7.mycmd.console_output: '&7Проверьте вывод на консоль.'
 c450d78a-6a99-45f6-be93-1acc0d92ad9e.tempflycommand.enable.0: на сайте
@@ -2002,7 +1909,6 @@ c05bd0e6-cc69-4f3c-a543-28899db41d94.playerpoints.command-me-description: '&8 - 
   мне &8- &fПросмотр ваших очков'
 765ce1b9-ab71-4bd3-8d0b-93b50818c279.tempflygeneral.invalid.flyer_self: '%1 &7Вы не
   летите!'
-26181738-4ee1-49b9-8f12-191976c806e9.menu.farm.normal: §aНормальные фермерские хозяйства
 a6be88d9-044f-4c40-8b51-aa883a7cec6b.PlayerParticlestoggle-on: '&7Particles have been
   toggled &aon&7!'
 8cc72792-6c88-4013-802f-88599528d65e.PlayerParticlesgui-select-style: '&bSelect Particle
@@ -2191,7 +2097,6 @@ d18e66e6-e405-49a5-93fc-82ae8c0e79e8.PlayerParticlesgui-edit-primary-data: '&bEd
   платить, чтобы'
 ee0785da-1c51-41af-836a-565b393affa6.PlayerParticlesgui-edit-data-color-purple: '#8a2be2Purple'
 9d2166d1-e37e-46cd-8973-aef2bd8c7e0d.excellentcratesEditor.CrateEditorType.Reward.Rarity.Name: '#ffed6a&lРаритет'
-7ebfaf99-6592-4419-ae36-5abbc333723a.menu.farm.normal.normal: §eNORMAL
 1d0755a5-ef43-4361-a62c-c3799a982a38.mycmd.cmds.l2: '&8-> &7Выходная команда(ы) :'
 ddafb1cd-ea8d-4c97-94b0-f7a06ad455de.PlayerParticlesgui-select-data-color-transition-end: '&7Выберите
   &3end &7color'
@@ -2247,7 +2152,6 @@ f71f976d-17b3-49fe-a1be-14b7ab0216a0.excellentcratesCommand.Key.Show.Desc: По�
 7b6a3b83-125a-4acb-8502-e000937c107b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.3: '#ffed6a&lCurrent:'
 aca3c2ce-8630-49ca-ba45-8626f505132a.excellentcratesEditor.Crate.BlockPushback.Lore.5: '#ffed6a▪
   #bdc8c9Включено: #ffed6a%1'
-09b9de5b-13c2-45f9-ab71-d783ed5fd530.menu.farm.normal.hard: §4HARD
 ace22fd2-fd46-4a4f-aa4e-adc00e9ba29e.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.4: '#ffed6a▪
   #bdc8c9Отображаемое имя: #ffed6a%1'
 82f605f8-4845-47b4-b85b-e014f48c91b1.excellentenchantmentsFitItemType.HELMET: Шлем
@@ -2320,17 +2224,6 @@ e873a642-6f9d-4ddd-8d63-e6cc74205e75.excellentcratesCrate.Open.Error.Cost.Exp.1:
   &7Эффект &b%1 &7требует &bцветных данных&7 Формат: &3<<0-255> <0-255> <0-255>>|<радуга>|<случайный>
 4ef6a01c-ea20-4fc8-8d7c-b58b94c9eebc.PlayerParticlesfixed-clear-no-permission: '&7Вы
   не имеете на это разрешения!'
-a41a6fc4-b17e-4285-8230-79442ecb7a62.menu.farm.nether.easy.lore: |-
-  §2Легкий неземной мир
-
-  §2Выгоды:
-  §aСохранение инвентаря
-  §aЛегкая сложность
-
-  §4Недостатки:
-  §cНет строений
-  §cНет руд
-  §cНет зачарований
 355877b8-e280-44ad-8cc3-9e7e397a4095.PlayerParticlesdata-invalid-material-item: '&7Введенный
   вами материал &c%1&7 не существует!'
 73308749-e7d2-424d-a049-6aa0bd4dd49f.PlayerParticlesfixed-teleport-invalid-args: '&7Невозможно
@@ -2389,17 +2282,6 @@ ff3535d1-b338-4cab-bfbe-cbd68ffad22d.excellentcratesEditor.CrateEditorType.REWAR
 789a1eb1-7dd2-4eae-82e3-7bdae08f3434.prefix: '&bʜᴀᴍsᴛᴇʀ&6ɢᴀᴍᴇs&7.ᴇᴜ '
 ff27de84-304a-4e50-8320-80910e4ece70.excellentenchantmentsCommand.Book.Usage: '%1
   %2 %3'
-4fd261fc-18a4-40e6-83cc-4bb64836e1f1.menu.farm.end.hard.lore: |-
-  §4Hard End Farmworld
-
-  §2Преимущества:
-  §aСтруктуры
-
-  §4Недостатки:
-  §cТрудности
-  §cИнвентарь выпадает после смерти
-  §cНет драконьих яиц
-  §cНет зачарований
 a945b6d4-cf62-42fa-865a-c1dca97e44f6.tempflyaesthetic.featherboard.days: '§f⌚%1d '
 73c30a93-763c-41e2-94ab-83a800a5de24.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.1: '#bdc8c9
   можно получить эту награду еще раз.'
@@ -2968,8 +2850,6 @@ fb0f495f-cda1-4532-9a9f-0f05292a045d.lands.messages.help.command.nations.relatio
   (%7): %8</li> </ul> <p><strong> Эта земля принадлежит нации %9:</strong></p> <ul>
   <li> Уровень: %10</li> <li>Столица: %11</li> <li>Земли (всего игроков: %12): %13</li>
   </ul>'
-0989c54c-90f9-4b13-8611-2b6b39469830.cmd.farmworlds.time.n.hard: '§x§6§F§4§6§4§4§4Время
-  в этом мире&8: &7'
 82e818c0-6bc6-4e67-9b33-f2f7065ea991.lands.messages.lands.command.withdraw.success: '&7Вы
   успешно вывели&3 %1 &7из банка земли&2 %2&7. &7Новый баланс банка:&3 %3'
 4eb5ef46-9893-43e3-98cb-c265cd404387.lands.messages.lands.command.view.tool: "&7Позиция,
@@ -3153,8 +3033,6 @@ bfe1df34-6715-4769-9b32-d70a523c9dd9.lands.messages.lands.command.untrust.land.r
   в одной области."
 669d72b4-9fd6-4f7d-b8ae-c50e754a187d.deathmessages.Mobs.ghast.Solo.Projectile-Arrow.0: '%1
   был застрелен %2 каким-то образом с помощью %3'
-1bb73c68-1a98-45fe-b592-5b08999ccfc0.cmd.farmworlds.time.o.normal: '§x§5§E§9§D§3§4Время
-  в этом мире&8: &7'
 3a82c9c8-cda2-41ad-83c4-b8d0d73933fa.lands.messages.lands.command.claim.region.selection: "&cВы
   не можете утверждать этот выбор. &7В нем содержатся части региона из другого плагина
   управления регионами: %1"
@@ -3376,8 +3254,6 @@ e376e5bc-3334-4a1e-95bf-fea05569b5df.lands.messages.lands.command.untrust.owner:
   destination chunk is not claimed &8(&7X: %1 &7Z: %2&8)&c."
 c2bdb22e-38d5-47b5-8bba-9cd4cee8ce60.deathmessages.Mobs.warden.Solo.Sonic-Boom.0: '%1
   был уничтожен звуковым криком'
-22e172fb-6c9a-4685-b59c-38044df411c1.cmd.farmworlds.time.n.easy: '§x§6§F§4§6§4§4§4Время
-  в этом мире&8: &7'
 225e108c-c940-4866-947d-626bf50ad6ff.deathmessages.Mobs.sheep.Gang.Weapon.0: "На %1
   набросились несколько %2! Один ударил их %3"
 c8547896-96d1-45cb-8473-b934db7c2a96.deathmessages.Mobs.witch.Solo.Weapon.0: '%1 был
@@ -3659,8 +3535,6 @@ e3a0a800-d42d-41dc-9764-196ad7d242b8.lands.messages.wars.command.declare.mutual.
 4e469e70-8301-42c9-a4b5-f422aa61e7fb.lands.messages.wars.command.declare.min-balance.defender: '&cБаланс
   защитников %1&c слишком низок. &7Вы можете атаковать только тех, у кого минимальный
   баланс составляет &c %2&7.'
-6d7cd212-c175-4c58-b374-82248b794db0.cmd.farmworlds.time.n.normal: '§x§6§F§4§6§4§4§4Время
-  в этом мире&8: &7'
 711cff34-2185-45b7-8240-75e5a9fc1f74.lands.messages.general.command.argument.type.flag: флаг
 2692926c-79c9-448f-a705-f52d9fcb01df.lands.messages.lands.command.claim.fill.none: "&CCould't
   find shape. &7Пожалуйста, убедитесь, что вы стоите в невостребованном регионе, на
@@ -4170,8 +4044,6 @@ e369119d-9f2b-49b3-ae69-955dfa5b2083.lands.messages.wars.message.capture.place.i
   ему доверяют."
 fb1f183b-746c-4120-b4c4-4df04e7a330d.cmd.settings.title.unknown.s20: '&bTeleport &8|
   &7[Toggle]'
-654cee30-f80d-48f9-a744-ea6492adc883.cmd.farmworlds.time.e.normal: '§x§E§9§F§1§B§0Время
-  в этом мире&8: &7'
 7a2874af-dde8-44f8-b82a-7e48b56df945.deathmessages.Mobs.panda.Solo.Projectile-Arrow.0: '%1
   был застрелен %2 каким-то образом с помощью %3'
 376771b5-6eef-4b48-9734-df192b712806.lands.messages.lands.message.event.level.down: '#t#&6%1[newline]&7уровень
@@ -4212,8 +4084,6 @@ e117c791-92c8-4dc5-8dae-e9ce4ab253e9.lands.messages.lands.command.rename.success
   %2 %3 &8- &7Просмотр информации о земле[H]&7Нажмите для выполнения.[/H][C]%4[/C][/T]'
 bf2cc006-4884-4922-b1de-de0cabac4eb8.cmd.settings.title.unknown.s40: '&bDeath Message
   &8| &7[Toggle]'
-350b9a80-1019-4273-9c70-71b43cd03ac8.cmd.farmworlds.time.e.hard: '§x§E§9§F§1§B§0Время
-  в этом мире&8: &7'
 ca78f9d0-2653-45ee-8d60-afa1a0cc8eb8.deathmessages.Mobs.chicken.Gang.Melee.0: "%1
   был убит группой %2"
 b8809e13-a250-4a19-8a1d-8fe8899808ab.lands.messages.nations.command.general.noaccess: "&cВы
@@ -4490,8 +4360,6 @@ e8e842b5-92be-47a1-b043-68e785c69e44.deathmessages.Mobs.cod.Gang.Weapon.0: "На
 73cdcc6c-456c-4f23-8d64-7f47c53fa6c1.deathmessages.Mobs.parrot.Solo.Weapon.0: '%1
   был убит %2 каким-то образом с помощью %3'
 82e6031e-9dcd-4e22-8894-7b319c9f0383.lands.messages.list.sign.rented.0: '&6&lRented'
-f8d421e0-cf6f-42fc-aa32-7136a20b4735.cmd.farmworlds.time.o.easy: '§x§5§E§9§D§3§4Время
-  в этом мире&8: &7'
 477bd285-4965-41e2-b391-ef957e1b62b6.deathmessages.Mobs.player.Solo.Melee.0: '%1 был
   убит %2'
 5c092b26-91ef-41e0-8e5d-db6d718bf826.deathmessages.Mobs.pig.Solo.Projectile-Arrow.0: '%1
@@ -5424,8 +5292,6 @@ ad72bdc0-a644-41b8-a524-6afa838218d9.deathmessages.Basic-Mode.Gang.Weapon.0: "%1
   убит группой %2 каким-то образом с помощью %3"
 27475628-43c9-44dd-8205-650a6bae5630.deathmessages.Mobs.skeletonhorse.Solo.Melee.0: '%1
   был убит %2'
-f4092d4b-2f49-4a2b-beb9-b28ff4bbaa4a.cmd.farmworlds.time.e.easy: '§x§E§9§F§1§B§0Время
-  в этом мире&8: &7'
 f02bf059-95c7-42ac-9479-7057aca818f4.deathmessages.Mobs.fox.Gang.Melee.0: "%1 был
   убит группой %2"
 39ffa6bd-5026-4198-a9d7-cdeeecd478aa.lands.messages.lands.command.view.y-level: '&7Текущая
@@ -5630,8 +5496,6 @@ f6154943-4689-46be-b770-2e50e0bc7d18.deathmessages.Mobs.skeletonhorse.Solo.Proje
 13d2456f-ffa2-40c3-a714-f722f9a13801.lands.messages.general.time.hours: час(ы)
 b8e420e7-2c1a-4215-91f6-3ae024362f33.deathmessages.Mobs.bat.Solo.Melee.0: '%1 был
   убит %2'
-6679d20c-cd2d-41a0-8ee8-63ef71f8aec0.cmd.farmworlds.time.o.hard: '§x§5§E§9§D§3§4Время
-  в этом мире&8: &7'
 42a8a486-add8-4c0c-86f8-82b52d94b828.lands.messages.lands.command.general.input.nation: "&cНация&4
   %1 &cdoesn't exist. &7Не существует нации с таким названием."
 980986e3-d564-4dcb-9c00-5fb84da43ba0.deathmessages.Mobs.magmacube.Gang.Projectile-Arrow.0: 'На
@@ -6901,9 +6765,6 @@ a316835e-cfc9-46f2-95a5-c15abf88add5.cmd.ref.31.keys.red: '&7Для покупк
   work&7&l SFW! Разжигание порнографии, 18+\n&7& или любые другие темы, которые могут
   содержать материалы для взрослых, запрещены.\n&7&Это не сообщество &nonlyfans&7,
   поэтому держите чат SFW!"
-4d3640fe-d655-45a6-8c43-c2d116ca4b3d.cmd.warps.farm-server.desc: "&bDescription\n
-  &b| &7Нажмите, чтобы\n &b| &7 присоединиться к\n &b| &7Farm server.\n &b&l| &bᴄʟɪᴄᴋ
-  ᴛᴏ ᴠɪᴇᴡ"
 d68934a9-1d3c-4c24-a897-8d7318691a80.cmd.farmworlds.wrongserver.title: '&cSry, неверный
   сервер!'
 27353bdd-89d6-477d-8087-d24e3ac6990f.cmd.settings.title.true.s25: '&bMob Holograms
@@ -6939,7 +6800,6 @@ fe3c976a-fbe8-4112-87bc-95e8df288cc2.cmd.rules.global.2-1: "&7& Запрещен
   помешало бы!)'
 2c6b7471-9cdf-4f64-8ed5-4c215e81028b.cmd.settings.title.s16: '&bMob Holograms &8|
   &7[Toggle]'
-05b254c0-bfbf-4df8-bedf-0ca2693469cb.cmd.warps.farm-server.title: '&bFarming Server'
 1cd25a26-fd54-4ba0-93a5-3d79262669e0.cmd.main.title.s44: '&b&lРефераты'
 71606dcd-bd52-4da2-b31e-004d56047155.cmd.event.xp.desc: "&bDescription\n &b| &7Получите
   несколько xp\n &b| &7В качестве бонуса к событию ☺.\n &3| &fНажмите для просмотра.\n

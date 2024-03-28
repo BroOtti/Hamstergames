@@ -52,19 +52,6 @@ ce620f0d-6013-4f64-b8da-ab1196c02d87.excellentcratesEditor.CrateEditorType.CRATE
   puoi posare adesso!'
 f92649af-7e51-407f-b32e-4fc40ec4d41b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Name: '#ffed6a&lNome
   visualizzato'
-fea814d5-3f2d-4347-a06b-443f7ade3963.menu.farm.normal.normal.lore: |-
-  §Mondo normale Mondo agricolo
-
-  §2Benefici:
-  §aGraves
-  §Difficoltà media
-  §Alcuni minerali
-
-  §4Svantaggi:
-  §cNessuna struttura
-  §cNon tutti i minerali
-  §cNessun incanto
-  §Costi §4150
 77124ef1-201b-457d-ad29-9327d8a1b1bb.tempflygeneral.fly.bypass_enabled: '%1 §7Si è
   attivata la modalità di bypass di volo!'
 50da3db8-f087-45ae-96fb-ee595fef0e49.PlayerParticlesgui-edit-primary-style-missing-effect: È
@@ -101,16 +88,6 @@ db4a0a2b-c65b-4607-8c6c-cc86d0b9cda7.tempflysystem.help.5: '§6/tf paga [giocato
 44574c83-b7e2-4e30-a416-5753ddc1b036.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Name: '#ffed6a&lKeys'
 c4bcd6f4-89ce-4680-a961-a07d13c26c10.cmd.main.title.s28: '&b&l Negozio'
 78608a70-26e7-4181-8044-906cca8dd56a.tab.sb.tokens: '§7Tokens:'
-24366b74-240d-44bc-99f0-2d8edb756d52.menu.bank.menu.info: |2-
-
-  §bInformazioni
-  §b| §7Nome utente: §f%1
-  §b| §7Interesse: §f⌚%2
-
-  §b| §7Saldo: §b%3
-  §b| §7Banca: §b$%4
-
-  §b| §7Utente/i registrato/i: §3%5
 b380eccd-b395-4238-930b-54d9316f95df.PlayerParticlesfixed-edit-data-none: '§7Impossibile
   modificare l''effetto fisso, l''effetto non richiede alcun dato!'
 77af42ce-7792-473f-bac9-aa5dbf670d32.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.4: '#ffed6a▪
@@ -156,18 +133,6 @@ de0974e8-d40d-4b2f-aefd-325f9d256881.excellentcratesEditor.CrateEditorType.Rewar
   #bdc8c9Clicca a destra: #bbff6aCancella elenco'
 d806ba2d-08d7-4ad9-b2ec-de19eeb488ab.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.9: '#bbff6a&lAzioni:'
 cb255b02-eb0b-4294-a8c4-bd2b4d7375b1.tempflycommand.unit.days.tab_complete: giorno
-3b65d987-60c9-458a-bb1d-2a2c86bc519d.menu.farm.end.normal.lore: |-
-  §Fine normale del mondo agricolo
-
-  §2Benefici:
-  §aGraves
-  §Difficoltà media
-
-  §4Svantaggi:
-  §cNessuno strumento
-  §cNon ci sono uova di drago
-  §cNessun incantesimo
-  §Costi §4150
 96819d33-756d-477d-8472-b2a8493fdfb4.PlayerParticlesdata-usage-vibration: '§7L''effetto
   §b%1 §7richiede §bdati di vibrazione§7! §7Formato: §3<durata>'
 67e15770-c23b-40b5-9152-699b7540b1cb.dh.menu.l3: '§7teleporto a curvatura, aggiornamento,'
@@ -195,17 +160,6 @@ f8a51393-6dbb-43f1-a2d9-2acf208ccd99.tempflyaesthetic.symbols.infinity: ∞
 e4302dd9-7e1b-4cd3-92e2-592dba2b2422.tempflygeneral.fly.infinite_disabled: '%1 §7Hai
   disattivato il volo infinito!'
 d3bf9104-2b4e-4e76-8299-03caa23caed0.hub.move: Sei stato inviato alla §6Lobby§7!
-94a3b212-270e-445f-9f16-a3a4dc4cb7ed.menu.farm.end.easy.lore: |-
-  §2Fine facile Farmworld
-
-  §2Benefici:
-  §Mantenere l'inventario
-  §Difficoltà facile
-
-  §4Svantaggi:
-  §cNessuno strumento
-  §cNon ci sono uova di drago
-  §cNessun incantesimo
 3ca8dfe3-9891-42eb-b345-a9ffbb5d15ce.tempflycommand.base.trails.0: sentieri
 86697c9a-00da-4d2b-91b6-159badd99ddd.chatcolor.gui-selected: §eSelezionato
 1c02c090-c261-409b-a88a-5c7a7c22808f.excellentenchantmentsCommand.TierBook.Usage: '%1
@@ -560,18 +514,6 @@ bed33c40-df74-48f5-a21e-684c31ff0ff3.excellentcratesEditor.CrateEditorType.CRATE
   §a| §7Deposito: §f$%1
 
   §a&l| §aᴄʟɪᴄᴋ ᴛᴏ ᴅᴇᴘᴏꜱɪᴛ
-da775029-333e-4026-ae09-d5086b654adf.menu.farm.nether.hard.lore: |-
-  §4Duro Nether Farmworld
-
-  §2Benefici:
-  §Tutti i minerali
-  §aStrutture
-
-  §4Svantaggi:
-  §cDifficoltà difficile
-  §cL'inventario cade alla morte
-  §cNessun incanto
-  §Costi §4500
 2a5b98ee-3537-4f8b-9e6a-f1c682dbf3a0.triton.selector-gui-name: '&bSelezionare una
   lingua'
 97477f6f-1f60-4eb8-bb84-5c8ee1db7936.excellentcratesEditor.Crate.BlockPushback.Lore.1: '#bdc8c9back
@@ -992,19 +934,6 @@ bff09532-7a33-4f27-8b7d-118e122f5e6e.tempflygeneral.unit.minutes: m
 dc463ab2-5111-4169-87a8-e1dab38fc5f3.tempflysystem.prefix: '§b&lᴛᴇᴍᴘᴏ ғʟʏ §8&l┃'
 4eccda99-315c-4514-a13e-7e20514b000a.PlayerParticlesfixed-info-no-args: '§7Non è stato
   specificato un ID per cui visualizzare le informazioni!'
-4e1d4ff5-418b-4641-af95-087c6e03589f.menu.farm.nether.normal.lore: |-
-  §Mondo agricolo Nether normale
-
-  §2Benefici:
-  §aGraves
-  §aDifficoltà media
-  §Minerale d'oro + minerale di quarzo
-
-  §4Svantaggi:
-  §cNessuna struttura
-  §cNessun detrito antico
-  §cNessun incantesimo
-  §Costi §4150
 654bc188-c5d9-439d-a95f-b87d4cfce709.PlayerParticlesgroup-no-name: '§7Non è stato
   fornito il nome del gruppo! §b/pp §3%1 <nome-gruppo>'
 751dfcc2-42d4-430f-9503-ab56d5ab7129.PlayerParticlesdata-invalid-block: '§7I dati
@@ -1068,7 +997,6 @@ ffd3e67b-5234-47b1-a053-053be1d3f993.PlayerParticlescommand-descriptions-help-1:
 09d808c1-3ba0-43c2-829b-e68fe80fc908.playerpoints.command-set-description: >-
   §8 - §b/Set di punti §3<giocatore> <importo> §8- §fSet di punti di un giocatore
 709c93ae-7070-4097-a6d0-9c996b0dab5a.tab.sb.username: '§7Nome utente:'
-636a0cfe-f45a-465c-bb1e-49f15738bc4b.menu.farm.nether: §4Mondi agricoli sotterranei
 314f68af-bce6-4b86-8ce4-897a59a08a76.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.6: '#bbff6a▪
   #bdc8c9Spostamento a destra: #bbff6aSpostamento indietro'
 923c42d6-3d02-437e-8c18-770b01fc1ce8.tempflygeneral.time.first_join: '%1 §7Hai ricevuto
@@ -1404,7 +1332,6 @@ b437fbee-c41b-4b53-ad34-03839b2eb28a.PlayerParticlescommand-description-fixed-cr
   #bdc8c9Cooldown: #ffed6a%1'
 9c04bd51-065d-4005-be50-cc383d4bce1c.PlayerParticlesother-unknown-player: §7Il giocatore
   §c%1 §7non è stato trovato.
-51233d7b-0e5a-4cdb-b7d8-22a39073329f.menu.farm.end: §Farmworlds
 b234f1da-0ee0-46df-826d-70ffd8bd9a1d.PlayerParticlescommand-description-help: Visualizza
   il menu di aiuto... Siete arrivati
 217215b5-92fe-4b5f-a15f-873b78635615.tempflycommand.syntax_error.cmd_fly.toggle_self: '§b/tf
@@ -1577,18 +1504,6 @@ d970d355-4e95-4634-bdf5-aaab0f4ba419.SuperVanishMessages.EntityHitDenied: '&b&l%
   §7sito ufficiale del negozio!\n§f\n§x§a§3§c§8§3§4§l| §x§a§3§c§8§3§4ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 32adbb61-6598-466d-9a76-4d087e3fd96a.PlayerParticlescommand-description-worlds: Scoprite
   in quali mondi le particelle sono disabilitate
-43d3c66b-316c-44eb-ac66-d2e4884dc692.menu.farm.normal.hard.lore: |-
-  §4Fattoria Overworld difficile
-
-  §2Benefici:
-  §aStrutture
-  §Tutti i minerali
-
-  §4Svantaggi:
-  §cDifficoltà difficile
-  §cL'inventario cade alla morte
-  §cNessun incanto
-  §Costi §4500
 b75f4151-7d47-436f-82b0-6c2fe12fbddc.excellentcratesEditor.Crate.Enter.AnimationConfig: '#d4d9d8Inserire
   #aefd5e[Nome animazione]'
 128f728e-10e8-44b9-99bc-cf0e0351725d.excellentcratesEditor.Crate.Enter.OpenCost.Exp: '#d4d9d8Invio
@@ -1664,7 +1579,6 @@ f83074a9-78ba-4386-a7d0-e2f6e28f8f07.gsitMessages.command-permission-error: '[P]
 3e122210-b6c9-4219-b406-c0194c0bee9e.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Lore.0: '#bdc8c9Crea
   e gestisci le tue chiavi qui!'
 f01f4e13-e26f-4b7a-bcdb-f2b50b0e66d4.mycmd.minutes: 'minuti '
-436c74aa-0d1f-42a5-b792-064cff372756.menu.farm.normal.easy: §2EASY
 9c5685a3-7e65-4cbd-8369-9b7db1461647.dh.token-lb: CLASSIFICA DEI GETTONI
 82bf34df-2964-4a9b-9302-289c85e6b8dc.excellentenchantmentsFitItemType.TRIDENT: Tridente
 c4645f69-c0eb-44fd-b518-1be148468ee6.ia.8.1: Invita i tuoi amici a giocare
@@ -1710,18 +1624,6 @@ ca0c1751-3188-4d75-b526-9f29a008c07a.excellentcratesEditor.CrateEditorType.REWAR
 f7278ecf-46b7-4b02-883e-fab401944c0d.PlayerParticlesfixed-create-invalid-coords: >-
   §7Impossibile creare un effetto fisso, una o più coordinate inserite non sono valide!
 0b1fbe23-b171-4ab2-bb6d-407882bd9daf.cmd.main.title.s38: '&b&lEXP'
-f4196f9b-d12c-429d-bb45-f5998d489e91.menu.farm.normal.easy.lore: |-
-  §2Fattoria Overworld facile
-
-  §2Benefici:
-  §Mantenere l'inventario
-  §Difficoltà facile
-  §Minerali di base
-
-  §4Svantaggi:
-  §cNessuna struttura
-  §Quasi nessun minerale
-  §cNessun incanto
 404d4b93-c4c9-405e-981c-e37b23ec85f1.tempflycommand.unit.seconds.recognized.1: sec
 d3e65b82-01bb-4872-8392-6dcfc68d4ad7.mycmd.console_output: '§7Controllare la console
   per l''output.'
@@ -2031,7 +1933,6 @@ c05bd0e6-cc69-4f3c-a543-28899db41d94.playerpoints.command-me-description: '§8 -
   me §8- §fVedi i tuoi punti'
 765ce1b9-ab71-4bd3-8d0b-93b50818c279.tempflygeneral.invalid.flyer_self: '%1 §7Non
   stai volando!'
-26181738-4ee1-49b9-8f12-191976c806e9.menu.farm.normal: §aMondiali agricoli normali
 a6be88d9-044f-4c40-8b51-aa883a7cec6b.PlayerParticlestoggle-on: '§7Le particelle sono
   state modificate §aon§7!'
 8cc72792-6c88-4013-802f-88599528d65e.PlayerParticlesgui-select-style: '§bSeleziona
@@ -2220,7 +2121,6 @@ d18e66e6-e405-49a5-93fc-82ae8c0e79e8.PlayerParticlesgui-edit-primary-data: §bMo
   pagare per'
 ee0785da-1c51-41af-836a-565b393affa6.PlayerParticlesgui-edit-data-color-purple: '#8a2be2Purple'
 9d2166d1-e37e-46cd-8973-aef2bd8c7e0d.excellentcratesEditor.CrateEditorType.Reward.Rarity.Name: '#ffed6a&lRarità'
-7ebfaf99-6592-4419-ae36-5abbc333723a.menu.farm.normal.normal: §eNORMALE
 1d0755a5-ef43-4361-a62c-c3799a982a38.mycmd.cmds.l2: '§8-> §7Comando/i di uscita :'
 ddafb1cd-ea8d-4c97-94b0-f7a06ad455de.PlayerParticlesgui-select-data-color-transition-end: '§7Selezionare
   il §3fine §7colore'
@@ -2279,7 +2179,6 @@ f71f976d-17b3-49fe-a1be-14b7ab0216a0.excellentcratesCommand.Key.Show.Desc: Mostr
 7b6a3b83-125a-4acb-8502-e000937c107b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.3: '#ffed6a&lCurrent:'
 aca3c2ce-8630-49ca-ba45-8626f505132a.excellentcratesEditor.Crate.BlockPushback.Lore.5: '#ffed6a▪
   #bdc8c9Abilitato: #ffed6a%1'
-09b9de5b-13c2-45f9-ab71-d783ed5fd530.menu.farm.normal.hard: §4HARD
 ace22fd2-fd46-4a4f-aa4e-adc00e9ba29e.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.4: '#ffed6a▪
   #bdc8c9Nome visualizzato: #ffed6a%1'
 82f605f8-4845-47b4-b85b-e014f48c91b1.excellentenchantmentsFitItemType.HELMET: Casco
@@ -2352,17 +2251,6 @@ e873a642-6f9d-4ddd-8d63-e6cc74205e75.excellentcratesCrate.Open.Error.Cost.Exp.1:
   §7L'effetto §b%1 §7richiede dati §bcolor§7 Formato: §3<<0-255> <0-255> <0-255>|<arcobaleno>|<casuale>
 4ef6a01c-ea20-4fc8-8d7c-b58b94c9eebc.PlayerParticlesfixed-clear-no-permission: '§7Non
   avete il permesso di farlo!'
-a41a6fc4-b17e-4285-8230-79442ecb7a62.menu.farm.nether.easy.lore: |-
-  §2Facile Nether Farmworld
-
-  §2Benefici:
-  §Attenere l'inventario
-  §Difficoltà facile
-
-  §4Svantaggi:
-  §cNessuno strumento
-  §cNessun minerale
-  §non ci sono incantesimi
 355877b8-e280-44ad-8cc3-9e7e397a4095.PlayerParticlesdata-invalid-material-item: §7Il
   materiale §c%1 §7inserito non esiste!
 73308749-e7d2-424d-a049-6aa0bd4dd49f.PlayerParticlesfixed-teleport-invalid-args: '§7Impossibile
@@ -2422,18 +2310,6 @@ ff3535d1-b338-4cab-bfbe-cbd68ffad22d.excellentcratesEditor.CrateEditorType.REWAR
 789a1eb1-7dd2-4eae-82e3-7bdae08f3434.prefix: '§bʜᴀᴍsᴛᴇʀ§6ɢᴀᴍᴇs§7.ᴇᴜ '
 ff27de84-304a-4e50-8320-80910e4ece70.excellentenchantmentsCommand.Book.Usage: '%1
   %2 %3'
-4fd261fc-18a4-40e6-83cc-4bb64836e1f1.menu.farm.end.hard.lore: |-
-  §4Fattoria Hard End
-
-  §2Benefici:
-  §aStrutture
-
-  §4Svantaggi:
-  §cDifficoltà difficile
-  §cCaduta dell'inventario alla morte
-  §cNon ci sono uova di drago
-  §cNessun incanto
-  §Costi §4500
 a945b6d4-cf62-42fa-865a-c1dca97e44f6.tempflyaesthetic.featherboard.days: '§f⌚%1d '
 73c30a93-763c-41e2-94ab-83a800a5de24.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.1: '#bdc8c9può
   ottenere di nuovo questa ricompensa.'
@@ -3002,8 +2878,6 @@ fb0f495f-cda1-4532-9a9f-0f05292a045d.lands.messages.help.command.nations.relatio
   (%7): %8</li> </ul> <p><strong> Questa terra appartiene alla nazione %9:</strong></p>
   <ul> <li> Livello: %10</li> <li>Capitale: %11</li> <li>Terre (totale giocatori:
   %12): %13</li> </ul>'
-0989c54c-90f9-4b13-8611-2b6b39469830.cmd.farmworlds.time.n.hard: '§x§6§F§4§6§4§4Tempo
-  in questo mondo agricolo&8: &7'
 82e818c0-6bc6-4e67-9b33-f2f7065ea991.lands.messages.lands.command.withdraw.success: '&7Hai
   preso con successo&3 %1 &7dalla banca della terra&2 %2&7. &7Nuovo saldo della banca:&3
   %3'
@@ -3183,8 +3057,6 @@ bfe1df34-6715-4769-9b32-d70a523c9dd9.lands.messages.lands.command.untrust.land.r
   giocatore non è affidabile in nessuna area."
 669d72b4-9fd6-4f7d-b8ae-c50e754a187d.deathmessages.Mobs.ghast.Solo.Projectile-Arrow.0: '%1
   è stato colpito da un %2 che in qualche modo ha usato %3'
-1bb73c68-1a98-45fe-b592-5b08999ccfc0.cmd.farmworlds.time.o.normal: '§x§5§E§9§D§3§4Tempo
-  in questo mondo agricolo&8: &7'
 3a82c9c8-cda2-41ad-83c4-b8d0d73933fa.lands.messages.lands.command.claim.region.selection: "Non
   è possibile rivendicare questa selezione. &7Contiene parti di una regione di un
   altro plugin di gestione delle regioni: %1"
@@ -3410,8 +3282,6 @@ e376e5bc-3334-4a1e-95bf-fea05569b5df.lands.messages.lands.command.untrust.owner:
   chunk di destinazione non è richiesto &8(&7X: %1 &7Z: %2&8)&c."
 c2bdb22e-38d5-47b5-8bba-9cd4cee8ce60.deathmessages.Mobs.warden.Solo.Sonic-Boom.0: '%1
   è stato cancellato da un urlo sonoro'
-22e172fb-6c9a-4685-b59c-38044df411c1.cmd.farmworlds.time.n.easy: '§x§6§F§4§6§4§4Tempo
-  in questo mondo agricolo&8: &7'
 225e108c-c940-4866-947d-626bf50ad6ff.deathmessages.Mobs.sheep.Gang.Weapon.0: "%1 è
   stato attaccato da alcuni %2! Uno li ha colpiti con %3"
 c8547896-96d1-45cb-8473-b934db7c2a96.deathmessages.Mobs.witch.Solo.Weapon.0: '%1 è
@@ -3702,8 +3572,6 @@ e3a0a800-d42d-41dc-9764-196ad7d242b8.lands.messages.wars.command.declare.mutual.
 4e469e70-8301-42c9-a4b5-f422aa61e7fb.lands.messages.wars.command.declare.min-balance.defender: 'L''equilibrio
   dei difensori %1 &è troppo basso. &7Puoi attaccare solo gli altri che hanno un equilibrio
   minimo di&c %2&7.'
-6d7cd212-c175-4c58-b374-82248b794db0.cmd.farmworlds.time.n.normal: '§x§6§F§4§6§4§4Tempo
-  in questo mondo agricolo&8: &7'
 711cff34-2185-45b7-8240-75e5a9fc1f74.lands.messages.general.command.argument.type.flag: bandiera
 2692926c-79c9-448f-a705-f52d9fcb01df.lands.messages.lands.command.claim.fill.none: "Non
   riesco a trovare la forma. &7Assicuratevi di trovarvi in una regione non reclamata
@@ -4230,8 +4098,6 @@ e369119d-9f2b-49b3-ae69-955dfa5b2083.lands.messages.wars.message.capture.place.i
   %3&7, in cui ha fiducia."
 fb1f183b-746c-4120-b4c4-4df04e7a330d.cmd.settings.title.unknown.s20: '&bTeleport &8|
   &7[Toggle]'
-654cee30-f80d-48f9-a744-ea6492adc883.cmd.farmworlds.time.e.normal: '§x§E§9§F§1§B§0Tempo
-  in questo mondo agricolo&8: &7'
 7a2874af-dde8-44f8-b82a-7e48b56df945.deathmessages.Mobs.panda.Solo.Projectile-Arrow.0: '%1
   è stato colpito da un %2 che in qualche modo ha usato %3'
 376771b5-6eef-4b48-9734-df192b712806.lands.messages.lands.message.event.level.down: '#t#&6%1[newline]&7livellato
@@ -4273,8 +4139,6 @@ e117c791-92c8-4dc5-8dae-e9ce4ab253e9.lands.messages.lands.command.rename.success
   %2 %3 &8- &7Visualizza informazioni sul terreno[H]&7Clicca per eseguire.[/H][C]%4[/C][/T]'
 bf2cc006-4884-4922-b1de-de0cabac4eb8.cmd.settings.title.unknown.s40: 'Messaggio di
   morte &8| &7[Toggle]'
-350b9a80-1019-4273-9c70-71b43cd03ac8.cmd.farmworlds.time.e.hard: '§x§E§9§F§1§B§0Tempo
-  in questo mondo agricolo&8: &7'
 ca78f9d0-2653-45ee-8d60-afa1a0cc8eb8.deathmessages.Mobs.chicken.Gang.Melee.0: "%1
   è stato ucciso da un gruppo di %2"
 b8809e13-a250-4a19-8a1d-8fe8899808ab.lands.messages.nations.command.general.noaccess: "Non
@@ -4553,8 +4417,6 @@ e8e842b5-92be-47a1-b043-68e785c69e44.deathmessages.Mobs.cod.Gang.Weapon.0: "%1 �
 73cdcc6c-456c-4f23-8d64-7f47c53fa6c1.deathmessages.Mobs.parrot.Solo.Weapon.0: '%1
   è stato ucciso da un %2 in qualche modo usando %3'
 82e6031e-9dcd-4e22-8894-7b319c9f0383.lands.messages.list.sign.rented.0: '&6&lAffittato'
-f8d421e0-cf6f-42fc-aa32-7136a20b4735.cmd.farmworlds.time.o.easy: '§x§5§E§9§D§3§4Tempo
-  in questo mondo agricolo&8: &7'
 477bd285-4965-41e2-b391-ef957e1b62b6.deathmessages.Mobs.player.Solo.Melee.0: '%1 è
   stato ucciso da %2'
 5c092b26-91ef-41e0-8e5d-db6d718bf826.deathmessages.Mobs.pig.Solo.Projectile-Arrow.0: '%1
@@ -5488,8 +5350,6 @@ ad72bdc0-a644-41b8-a524-6afa838218d9.deathmessages.Basic-Mode.Gang.Weapon.0: "%1
   stato ucciso da un gruppo di %2 in qualche modo utilizzando %3"
 27475628-43c9-44dd-8205-650a6bae5630.deathmessages.Mobs.skeletonhorse.Solo.Melee.0: '%1
   è stato ucciso da un %2'
-f4092d4b-2f49-4a2b-beb9-b28ff4bbaa4a.cmd.farmworlds.time.e.easy: '§x§E§9§F§1§B§0Tempo
-  in questo mondo agricolo&8: &7'
 f02bf059-95c7-42ac-9479-7057aca818f4.deathmessages.Mobs.fox.Gang.Melee.0: "%1 è stato
   ucciso da un gruppo di %2"
 39ffa6bd-5026-4198-a9d7-cdeeecd478aa.lands.messages.lands.command.view.y-level: '&7La
@@ -5697,8 +5557,6 @@ f6154943-4689-46be-b770-2e50e0bc7d18.deathmessages.Mobs.skeletonhorse.Solo.Proje
 13d2456f-ffa2-40c3-a714-f722f9a13801.lands.messages.general.time.hours: ora/e
 b8e420e7-2c1a-4215-91f6-3ae024362f33.deathmessages.Mobs.bat.Solo.Melee.0: '%1 è stato
   ucciso da un %2'
-6679d20c-cd2d-41a0-8ee8-63ef71f8aec0.cmd.farmworlds.time.o.hard: '§x§5§E§9§D§3§4Tempo
-  in questo mondo agricolo&8: &7'
 42a8a486-add8-4c0c-86f8-82b52d94b828.lands.messages.lands.command.general.input.nation: "La
   nazione&4 %1 &cnon esiste. &7Non c'è nessuna nazione con questo nome."
 980986e3-d564-4dcb-9c00-5fb84da43ba0.deathmessages.Mobs.magmacube.Gang.Projectile-Arrow.0: '%1
@@ -6963,9 +6821,6 @@ d0447afb-7492-464f-ac5d-4e0a4c9ba220.cmd.rules.server.3-5: "&7&lTutte le truffe 
 ced35d86-5f49-4fa9-957a-aba0e352aebd.cmd.event.xp: '&b&lPezzi gratis &7(Punti)'
 8dd637f1-3f85-4695-acc8-20d1099f1a86.cmd.event.claimed.title: '&cGià rivendicato'
 113e6e2a-db4a-4304-9b51-ce1dacc07ca3.cmd.ref.22.title: '&bChiavi'
-4d3640fe-d655-45a6-8c43-c2d116ca4b3d.cmd.warps.farm-server.desc: "&bDescrizione\n
-  &b| &7Clicca per\n &b| &7aggiungere il\n &b| &7Server agricolo.\n &b&l| &bᴄʟɪᴄᴋ
-  ᴛᴏ ᴠɪᴇᴡ"
 99001d52-e82b-4b39-857e-e18958e73dfe.cmd.settings.title.false.s25: Ologrammi di Mob&8|
   &7[Disabili]
 27353bdd-89d6-477d-8087-d24e3ac6990f.cmd.settings.title.true.s25: Ologrammi di Mob
@@ -6999,7 +6854,6 @@ d494c8e3-57d3-4526-a426-1833fa2896f3.cmd.settings.desc.false.s25: "\n&bInformazi
 7ceb327f-60ea-4484-a2da-5869cbf224c0.cmd.event.items: '&b&lArticoli gratuiti &7(potrebbe
   essere bello!)'
 82339929-1c1b-46f4-bd69-1cbe4514e13b.cmd.you-already-have-this: ʏᴏᴜ ᴀʟʀᴇᴀᴅʏ ʜᴀᴠᴇ ᴛʜɪs
-05b254c0-bfbf-4df8-bedf-0ca2693469cb.cmd.warps.farm-server.title: Server &bAgricoltura
 1cd25a26-fd54-4ba0-93a5-3d79262669e0.cmd.main.title.s44: '&b&lRiferimenti'
 4c722657-574d-42c8-9ebb-ba1f1f75f15e.cmd.event.items.desc: "&bDescrizione\n &b| &7Solo
   alcuni giocatori\n &b| &7possono ottenere gli oggetti.\n &3| &fClicca per vedere.\n

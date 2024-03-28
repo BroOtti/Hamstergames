@@ -1168,9 +1168,6 @@ d7df123f-0531-401b-b2d5-ff371559a7d7.excellentcratesEditor.CrateEditorType.CRATE
 65bcde5a-d539-4c2e-82cc-fad1b3e24564.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.0: '#bdc8c9Kans:
   §f%1%'
 44574c83-b7e2-4e30-a416-5753ddc1b036.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Name: '#ffed6a&lKeys'
-24366b74-240d-44bc-99f0-2d8edb756d52.menu.bank.menu.info: "\n§bInformatie\n§b| §7Gebruikersnaam:
-  §f%1\n§b| §7Interesse: §f⌚%2\n\n§b| §7Saldo: §b%3\n§b| §7Bank: §b$%4\n\n§b| §7Geregistreerde
-  gebruiker(s): §3%5"
 77af42ce-7792-473f-bac9-aa5dbf670d32.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_PERMISSION.Lore.4: '#ffed6a▪
   #bdc8c9Verplicht: #ffed6a%1'
 2702a2b8-fb22-428a-80ef-e5d27d3f9ab8.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.8: '#bbff6a&lActies:'
@@ -1885,18 +1882,8 @@ ae6706c9-7810-470a-b5c1-f6f806bda6df.dh.farmserver.menu.l7: "§4&Je kunt geen it
 0daacfa9-bf0e-411c-a307-016feaeb913f.dh.farmserver.menu.l1: '§aFarmworlds'
 2e814119-1841-4a0e-9870-c1f6b39f58cf.dh.menu.l1: '§b&lHet menu openen'
 dd130f3c-f766-41c1-9a36-7ddc9f416801.excellentenchantmentsFitItemType.WEAPON: Wapen
-fea814d5-3f2d-4347-a06b-443f7ade3963.menu.farm.normal.normal.lore: "§Normale bovenwereld
-  Boerenwereld\n\n§2Voordelen:\n§aGraven\n§Middelmatige moeilijkheidsgraad\n§aSommige
-  ertsen\n\n§4Nadelen:\n§cGeen structuren\n§cNiet alle ertsen\n§cGeen betoveringen\n
-  §Kosten §4150"
 ef3c0faa-b222-4eb4-888a-d194c6558383.triton.setlanguage: '&bJe taal is veranderd in
   &6%1'
-3b65d987-60c9-458a-bb1d-2a2c86bc519d.menu.farm.end.normal.lore: "§eNormaal Einde Boerderijwereld\n
-  \n§2Voordelen:\n§aGraven\n§Middelmatige moeilijkheidsgraad\n\n§4Nadelen:\n§cGeen
-  Strucuturen\n§cGeen drakeneieren\n§cGeen betoveringen"
-94a3b212-270e-445f-9f16-a3a4dc4cb7ed.menu.farm.end.easy.lore: "§2Easy End Boerderijwereld\n
-  \n§2Voordelen:\n§aVoorraad bijhouden\n§aGemakkelijk Moeilijkheidsgraad\n\n§4Nadelen:\n
-  §cGeen Strucutres\n §cGeen drakeneieren\n§cGeen betoveringen"
 1c02c090-c261-409b-a88a-5c7a7c22808f.excellentenchantmentsCommand.TierBook.Usage: '%1
   %2 %3'
 0294d1f4-a140-42dd-9a05-b55d6e5dd3ed.excellentenchantmentsFitItemType.BOOTS: Laarzen
@@ -1916,19 +1903,11 @@ a32c1014-683f-4e9c-a93b-4620d0453357.excellentenchantmentsFitItemType.PICKAXE: P
   betoverd!
 421b1765-551f-4f90-a7a8-cb17e33dd9d5.triton.detected-language: '&bJe taal is automatisch
   ingesteld op &7%1'
-da775029-333e-4026-ae09-d5086b654adf.menu.farm.nether.hard.lore: "§4Harde onderwereld
-  boerderij\n\n§2Voordelen:\n§aAlle ertsen\n§aStructuren\n\n§4Nadelen:\n§cHarde moeilijkheidsgraad\n
-  §cInventaris daalt bij overlijden\n§cGeen betoveringen"
 2a5b98ee-3537-4f8b-9e6a-f1c682dbf3a0.triton.selector-gui-name: '&bSelecteer een taal'
 a522eab3-dd94-40fc-a799-8c74d92d5e51.excellentenchantmentsCommand.TierBook.Desc: Geeft
   een betoverd boek.
 77539ecb-cf2d-4d8c-b541-55214092bff4.excellentenchantmentsFitItemType.ELYTRA: Elytra
 6210d086-90b4-4347-a084-2e18e86c400e.excellentenchantmentsFitItemType.SWORD: Zwaard
-4e1d4ff5-418b-4641-af95-087c6e03589f.menu.farm.nether.normal.lore: "§Normale onderwereld
-  boerderij\n\n§2Voordelen:\n§aGraven\n§Middelmatige moeilijkheidsgraad\n§aGouderts
-  + Kwartserts\n\n§4Nadelen:\n§cGeen structuren\n§cGeen oud puin\n§cGeen betoveringen\n
-  §Kosten §4150"
-636a0cfe-f45a-465c-bb1e-49f15738bc4b.menu.farm.nether: §4Nether Boerderijen
 2c74032d-351d-4972-b691-6a7134c54b99.excellentenchantmentsFitItemType.BOW: Boog
 bf15f1f0-c9e6-4faa-a620-c278833041a8.excellentenchantmentsFitItemType.CROSSBOW: Kruisboog
 c8d98998-56d6-4a6d-8420-6fc92ea69eb1.triton.setlanguage-others: "De taal van &7%1&b
@@ -1937,22 +1916,13 @@ c8d98998-56d6-4a6d-8420-6fc92ea69eb1.triton.setlanguage-others: "De taal van &7%
   &7&oNoot: Het is hoofdlettergevoelig. Gebruik TAB om alle beschikbare talen weer
   te geven."
 f1a21586-b377-4323-8e19-991a3ac3b533.excellentenchantmentsFitItemType.SHOVEL: Schop
-51233d7b-0e5a-4cdb-b7d8-22a39073329f.menu.farm.end: §Einde Farmworlds
 f7d463b8-eacd-427a-8366-53c52d7f1bd1.excellentenchantmentsFitItemType.LEGGINGS: Legging
 6198c325-3d57-4ce2-9744-2d9babc0fb33.excellentenchantmentsCommand.Book.Desc: Geeft
   op maat gemaakt betoverd boek.
 38a544b4-5de1-4cea-bc87-8bad7c7a26f2.excellentenchantmentsCommand.Book.Done: Gegeven
   §6%1§7 betoverd boek aan §6%2§7.
-43d3c66b-316c-44eb-ac66-d2e4884dc692.menu.farm.normal.hard.lore: "§4Harde overwereld
-  Boerenwereld\n\n§2Voordelen:\n§aStructuren\n§aAlle ertsen\n\n§4Nadelen:\n§cHarde
-  moeilijkheidsgraad\n§cInventaris daalt bij overlijden\n§cGeen betoveringen\n§Kosten
-  §4500"
 0c8bf1a2-cfce-4447-bc14-331b1ab9a79b.excellentenchantmentsFitItemType.TRIDENT: Trident
-436c74aa-0d1f-42a5-b792-064cff372756.menu.farm.normal.easy: §2EASY
 b47f7209-18ac-475b-aedc-8b2b9472f197.excellentenchantmentsFitItemType.UNIVERSAL: Universeel
-f4196f9b-d12c-429d-bb45-f5998d489e91.menu.farm.normal.easy.lore: "§2Gemakkelijke overwereld
-  boerenwereld\n\n§2Voordelen:\n§aVoorraad bijhouden\n§aMakkelijk Moeilijkheidsgraad\n
-  §aBasisertsen\n\n§4Nadelen:\n§cGeen structuren\n§cBijna geen ertsen\n§cGeen betoveringen"
 7ebffb7c-6bff-4c30-9df3-a0ce46062a36.triton.no-permission: '&cGeen toestemming. Toestemming
   vereist: &4%1'
 ba957850-2256-4992-9be7-754e73c13209.antieditsign.message: '&bJe kunt alleen je eigen
@@ -1962,21 +1932,12 @@ ba957850-2256-4992-9be7-754e73c13209.antieditsign.message: '&bJe kunt alleen je 
 750daeaa-dc53-4072-8858-2055329380c3.excellentenchantmentsFitItemType.TOOL: Gereedschap
 b65d2bbf-f72a-410e-8025-f9aac9d0ce01.excellentenchantmentsFitItemType.FISHING_ROD: Hengel
 6e082aac-4eec-4947-b9c7-28c55007bf73.excellentenchantmentsFitItemType.CHESTPLATE: Borstplaat
-26181738-4ee1-49b9-8f12-191976c806e9.menu.farm.normal: §aNormale boerderijwerelden
 4820a53b-da09-4f38-b31b-96da4a658980.tab.sb.quests: '&7Quest:'
-7ebfaf99-6592-4419-ae36-5abbc333723a.menu.farm.normal.normal: §eNORMAAL
-09b9de5b-13c2-45f9-ab71-d783ed5fd530.menu.farm.normal.hard: §4HARD
 82f605f8-4845-47b4-b85b-e014f48c91b1.excellentenchantmentsFitItemType.HELMET: Helm
-a41a6fc4-b17e-4285-8230-79442ecb7a62.menu.farm.nether.easy.lore: "§2Gemakkelijke onderwereld
-  boerderij\n\n§2Voordelen:\n§aVoorraad bijhouden\n§Gemakkelijk\n\n§4Nadelen:\n§cGeen
-  Strucutres\n§cGeen ertsen\n§cGeen betoveringen"
 1bccf85f-415e-46b1-bb0b-a572940cff18.ib.tilgis.welcome: §7Welkom op [lang]voorvoegsel[/lang]
   §7%1
 ff27de84-304a-4e50-8320-80910e4ece70.excellentenchantmentsCommand.Book.Usage: '%1
   %2 %3'
-4fd261fc-18a4-40e6-83cc-4bb64836e1f1.menu.farm.end.hard.lore: "§4Hard End Boerderijwereld\n
-  \n§2Voordelen:\n§aStructuren\n\n§4Nadelen:\n§cHarde moeilijkheidsgraad\n§cInventaris
-  daalt bij overlijden\n§cGeen drakeneieren\n§cGeen betoveringen"
 ebb0556f-d559-46cb-a3aa-23d95b59d007.excellentenchantmentsError.NoEnchant: §Ongeldige
   betovering.
 61958bfc-20ba-4fac-9251-f975c5445b36.excellentenchantmentsCommand.TierBook.Error: §Ongeldig
@@ -2796,8 +2757,6 @@ bef54b10-11d9-4750-8d3b-9c03e65e6e10.lands.messages.help.command.lands.admin.cha
   (%7): %8</li> </ul> <p><strong> Dit land behoort tot natie %9:</strong></p> <ul>
   <li> Niveau: %10</li> <li>Hoofdstad: %11</li> <li>Land (totaal spelers: %12): %13</li>
   </ul>'
-0989c54c-90f9-4b13-8611-2b6b39469830.cmd.farmworlds.time.n.hard: '§x§6§F§4§6§4§4Tijd
-  in deze Boerderijwereld&8: &7'
 82e818c0-6bc6-4e67-9b33-f2f7065ea991.lands.messages.lands.command.withdraw.success: '&7Je
   hebt met succes&3 %1 &7uit de bank land&2 %2&7 gehaald. &7Nieuw saldo bank:&3 %3'
 4eb5ef46-9893-43e3-98cb-c265cd404387.lands.messages.lands.command.view.tool: "&7De
@@ -2975,8 +2934,6 @@ bfe1df34-6715-4769-9b32-d70a523c9dd9.lands.messages.lands.command.untrust.land.r
   wordt in geen enkel gebied vertrouwd."
 669d72b4-9fd6-4f7d-b8ae-c50e754a187d.deathmessages.Mobs.ghast.Solo.Projectile-Arrow.0: '%1
   is neergeschoten door een %2 met behulp van %3'
-1bb73c68-1a98-45fe-b592-5b08999ccfc0.cmd.farmworlds.time.o.normal: '§x§5§E§9§D§3§4Tijd
-  in deze Boerderijwereld&8: &7'
 3a82c9c8-cda2-41ad-83c4-b8d0d73933fa.lands.messages.lands.command.claim.region.selection: "&cJe
   kunt deze selectie niet claimen. &7Het bevat delen van een regio uit een andere
   regiobeheerplugin: %1"
@@ -3194,8 +3151,6 @@ e376e5bc-3334-4a1e-95bf-fea05569b5df.lands.messages.lands.command.untrust.owner:
   bestemmingschunk is niet geclaimd &8(&7X: %1 &7Z: %2&8)&c."
 c2bdb22e-38d5-47b5-8bba-9cd4cee8ce60.deathmessages.Mobs.warden.Solo.Sonic-Boom.0: '%1
   werd weggevaagd door een sonisch geladen kreet'
-22e172fb-6c9a-4685-b59c-38044df411c1.cmd.farmworlds.time.n.easy: '§x§6§F§4§6§4§4Tijd
-  in deze Boerderijwereld&8: &7'
 225e108c-c940-4866-947d-626bf50ad6ff.deathmessages.Mobs.sheep.Gang.Weapon.0: "%1 werd
   aangevallen door een paar %2's! Eén sloeg ze met %3"
 c8547896-96d1-45cb-8473-b934db7c2a96.deathmessages.Mobs.witch.Solo.Weapon.0: '%1 is
@@ -3488,8 +3443,6 @@ e3a0a800-d42d-41dc-9764-196ad7d242b8.lands.messages.wars.command.declare.mutual.
 4e469e70-8301-42c9-a4b5-f422aa61e7fb.lands.messages.wars.command.declare.min-balance.defender: '&cHet
   saldo van de verdedigers %1 &cis te laag. &7Je kunt alleen anderen aanvallen die
   een minimum saldo hebben van&c %2&7.'
-6d7cd212-c175-4c58-b374-82248b794db0.cmd.farmworlds.time.n.normal: '§x§6§F§4§6§4§4Tijd
-  in deze Boerderijwereld&8: &7'
 711cff34-2185-45b7-8240-75e5a9fc1f74.lands.messages.general.command.argument.type.flag: vlag
 2692926c-79c9-448f-a705-f52d9fcb01df.lands.messages.lands.command.claim.fill.none: "&cKon
   de vorm niet vinden. &7Zorg ervoor dat je in een niet-opgeëiste regio staat die
@@ -3993,8 +3946,6 @@ e369119d-9f2b-49b3-ae69-955dfa5b2083.lands.messages.wars.message.capture.place.i
   worden."
 fb1f183b-746c-4120-b4c4-4df04e7a330d.cmd.settings.title.unknown.s20: '&bTeleport &8|
   &7[Toggle]'
-654cee30-f80d-48f9-a744-ea6492adc883.cmd.farmworlds.time.e.normal: '§x§E§9§F§1§B§0Tijd
-  in deze boerderijwereld&8: &7'
 7a2874af-dde8-44f8-b82a-7e48b56df945.deathmessages.Mobs.panda.Solo.Projectile-Arrow.0: '%1
   is neergeschoten door een %2 met behulp van %3'
 376771b5-6eef-4b48-9734-df192b712806.lands.messages.lands.message.event.level.down: '#t#&6%1[newline]&7leveled
@@ -4035,8 +3986,6 @@ e117c791-92c8-4dc5-8dae-e9ce4ab253e9.lands.messages.lands.command.rename.success
   %2 %3 &8- &7Bekijk informatie over land[H]&7Klik om uit te voeren.[/H][C]%4[/C][/T]'
 bf2cc006-4884-4922-b1de-de0cabac4eb8.cmd.settings.title.unknown.s40: '&bDoodbericht
   &8| &7[Toggle]'
-350b9a80-1019-4273-9c70-71b43cd03ac8.cmd.farmworlds.time.e.hard: '§x§E§9§F§1§B§0Tijd
-  in deze boerderijwereld&8: &7'
 ca78f9d0-2653-45ee-8d60-afa1a0cc8eb8.deathmessages.Mobs.chicken.Gang.Melee.0: "%1
   werd gedood door een stel %2's"
 b8809e13-a250-4a19-8a1d-8fe8899808ab.lands.messages.nations.command.general.noaccess: "&cJe
@@ -4313,8 +4262,6 @@ e8e842b5-92be-47a1-b043-68e785c69e44.deathmessages.Mobs.cod.Gang.Weapon.0: "%1 w
 73cdcc6c-456c-4f23-8d64-7f47c53fa6c1.deathmessages.Mobs.parrot.Solo.Weapon.0: '%1
   is gedood door een %2 met behulp van %3'
 82e6031e-9dcd-4e22-8894-7b319c9f0383.lands.messages.list.sign.rented.0: '&6&l Gehuurd'
-f8d421e0-cf6f-42fc-aa32-7136a20b4735.cmd.farmworlds.time.o.easy: '§x§5§E§9§D§3§4Tijd
-  in deze Boerderijwereld&8: &7'
 477bd285-4965-41e2-b391-ef957e1b62b6.deathmessages.Mobs.player.Solo.Melee.0: '%1 is
   gedood door %2'
 5c092b26-91ef-41e0-8e5d-db6d718bf826.deathmessages.Mobs.pig.Solo.Projectile-Arrow.0: '%1
@@ -5236,8 +5183,6 @@ ad72bdc0-a644-41b8-a524-6afa838218d9.deathmessages.Basic-Mode.Gang.Weapon.0: "%1
   gedood door een groep %2's met behulp van %3"
 27475628-43c9-44dd-8205-650a6bae5630.deathmessages.Mobs.skeletonhorse.Solo.Melee.0: '%1
   is gedood door een %2'
-f4092d4b-2f49-4a2b-beb9-b28ff4bbaa4a.cmd.farmworlds.time.e.easy: '§x§E§9§F§1§B§0Tijd
-  in deze boerderijwereld&8: &7'
 f02bf059-95c7-42ac-9479-7057aca818f4.deathmessages.Mobs.fox.Gang.Melee.0: "%1 werd
   gedood door een stel %2's"
 39ffa6bd-5026-4198-a9d7-cdeeecd478aa.lands.messages.lands.command.view.y-level: '&7De
@@ -5442,8 +5387,6 @@ f6154943-4689-46be-b770-2e50e0bc7d18.deathmessages.Mobs.skeletonhorse.Solo.Proje
 13d2456f-ffa2-40c3-a714-f722f9a13801.lands.messages.general.time.hours: uur(en)
 b8e420e7-2c1a-4215-91f6-3ae024362f33.deathmessages.Mobs.bat.Solo.Melee.0: '%1 is gedood
   door een %2'
-6679d20c-cd2d-41a0-8ee8-63ef71f8aec0.cmd.farmworlds.time.o.hard: '§x§5§E§9§D§3§4Tijd
-  in deze Boerderijwereld&8: &7'
 42a8a486-add8-4c0c-86f8-82b52d94b828.lands.messages.lands.command.general.input.nation: "&cDe
   natie&4 %1 &cbestaat niet. &7Er is geen natie met deze naam."
 980986e3-d564-4dcb-9c00-5fb84da43ba0.deathmessages.Mobs.magmacube.Gang.Projectile-Arrow.0: '%1
@@ -6694,9 +6637,6 @@ a06532b3-aeba-4210-9232-7efafc6b35ba.cmd.event.money.desc: "&bBeschrijving\n &b|
   veel geld\n &b| &7als evenementbonus ☺\n &3| &fKlik om te bekijken.\n&bInformatie\n
   &8▪ &7Geld: &f5000"
 113e6e2a-db4a-4304-9b51-ce1dacc07ca3.cmd.ref.22.title: '&bKeys'
-4d3640fe-d655-45a6-8c43-c2d116ca4b3d.cmd.warps.farm-server.desc: "&bBeschrijving\n
-  &b| &7Klik om\n &b| &7aan te sluiten bij de\n &b| &7Farm server.\n &b&l| &bᴄʟɪᴄᴋ
-  ᴛᴏ ᴠɪᴇᴡ"
 6f979d9c-2203-48a6-8e13-305405287c43.cmd.rules.server.3-1: "&7&lIn het geval dat je
   gestraft wordt door serverstaf\n&7Voor het overtreden van regels, zullen pogingen
   om de straf te ontlopen\n&7resulteren in een verhoging van de bestaande straf."
@@ -6751,7 +6691,6 @@ b1a9cda1-8d56-4eca-9ae0-6e2ee6a9e46a.cmd.event.money: '&b&lGratis geld &7(pak da
 6b6bf5cb-070e-434e-a22f-ced704ce1e2e.cmd.ref.4.title: '&bJouw verwijzingsstatistieken'
 4b60f13f-1ce5-44fe-a9ba-31512af34c22.cmd.event.keys: '&b&lVrije Sleutels &7(verdomme,
   niet gokken...)'
-05b254c0-bfbf-4df8-bedf-0ca2693469cb.cmd.warps.farm-server.title: '&bLandbouwserver'
 3e83bede-45ca-403c-84a1-1fe531e84de4.cmd.discord.link.title: '&x&3&2&4&B&B&0Link yourself
   to Discord'
 cb176040-0dd7-4d88-8840-84ea0223bb98.cmd.startmenu.title.spielerbasierend: '&fPlayer
