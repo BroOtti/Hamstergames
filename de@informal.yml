@@ -8,10 +8,12 @@ abc5e6d0-3070-4e20-b4f0-1f8d5d8357b7.lands.messages.help.command.lands.admin.hol
 a724d954-c874-46ed-a0e6-72560663f963.deathmessages.Mobs.chicken.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 5f786c3f-f502-4fd8-8c04-2efee5a4f5aa.PlayerParticlesgui-edit-data-color-brown: '#8b4513Braun'
-a440fb3a-c450-405a-8155-7cb45b4b392d.advancedenchants.sets.commands.give.success:
+a440fb3a-c450-405a-8155-7cb45b4b392d.advancedenchants.sets.commands.give.success: '&eGave
+  &f %1 &eSet to &f %2'
 8b6df645-e002-4527-9e11-cd0f2845588f.PlayerParticlescommand-error-unknown: §7Befehl
   nicht gefunden! "§b/pp help§7" für weitere Informationen.
-866c82c7-6831-4b71-8654-890f1ebad84b.advancedenchants.combining.already-max-level:
+866c82c7-6831-4b71-8654-890f1ebad84b.advancedenchants.combining.already-max-level: This
+  enchantment is already max level!
 7f76a1e9-cc3c-4628-bf5f-f5d60d41d500.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.3: '#ffed6a&lAktuell:'
 e0e72db9-5f9d-4fa6-90e2-8cb4b1a47121.lands.messages.lands.message.role.player.land: >-
   &cDu kannst diesen Spieler im Land nicht bearbeiten&4 %1&c. &7Deine Rolle&6 %2
@@ -50,11 +52,13 @@ d9c19cca-46be-410b-b707-69c4c0f50f63.excellentcratesEditor.CrateEditorType.CRATE
 2c1e3dfa-1a09-4f34-b97d-5b4f2d80f015.deathmessages.Mobs.chicken.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 30f5132c-d8f2-47d9-a749-110ee4244761.lands.messages.list.hologram.sell.area.0: '&aKaufen'
-1badde40-45e5-4a1b-b0bf-63078bed1475.advancedenchants.commands.main.pasteenchants:
+1badde40-45e5-4a1b-b0bf-63078bed1475.advancedenchants.commands.main.pasteenchants: '&aEnchantments
+  list: %1'
 10666cfb-a113-4537-bedc-1e0f164b3b54.lands.messages.lands.command.view.y-lock.enabled: >-
   &cDer Y-Lock-Modus wurde umgeschaltet: &7Die Landgrenzen folgen deiner
   Position nicht mehr nach oben und unten.
-5ecf9681-636d-48c6-a292-e945e4c2a9a1.advancedenchants.commands.main.claim.invalid-usage:
+5ecf9681-636d-48c6-a292-e945e4c2a9a1.advancedenchants.commands.main.claim.invalid-usage: '&cPlease
+  enter enchant token.'
 cb954e7a-0c53-4fef-acfb-c6a46dcba113.lands.messages.general.inbox.war.declaration.mutual.denied: '&7Gegenseitige
   Kriegserklärung von %1&7 verweigert.'
 cafc0596-a4e5-40b4-ba0f-e7431771c7bc.deathmessages.Mobs.irongolem.Gang.Projectile-Arrow.0: '%1
@@ -73,7 +77,8 @@ d683ddb3-46aa-49c7-9045-95b3c642683d.deathmessages.Mobs.cat.Gang.Melee.0: '%1 wu
 80f0d2eb-82b8-4423-8aab-43fc5479bff0.lands.messages.help.command.lands.admin.player.give.permission.main: >-
   [T]&e%1 %2 %3 &8- &7Ändere nummerierte Berechtigungen[H]&7Klicke zum
   Kopieren.[/H][SC]%4[/SC][/T]
-618c63ac-5b3c-424c-81a8-aa3820c5d802.advancedenchants.applying.requires-enchant:
+618c63ac-5b3c-424c-81a8-aa3820c5d802.advancedenchants.applying.requires-enchant: '&cThe
+  &4%1 &cenchantment requires the &4%2&7 &cenchant to be applied!'
 5d56c134-c3f2-4a46-99d0-9f9e518f89b3.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Name: '#ffed6a&lVirtuell'
 78c07df4-8877-4c43-98d1-244fd73000ab.ia.4.2: auf diesem Server §8(bist du introvertiert?)
 499be3fb-1473-45b0-ad68-05e729ee34ad.deathmessages.Mobs.phantom.Gang.Melee.0: '%1
@@ -94,13 +99,16 @@ d683ddb3-46aa-49c7-9045-95b3c642683d.deathmessages.Mobs.cat.Gang.Melee.0: '%1 wu
   für den Effekt! Befehlsverwendung: §b/pp data§3 <Effekt>'
 fdd6351d-20ff-4796-956e-09507bfd9dbb.SuperVanishMessages.OnVanish: '&b&l%1 &8&l┃ &7Du
   bist jetzt unsichtbar!'
-73ead135-9f28-46c6-b999-90a80b2e8149.advancedenchants.slots.limit-reached:
+73ead135-9f28-46c6-b999-90a80b2e8149.advancedenchants.slots.limit-reached: '&cYou
+  cannot apply that enchantment! There are no free slots left!'
 a4069b9a-ac85-4a7a-a6ba-bcddb0dff342.lands.messages.help.command.nations.setcapital: '[T]&e%1
   %2 %3 &8- &7Set capital[H]&7Klick zum Kopieren.[/H][SC]%4[/SC][/T]'
 978b37ef-d83c-499c-a78b-62cfe8471377.deathmessages.Mobs.pufferfish.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-e256cdd2-fe5e-48c9-9a99-afb5d5ac3c4f.advancedenchants.gkits.no-permission:
-96f228e9-3fed-4a02-882f-06fdde902060.advancedenchants.sets.commands.invalid-set-piece:
+e256cdd2-fe5e-48c9-9a99-afb5d5ac3c4f.advancedenchants.gkits.no-permission: "&eYou
+  don't have permissions to use &e%1&6 kit."
+96f228e9-3fed-4a02-882f-06fdde902060.advancedenchants.sets.commands.invalid-set-piece: "&cInvalid
+  set piece, you may use one of these: \n%set pieces%"
 81b9df29-b8d5-4ac6-8a5f-e79d4bd6d1a8.tempflycommand.base.givall.1: addall
 57ca07bb-65a2-42b8-b669-4da03abd5527.alonsotags.Invalid-player: Spieler ist nicht
   online!
@@ -158,7 +166,8 @@ ce620f0d-6013-4f64-b8da-ab1196c02d87.excellentcratesEditor.CrateEditorType.CRATE
    &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!
   &f
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
-4d961404-e484-4335-87b1-9e32444c111d.advancedenchants.commands.main.admin.invalid-page:
+4d961404-e484-4335-87b1-9e32444c111d.advancedenchants.commands.main.admin.invalid-page: '&cInvalid
+  page'
 77255bd8-87e6-466b-802c-f422ac28aea3.deathmessages.Mobs.skeletonhorse.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 7c1e5441-8db1-4ca7-b42b-65496cdbae44.deathmessages.Mobs.zombiehorse.Solo.Weapon.0: '%1
