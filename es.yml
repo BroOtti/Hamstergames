@@ -6815,3 +6815,25 @@ b304f207-0b1b-4c99-a30f-eb0d73ce4cbe.cmd.settings.desc.true.s10: "\n&bInformatio
 cb176040-0dd7-4d88-8840-84ea0223bb98.cmd.startmenu.title.spielerbasierend: '&fPlayer
   based'
 eb5083df-3315-4a7e-9a13-b70c1b5f5a25.tab.sb.rank: 'Rank:'
+5ecf9681-636d-48c6-a292-e945e4c2a9a1.advancedenchants.commands.main.claim.invalid-usage: '&cPlease
+  enter enchant token.'
+4d961404-e484-4335-87b1-9e32444c111d.advancedenchants.commands.main.admin.invalid-page: '&cInvalid
+  page'
+32ef1b73-a0da-44a9-ad84-f205c515f9b7.advancedenchants.items.white-scroll.full-inventory: '&cYour
+  inventory is full!'
+3881a08d-5183-4e24-aff0-943c4a9d10e6.advancedenchants.commands.not-holding-item: '&cYou
+  must be holding an item!'
+1badde40-45e5-4a1b-b0bf-63078bed1475.advancedenchants.commands.main.pasteenchants: '&aEnchantments
+  list: %1'
+618c63ac-5b3c-424c-81a8-aa3820c5d802.advancedenchants.applying.requires-enchant: '&cThe
+  &4%1 &cenchantment requires the &4%2&7 &cenchant to be applied!'
+73ead135-9f28-46c6-b999-90a80b2e8149.advancedenchants.slots.limit-reached: '&cYou
+  cannot apply that enchantment! There are no free slots left!'
+e256cdd2-fe5e-48c9-9a99-afb5d5ac3c4f.advancedenchants.gkits.no-permission: "&eYou
+  don't have permissions to use &e%1&6 kit."
+96f228e9-3fed-4a02-882f-06fdde902060.advancedenchants.sets.commands.invalid-set-piece: "&cInvalid
+  set piece, you may use one of these: \n%set pieces%"
+a440fb3a-c450-405a-8155-7cb45b4b392d.advancedenchants.sets.commands.give.success: '&eGave
+  &f %1 &eSet to &f %2'
+866c82c7-6831-4b71-8654-890f1ebad84b.advancedenchants.combining.already-max-level: This
+  enchantment is already max level!
