@@ -199,7 +199,8 @@ d3f79d06-b9dd-4982-86c3-05f6ace11245.deathmessages.Mobs.rabbit.Gang.Melee.0: '%1
   von einer Bande von %2 erschlagen'
 ae5a8037-6961-493a-9dff-77d50ee105c1.lands.messages.lands.command.relations.enemies.add.revoked: '&7Du
   &8(&7%1&8) hast das Neutralisierungsangebot für %2&7 widerrufen.'
-5ecb4937-f6ee-488c-9d85-26206495a32f.advancedenchants.sets.commands.listweapons.header:
+5ecb4937-f6ee-488c-9d85-26206495a32f.advancedenchants.sets.commands.listweapons.header: '&eList
+  of all available Weapons &7[%1]'
 d6f5719a-c9f3-4b5b-a0bb-43c10d5c0acc.lands.messages.help.command.lands.claim.radius: >-
   [T]&e%1 %2 %3 &8- &7Radius beanspruchen[H]&7Beanspruche alle Chunks in einem
   bestimmten Radius. Klicke zum Kopieren.[/H][SC]%4[/SC][/T]
@@ -212,7 +213,8 @@ a901e3f2-5f88-41a8-a34f-ec0f1d82d51a.mpdb.syncInProgress: '&cDatensynchronisatio
 f8e714d2-fe20-453b-9d13-705065ef84f4.lands.messages.lands.command.deposit.partly: >-
   &cNur hinterlegt&4 %1 &vom bereitgestellten&4 %2&7, weil die Bank des Landes&2
   %3 &7den maximalen Saldo von&3 %4&7 erreicht hat.
-286dfec4-511b-46ea-b0be-a3d09037f883.advancedenchants.prefix:
+286dfec4-511b-46ea-b0be-a3d09037f883.advancedenchants.prefix: '&b&lᴇɴᴄʜᴀɴᴛᴍᴇɴᴛs &8&l|
+  &f'
 b78482f2-57ed-454d-a64d-33cb6a21d961.lands.messages.wars.message.capture.destroy.defender: >-
   #t#&aCapture Point[newline]&werden von unserem Land %1[newline]&2&l+ %2 Punkte
   entfernt
@@ -240,14 +242,16 @@ acc24171-96ef-42b7-84a9-f37ebbcdffee.excellentcratesEditor.CrateEditorType.REWAR
 6db35b21-58bf-4b66-bcdc-707c75b753e3.lands.messages.lands.command.merge.success: >-
   &7Du hast erfolgreich Land&2 %1 &7in&2 %2&7 zusammengelegt. Du hast&c %3&7
   bezahlt.
-f618bc9b-780a-4f47-bbca-92a94841e08c.advancedenchants.tinkerer.trade-accepted:
+f618bc9b-780a-4f47-bbca-92a94841e08c.advancedenchants.tinkerer.trade-accepted: '&aTrade
+  accepted!'
 9493f77f-de4b-42f3-a5ee-22e20a9197a0.lands.messages.list.hologram.sold.area.2: '&7Zu:
   %1'
 5b89cff6-b5fd-40da-a612-3d9252ff95be.deathmessages.Mobs.hoglin.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
 41d29868-e5d3-4b8b-b734-c7b34c230937.deathmessages.Mobs.vindicator.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
-a5c9556c-5aca-4b5f-9148-163efbe109d3.advancedenchants.commands.main.give.success:
+a5c9556c-5aca-4b5f-9148-163efbe109d3.advancedenchants.commands.main.give.success: '&aSuccessfully
+  gave %1 one %2 %3 book!'
 0ccde240-a565-4bbf-907f-3bcd8a6b9de3.lands.messages.list.sign.rent.2: '&5%1'
 8841844a-11c2-4599-b6fb-d78b75ed36a0.deathmessages.Natural-Cause.Climbable.0: '%1
   hat versucht, in größere Höhen zu klettern und ist von %2 gefallen'
@@ -265,7 +269,8 @@ a5c9556c-5aca-4b5f-9148-163efbe109d3.advancedenchants.commands.main.give.success
   Positionen eingestellt sind. [T]&7Du kannst den Auswahlmodus umschalten, indem
   du &e/lands selection &8[&8CLICK&8][H]&7Klicke hier, um den Auswahlmodus
   umzuschalten.[/H][C]lands selection[/C][/T]
-a78acdec-fd99-4a8c-99ad-57d3eee9be43.advancedenchants.sets.commands.invalid-chances:
+a78acdec-fd99-4a8c-99ad-57d3eee9be43.advancedenchants.sets.commands.invalid-chances: '&cInvalid
+  chances.'
 9a695dfd-2062-4fdf-a719-670f2a281a2c.deathmessages.Mobs.pillager.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 dc66f699-091a-4b70-87d5-1033dba89ba1.deathmessages.Mobs.witherskeleton.Solo.Projectile-Arrow.0: '%1
@@ -291,7 +296,8 @@ de9e17fb-8173-4ad9-b926-118a44642938.deathmessages.Mobs.bat.Solo.Weapon.0: '%1 w
    &8▪ &7Tag: §xF§xF§x9§xA§x2§x0ᴇᴠᴇɴᴛ 2023
 ff213edb-21c1-4eeb-8f62-04e22872c6af.PlayerParticlesgroup-list-presets: '&7Die folgenden
   voreingestellten Gruppen sind verfügbar: &b%1'
-a4e279f7-e4b3-4caf-8733-803e834e69fa.advancedenchants.commands.gedit.list:
+a4e279f7-e4b3-4caf-8733-803e834e69fa.advancedenchants.commands.gedit.list: '&eGKits:
+  &6%1'
 742b4030-8d94-48f8-a899-4f160246d652.lands.messages.lands.command.rent.set.success: >
   &7Du legst die Fläche&6 %1 &7zur Miete fest. Der Mieter zahlt&c %2 &7jeden&5
   %3&7.
@@ -355,7 +361,8 @@ d31d247c-3841-4449-b046-09a6f1615131.deathmessages.Mobs.parrot.Gang.Weapon.0: '%
   wurde von einem %2 irgendwie mit %3 erschossen'
 6f461b68-71bf-4785-b731-8d812ebcce03.alonsotags.Vault-not-available: Vault scheint
   auf diesem Server nicht verfügbar zu sein!
-a6105460-6244-4d86-b780-0e546591a921.advancedenchants.commands.main.unknown-command:
+a6105460-6244-4d86-b780-0e546591a921.advancedenchants.commands.main.unknown-command: '&cIncorrect
+  command usage! Type "/ae" for the correct usage.'
 b9e4778b-9c77-46a2-8348-221265203f7a.deathmessages.Mobs.magmacube.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 48a6d495-74e8-446b-ac64-378836c23f6b.deathmessages.Mobs.snowman.Solo.Weapon.0: '%1
@@ -461,7 +468,8 @@ abb5b97b-9243-4d95-8381-c58513124f75.PlayerParticlesfixed-create-success: '&7Dei
   in dieser Welt nicht verwenden. Versuche es später!
 6353ea55-d956-4e5e-9e5c-4c1af80e6f79.lands.messages.lands.command.unstuck.success: '&7Erfolgreich
   in den nächsten unbesetzten Ort teleportiert.'
-7afc9f72-23db-40ea-9a73-2c009e25917c.advancedenchants.items.white-scroll.full-inventory:
+7afc9f72-23db-40ea-9a73-2c009e25917c.advancedenchants.items.white-scroll.full-inventory: '&cYour
+  inventory is full!'
 a98d5552-8390-44ac-8156-92b287c267b9.lands.messages.help.command.lands.unstuck: >-
   [T]&e%1 %2 &8- &7Teleport aus Fallen[H]&7Falls du in einem Land feststeckst.
   &7Klick zum Ausführen.[/H][C]%3[/C][/T]
@@ -475,8 +483,10 @@ b66eac0e-bb7d-4d7d-9d18-277f0b1bedf2.deathmessages.Mobs.sheep.Solo.Weapon.0: '%1
   von einem %2 irgendwie mit %3 erschlagen'
 eb4a93be-06f5-43fc-9558-1d17f9046564.deathmessages.Mobs.fox.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-2208a00b-7438-41d6-a9dc-fba4e6b7bbd6.advancedenchants.items.randomization-scroll.single-items-only:
-3f0fa31f-2cfb-4dec-8cec-7a7ca5de93c2.advancedenchants.applying.wrong-material:
+2208a00b-7438-41d6-a9dc-fba4e6b7bbd6.advancedenchants.items.randomization-scroll.single-items-only: '&cYou
+  can only use this on single items!'
+3f0fa31f-2cfb-4dec-8cec-7a7ca5de93c2.advancedenchants.applying.wrong-material: '&cThis
+  enchantment cannot be applied on this item.'
 bb265132-299e-4209-b82d-909074072c6d.deathmessages.Mobs.cavespider.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 df7051c9-0398-45b7-ab1f-bc2c1125400c.excellentcratesCommand.Preview.Desc: Öffne die
@@ -537,12 +547,14 @@ a9f590f5-74d1-4c7d-a062-b2c6eafd6c10.lands.messages.nations.command.create.succe
   #bdc8c9[Q/Drop] Schlüssel: #bbff6aAlle deaktivieren'
 ca171821-6774-437c-b170-fad70d6c6b7d.deathmessages.Natural-Cause.Starvation.0: '%1
   ging das Essen aus und starb'
-47f6d64c-e85d-4eaf-aac7-719448e50815.advancedenchants.token.success:
+47f6d64c-e85d-4eaf-aac7-719448e50815.advancedenchants.token.success: '&2&lx &aSuccessfully
+  downloaded token &l%1&a enchantment, reloading...'
 9315d8cb-4855-4854-9bd3-47bab04f5d97.lands.messages.general.inbox.nation.economy.upkeep.warning: '&Konntest
   die Unterhaltskosten von %1 nicht bezahlen.'
 6c134544-ada2-4962-ad02-8b626ea67672.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.11: '#bbff6a▪
   #bdc8c9Right-Click: #bbff6aListe löschen'
-2d328e16-c101-4ca0-86f9-27a90bcb8ccf.advancedenchants.commands.main.giverandombook.success:
+2d328e16-c101-4ca0-86f9-27a90bcb8ccf.advancedenchants.commands.main.giverandombook.success: '&aGave
+  &2%1 %2x %3 &abooks!'
 d806ba2d-08d7-4ad9-b2ec-de19eeb488ab.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.9: '#bbff6a&lAktionen:'
 6f6bf7a8-633b-4065-b7f4-5ffd011b3dcd.deathmessages.Mobs.zombievillager.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
@@ -589,7 +601,8 @@ bb890c48-8e52-4e25-9b12-a9ff900e6510.deathmessages.Mobs.evoker.Solo.Melee.0: '%1
 fa27bc0c-9c4a-4687-a7d2-cc8ffdaf5ce4.PlayerParticlesfixed-create-looking-too-far: >-
   &7Kannst du keinen festen Effekt erzeugen, stehst du zu weit von dem Block
   entfernt, den du betrachtest!
-a3dc6e01-4505-4d90-be2e-7c1be9ec202d.advancedenchants.alchemist.exceeds-max-level:
+a3dc6e01-4505-4d90-be2e-7c1be9ec202d.advancedenchants.alchemist.exceeds-max-level: '&cYour
+  combined level exceeds maximum enchantment level!'
 961ebf19-ce3f-423c-a861-fd94906ba052.deathmessages.Mobs.piglin.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 68e798c4-4852-4b81-bc97-4bee8833c383.deathmessages.Mobs.panda.Gang.Weapon.0: '%1 wurde
@@ -614,7 +627,8 @@ b7cd49f1-0ae1-48f2-b44e-b390884fabf3.deathmessages.Mobs.drowned.Solo.Projectile-
 40b3b386-1308-4cf4-9cc2-8ca2364b4d9d.lands.messages.lands.command.assign.selection: >-
   &cDu musst zuerst eine Auswahl erstellen. &7Benutze &e/Länderauswahl &7um eine
   zu erstellen. Versuche es danach noch einmal.
-7927b21d-4902-431a-a9da-e7f93077fe86.advancedenchants.commands.main.setsouls.success:
+7927b21d-4902-431a-a9da-e7f93077fe86.advancedenchants.commands.main.setsouls.success: "&cSet
+  item's soul count to: %1"
 e16b1204-4b60-4985-a13b-d102defbb259.lands.messages.help.command.wars.spawn: '[T]&e%1
   %2 &8- &7Teleport zum Gegner[H]&7Klick zum Ausführen.[/H][C]%3[/C][/T]'
 733aff92-e7b5-4e83-a197-81a2450b954b.chatmanger.mention.header: §x§F§F§F§F§0§0@ &lERWÄHNT
@@ -633,7 +647,8 @@ aa724a8e-ed37-4ba1-816a-f376b359130c.SuperVanishMessages.InvalidUsage: >-
 15ef10b5-e81b-402e-879f-39819ce1ffc0.deathmessages.Natural-Cause.Wither.0: '%1 verwelkt'
 cbb209ff-6468-4d60-ab45-46763ce2bc17.deathmessages.Mobs.player.Solo.Projectile-Snowball.0: '%1
   wurde von einem Schneeball, der von %2 geworfen wurde, am Kopf getroffen'
-a50ffd22-cbc4-49bf-838f-05449590457d.advancedenchants.enchanter.cannot-afford.0:
+a50ffd22-cbc4-49bf-838f-05449590457d.advancedenchants.enchanter.cannot-afford.0: '&cYou
+  do not have enough EXP to purchase that.'
 113e6e2a-db4a-4304-9b51-ce1dacc07ca3.cmd.ref.22.title: '&bSchlüssel'
 87ecd127-6e5b-4a40-abc9-17d7bc7c6b00.lands.messages.wars.message.capture.place.wilderness: >-
   Du kannst eine Eroberungsflagge nicht in der Wildnis platzieren. 7 Du musst
@@ -644,7 +659,8 @@ c4319364-1e2c-492c-aff3-5fed39fff8ed.lands.messages.lands.command.general.none: 
   &cDu bist in keinem Land Mitglied.
    [T]&8✖ &7Erstelle dein eigenes: &e/%1 &8[KLICK][H]&7Klick zum Kopieren.[/H][SC]%2[/SC][/T]
        &7Jedes Land kann dich einladen mit: &e/lands trust
-c9674454-b9b0-45cd-be61-6c621c69bd4b.advancedenchants.sets.commands.invalid-weapon:
+c9674454-b9b0-45cd-be61-6c621c69bd4b.advancedenchants.sets.commands.invalid-weapon: '&cWeapon
+  is invalid.'
 14a974fc-6d7e-422c-96b9-5a1462ead25b.excellentcratesEditor.Reward.Enter.Permissions: '#d4d9d8Eintrag
   #aefd5e[Erlaubnisknoten]'
 8a0ae19b-e4fb-465b-994b-0875258bbadd.PlayerParticlesfixed-list-success: '&7Du hast
@@ -658,7 +674,8 @@ c9674454-b9b0-45cd-be61-6c621c69bd4b.advancedenchants.sets.commands.invalid-weap
   &7und %2 &7sind keine Verbündeten mehr.'
 7e39881f-cdf6-425a-9b97-9a14e7658515.deathmessages.Mobs.player.Solo.Firework.0: '%1
   stand zu nah am Feuerwerk von %2'
-78c74ac9-eef9-444e-9848-eda3931a556d.advancedenchants.commands.main.info.3:
+78c74ac9-eef9-444e-9848-eda3931a556d.advancedenchants.commands.main.info.3: '&6Max
+  level&7: &e%max-level%'
 f8a51393-6dbb-43f1-a2d9-2acf208ccd99.tempflyaesthetic.symbols.infinity: ∞
 b626d625-ca0b-4276-a055-31fba970e75a.lands.messages.nations.command.chat.activated: >-
   &7Aktivierter Nationen-Chat. Sende eine Nachricht im öffentlichen Chat, um mit
@@ -687,7 +704,8 @@ a60c331b-be03-4d5b-9c64-c0eda30678ac.lands.messages.general.top.hologram.nation.
 447436b3-0fdf-495e-997a-1f0e06138d08.deathmessages.Mobs.husk.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 03fba882-cc6c-46d5-bd51-2def90411b05.lands.messages.general.command.argument.type.plugin: Plugin
-92ce16d0-5a53-4ade-9488-b439ef9ab11f.advancedenchants.commands.apply.reapplied:
+92ce16d0-5a53-4ade-9488-b439ef9ab11f.advancedenchants.commands.apply.reapplied: '&aYour
+  armor has been re-applied.'
 45596b09-a92f-4a7d-a191-018e40a82591.lands.messages.lands.command.selection.expand.enabled: >-
   &7Vergrößere deine Auswahl von unten nach oben (minimale und maximale
   Anspruchshöhe).
@@ -695,7 +713,8 @@ a60c331b-be03-4d5b-9c64-c0eda30678ac.lands.messages.general.top.hologram.nation.
 09dd93e7-22df-42ab-a111-a9f332ea2d29.lands.messages.help.command.lands.admin.deleteinactive: >-
   [T]&e%1 %2 &8- &7Lösche inaktive Spieler/Länder[H]&7Klicke zum
   Ausführen.[/H][C]%3[/C][/T]
-2dc32249-58e5-4c1c-87b9-fa1d0d6bbe80.advancedenchants.alchemist.cannot-afford:
+2dc32249-58e5-4c1c-87b9-fa1d0d6bbe80.advancedenchants.alchemist.cannot-afford: '&cYou
+  cannot afford this transaction!'
 8d927849-26ac-4287-8d4f-9e08dc906309.deathmessages.Mobs.witherskeleton.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 1c02c090-c261-409b-a88a-5c7a7c22808f.excellentenchantmentsCommand.TierBook.Usage: '%1
@@ -710,7 +729,8 @@ a60c331b-be03-4d5b-9c64-c0eda30678ac.lands.messages.general.top.hologram.nation.
 59a74b0b-2d9c-43fd-9063-c6812d4618c0.PlayerParticlesstyle-invalid: >-
   &7Der Stil &c%1 &7ist nicht vorhanden! Verwende &b/pp styles &7für eine Liste
   der Stile, die du verwenden kannst.
-8f0c70d9-f09d-41e3-97d0-a81eab59c81f.advancedenchants.commands.gedit.reset.invalid-usage:
+8f0c70d9-f09d-41e3-97d0-a81eab59c81f.advancedenchants.commands.gedit.reset.invalid-usage: '&cUsage:
+  /gedit reset <gkit> <player>'
 85f9f6b0-1206-4577-b004-91515064757f.lands.messages.lands.command.general.noaccess.untrusted: >-
   &cDeinem Land wird nicht vertraut&4 %1&c. &7Benutze das Menü &e/Länder &7um
   die Länder zu sehen, in denen du Mitglied bist.
@@ -733,9 +753,11 @@ f127794e-671e-461a-9a2b-d1da81f8f07f.lands.messages.general.inbox.nation.economy
 9ee5eda9-7351-4713-9ff8-19090bb729ec.lands.messages.help.command.lands.admin.reload: >-
   [T]&e%1 %2 &8- &7Reload config and messages[H]&7Click to
   execute.[/H][C]%3[/C][/T]
-4ea25839-1ad0-4c19-9033-77f9c0b6efea.advancedenchants.items.black-scroll.invalid-enchant:
+4ea25839-1ad0-4c19-9033-77f9c0b6efea.advancedenchants.items.black-scroll.invalid-enchant: "&cCannot
+  remove enchant as it's invalid!"
 ecd552ec-a57b-4587-8ef3-49b1e4bc0232.tempflygeneral.unit.seconds: s
-f6fd40be-7761-4e5e-8c47-f8c869a806b5.advancedenchants.commands.main.info.0:
+f6fd40be-7761-4e5e-8c47-f8c869a806b5.advancedenchants.commands.main.info.0: '&eInformation
+  about &6%1 &eenchantment&7:'
 2c93db2c-fcf2-4dd0-b897-c7baed3a212f.gsitMessages.action-crawl-info: '&7Benutze deine&f
   Umschalt&7-Taste, um aufzustehen.'
 180db7d5-06ea-4088-823e-596570ba031b.gsitPlugin.plugin-disabled: '[P]&7 Das Plugin
@@ -804,7 +826,8 @@ f90ab21c-56dc-451c-9bde-0bf938ae1a8b.playerpoints.command-set-success: '&7Setze 
 bcae4ea3-37e1-4aad-a2eb-8c4b135589b6.playerpoints.command-take-usage: '&cAnwendung:
   &b/points take &3<Spieler> <Menge>'
 796e9cf2-a8f3-4a1f-a4d8-2356cf7bb6a3.cmd.purchase.choose.title.s20: '&b&lRänge &7Einkauf'
-7cdc7cce-7c52-40f4-8bfe-2539d5c775b4.advancedenchants.effects.steal-money:
+7cdc7cce-7c52-40f4-8bfe-2539d5c775b4.advancedenchants.effects.steal-money: '&6%1 &7stole
+  &6%2 &7from &6%3&7!'
 9167d50b-e748-46f2-95c7-45ded8e945cd.triton.selected: '&bAktuell ausgewählt'
 d94e6424-5315-4cdc-9f40-ecf666b8bba2.PlayerParticlesreload-no-permission: '&7Dazu
   haben Sie keine Berechtigung!'
@@ -860,7 +883,8 @@ a1111e41-ddfc-4bc0-9851-16b654389fcd.lands.messages.lands.message.event.level.up
 e8cfdf78-3fc8-4f1f-93dc-51813a13ce9d.lands.messages.general.command.argument.type.funds: Mittel
 067da34c-c686-43fc-9cb2-a99ff8b38a61.uar.COMMAND_FORCE_RESTART.chatMessage: Erzwungener
   Neustart des Servers in
-79c75f06-132a-47aa-bbbe-e70d7cd8789b.advancedenchants.enchanter.unknown-payment-method:
+79c75f06-132a-47aa-bbbe-e70d7cd8789b.advancedenchants.enchanter.unknown-payment-method: '&cFailed
+  to validate %1 payment method, please contact an administrator.'
 d31d8316-821e-4842-a2c7-6bfd788d6132.deathmessages.Mobs.skeletonhorse.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 037024e3-ff54-422e-9cf5-944785aeb307.excellentcratesEditor.Crate.BlockPushback.Name: '#ffed6a&lBlock
@@ -886,7 +910,8 @@ b86e974e-bfc7-43bc-95c3-85322da54370.lands.messages.lands.command.trust.flag: >-
 b0f518cd-bae4-4081-9549-cd21937fde46.lands.messages.general.command.argument.type.radius: Radius
 5ac6912e-8d58-497d-bf04-9201bdd872e4.tempflygeneral.fly.speed_limit_other: '%1 &f%2
   &8ist derzeit auf die Fluggeschwindigkeit &f%3&7 begrenzt.'
-bcc9fc84-7dbd-448e-8497-c61fa0da2be7.advancedenchants.commands.main.give.success:
+bcc9fc84-7dbd-448e-8497-c61fa0da2be7.advancedenchants.commands.main.give.success: '&aSuccessfully
+  gave %1 one %2 %3 book!'
 cdc406bb-6236-4f1b-886f-b4a6a72dbdce.lands.messages.lands.command.setowner.success.target: >
   [T]&7Player&3 %1 &7hat dich eingeladen, der neue Besitzer von Land&2 %2&7 zu
   werden.[H]&7Klicke hier, um dein Einladungsmenü zu
@@ -899,13 +924,15 @@ efbc8d77-b2f5-46e5-abaf-b595e3e069e6.deathmessages.Natural-Cause.Climbable.0: '%
   #t#&6Auswahl abgeschlossen[Zeilenumbruch]&7Auswahl beanspruchen:
   &e&l/beanspruchen &7Auswahl aufheben: &e&l/aufheben[Zeilenumbruch]&6&lAuswahl
   einem Teilbereich zuweisen: &e&l/zuweisen
-fb6ad8f0-33ff-4efe-a80d-61406e6345eb.advancedenchants.sets.commands.offline-player:
+fb6ad8f0-33ff-4efe-a80d-61406e6345eb.advancedenchants.sets.commands.offline-player: '&cPlayer
+  is offline.'
 87ca85e0-c84a-4144-9414-a2559436576d.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Name: '#ffed6a&lErlaubnisbeschränkungen'
 4ea7cc2b-050f-43dc-9062-e8949c16c6ee.deathmessages.Mobs.creeper.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 df7d0276-410b-4ee6-b916-63bad4994510.deathmessages.Mobs.pillager.Solo.Contact.0: '%1
   wurde von %2 in einen Kaktus gestoßen'
-03d7abb3-1bd8-441e-aea0-a43268f3d4e5.advancedenchants.sets.commands.listweapons.weapon:
+03d7abb3-1bd8-441e-aea0-a43268f3d4e5.advancedenchants.sets.commands.listweapons.weapon: ' &8>>
+  &f%1'
 d139121e-a03b-4316-8b41-ae83d16dc52b.ia.toggle-sound-off: '&7Du hast &c&l❌ &cDisabled&7
   die Tonansage &8&o(/toggle) umgeschaltet'
 f4d6e0da-f544-4daa-8eff-6d7beff727b9.cmd.serverbasierend.title.que-cha: '&b&lQuests
@@ -919,7 +946,8 @@ f4d6e0da-f544-4daa-8eff-6d7beff727b9.cmd.serverbasierend.title.que-cha: '&b&lQue
 99142074-a99e-48a9-b673-cd376a0ee72d.lands.messages.help.command.lands.wild: >-
   [T]&e%1 %2 %3 &8- &7Teleport zu einem zufälligen Ort[H]&7Klick zum
   Ausführen.[/H][C]%4[/C][/T]
-c6d9c71c-cb4a-4c0e-be0f-9385e4d4c1f6.advancedenchants.items.white-scroll.apply-successful:
+c6d9c71c-cb4a-4c0e-be0f-9385e4d4c1f6.advancedenchants.items.white-scroll.apply-successful: '&aWhite
+  scroll has been applied to your item!'
 89a1f71e-68ac-4de5-9fad-cac47a96dd26.PlayerParticlesadd-reached-max: >-
   &7Kannst du kein Partikel anwenden, hast du die maximale Anzahl von &c%1
   &7erlaubt erreicht!
@@ -928,7 +956,8 @@ fde9060a-5824-454a-a0d1-9f43ffe0a4ca.lands.messages.nations.command.accept.alrea
   verlassen, indem du &e/Nationen verlassen&7 ausführst.
 46c94e38-5c71-4bfb-975f-bdb3f6311c20.gsitMessages.action-pose-region-error: '[P]&7
   Du kannst in dieser Region nicht posieren!'
-970b7822-b474-49db-9ba1-c13bd9060597.advancedenchants.commands.main.greset.reset:
+970b7822-b474-49db-9ba1-c13bd9060597.advancedenchants.commands.main.greset.reset: '&aReset
+  the %1 kit for %2!'
 ed4df4d6-9e18-4863-9ea5-e0539f92ef53.lands.messages.wars.command.spawn.success: '&7Du
   wurdest in die Nähe der Grenze von Feind %1&7 teleportiert.'
 e541fb29-4330-40ff-af1a-d276c3f0911c.lands.messages.lands.command.teleport.success: '&7Erfolgreich
@@ -1022,7 +1051,8 @@ fb578ebb-28c2-4504-b6bc-049187301bdc.excellentcratesEditor.CrateEditorType.KEY_V
   #bdc8c9Öffnung: #ffed6a%1'
 3915237f-8382-4a54-9d8f-afb24f04eb5a.excellentcratesEditor.CrateEditorType.Reward.Rarity.Lore.6: '#bbff6a&lAktionen:'
 386b6922-f513-400d-8c21-c12d8c95105a.cmd.upgrade.choose.title.s15: '&b&lElytra Effekte'
-026d12f9-6fdb-47af-a8e8-db1134e469a9.advancedenchants.sets.commands.invalid-set-piece:
+026d12f9-6fdb-47af-a8e8-db1134e469a9.advancedenchants.sets.commands.invalid-set-piece: "&cInvalid
+  set piece, you may use one of these: \n%set pieces%"
 e314758d-ddf7-4d4c-a8bb-248921711a6b.SuperVanishMessages.ToggledPickingUpItemsOn: '&b&l%1
   &8&l┃ &7Das Aufnehmen von Gegenständen ist jetzt &aaktiviert&7.'
 00917f93-4a95-473b-9c95-5a99a8f37fc0.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Lore.1: '#bdc8c9wenn
@@ -1048,7 +1078,8 @@ bc4d51d4-1def-4b49-8d06-d4386055cd8f.deathmessages.Mobs.blaze.Solo.Projectile-Ar
 d3181eec-d147-4fe0-8922-8f07ba524184.PlayerParticlesgroup-save-reached-max: >-
   &7Kannst du die Gruppe nicht speichern, hast du die maximale Anzahl an Gruppen
   erreicht!
-32424999-e13c-4c2e-a3cf-1d127350d660.advancedenchants.commands.apply.cooldown:
+32424999-e13c-4c2e-a3cf-1d127350d660.advancedenchants.commands.apply.cooldown: '&cYou
+  will be able to use this command in %1 seconds.'
 0b0b7b8c-1301-4d89-aa86-19044dea08c6.lands.messages.help.command.lands.admin.player.give.permission.lands: >-
   [T]&e%1 %2 %3 &8- &7Max. Mitgliedsländer ändern[H]&7Klick zum
   Kopieren.[/H][SC]%4[/SC][/T]
@@ -1157,7 +1188,8 @@ b9e86ff4-9b1b-4ad8-804a-f6de23bd4454.cmd.main.desc.s42: |-
    &b| &7Erledige die Challenges, um
    &b| &7um ein paar schöne Bonis zu bekommen.
    &3| &fKlick zum Ansehen.
-81dec755-09f7-478f-b615-28fc83746562.advancedenchants.enchanter.examine-book:
+81dec755-09f7-478f-b615-28fc83746562.advancedenchants.enchanter.examine-book: '&7You
+  examined %group-color%%group-name%&7 book and found %enchant-color% %1'
 dc88127c-6c4f-499d-af91-1002d1c9843f.excellentcratesCrate.Open.Error.Cooldown.OneTimed.2: '#d4d9d8Du
   hast diese einmalige Kiste bereits geöffnet!'
 33c77d75-9c45-4a90-9cac-bd975a1ec38f.gsitMessages.command-gsit-playertoggle-off: >-
@@ -1180,7 +1212,8 @@ ba308ee6-5d9d-4d5d-8ff9-1fb74389e5b2.deathmessages.Mobs.wolf.Gang.Weapon.0: '%1 
   &cDu kannst dieser Nation im Moment nicht beitreten. &7Nation&9 %1 &7befindet
   sich derzeit in einem Krieg gegen %2&7. Bitte versuche es erneut, wenn der
   Krieg vorbei ist.
-55dfd393-e875-4340-b8df-67c5dde8394a.advancedenchants.commands.main.setsouls.invalid-usage:
+55dfd393-e875-4340-b8df-67c5dde8394a.advancedenchants.commands.main.setsouls.invalid-usage: '&cInvalid
+  usage: /ae setsouls <amount>'
 6b19b503-aa94-4bea-9c51-58082a0bcac7.deathmessages.Mobs.vex.Gang.Weapon.0: '%1 wurde
   von ein paar %2 angegriffen! Einer schlug sie mit %3'
 52fcb570-5a0c-4e75-9e60-db4416844a43.cmd.main.title.s3: '&b&lWie spielt man?'
@@ -1205,7 +1238,8 @@ d84381be-2c40-4aba-bad8-67c738d2e481.mycmd.cooldown2: '&7 Du hast die Abklingzei
 6b11047a-fdc4-482d-aa6d-69fbc562bb6a.PlayerParticleseffect-invalid: >-
   &7Der Effekt &c%1 &7ist nicht vorhanden! Verwende &b/pp effects &7für eine
   Liste der Effekte, die du verwenden kannst.
-9b544e7b-2323-421f-a9d6-6c74d8ab58d6.advancedenchants.commands.main.giverandombook.success:
+9b544e7b-2323-421f-a9d6-6c74d8ab58d6.advancedenchants.commands.main.giverandombook.success: '&aGave
+  &2%1 %2x %3 &abooks!'
 f64cfdc4-ae08-4e19-9b08-48cc7ea9831b.tab.sb.balance: 'Geld:'
 0981aa58-0cf9-477f-b2bd-5c7bfe6968d0.deathmessages.Mobs.enderman.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
@@ -1282,7 +1316,8 @@ b5b18118-78cc-400d-94d3-f690e6bc57e8.lands.messages.list.sign.sold.land.1: '&7La
   weitergibst
 
   &7kann als Doxxing ausgelegt werden, was einen sofortigen Bann zur Folge hat.
-0f5c902d-d02e-4dfd-875f-6d1c39f4c4d5.advancedenchants.commands.main.claim.invalid-usage:
+0f5c902d-d02e-4dfd-875f-6d1c39f4c4d5.advancedenchants.commands.main.claim.invalid-usage: '&cPlease
+  enter enchant token.'
 0fad20fc-a3c9-4baf-9e58-8cebb2aa3881.cmd.main.desc.s3: |-
   &7In &bSurvival&7 bieten wir dir
   &7mehrere verschiedene Welten, die du
@@ -1293,8 +1328,10 @@ b5b18118-78cc-400d-94d3-f690e6bc57e8.lands.messages.list.sign.sold.land.1: '&7La
   &7und beginnen, den Spielmodus zu erobern!
   &7Um &bAufregende Belohnungen&7 zu erhalten, während du
   &7spielst, stimme &b/ab
-7411faa5-ad70-4cf8-b30b-6e4fcbbad198.advancedenchants.applying.wrong-material:
-4d1772f8-663f-4dc9-add8-b6095cd66d8d.advancedenchants.items.soul-tracker.disabled:
+7411faa5-ad70-4cf8-b30b-6e4fcbbad198.advancedenchants.applying.wrong-material: '&cThis
+  enchantment cannot be applied on this item.'
+4d1772f8-663f-4dc9-add8-b6095cd66d8d.advancedenchants.items.soul-tracker.disabled: '&cSouls
+  are not enabled on this server!'
 15878977-20f7-4765-94e8-7afbf63bc2d2.tab.sb.playtime: 'Spielzeit:'
 a1b1b9b7-8b71-4393-9c1b-6a63d2de05a4.deathmessages.Mobs.zombie.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
@@ -1324,7 +1361,8 @@ a099a74b-2b27-4c9c-9f67-dd9387ad4b2f.deathmessages.Mobs.player.Solo.Fall.0: '%1 
    &b| &7Toggle: &bVote Broadcast
 
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ
-8ad0c5d1-32b4-4826-a9c5-b0ab21753083.advancedenchants.commands.main.unenchant.invalid-usage:
+8ad0c5d1-32b4-4826-a9c5-b0ab21753083.advancedenchants.commands.main.unenchant.invalid-usage: '&cInvalid
+  usage: /ae unenchant <enchant>'
 ac1ab93e-807e-40fa-8350-c3e669ce3954.deathmessages.Natural-Cause.Falling-Block.0: '%1
   wurde von einem %2 zerquetscht'
 581a2d39-6e21-4661-ba9e-bf1e0e90ff33.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Lore.6: '#bbff6a&lAktionen:'
@@ -1338,11 +1376,13 @@ e20c1f3e-6185-4ba7-8c58-f23e76cce346.PlayerParticlesgui-edit-primary-style: '&bP
 53072af3-9843-4792-a2ef-a1a082ccf20b.cmd.settings.title.false.s22: '&bChat &8| &7[Deaktiviert]'
 c835cce4-6b50-44e0-afc3-bfe5008af7e8.PlayerParticlesfixed-info-invalid-args: '&7Kann
   keine Informationen erhalten, die angegebene ID muss eine Zahl sein!'
-6615e594-1748-4511-ba9a-56b4f3d07416.advancedenchants.commands.main.unenchant.not-holding-item:
+6615e594-1748-4511-ba9a-56b4f3d07416.advancedenchants.commands.main.unenchant.not-holding-item: '&cYou
+  must be holding an item!'
 ee36c596-a3a0-4c77-9b46-06eea710bdab.SuperVanishMessages.InvalidSender: '&b&l%1 &8&l┃
   &7Du musst ein Spieler sein, um diesen Befehl auszuführen!'
 4027f72e-de89-400a-938b-bfdb69640d8f.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.5: '#bdc8c9%1'
-95ff16a2-a723-46ac-a7c8-8217ec5b1b6e.advancedenchants.heroic.upgrade-failed:
+95ff16a2-a723-46ac-a7c8-8217ec5b1b6e.advancedenchants.heroic.upgrade-failed: '&cThe
+  crystal upgrade &nfailed&c!'
 24d1eddd-e6d4-4d57-91df-fa4e9d87ca64.mycmd.ECONOMY_COST: '&7Dieser Befehl kostet %1.
   Neuer Saldo %2'
 9bd93692-7557-43fc-af65-90b4cf8ce4e7.lands.messages.general.status.offline: '&coffline'
@@ -1372,7 +1412,8 @@ e8c1ea88-3dc9-4654-abcc-b796ae39cffc.alonsotags.close: '&c&l❌ &cClose'
   &7Der Krieg zwischen %1 &7und %2 &7hat begonnen. Er wird in&5 %3&7 vorbei
   sein.
 13604518-9e49-4fa2-9307-aa1937a8e463.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Lore.2: '#bbff6a&lAktionen:'
-58c7e249-995b-4d8d-a622-a1a4e18c39eb.advancedenchants.sets.commands.givepiece.success:
+58c7e249-995b-4d8d-a622-a1a4e18c39eb.advancedenchants.sets.commands.givepiece.success: '&eGave
+  &f%1 &efrom &f%2 &eto &f %3'
 ebeeafe6-7931-4a9b-9090-65e663c067aa.cmd.rules.chat.1-4: |-
   &7&lDein Minecraft-Benutzername und /nick <Nickname>
   &7Wenn du einen hast, müssen alle unsere Regeln eingehalten werden.
@@ -1389,7 +1430,8 @@ ebeeafe6-7931-4a9b-9090-65e663c067aa.cmd.rules.chat.1-4: |-
 e8b0d13f-f8db-4502-9e18-9f32e6b1ceae.lands.messages.general.command.argument.type.world: Welt
 c351f873-253f-4a94-8f7c-5e9a2784d65d.mycmd.interaction.delay: '&7Du musst &c%1 Sekunden&8)&7
   warten, bis du wieder interagieren kannst'
-e22a2688-eead-4303-b8ea-53ff0da82440.advancedenchants.commands.not-holding-item:
+e22a2688-eead-4303-b8ea-53ff0da82440.advancedenchants.commands.not-holding-item: '&cYou
+  must be holding an item!'
 0be1b0c8-460a-4b4e-8ccb-409f7a6c5ef7.lands.messages.wars.command.declare.min-age.defender: >-
   &cDas Alter der Verteidiger %1 &cist zu niedrig. &7Du kannst nur andere
   angreifen, die mindestens&5 %2 &7alt sind.
@@ -1401,7 +1443,8 @@ c943633e-b269-48b7-b0dc-1ab6bfb55496.PlayerParticlesfixed-remove-success: '&7Dei
 73346859-b0e7-411a-8831-83d202f05774.excellentenchantmentsFitItemType.ARMOR: Rüstung
 b4d16809-6c61-4245-bde7-4872857c59c0.deathmessages.Mobs.llama.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-935a6fe8-f9b8-4950-8b74-b09848dc239e.advancedenchants.sets.commands.unknown-command:
+935a6fe8-f9b8-4950-8b74-b09848dc239e.advancedenchants.sets.commands.unknown-command: '&cCommand
+  not found! Type "/asets" for a list of all valid commands.'
 9a2322ea-59f7-40f0-a9ca-8e1764b73ed4.tempflycommand.base.help.1: Befehle
 db0a3eb0-9adc-428b-a5ef-3cf2253c10ae.deathmessages.Mobs.vex.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
@@ -1429,7 +1472,8 @@ fe6745eb-03bc-4a58-87be-e6e7edb47772.cmd.warps.desc.s23: |-
 e695a780-a731-42d9-a078-df531baa6dae.deathmessages.Mobs.stray.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 caf15856-7ee3-41a1-92d0-3f07fc8bbdba.cmd.main.title.s4: '&b&lProfil &f%player_name%'
-740cd7db-18ae-45f1-931a-24fec4ce52a5.advancedenchants.commands.main.givegkit.success:
+740cd7db-18ae-45f1-931a-24fec4ce52a5.advancedenchants.commands.main.givegkit.success: '&cKit
+  %1 was given to player %2'
 7d969dd9-fef2-4538-a45f-fdca41d007b9.lands.messages.lands.command.accept.max-members: >-
   &cDu kannst dem Land&4 %1&c derzeit nicht beitreten. &7Sie haben die maximale
   Anzahl an&3 %2 &7Mitgliedern in ihrem Land erreicht.
@@ -1447,11 +1491,13 @@ aba1aa16-956e-41ef-9ffc-17801aa804e6.excellentenchantmentsCommand.TierBook.Done:
   hat versucht, den Respawn-Anker in der %2 zu benutzen!'
 ec3e513a-1625-4834-ba0b-0fcbe7fce809.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.6: '#bbff6a▪
   #bdc8c9[Num 3]: #bbff6aBy Name'
-e745753c-7dcc-4e39-a03a-33c466c61192.advancedenchants.sets.commands.list.header:
+e745753c-7dcc-4e39-a03a-33c466c61192.advancedenchants.sets.commands.list.header: '&eList
+  of all available Sets &7[%1]'
 0ed0155e-15e2-4984-9e72-8b78619cbda3.cmd.main.title.s41: '&b&lSoziale Medien'
 8bb8ef49-433c-4b54-9843-fcb8964be32f.deathmessages.Mobs.stray.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
-d898590a-2799-424d-88d5-630ab16989a1.advancedenchants.commands.aegive.invalid-material:
+d898590a-2799-424d-88d5-630ab16989a1.advancedenchants.commands.aegive.invalid-material: "&cInvalid
+  material. Please reference the 'materials.yml' file for all valid materials."
 54713f46-5fdc-4908-9f7b-de940bf931b4.deathmessages.Mobs.piglinbrute.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 633c472e-12b9-4334-af44-11f86df68d58.deathmessages.Mobs.slime.Gang.Melee.0: '%1 wurde
@@ -1507,8 +1553,10 @@ d3358784-ebb2-48aa-bdf7-55c88cd9db58.deathmessages.Mobs.mule.Solo.Weapon.0: '%1 
   wurde von einem %2 irgendwie mit %3 erschossen'
 ad07c04d-4f9c-4f17-bceb-1b99f03420e8.deathmessages.Mobs.bat.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
-d3605df9-0d20-4903-b4b0-df1b5ed1477f.advancedenchants.gkits.unknown-enchant:
-b619050a-a46b-480e-a887-9482b37400f8.advancedenchants.sets.commands.list.header:
+d3605df9-0d20-4903-b4b0-df1b5ed1477f.advancedenchants.gkits.unknown-enchant: '&7Enchant
+  %1 cannot be resolved.'
+b619050a-a46b-480e-a887-9482b37400f8.advancedenchants.sets.commands.list.header: '&eList
+  of all available Sets &7[%1]'
 3ff5cf63-7fd3-403f-8ebd-5010f1396558.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.13: '#bbff6a▪
   #bdc8c9Right-Click: #bbff6aDisable Opening'
 af2ea755-8423-4e0b-b763-aef283a61a00.deathmessages.Mobs.zombievillager.Solo.Projectile-Arrow.0: '%1
@@ -1633,7 +1681,8 @@ a7686a9f-978d-48f9-9ad4-c84dc8e60b37.excellentcratesEditor.CrateEditorType.CRATE
    &7Gebiet:&6 %2
    &7Verkauft an&3 %3 &7für&c %4&7.
   &7---------<- &5&lArea Verkauft &7->---------
-5ef46a85-b0e5-4ed4-905d-bde7087ca2af.advancedenchants.items.black-scroll.no-enchants:
+5ef46a85-b0e5-4ed4-905d-bde7087ca2af.advancedenchants.items.black-scroll.no-enchants: "&cThis
+  item doesn't have any enchants!"
 5f1bc4c6-91ce-455e-a468-523bcad5cb05.lands.messages.lands.command.assign.conflict.land: >-
   &cDeine Auswahl steht im Widerspruch zu Land&4 %1&c. &7Bitte passe deine
   Auswahl an.
@@ -1667,7 +1716,8 @@ c4423a12-f578-4c37-977d-c3cff0d3a5ff.excellentcratesCommand.Key.Give.Notify: '#d
   hast #fdf35ex%1#d4d9d8 von #fdf35e%2#d4d9d8 erhalten!'
 e3b4f343-0769-4a8e-9cc3-ef1d46125016.PlayerParticlesreload-success: '&7Das Plugin
   wurde neu geladen!'
-d7f39bc0-45f2-4063-a87b-e9d5196a80af.advancedenchants.sets.commands.unknown-command:
+d7f39bc0-45f2-4063-a87b-e9d5196a80af.advancedenchants.sets.commands.unknown-command: '&cCommand
+  not found! Type "/asets" for a list of all valid commands.'
 96089296-93e2-44af-8b06-641399c3e44a.lands.messages.lands.command.unban.area.success: >-
   &7Erfolgreich entsperrter Spieler&3 %1 &7aus diesem Gebiet &8(&7Gebiet:&6 %2
   &7Land:&2 %3&8)&7.
@@ -1702,7 +1752,8 @@ ef7aab58-9fec-4dce-b1ca-4e313689cd00.deathmessages.Mobs.wither.Solo.Melee.0: '%1
   &cAufkommende Steuern &7&m━>━━━━━━━━━'
 186aa66b-8a1f-441c-b3c7-dcfbf980c290.deathmessages.Mobs.illusioner.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-d0c29c38-038b-4d22-be17-c7b29ed6f6e3.advancedenchants.commands.main.givebook.success:
+d0c29c38-038b-4d22-be17-c7b29ed6f6e3.advancedenchants.commands.main.givebook.success: '&aGave
+  &2%1 %2x %3 %4 &abooks!'
 b098760e-be5f-463a-93c1-90570f091bbf.deathmessages.Mobs.wither.Solo.Projectile-Fireball.0: '%1
   ist an einem verwelkten Schädel gestorben'
 4de844f6-e0a9-4eda-b3a4-c48df1e538ad.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Name: '#ffed6a&lRate
@@ -1717,7 +1768,8 @@ bcf3f34e-9469-4a58-9bf5-1da7ca66caf3.lands.messages.lands.command.rent.set.sold:
   Gebiet&6 %1 &7wurde von Spieler&3 %2&7 gekauft.
 c4bbab57-05a2-4088-a449-0fc03d999d01.deathmessages.Mobs.guardian.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-e75bc7d0-fe90-4e5a-8260-c8cad5164892.advancedenchants.commands.main.setsouls.invalid-usage:
+e75bc7d0-fe90-4e5a-8260-c8cad5164892.advancedenchants.commands.main.setsouls.invalid-usage: '&cInvalid
+  usage: /ae setsouls <amount>'
 51bf3c51-f8e2-4835-b644-c7aea341ceec.lands.messages.lands.command.rent.rent.success: >
   &7Du hast eine Fläche&6 %1 &7von Land&2 %2 &7für&c %3&7 gepachtet. Sie wird
   in&5 %4&7 ablaufen.
@@ -1783,7 +1835,8 @@ bef54b10-11d9-4750-8d3b-9c03e65e6e10.lands.messages.help.command.lands.admin.cha
   vertrauen willst, benutze bitte &e/lands untrust %2 [area]&7.
 fa3ecff9-b1fa-4f96-b0a2-d6159d85804c.deathmessages.Mobs.pigzombie.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
-dd655eb8-8d7c-4ae4-a12f-33dbf03f9d47.advancedenchants.combining.failure:
+dd655eb8-8d7c-4ae4-a12f-33dbf03f9d47.advancedenchants.combining.failure: '&cCombining
+  failed!'
 421b1765-551f-4f90-a7a8-cb17e33dd9d5.triton.detected-language: '&bDeine Sprache wurde
   automatisch auf &7%1 eingestellt'
 fcc6bce6-61f8-44d6-af20-71aa4cd294c0.deathmessages.Natural-Cause.Projectile-Snowball.0: '%1
@@ -1807,7 +1860,8 @@ bed33c40-df74-48f5-a21e-684c31ff0ff3.excellentcratesEditor.CrateEditorType.CRATE
 9845ccf2-e0dd-494f-8f63-bc6f5d211c9e.lands.messages.lands.command.create.max.land: >-
   &cDu kannst keine weiteren Länder mehr erschaffen. &7Du hast dein Maximum an&3
   %1 &7eigenen Ländern erreicht.
-8a9280a7-e4c6-401d-bce0-39f4424a9f56.advancedenchants.commands.main.zip.zip-exists:
+8a9280a7-e4c6-401d-bce0-39f4424a9f56.advancedenchants.commands.main.zip.zip-exists: '&cPlease
+  try again.'
 eedabf67-e380-4d7e-a0ad-485b9c69215d.deathmessages.Custom-Mobs.Mythic-Mobs.SkeletalMinion.Solo.Projectile-Arrow.0: '%1
   wurde von %2 erschossen'
 c149e37c-62d2-4bd6-b4a0-d3c77a5a3dbd.lands.messages.lands.command.assign.confirm: >
@@ -1817,7 +1871,8 @@ c149e37c-62d2-4bd6-b4a0-d3c77a5a3dbd.lands.messages.lands.command.assign.confirm
     [T] &7✖ Vollständig erweitern: &e/%3 &8[CLICK][H]&7Klicke hier, um die Auswahl
   vom
   von unten nach oben des Anspruchs zu erweitern.[/H][C]%4[/C][/T]
-2fab929e-1eef-46cf-a6a2-7e1d853de45e.advancedenchants.gkits.used-kit:
+2fab929e-1eef-46cf-a6a2-7e1d853de45e.advancedenchants.gkits.used-kit: '&eYou have
+  used kit &6%1.'
 065a1e9f-0698-4b20-ba26-66085d6148c2.lands.messages.help.command.lands.selection.main: >-
   [T]&e%1 %2 %3 &8- &7Auswahlmodus[H]&7Mit diesem Befehl kannst du die Größe
   eines Teilbereichs ändern oder deine Auswahl auf unendlich viele y-Ebenen
@@ -1852,7 +1907,8 @@ e84ccda1-a060-43f8-b987-761ab76d1e14.tab.ani.players: 'sᴘɪᴇʟᴇʀᴀɴᴢ�
   &cDu kannst diese Nation im Moment nicht verlassen. &7Die Nation&9 %1
   &7befindet sich gerade im Krieg gegen %2&7. Dein Krieg wird in&5 %3&7 vorbei
   sein.
-99002679-e2a0-41bd-aeed-f9aec91c3a30.advancedenchants.items.soul-tracker.apply-successful:
+99002679-e2a0-41bd-aeed-f9aec91c3a30.advancedenchants.items.soul-tracker.apply-successful: '&7You
+  successfully applied &f&lSoul Tracker &7to your item!'
 eb17bb7b-cb6d-42af-b86c-cd470e72fa88.cmd.links.desc.s29.1: |-
   &f
   §x§7§2§8§9§d§aBeschreibung
@@ -1866,7 +1922,8 @@ eb17bb7b-cb6d-42af-b86c-cd470e72fa88.cmd.links.desc.s29.1: |-
   von einem %2 erschlagen'
 1f6e4093-846f-4013-a5b5-14a4f9fc6479.deathmessages.Natural-Cause.Projectile-FishHook.0: '%1
   hat einen Angelhaken in seinem Kopf'
-f294a796-f100-4565-8df3-9696febcde44.advancedenchants.items.white-scroll.item-saved:
+f294a796-f100-4565-8df3-9696febcde44.advancedenchants.items.white-scroll.item-saved: '&aWhite
+  scroll saved the item!'
 e3110a09-565b-4cb5-b979-cd4483be936d.tab.ani.2.2: ᴡɪʟʟᴋᴏᴍᴍᴇɴ ᴀᴜғ ʜᴀᴍsᴛᴇʀɢᴀᴍᴇs.ᴇᴜ ᴅᴜ
   ʙɪsᴛ
 c82eaf59-7f3d-4f4f-be82-b0ee60452226.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Name: '#ffed6a&lName
@@ -1890,7 +1947,8 @@ b66c6fb3-c929-42de-be51-2bf8a53dc53c.excellentcratesCrate.Open.Error.InventorySp
 23ae14d1-e74f-498e-87eb-1bcec15b949d.lands.messages.help.command.lands.admin.land.bank.set: >-
   [T]&e%1 %2 %3 &8- &7Fonds einstellen[H]&7Klick zum
   Kopieren.[/H][SC]%4[/SC][/T]
-f080879a-08fb-4655-93d3-e6d4aa3df38e.advancedenchants.commands.gedit.unknown-gkit:
+f080879a-08fb-4655-93d3-e6d4aa3df38e.advancedenchants.commands.gedit.unknown-gkit: '&c%1
+  is not a valid gkit!'
 880816ab-f5b3-479f-9b28-ffce5152a2e6.lands.messages.lands.command.untrust.land.already: >-
   &7Der Spieler&3 %1 &7ist in keinem Gebiet des Landes vertrauenswürdig&2 %2
   &7und hat keine Einladungen erhalten.
@@ -1899,7 +1957,8 @@ fb5a5bf2-f197-4fa6-998f-abc0f5814937.deathmessages.Mobs.creeper.Solo.Projectile-
 78883c33-72b2-4f43-8c15-d0e6e66d1b8e.PlayerParticlescommand-description-group-load: >-
   &b/pp group load &3<name> &8- &fLädt alle in einer Gruppe gespeicherten
   Partikel
-bc7583f6-c8ea-47a6-85db-b58cb1fbc3e8.advancedenchants.commands.main.info.2:
+bc7583f6-c8ea-47a6-85db-b58cb1fbc3e8.advancedenchants.commands.main.info.2: '&6Applies
+  to&7: &e%1'
 8b8d5fe2-59a5-4c80-9768-ecbaac62b391.deathmessages.Mobs.tropicalfish.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 16b42048-62cd-4253-b5e4-a18b3335468e.deathmessages.Mobs.slime.Solo.Weapon.0: '%1 wurde
@@ -1998,7 +2057,8 @@ f8a24251-e07d-4d69-9fd4-0f09a04b4ac5.cmd.settings.title.true.s21: '&bGlowing &8|
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 5b616015-c3ac-4c91-a85e-c7f495aa17f2.tempflygeneral.invalid.sender: '%1 &7Nur Spieler
   können diesen Befehl verwenden!'
-cb3c4b9b-b1e6-48bf-bb9e-5b1b801692bb.advancedenchants.commands.withdrawsouls.invalid-usage:
+cb3c4b9b-b1e6-48bf-bb9e-5b1b801692bb.advancedenchants.commands.withdrawsouls.invalid-usage: '&cUsage:
+  /withdrawsouls <count>'
 4b06dee8-4c63-4cbf-a3c0-699d4fa0970e.uar.COMMAND_USER_VIEWINTERVAL.chatMessage: Server
   wurde vor %1 neu gestartet...
 441021fd-7f1c-4869-8a4c-7050e6cb394b.tempflygeneral.fly.speed_restricted: '%1 &7Du
@@ -2042,7 +2102,8 @@ a18c88dd-6b04-4a9b-99ee-7ca825a4d43b.excellentcratesEditor.CrateEditorType.CRATE
   wurde von einem %2 erschlagen'
 e621da97-a053-4b01-9746-2353436043c7.tempflygeneral.time.decay: '%1 &7Du hast &f⌚%2
   &7wegen Inaktivität verloren!'
-693a69cc-f87c-41da-aad3-1eb251da6200.advancedenchants.commands.main.unenchant.success:
+693a69cc-f87c-41da-aad3-1eb251da6200.advancedenchants.commands.main.unenchant.success: '&aRemoved
+  enchant %1!'
 5a573f49-0363-4616-803a-affc5f6d8de2.lands.messages.list.hologram.rent.1: '&c%1 &7each
   &5%2'
 d685f49c-5dd4-4e91-abe8-997281fdc844.deathmessages.Mobs.shulker.Solo.Weapon.0: '%1
@@ -2063,14 +2124,16 @@ b148ebaa-70a9-44b3-959b-6619aab559e0.lands.messages.nations.message.current-war:
   ist explodiert'
 1c54fa5a-58da-42e6-9200-e6a475817770.chatcolor.gui-click-to-select: '&bKlick &8|&7
   Auswählen'
-1acbbd32-7bdd-49f9-94f9-e3399478adcd.advancedenchants.commands.main.info.2:
+1acbbd32-7bdd-49f9-94f9-e3399478adcd.advancedenchants.commands.main.info.2: '&6Applies
+  to&7: &e%1'
 951af76b-c2f8-4602-b355-623157e7ba72.lands.messages.wars.command.declare.broadcast: >-
   &7Der Feind %1 &7hat den Krieg gegen %2&7 erklärt. Ihr Krieg wird in&5 %3&7
   beginnen.
 d2f80ffb-146e-4575-a684-3bd144080e7e.lands.messages.lands.command.claim.already-claimed: >-
   &cIn deiner Auswahl ist ein Stück, das bereits beansprucht wird und nicht zu
   deinem Land gehört &8(&7X: %1 Z: %2&8)&c. &7Es gehört zu Land&2 %3&7.
-1d35ad0a-be0c-4018-98f6-939580bfe897.advancedenchants.sets.commands.weapon.success:
+1d35ad0a-be0c-4018-98f6-939580bfe897.advancedenchants.sets.commands.weapon.success: '&eGave
+  &f %1 &eSet to &f %2'
 e64edf27-30cb-48e5-a966-ab0ec24eb20c.tempflygeneral.unit.days: d
 8158ff02-26da-4e59-b888-4a728d97415c.deathmessages.Mobs.cod.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
@@ -2103,7 +2166,8 @@ cfa384e1-e425-4ba8-b6a3-4341f139212b.deathmessages.Mobs.creeper.Solo.Weapon.0: '
    &b| &7Toggle: &bGlow Effekt
 
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ
-2b7e05c0-061d-4648-89e9-5cdad3bf1dc7.advancedenchants.items.randomization-scroll.single-items-only:
+2b7e05c0-061d-4648-89e9-5cdad3bf1dc7.advancedenchants.items.randomization-scroll.single-items-only: '&cYou
+  can only use this on single items!'
 1b91a56e-8af0-4f04-96d0-e83c0c64bbbf.excellentcratesCrate.Open.Reward.Broadcast.1: '#d4d9d8'
 037ce5b0-151c-4b5c-bf93-7a655a3e8f4d.PlayerParticlesgui-edit-data-color-yellow: '#ffff00Gelb'
 cedbbb71-aaeb-493d-afc1-6c8397fafa4b.deathmessages.Basic-Mode.Gang.Projectile-Arrow.0: '%1
@@ -2117,11 +2181,13 @@ fb7e2926-c544-4ba2-80de-7af3f21d7c9d.lands.messages.lands.command.general.no-per
 41130a29-9b1f-46d5-bfef-b562ec2ae96f.lands.messages.lands.command.claim.fill.success: >-
   &7Du hast erfolgreich&3 %1 &7Brocken für dein Land&2 %2 &7beansprucht, um die
   Form zu füllen, in der du standest. Du hast&c %3&7 bezahlt.
-e0f0a356-87fd-4207-bbb6-f07d4608a157.advancedenchants.commands.no-permission:
+e0f0a356-87fd-4207-bbb6-f07d4608a157.advancedenchants.commands.no-permission: "&cYou
+  don't have permission to do that!"
 255efb76-77cf-4e8e-a744-297402e2c1be.deathmessages.Mobs.armorstand.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 426d8cab-7fb2-4e2d-9329-9195b5d7aec6.tempflygeneral.unit.hours: h
-da0c5f89-a735-4ede-8f33-42da14eb0ca5.advancedenchants.enchanter.re-buy:
+da0c5f89-a735-4ede-8f33-42da14eb0ca5.advancedenchants.enchanter.re-buy: '&cPlease
+  re-buy the item from the enchanter.'
 51f68df1-0f64-4900-b879-de061db9c463.deathmessages.Mobs.panda.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 100d9cd4-0b56-4211-a4fc-d2deb6a4c89e.cmd.farmworlds.wrongserver.lore: |2-
@@ -2152,15 +2218,18 @@ e577a611-82d0-47c3-ac4f-06bf582d73b5.PlayerParticlescommand-description-group-sa
 abe2cdd0-4675-4ce8-ac8f-ff713dc82a03.lands.messages.wars.command.declare.already.attacker: >-
   &cKann nicht in einen anderen Krieg eintreten. &7Der aktuelle Krieg von %1
   &7muss zuerst beendet werden.
-37cca3e9-3e5a-4bf7-a5eb-b34e0e0052c1.advancedenchants.heroic.upgrade-failed:
+37cca3e9-3e5a-4bf7-a5eb-b34e0e0052c1.advancedenchants.heroic.upgrade-failed: '&cThe
+  crystal upgrade &nfailed&c!'
 e3126160-f5cb-4d68-98b0-f8644b788945.excellentcratesEditor.CrateEditorType.EDITOR_CRATES.Name: '#ffed6a&lCrates'
 545bc991-8f14-49ed-86dc-3c08eaa98037.lands.messages.lands.message.capture.success: >-
   &7Du hast&3 %1 &7Flagge(n) erobert. &7Setze sie während des Krieges in
   feindliche Claims, um ein Gebiet zu erobern.
 157cb4cd-575d-45e9-a89d-2c9f9fff6588.deathmessages.Mobs.enderdragon.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
-7d8f5671-474a-4d40-b853-4735e22df94d.advancedenchants.combining.success:
-c1251a5d-f22e-4d76-b3ab-ad0ae48e93e0.advancedenchants.applying.max-level:
+7d8f5671-474a-4d40-b853-4735e22df94d.advancedenchants.combining.success: '&aSuccess!
+  &7%1 is now level %2!'
+c1251a5d-f22e-4d76-b3ab-ad0ae48e93e0.advancedenchants.applying.max-level: '&cThis
+  enchantment is already at max level!'
 5d0af030-66d9-43c4-8e3e-ace5fc4d7830.npc.lobby.tilgis.l3: '&7Status: &f%pinger_online_mc1.storagedata.xyz:25255%'
 8e09f82c-8d9f-4807-aea0-aedf7dc419b3.lands.messages.lands.message.capture.dropped: >-
   &cEinige Eroberungsflaggen liegen auf dem Boden. &7Es war kein Platz mehr in
@@ -2200,7 +2269,8 @@ fff05f3b-6b3c-4b3c-9ef5-f99508b2a563.lands.messages.lands.command.setowner.coold
   erhält diese Belohnung.'
 b9f6a371-85e4-435c-b33f-6d9aeaacc8c4.PlayerParticlesfixed-clear-no-args: '&6Du hast
   keinen Radius angegeben, für den du fixe Effekte ausgleichen kannst!'
-459fcd7a-3b02-4021-81ec-6a962f99f25c.advancedenchants.commands.enchants.open-menu-message:
+459fcd7a-3b02-4021-81ec-6a962f99f25c.advancedenchants.commands.enchants.open-menu-message: '&7Showing
+  list of all enchantments...'
 32b834a6-978e-46bf-8361-ac0429b5c5c6.deathmessages.Mobs.zombievillager.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 b7b95c30-3dc0-42e9-822a-392a5bf989b7.lands.messages.lands.message.area.default: '&cDas
@@ -2269,7 +2339,8 @@ a50a864c-fd0f-4968-833d-60bce1191cf8.PlayerParticlesgui-load-a-preset-group: '&b
 2b06711e-6a66-4aa7-bd0c-715e91ef7c56.mycmd.seconds: 'Sekunden '
 fe25f623-2de0-40b4-a9ee-fb329c62b519.deathmessages.Mobs.evoker.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
-bd8e6cc9-cc64-41b1-9ffe-d2f0af3eb6e1.advancedenchants.commands.gedit.reset.success:
+bd8e6cc9-cc64-41b1-9ffe-d2f0af3eb6e1.advancedenchants.commands.gedit.reset.success: '&6%1
+  &6gkit has been reset for player &e%2'
 0eaff7e4-1d17-453f-a3d7-1e422760b9a9.lands.messages.general.affiliation.nation: '&8[&9%1
   &8|&2 %2&8]'
 e376e5bc-3334-4a1e-95bf-fea05569b5df.lands.messages.lands.command.untrust.owner: >-
@@ -2284,9 +2355,11 @@ e491f4e4-3f2a-4678-a711-16d0ed4b180e.excellentcratesCrate.Open.Error.NoRewards.2
   &b%1 &7Blöcken von deinem gewünschten Standort befinden!
 241a621a-40e1-4842-b7ff-ab55270ad97c.lands.messages.general.inbox.nation.economy.taxes.untrusted: '&cLand
   %1 konnte keine Steuern zahlen. Sie wurden entfernt.'
-22189acf-555a-42b9-aef2-b3e29fa6f031.advancedenchants.enchant-limitations.cannot-be-modified:
+22189acf-555a-42b9-aef2-b3e29fa6f031.advancedenchants.enchant-limitations.cannot-be-modified: '&cThis
+  item cannot be modified!'
 8b662572-97b0-4d77-8307-6e840d91a615.lands.messages.general.command.argument.type.silent: still
-ea8a2dbd-9cd4-41ea-8289-86c554129690.advancedenchants.commands.main.zip.zip-exists:
+ea8a2dbd-9cd4-41ea-8289-86c554129690.advancedenchants.commands.main.zip.zip-exists: '&cPlease
+  try again.'
 02ef8922-28c5-4d66-aed3-935345f9f348.lands.messages.lands.command.upkeep.none: '&7Du
   musst derzeit keinen Unterhalt für ein Grundstück zahlen.'
 47b332f7-d658-4c1b-bf97-b3ee5ea664f9.lands.messages.lands.command.teleport.chunk-not-claimed: '&cDer
@@ -2310,7 +2383,8 @@ a3c18b28-e866-4eb2-8b9a-398661ba211e.cmd.main.desc.s25: |-
    &8● &#20F707RTP Warps
 93e4c76a-b420-4531-8b94-c245b932d9ec.deathmessages.Mobs.ocelot.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
-3fe06bc2-0119-40cf-8c20-6c8cd7e1df5c.advancedenchants.commands.gedit.set-permission.invalid-usage:
+3fe06bc2-0119-40cf-8c20-6c8cd7e1df5c.advancedenchants.commands.gedit.set-permission.invalid-usage: '&cUsage:
+  /gedit setpermission <gkit> <perm>'
 953d352e-683c-4117-abb2-f298807814b1.cmd.main.desc.s19: |-
   &bBeschreibung
    &b● &7Aufrüstungen&7, &fHäuser&7, &fAuktion
@@ -2343,7 +2417,8 @@ c8547896-96d1-45cb-8473-b934db7c2a96.deathmessages.Mobs.witch.Solo.Weapon.0: '%1
   wurde von einer Bande von %2 erschlagen'
 4e838bde-53c6-4678-a422-c91c182b61cc.deathmessages.Mobs.enderman.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-cce1804c-83a9-4e66-971a-551a49345ec2.advancedenchants.enchanter.cannot-afford.1:
+cce1804c-83a9-4e66-971a-551a49345ec2.advancedenchants.enchanter.cannot-afford.1: '&7Your
+  XP: %1'
 c1404bf0-9b31-4177-bc0e-762bdfbefccf.lands.messages.lands.command.general.input.confirm: |
   &7Bitte bestätige diese Aktion &8(&e/%1&8) &7durch einen Klick unten:
    [T]&2✔ Bestätige: &e/%2 &8[KLICK][H]&7Klicke hier, um diese Aktion zu bestätigen.[/H][C]%3[/C][/T]
@@ -2363,7 +2438,8 @@ b20cee1d-82a4-4abc-a48c-45673004cc95.deathmessages.Mobs.zombiehorse.Gang.Melee.0
   wurde von einer Bande von %2 erschlagen'
 cdf41f09-3872-4961-b496-b8aaeb9b72c1.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.14: '#bbff6a▪
   #bdc8c9Shift-Left: #bbff6aToggle'
-03b1b916-4ce9-4a78-92c3-745750ecb8ef.advancedenchants.commands.main.zip.error:
+03b1b916-4ce9-4a78-92c3-745750ecb8ef.advancedenchants.commands.main.zip.error: '&cAn
+  error occurred while zipping files! Check console for more information.'
 bd2b66ba-0484-4943-8c49-ccbb285be0a3.playerpoints.command-take-description: >-
   &8 - &b/points take &3<Spieler> <Menge> &8- &fEntnehme Punkte von einem
   Spieler
@@ -2375,7 +2451,8 @@ bd2b66ba-0484-4943-8c49-ccbb285be0a3.playerpoints.command-take-description: >-
   type: "titles:20:80:20" sound: "ENTITY_VILLAGER_NO" !>'
 7ae55561-8776-4bd8-abbe-860ca1665622.deathmessages.Mobs.cow.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-3748f3ec-972b-4774-889e-e512e9e82e33.advancedenchants.items.black-scroll.no-enchants:
+3748f3ec-972b-4774-889e-e512e9e82e33.advancedenchants.items.black-scroll.no-enchants: "&cThis
+  item doesn't have any enchants!"
 47eff4ac-8d51-4fd9-adc1-48660c135d86.lands.messages.general.map.hover.position: '&7Das
   ist deine aktuelle Position.'
 9416c7a8-06d0-4dc4-8c0a-12eecb64921b.mycmd.warmup1: '&6Der Befehl wird in &c%1 Sekunden
@@ -2386,8 +2463,10 @@ e26bad9f-c0fc-4e87-9e92-b47ca7c46aa6.deathmessages.Mobs.creeper.Gang.Melee.0: '%
   wurde von einem %2 irgendwie mit %3 erschlagen'
 aee7596d-3da5-4049-b761-757df36d665d.deathmessages.Mobs.horse.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-b7ec3eac-d3bd-4d45-99bd-d098d3b3d086.advancedenchants.tinkerer.non-tradeable-item.1:
-25b5a7b7-3677-4177-9c9b-2d0f62978174.advancedenchants.destroy.book-failed:
+b7ec3eac-d3bd-4d45-99bd-d098d3b3d086.advancedenchants.tinkerer.non-tradeable-item.1: '&7It
+  will only accept custom enchanted equipment'
+25b5a7b7-3677-4177-9c9b-2d0f62978174.advancedenchants.destroy.book-failed: '&cEnchantment
+  was unsuccessful!'
 adaa8e34-787c-435b-8338-9e9080ca909e.cmd.settings.title.unknown.s38: '&bTrade &8|
   &7[Toggle]'
 21034ce2-0571-4deb-b3e4-c736229f7c22.excellentcratesCommand.Menu.Usage: '[Menü]'
@@ -2409,11 +2488,13 @@ fe53cff0-c261-4e11-abae-4da8d3461ef2.cmd.main.title.s36: '&b&lWahl'
   jetzt'
 1d33646a-9867-4b91-b173-1066b2642c72.deathmessages.Mobs.elderguardian.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
-243693bb-bd88-4f4d-a89e-b8c540378f29.advancedenchants.commands.main.unenchant.invalid-enchant:
+243693bb-bd88-4f4d-a89e-b8c540378f29.advancedenchants.commands.main.unenchant.invalid-enchant: '&c%1
+  is not a valid enchant!'
 bcd6a436-a8f3-492b-a864-fe8dfbe9018f.mpdb.configReload: >-
   &6Neuladen der Konfiguration abgeschlossen! Weitere Informationen finden Sie
   im Serverprotokoll oder in der Konsole.
-5e9ef533-9acf-40b7-92ea-4c202d5fb401.advancedenchants.alchemist.trade-cancelled:
+5e9ef533-9acf-40b7-92ea-4c202d5fb401.advancedenchants.alchemist.trade-cancelled: '&cTrade
+  cancelled.'
 f2c16051-42ca-4dd3-b022-da12ca5c1613.lands.messages.lands.command.accept.land.owner: >-
   &7Du hast die Einladung von Land&2 %1&7 angenommen. Du bist jetzt der Besitzer
   von Land&2 %2&7.
@@ -2441,7 +2522,8 @@ a73d8dac-eea4-4870-a13f-9232293792cb.deathmessages.Mobs.parrot.Solo.Melee.0: '%1
 d05b9d82-8070-4141-bb03-f4340f9c5a35.PlayerParticlesgui-color-info: §f
 db66fb6f-7da4-41ad-a471-8775890524ee.PlayerParticlesgui-edit-primary-data-unavailable: Dein
   primärer Effekt verwendet keine Daten
-7c6bae4c-4597-4329-a0a0-60d84570fb9a.advancedenchants.destroy.book-failed:
+7c6bae4c-4597-4329-a0a0-60d84570fb9a.advancedenchants.destroy.book-failed: '&cEnchantment
+  was unsuccessful!'
 de46581a-e4ce-4a39-a92d-503243e3a397.lands.messages.help.command.lands.admin.hologram.list: >-
   [T]&e%1 %2 &8- &7Liste der Hologramme[H]&7Klick zum
   Ausführen.[/H][C]%3[/C][/T]
@@ -2466,13 +2548,16 @@ c98ecd5a-64da-4dbb-ae13-27c3289a73da.excellentcratesCommand.Key.Give.Desc: Gib d
   Verbündeten. Klicke zum Kopieren.[/H][SC]%4[/SC][/T]
 5e2f0cf0-c92d-4dd4-957d-385fe469a0de.deathmessages.Mobs.slime.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-1b9d547a-035c-49ba-84f1-7365a5c72fda.advancedenchants.commands.gedit.set-permission.success:
+1b9d547a-035c-49ba-84f1-7365a5c72fda.advancedenchants.commands.gedit.set-permission.success: "&eChanged
+  &6%1's&e kit permission to &6%2"
 1ebd2567-0f34-469a-9b42-83932b32297e.deathmessages.Natural-Cause.Magic.0: '%1 hat
   mit Magie gespielt'
-3e6ce011-0bbb-41f6-907f-8cf5ced1add3.advancedenchants.slots.limit-reached:
+3e6ce011-0bbb-41f6-907f-8cf5ced1add3.advancedenchants.slots.limit-reached: '&cYou
+  cannot apply that enchantment! There are no free slots left!'
 c7fc4301-ff44-4899-a34b-b4b6395e9ee0.lands.messages.lands.command.confirmtp.none: '&cDu
   hast keine aktive Teleportation.'
-728fd2d4-87e8-48e2-9586-3175acbeab48.advancedenchants.commands.main.enchant.downgraded:
+728fd2d4-87e8-48e2-9586-3175acbeab48.advancedenchants.commands.main.enchant.downgraded: '&2Downgraded
+  %1 from level %previous-level% to %2.'
 6f979d9c-2203-48a6-8e13-305405287c43.cmd.rules.server.3-1: |-
   &7&lFür den Fall, dass du vom Serverpersonal bestraft wirst
   &7Für einen Regelverstoß wird der Versuch, sich der Strafe zu entziehen
@@ -2491,7 +2576,8 @@ a9f345e3-e9e4-4604-bc19-996c55ffd861.excellentcratesEditor.CrateEditorType.KEY_C
   maximale Anzahl von Gruppen erreicht
 1aeb8021-d0b0-4799-8714-095d36f5bfc4.deathmessages.Mobs.witch.Gang.Weapon.0: '%1 wurde
   von ein paar %2 angegriffen! Einer schlug sie mit %3'
-6a8b4a33-9449-47af-8a1e-998b97887612.advancedenchants.items.magic-dust.single-items-only:
+6a8b4a33-9449-47af-8a1e-998b97887612.advancedenchants.items.magic-dust.single-items-only: '&cYou
+  can only use this on single items!'
 550ab642-9fc6-41d1-b106-cc788f86a2b4.deathmessages.Mobs.spider.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
 932b0c55-07c3-4b9a-9933-78fa9377e8d3.deathmessages.Mobs.endermite.Solo.Projectile-Arrow.0: '%1
@@ -2520,7 +2606,8 @@ e0517293-1889-4a30-8a0b-418d2f9807cd.lands.messages.help.command.lands.admin.dis
 43c9f17b-6b05-4876-b71a-37539c59bfd7.cmd.startmenu.title.allesandere: '&fAlles andere'
 e87b3bcd-d293-4b0b-9030-c577f8e13979.deathmessages.Mobs.pigzombie.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
-fc9e9ef6-646a-4967-9c94-b2ac84d14b88.advancedenchants.applying.requires-enchant:
+fc9e9ef6-646a-4967-9c94-b2ac84d14b88.advancedenchants.applying.requires-enchant: '&cThe
+  &4%1 &cenchantment requires the &4%2&7 &cenchant to be applied!'
 9d452c4c-0c96-4690-8f78-b573251cc75e.deathmessages.Mobs.shulker.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 cfc73e9c-4642-4c78-8b17-2ecf29a5a13d.PlayerParticlescommand-description-toggle: Schaltet
@@ -2602,7 +2689,8 @@ f3ccb623-fe8f-4f39-82a5-f7467dc76a19.tempflygeneral.time.given_other: '%1 &f%2 &
   nutzen zu können!
 f4cacba0-1722-4c0b-b38a-9391d2ffcd81.excellentcratesEditor.Reward.Enter.Command: '#d4d9d8Eingabe
   #aefd5e[Befehl]'
-14d34581-265e-4c16-a0a9-363ffc2208e3.advancedenchants.commands.main.enchant.removed:
+14d34581-265e-4c16-a0a9-363ffc2208e3.advancedenchants.commands.main.enchant.removed: '&cRemoved
+  the %1 enchant from the item.'
 b489e079-2e06-4881-85e0-6a0e56d9cf3a.excellentcratesCommand.Key.Set.Desc: Lege den
   Schlüsselbetrag für einen Spieler fest.
 0c2bed40-eca8-4cd8-b777-1a124dadc5f9.deathmessages.Mobs.zombievillager.Solo.Melee.0: '%1
@@ -2617,7 +2705,8 @@ a2250c17-e2f4-47ee-989b-08a0d8963e14.deathmessages.Mobs.parrot.Gang.Melee.0: '%1
   von einer Bande von %2 erschlagen'
 7582f4c9-b332-491f-a644-f01ea31fdf5c.PlayerParticlesfixed-list-none: '&7Sie haben
   keine festen Effekte!'
-74483ba8-c4f4-453e-8b53-e37eef8fc69f.advancedenchants.commands.invalid-level:
+74483ba8-c4f4-453e-8b53-e37eef8fc69f.advancedenchants.commands.invalid-level: '&cInvalid
+  enchant level! Try using: %1'
 c2007d0d-8614-4ec1-919d-f5092b9f1ae9.lands.messages.nations.command.rename.success: >-
   &7Erfolgreich den neuen Namen&3 %1 &7für diese Nation gesetzt &8(&7Nation:&9
   %2&8)&7. Du hast bezahlt&c %3&7.
@@ -2632,7 +2721,8 @@ e0948c75-07e0-4aa7-a491-4a6a84e20b34.deathmessages.Natural-Cause.End-Crystal.0: 
 2026cbb4-68c4-46cf-aea7-8f03b5ba80b4.lands.messages.list.hologram.sell.area.2: '&c%1
   &7insgesamt'
 0e6bf16b-48c3-4e3d-ab36-50e4b3db1fa7.cmd.settings.title.unknown.s22: '&bChat &8| &7[Toggle]'
-a5e6a14b-b6f6-4a22-816f-329a6f88e47c.advancedenchants.items.black-scroll.full-inventory:
+a5e6a14b-b6f6-4a22-816f-329a6f88e47c.advancedenchants.items.black-scroll.full-inventory: '&cYour
+  inventory is full!'
 deddb2f6-900b-4dcf-a90e-90b34f057ba8.lands.messages.help.command.lands.claim.auto: >-
   [T]&e%1 %2 &8- &7Beanspruchen während der Bewegung[H]&7Damit werden alle
   Chunks beansprucht, die du während der Bewegung eingibst. Klicke zum
@@ -2641,14 +2731,16 @@ deddb2f6-900b-4dcf-a90e-90b34f057ba8.lands.messages.help.command.lands.claim.aut
   wurde von einem %2 irgendwie mit %3 erschossen'
 ed717aff-586d-42c0-a5cf-5fc553c90cee.mpdb.loginSyncConfirmation: '[lang]prefix[/lang]&6Datensynchronisierung
   abgeschlossen!'
-21189671-2ab2-4b84-a4b0-e97884020d3e.advancedenchants.interact.main-hand-only:
+21189671-2ab2-4b84-a4b0-e97884020d3e.advancedenchants.interact.main-hand-only: '&cYou
+  can only do that with your main hand!'
 3aa844fb-0775-43e0-9988-fb199d87982f.cmd.settings.title.s30: '&bTeilchen &8| &7[Toggle]'
 5a5c2daa-8242-43e9-a27c-8f7a30133efc.excellentcratesCrate.Open.Error.NoHoldKey.0: '<!
   type: "titles:20:80:20" sound: "ENTITY_VILLAGER_NO" !>'
 a188c080-ec22-46f1-99e1-298f1daf9af6.lands.messages.lands.command.trust.land.success: >-
   &7Erfolgreich Spieler&3 %1 &7in das ganze Land&2 %2&7 eingeladen. Sie können
   jetzt deine Einladung annehmen.
-88d49ae5-bb4d-400e-a54b-ba51ff9f63ed.advancedenchants.sets.commands.invalid-weapon:
+88d49ae5-bb4d-400e-a54b-ba51ff9f63ed.advancedenchants.sets.commands.invalid-weapon: '&cWeapon
+  is invalid.'
 151d62d6-a797-4340-aaf9-babe9f10757a.lands.messages.wars.message.capture.place.space: '&Can''t
   place capture flag here. &7An dieser Stelle ist nicht genug Platz.'
 266bd74b-a7cc-42be-9feb-50ae2b39ec81.deathmessages.Mobs.salmon.Solo.Melee.0: '%1 wurde
@@ -2672,7 +2764,8 @@ ff44b053-f104-4595-a616-21eee647b399.deathmessages.Mobs.donkey.Gang.Weapon.0: '%
   von einem %2 erschlagen'
 ac449efd-209d-495d-a820-31078e7e444a.PlayerParticlescommand-description-data: 'Prüfe,
   welche Art von Daten ein Effekt verwendet'
-d3aa6318-23a7-40bd-be0e-3592b451bec3.advancedenchants.commands.main.giveitem.success:
+d3aa6318-23a7-40bd-be0e-3592b451bec3.advancedenchants.commands.main.giveitem.success: '&7Added
+  %1x %2&7 for player &b%3'
 afa6d00c-dd83-44c7-abd8-50903c351cf1.SuperVanishMessages.HelpHeader: '&b&l&m &r &b&lVANISH
   &8| &f&lHELP &8(&f1&8/&f1&8) &b&l&m &r'
 281a73ab-5a60-4342-afe7-668cd700a1df.SuperVanishMessages.VanishMessageWithPermission: §x§F§F§0§0§0⏪
@@ -2731,7 +2824,8 @@ c83c5797-2dd7-434d-a604-ecee3c0c6301.PlayerParticlesremove-style-none: '&7Du has
   keine Partikel mit dem Stil &b%1&7 angewendet!'
 f6f7c2e8-00f3-4595-ac81-327e503aff91.playerpoints.command-pay-received: '&7Du wurdest
   bezahlt: &b&l%1&b%2&7 von &b%3&7.'
-cf003008-a42e-4320-8714-0005a706cd60.advancedenchants.commands.withdrawsouls.invalid-item:
+cf003008-a42e-4320-8714-0005a706cd60.advancedenchants.commands.withdrawsouls.invalid-item: '&cInvalid
+  item.'
 b7ae890d-d24a-42de-99d9-ad8e6b78e147.lands.messages.wars.message.kill.killer.defenders: '&7Unser
   Teamkollege&a %1 &7hat den Angreifer&c %2&7 getötet: &a+ %3 Punkte'
 e2f4cafa-c8e5-4148-8f87-971821c5fddf.lands.messages.lands.message.camp.success: >-
@@ -2751,8 +2845,10 @@ b9e86347-31b3-4fc4-8b69-bb043db0e123.excellentenchantmentsFitItemType.ARMOR: Rü
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 56007461-8022-44c6-8488-c2a86a21e7f9.tempflysystem.help.6: '&7- schicke einen anderen
   Spieler auf Flugzeit'
-fe082f1f-6929-4c0a-b2cd-2f4bc90e1234.advancedenchants.commands.gedit.set-permission.success:
-427bdfed-31ae-44ac-a3a6-befc547a10bb.advancedenchants.commands.gedit.setdelay.success:
+fe082f1f-6929-4c0a-b2cd-2f4bc90e1234.advancedenchants.commands.gedit.set-permission.success: "&eChanged
+  &6%1's&e kit permission to &6%2"
+427bdfed-31ae-44ac-a3a6-befc547a10bb.advancedenchants.commands.gedit.setdelay.success: '&eChanged
+  &6%1&e kit delay to &6%2'
 76af474b-ddea-4b99-93b9-be6663956c0e.tempflygeneral.info.minutes: '&fMinuten: &b%1'
 440ed012-4150-43de-b76f-9e78faf03783.PlayerParticlestoggle-off: '&7Partikel wurden
   umgeschaltet &coff&7!'
@@ -2790,7 +2886,8 @@ c2158aed-7d41-42f0-bdb4-c51b68357b5a.lands.messages.lands.message.war: >-
 7fca2fbb-8769-4715-ada9-b9fe477af4eb.excellentcratesCommand.Key.Show.Format.List.2: §7
 c64e73cc-3f48-45c8-b419-e9b88e9d21a0.deathmessages.Mobs.parrot.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-1a7bf964-e22e-4c21-803a-b70a5defb434.advancedenchants.alchemist.trade-cancelled:
+1a7bf964-e22e-4c21-803a-b70a5defb434.advancedenchants.alchemist.trade-cancelled: '&cTrade
+  cancelled.'
 fc9f57b3-25f0-4f24-bdb1-0c9bc4981503.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Name: '#ffed6a&lBefehle
   ausführen'
 16d86726-a7ee-444b-81f3-cf707b9983ae.lands.messages.lands.command.taxes.upcoming.footer: |
@@ -2831,7 +2928,8 @@ a2e28288-595d-416b-aa1a-ea4316e3af0b.cmd.links.title.s24: §x§a§3§c§8§3§4S
   Kopieren.[/H][SC]%4[/SC][/T]
 8cfe49f2-4aaa-48c6-9c16-78f55d29fc13.deathmessages.Mobs.wolf.Solo.Weapon.0: '%1 wurde
   von einem %2 irgendwie mit %3 erschlagen'
-136ac6db-940c-4b05-a296-24b67f97747e.advancedenchants.commands.apply.reapplied:
+136ac6db-940c-4b05-a296-24b67f97747e.advancedenchants.commands.apply.reapplied: '&aYour
+  armor has been re-applied.'
 483063f6-f0c4-4c0a-b1f0-10af27480b3e.deathmessages.Mobs.ghast.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 b8402c2e-cf04-4dc6-9fbd-e45882468b30.cmd.settings.desc.true.s40: |2-
@@ -2888,7 +2986,8 @@ fdfcadbb-7804-43cb-ac13-6f5e56f926c7.PlayerParticlesgui-disabled: '&6Der Servera
 6912bb55-5130-46ee-9f0a-71032fd9d386.lands.messages.list.hologram.rent.3: '&8Klick
   zum Mieten.'
 0d3556b7-5d27-43d3-983c-00f97a028742.tempflycommand.unit.minutes.recognized.1: min
-d6290ad9-00b4-4550-857a-f88ff4a583a9.advancedenchants.commands.aegive.invalid-material:
+d6290ad9-00b4-4550-857a-f88ff4a583a9.advancedenchants.commands.aegive.invalid-material: "&cInvalid
+  material. Please reference the 'materials.yml' file for all valid materials."
 0dc019e5-2db6-45b8-b1b7-6d40b15b121f.deathmessages.Mobs.parrot.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 29e3cbe5-23fd-4a76-8bfa-15fe2be7d715.lands.messages.lands.message.flags.block_place: >-
@@ -2896,10 +2995,12 @@ d6290ad9-00b4-4550-857a-f88ff4a583a9.advancedenchants.commands.aegive.invalid-ma
   &8Flag: %3
 14b11b86-4de4-47c7-88a5-eb7a700d0e3a.deathmessages.Mobs.tropicalfish.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-c4ac61a9-a16a-4154-aba1-300045738fe2.advancedenchants.commands.gedit.set-permission.invalid-usage:
+c4ac61a9-a16a-4154-aba1-300045738fe2.advancedenchants.commands.gedit.set-permission.invalid-usage: '&cUsage:
+  /gedit setpermission <gkit> <perm>'
 8c0ff576-3776-40f3-a9e1-25e039c5a5e3.deathmessages.Mobs.zoglin.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-d0ca7ecf-9535-4664-8168-7a484fcd6d2b.advancedenchants.commands.aegive.success:
+d0ca7ecf-9535-4664-8168-7a484fcd6d2b.advancedenchants.commands.aegive.success: '&aGave
+  &2%1x %2 &ato %3&a!'
 de75bebd-a51e-4f11-b797-03eeecacff77.cmd.main.desc.s37: |-
   &bBeschreibung
    &b| &7Verwalte hier deine Einstellungen
@@ -2955,7 +3056,8 @@ e4e7fd67-b675-4034-8848-faf8ef1b8b2c.deathmessages.Mobs.zombievillager.Solo.Weap
   %1 konnte keine Steuern zahlen.'
 00b4da07-d6d6-4013-a05e-d61824fef066.lands.messages.help.command.lands.deposit: '[T]&e%1
   %2 %3 &8- &7Geld einzahlen[H]&7Klick zum Kopieren.[/H][SC]%4[/SC][/T]'
-ef81172e-1e25-4af5-a00c-ea6cc31422d3.advancedenchants.commands.aegive.success:
+ef81172e-1e25-4af5-a00c-ea6cc31422d3.advancedenchants.commands.aegive.success: '&aGave
+  &2%1x %2 &ato %3&a!'
 c86b6ed3-bd83-4171-80ce-fb27156decd4.deathmessages.Mobs.vex.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
 139b05c5-ac07-4057-8a8a-709c6d9557e5.PlayerParticlesgui-edit-primary-effect: '&bBearbeiten
@@ -3014,7 +3116,8 @@ adc93d6c-0942-492d-94a0-e9d9751a645f.deathmessages.Mobs.turtle.Gang.Melee.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 60990ca6-cb1e-4c84-aa70-65dc4e0f7663.cmd.settings.title.unknown.s41: '&bAnnouncements
   &8| &7[Toggle]'
-40d5d5e7-15a8-4119-8231-b99cac9a0d91.advancedenchants.items.white-scroll.apply-successful:
+40d5d5e7-15a8-4119-8231-b99cac9a0d91.advancedenchants.items.white-scroll.apply-successful: '&aWhite
+  scroll has been applied to your item!'
 03d630c8-6083-43b8-8479-537479d6fe61.deathmessages.Mobs.horse.Solo.Weapon.0: '%1 wurde
   von einem %2 irgendwie mit %3 erschlagen'
 d9b5c7c5-80d1-47a7-a97b-ae5a91845977.PlayerParticlesgui-select-effect: '&bAuswahl
@@ -3041,7 +3144,8 @@ e3a0a800-d42d-41dc-9764-196ad7d242b8.lands.messages.wars.command.declare.mutual.
 4e469e70-8301-42c9-a4b5-f422aa61e7fb.lands.messages.wars.command.declare.min-balance.defender: >-
   &cDas Gleichgewicht der Verteidiger %1 &cist zu niedrig. &7Du kannst nur
   andere angreifen, die ein Mindestgleichgewicht von&c %2&7 haben.
-da955c80-8c00-402b-a2d1-15be71316026.advancedenchants.commands.aegive.invalid-enchantment:
+da955c80-8c00-402b-a2d1-15be71316026.advancedenchants.commands.aegive.invalid-enchantment: '&cInvalid
+  Enchantment!'
 e0be3e6d-2ec0-401d-b249-e07e0c64f916.deathmessages.Mobs.piglinbrute.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 657a3f5c-aa2c-4b96-88db-e9be2d839e72.chatmanager.Broadcast: '§x§0§0§f§f§f§f&lANKÜNDIGUNG! '
@@ -3082,7 +3186,8 @@ a956c80f-c978-4c3d-80d0-713548ec9c02.PlayerParticlesgroup-preset-no-permission: 
   von einem %2 gestochen, der %3 benutzt hat.'
 16309311-3cae-4f5c-8a76-fb2716f5249d.deathmessages.Natural-Cause.Firework.0: '%1 dachte,
   mit Feuerwerkskörpern zu spielen sei eine gute Idee'
-39013dd8-364b-4d3f-ae43-3735f3993f9b.advancedenchants.commands.main.givebook.success:
+39013dd8-364b-4d3f-ae43-3735f3993f9b.advancedenchants.commands.main.givebook.success: '&aGave
+  &2%1 %2x %3 %4 &abooks!'
 2ffa36df-5abf-44ae-afcf-711bcdc10f57.deathmessages.Mobs.ravager.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 c1801390-e85f-442e-8b1e-ba87059ed536.cmd.upgrade.choose.desc.s22: |-
@@ -3111,7 +3216,8 @@ fcb69ba4-fd50-4896-854c-6cd69bd2229f.alonsotags.Tag-cleared: Du hast deinen aktu
 b6055c6e-23f1-4d5a-a73e-e99083222b8e.lands.messages.wars.command.declare.success.mutual.sent: >-
   &7Du &8(%1&8) &7sendest eine Kriegsanfrage an %2&7. Sie müssen sie annehmen,
   bevor der Krieg beginnen kann.
-4e68f34c-aebd-467c-a043-5539530a4d8d.advancedenchants.applying.already-applied:
+4e68f34c-aebd-467c-a043-5539530a4d8d.advancedenchants.applying.already-applied: '&cThe
+  item already has this enchantment.'
 e7471599-fa30-49d2-b03e-12db0f37f5e8.deathmessages.Mobs.goat.Solo.Melee.0: '%1 wurde
   von einem %2 umgeworfen'
 b019ba23-3ed5-453a-b738-d9fff376c968.lands.messages.wars.command.menu.mutual: >-
@@ -3181,8 +3287,10 @@ c2e32fe9-9c01-494a-baf0-8eda3d7d1ed2.excellentcratesEditor.CrateEditorType.CRATE
   &cDu darfst dich nicht zum Spawn von Land&4 %1&c teleportieren. &7Sie können
   ihre Rolleneinstellungen so anpassen, dass sie die Teleportation zu ihrem
   Spawn für dich erlauben. &8Flagge: %2
-034c2d1e-0143-465c-8294-c8b2ec46efbe.advancedenchants.commands.main.enchant.upgraded:
-8331c759-6dda-4a23-9706-9dbe1fc15604.advancedenchants.commands.main.info.3:
+034c2d1e-0143-465c-8294-c8b2ec46efbe.advancedenchants.commands.main.enchant.upgraded: '&2Upgraded
+  %1 from level %previous-level% to %2.'
+8331c759-6dda-4a23-9706-9dbe1fc15604.advancedenchants.commands.main.info.3: '&6Max
+  level&7: &e%max-level%'
 9d381348-2585-46d4-a431-c66825467496.lands.messages.lands.command.trust.land.trusted: '&7Der
   Spieler&3 %1 &7ist bereits in Land&2 %2&7 vertraut.'
 82846f32-dbaa-47f9-9c01-a00b4776a052.mycmd.holo.delay: '&7Du kannst wieder mit diesem
@@ -3200,7 +3308,8 @@ af3f5467-37c8-4397-a1c2-7f89e9fe788f.deathmessages.Mobs.pufferfish.Gang.Projecti
   &7&lRückbuchungen von Einkäufen im Laden sind verboten
   &7und führen zu einer sofortigen Sperre für immer von unserem
   &7Server.
-95b23d38-fc85-463b-9166-742b91cc699a.advancedenchants.commands.gedit.setdelay.invalid-usage:
+95b23d38-fc85-463b-9166-742b91cc699a.advancedenchants.commands.gedit.setdelay.invalid-usage: '&cUsage:
+  /gedit setdelay <gkit> <delay (in seconds)>'
 d26ce2e5-4fc6-4154-be1f-b38e6294e81b.tab.ani.2.1: '&fʙᴇᴛʀᴇᴛᴇ ᴜɴsᴇʀᴇɴ ᴏғғɪᴢɪᴇʟʟᴇɴ ᴅɪsᴄᴏʀᴅ
   sᴇʀᴠᴇʀ ғᴜ̈ʀ ᴜᴘᴅᴀᴛᴇs'
 15a721b5-8154-4366-bce1-763fb19255e7.tempflygeneral.fly.speed_limit_self: '%1 &7Deine
@@ -3234,15 +3343,18 @@ fd754b0d-45c2-430f-abc8-830bc0e20170.deathmessages.Mobs.player.Solo.Fall.0: '%1 
   durch %2 von einem hohen Platz gestoßen'
 b3a34a5f-aded-41be-82fc-107124751a59.excellentcratesEditor.Reward.Enter.Rarity: '#d4d9d8Eintrag
   #aefd5e[Rarität]'
-c43564b7-3728-422a-a761-e132b059eef9.advancedenchants.applying.not-applicable-with:
+c43564b7-3728-422a-a761-e132b059eef9.advancedenchants.applying.not-applicable-with: '&cThe
+  &4%1 &cenchantment cannot be applied together with the &4%2&7 &cenchant!'
 5b76be6e-33bd-4587-8c1a-38558d193343.cmd.rules.global.2-2: |-
   &7&lDein Minecraft-Skin muss mit allen unseren Regeln konform sein.
   &7Bitte trage diese Skins nicht:
    &8♢ &fpornografischer Skin (Sexual Skin, etc.)
 f37d349c-8cca-4cb7-8a5e-bca99ff66fc6.deathmessages.Mobs.zombiehorse.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-4e1f75e9-f024-45ec-a5da-9e70a32afbb2.advancedenchants.commands.main.enchant.added:
-23530152-f8e1-49ce-bfe8-cd7b8fefb946.advancedenchants.orbs.incompatible:
+4e1f75e9-f024-45ec-a5da-9e70a32afbb2.advancedenchants.commands.main.enchant.added: '&aAdded
+  the %1 enchant!'
+23530152-f8e1-49ce-bfe8-cd7b8fefb946.advancedenchants.orbs.incompatible: '&cCannot
+  apply lower slots orb than available slots!'
 76a9e3bc-34a8-4a75-94a2-e2eea7270084.deathmessages.Mobs.guardian.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 6a966265-2fa9-48e9-bba1-5b0fe712e740.deathmessages.Mobs.fox.Solo.Weapon.0: '%1 wurde
@@ -3293,7 +3405,8 @@ f73bb8c3-3467-45e5-bbb8-911a1edc3f21.excellentcratesCrate.Open.Error.Cooldown.Te
   Wenn das Problem weiterhin besteht, wende dich an einen Administrator.
 92e0b0be-96ef-4608-922d-32d6d81b4249.deathmessages.Mobs.witherskeleton.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
-bdf97fc9-c3a2-40eb-bc4c-9ea9aa554c5b.advancedenchants.orbs.incompatible:
+bdf97fc9-c3a2-40eb-bc4c-9ea9aa554c5b.advancedenchants.orbs.incompatible: '&cCannot
+  apply lower slots orb than available slots!'
 237c0800-8a6d-4568-a3cd-bdcd2aeafd48.lands.messages.lands.command.withdraw.balance: >-
   &cEs gibt nicht genug Geld in der Landbank von Land&4 %1&c. &7Es ist nur&3 %2
   &7verfügbar. Erwartet:&3 %3
@@ -3370,7 +3483,8 @@ f27e9ff1-d25f-47a1-9eee-d5c4e027c96e.playerpoints.command-pay-usage: '&cAnwendun
 83b5a539-c04c-4800-9f42-d40a32dd4bb0.chatcolor.gui-inactive: '&7Inaktiv'
 bfb61e17-50cf-4fc4-9ddc-d5cc9d8c75b7.lands.messages.general.map.hover.wilderness: '&7Dieses
   Stückchen ist Wildnis. Klicke, um es zu beanspruchen.'
-be104740-e9ac-40dc-9390-681a62ffcb4f.advancedenchants.commands.main.unenchant.does-not-have-enchant:
+be104740-e9ac-40dc-9390-681a62ffcb4f.advancedenchants.commands.main.unenchant.does-not-have-enchant: "&cThat
+  item doesn't have &4%1&c!"
 a05ba50f-91a7-464c-af38-2903d94a07d6.lands.messages.wars.message.capture.destroy.invader: '#t#&Capture
   Point[newline]&cin feindlichem Land %1 wurde zerstört'
 64c2167b-2422-465d-8b86-944714ffc0d0.tempflygeneral.invalid.player: '%1 &7Der Spieler
@@ -3457,7 +3571,8 @@ cdf559c0-4661-4d83-9c12-871c877a996e.excellentenchantmentsCommand.List.Desc: Lis
   aller benutzerdefinierten Verzauberungen.
 cd3575ef-980b-4c14-9bd6-89e13c343c98.deathmessages.Mobs.evoker.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
-4247204b-a376-48b8-b6ac-37cd7eda583d.advancedenchants.commands.gedit.unknown-gkit:
+4247204b-a376-48b8-b6ac-37cd7eda583d.advancedenchants.commands.gedit.unknown-gkit: '&c%1
+  is not a valid gkit!'
 6795d378-1a26-4948-a2e2-00b1c6c8f133.ia.no-permission: '&7Du hast keine Erlaubnis,
   das zu tun!'
 9bf4f436-e13e-4b11-9d74-29adb9c37b75.lands.messages.help.command.lands.assign: >-
@@ -3527,12 +3642,14 @@ e3aef2bf-dc6d-4218-af55-a0ec3804ba54.ib.tilgis.top-stats.title: '&fWähle eine S
   Kopieren.[/H][SC]%4[/SC][/T]
 62b99bc4-4618-4a77-bfa2-d433926b21f6.PlayerParticlescommand-description-group-info: '&b/pp
   group info&3 <Name>&8 -&f Liste der in der Gruppe gespeicherten Partikel'
-6e07eb5b-e60b-427e-8ee9-bc2b8893f8cf.advancedenchants.commands.main.unknown-command:
+6e07eb5b-e60b-427e-8ee9-bc2b8893f8cf.advancedenchants.commands.main.unknown-command: '&cIncorrect
+  command usage! Type "/ae" for the correct usage.'
 0503aaba-bbdd-4128-85c1-921d1007ac77.PlayerParticlesgroup-info-header: '&7Die Gruppe
   &b%1 &7hat die folgenden Partikel:'
 7553825a-f1d5-407f-bf86-ba6412622d99.deathmessages.Mobs.illusioner.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
-b3844424-0b6e-44a3-9864-c68a1caecd88.advancedenchants.commands.withdrawsouls.invalid-item:
+b3844424-0b6e-44a3-9864-c68a1caecd88.advancedenchants.commands.withdrawsouls.invalid-item: '&cInvalid
+  item.'
 c3dc0d61-47a3-4b42-b7fd-fec05ea0d511.lands.messages.nations.command.setcapital.level: >-
   &cDu kannst das Land&4 %1 &nicht als neue Hauptstadt der Nation&4 %2&c
   festlegen. &7Es muss mindestens Level&3 %3 &8(&7aktuell: %4&8)&7 sein.
@@ -3589,7 +3706,8 @@ d8f686a0-68f1-425e-bfff-4aedb8340437.excellentcratesEditor.CrateEditorType.REWAR
   wurde von einem %2 irgendwie mit %3 erschossen'
 32295d5e-e541-4e52-9fbb-2ed685873529.lands.messages.lands.message.flags.fly: '&cDu
   darfst hier nicht fliegen (&cArea:&4 %1 &cLand:&4 %2&c). &8Flagge: %3'
-bbb890ed-859d-4c62-a93e-b5eaf86f9158.advancedenchants.commands.main.open:
+bbb890ed-859d-4c62-a93e-b5eaf86f9158.advancedenchants.commands.main.open: '&aOpened
+  %1 for %2!'
 66e27654-05ac-484e-8ab7-43b47690b2ef.lands.messages.general.map.hover.others: >-
   &7Du bist nicht vertrauenswürdig in diesem Land. Klicke, um Informationen über
   das Land&3 %1&7 anzuzeigen.
@@ -3597,7 +3715,8 @@ c7f5fa7b-4146-42b8-8b13-5740649be3c4.deathmessages.Mobs.salmon.Gang.Weapon.0: '%
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 42db6b87-e40d-4bb0-96a0-442733ff8ae2.deathmessages.Mobs.llama.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-e22be810-f41e-44a8-a9ed-22af78c522ef.advancedenchants.commands.enchantment-info.open-menu-message:
+e22be810-f41e-44a8-a9ed-22af78c522ef.advancedenchants.commands.enchantment-info.open-menu-message: '&7Information
+  about &e%1 &7enchantment.'
 e159d501-8309-480f-af03-3438352dacaa.lands.messages.lands.command.accept.notification: |
   &7Du hast&3 %1 &7Einladungen aus anderen Ländern. 
 
@@ -3679,7 +3798,8 @@ eb194fd9-8eb8-4895-b170-e4ccd26edb74.deathmessages.Mobs.phantom.Solo.Projectile-
   wurde von einem %2 irgendwie mit %3 erschossen'
 e4c1a13e-8a1c-4787-8cc2-4a5cfd155d91.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.1: '#bdc8c9
   um Kistenblöcke.'
-50b80159-f506-4733-bffe-473c8f195cc6.advancedenchants.commands.aegive.invalid-item-flag:
+50b80159-f506-4733-bffe-473c8f195cc6.advancedenchants.commands.aegive.invalid-item-flag: '&cInvalid
+  ItemFlag! You can choose from the following: %1'
 d516e0e4-0141-460e-830e-c846d0c200b9.deathmessages.Mobs.enderdragon.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 69d30fce-a9fd-43f5-98d4-079727b04ed9.PlayerParticlesgui-edit-data-color-cyan: '#008b8bCyan'
@@ -3688,7 +3808,8 @@ d516e0e4-0141-460e-830e-c846d0c200b9.deathmessages.Mobs.enderdragon.Gang.Project
 793b2453-0454-41b6-9f9f-856755740a94.deathmessages.Mobs.squid.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
 8a7831ea-6604-4f8f-90f6-05ef9a556664.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.3: '#ffed6a&lAktuell:'
-d95f0b0a-3a55-4799-a270-b8a5f329a997.advancedenchants.alchemist.doesnt-accept:
+d95f0b0a-3a55-4799-a270-b8a5f329a997.advancedenchants.alchemist.doesnt-accept: "&cThe
+  Alchemist doesn't accept this item!"
 bb1e933d-6d51-432e-ba62-ca1688d67c1d.PlayerParticlescommand-description-group: Verwalte
   deine Gruppen
 c5b42333-6e26-4dce-929c-3242d7383cc5.lands.messages.general.land.title.camp: '&7Camp
@@ -3741,13 +3862,15 @@ ac4a0819-782e-4192-aeeb-8c7057a7f10c.tempflycommand.base.trail_remove.0: remove_
 b5f994d6-1a29-4444-8b4e-54e0a0b8df63.PlayerParticlesgui-select-style-description: Setzt
   den Partikelstil auf &b%1
 d70ef22f-39b3-4e01-b658-677298761453.cmd.languages.title.s21: '&b&lEnglisch'
-dd6c7199-5c07-498e-8cf7-83f542a2eb04.advancedenchants.combining.already-max-level:
+dd6c7199-5c07-498e-8cf7-83f542a2eb04.advancedenchants.combining.already-max-level: This
+  enchantment is already max level!
 0a6c0cdc-1a92-4ed5-9361-30c7b2767905.deathmessages.Mobs.ocelot.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 c59d5052-c183-4887-adf3-5eb78e221966.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.3: '#bbff6a&lAktionen:'
 3d9bb2be-e31f-4c30-a0a0-4a9934eeb900.deathmessages.Natural-Cause.Fire-Tick.0: '%1
   wurde knusprig verbrannt'
-31cae036-1e6b-488a-8f0b-767e247105cb.advancedenchants.effects.steal-money:
+31cae036-1e6b-488a-8f0b-767e247105cb.advancedenchants.effects.steal-money: '&6%1 &7stole
+  &6%2 &7from &6%3&7!'
 eb954dde-57cd-4351-a845-6bdad4b067d7.lands.messages.lands.command.delete.nation: >-
   &cDieses Land kannst du nicht löschen, weil es die Hauptstadt von Nation&4
   %1&c ist. &7Du musst zuerst die Nation löschen: &e/nations delete
@@ -3759,7 +3882,8 @@ ab5f4610-26ed-4515-9cde-228fa4c30876.PlayerParticlesdata-usage-color-transition:
   &b%1 &7von deinen Partikeln mit dem Stil von &b%2&7!'
 24cb7f44-45ff-4a53-8e06-0af92e077916.deathmessages.Mobs.pig.Gang.Weapon.0: '%1 wurde
   von ein paar %2 angegriffen! Einer schlug sie mit %3'
-bf7426ff-e008-421d-b1cb-4b9fc42ed711.advancedenchants.commands.gedit.setdelay.success:
+bf7426ff-e008-421d-b1cb-4b9fc42ed711.advancedenchants.commands.gedit.setdelay.success: '&eChanged
+  &6%1&e kit delay to &6%2'
 81cf8eb2-34ab-453b-bef0-ba20a201d664.deathmessages.Mobs.armorstand.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 bb004c63-2f88-40f6-bd5c-b24c44248ebf.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.7: '#ffed6a▪
@@ -3785,11 +3909,13 @@ ca67daff-26ba-4890-ba96-d5b9f172ee3a.cmd.settings.desc.false.s39: |2-
   &8[KLICK] &7aus, während du in diesem Gebiet stehst.[H]&7Klicke hier, um den
   Pächter zu entfernen.[/H][C]%4[/C][/T]
 950abf26-7ced-4503-b549-471b664046c2.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.7: '#ffa76a&lNotes:'
-bde94bad-5764-41b1-b095-10a61357d46e.advancedenchants.tinkerer.trade-accepted:
+bde94bad-5764-41b1-b095-10a61357d46e.advancedenchants.tinkerer.trade-accepted: '&aTrade
+  accepted!'
 6335a04a-bc05-4ecb-b7cb-1e6edf016887.lands.messages.lands.command.wild.success: >-
   &7Du wurdest zufällig teleportiert &8(&7X: %1 Z: %2&8)&7. Du hast bezahlt&c
   %3&7.
-787560e1-c0b0-4194-b745-0fbdb40da525.advancedenchants.commands.gedit.reset.invalid-usage:
+787560e1-c0b0-4194-b745-0fbdb40da525.advancedenchants.commands.gedit.reset.invalid-usage: '&cUsage:
+  /gedit reset <gkit> <player>'
 adba8262-39fe-40ae-814c-bb179fb50c77.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.1: '#bdc8c9aus
   der Liste wird nicht in der Lage sein'
 bcfddc71-a2d8-4176-89b6-53ddeba6e0a2.cmd.farmworlds.title.nether.s22: §x§6§F§4§6§4§4Niedere
@@ -3858,7 +3984,8 @@ fb1adee6-4ebf-4f96-8ac9-46b10fbe691d.lands.messages.general.map.hover.yours: >-
   anzuzeigen.
 d36b2b9a-6100-4cf8-8eb4-ed995a9b7c46.cmd.settings.title.false.s24: '&bVote Broadcast
   &8| &7[Disabled]'
-1c1c8ff3-cf1e-4e1b-9f41-8ff3f9ff83e4.advancedenchants.items.randomization-scroll.cannot-apply:
+1c1c8ff3-cf1e-4e1b-9f41-8ff3f9ff83e4.advancedenchants.items.randomization-scroll.cannot-apply: '&cYou
+  cannot apply a randomizer to this!'
 5508629a-6fab-4098-8e4f-256cf5b478c9.deathmessages.Mobs.wolf.Solo.Weapon.0: '%1 wurde
   von einem %2 irgendwie mit %3 erschlagen'
 974318d2-7e7f-4bea-9066-6e96183efdd1.deathmessages.Mobs.enderdragon.Gang.Weapon.0: '%1
@@ -3892,7 +4019,8 @@ c8d98998-56d6-4a6d-8420-6fc92ea69eb1.triton.setlanguage-others: Die Sprache von 
   wurde geändert in &7%2
 92b243ef-25bd-466f-9b59-bb0e359a0924.PlayerParticlesdata-usage-block: '&7Der Effekt
   &b%1 &7erfordert: &bBlockdaten&7! &7Format: &b<BlockName>'
-5ee36d10-6b8e-4337-8357-effe533f8a2a.advancedenchants.commands.invalid-amount:
+5ee36d10-6b8e-4337-8357-effe533f8a2a.advancedenchants.commands.invalid-amount: '&cInvalid
+  amount. Must be between 1-64.'
 f89be3d8-ee6b-45c8-b503-e770bdc808c7.lands.messages.lands.command.selection.pos.cancelled: >-
   &cDu kannst hier keine Auswahl treffen. &7Dieser Chunk gehört zu einem anderen
   Verwaltungs-Plugin. Name:&3 %1
@@ -3919,7 +4047,7 @@ a13d23c2-41f5-49fa-9d42-e5269e3fc37d.deathmessages.Mobs.polarbear.Solo.Projectil
   &7erforschen, beanspruchen und ausbauen kannst!
   &7Sorge dafür, dass du dich mit deinen
   &bFreunden &7zu spielen!
-76f3594d-dab1-4567-abc5-1f579a1346ec.advancedenchants.orbs.failed:
+76f3594d-dab1-4567-abc5-1f579a1346ec.advancedenchants.orbs.failed: '&cOrb failed!'
 246771a4-d99c-4e3c-ab8d-eb4350239c04.lands.messages.list.sign.sold.land.2: '&7Zu:
   %1'
 4aac6142-50d9-4a7c-98df-45be6e493ec5.deathmessages.Mobs.player.Solo.Lava.0: '%1 wurde
@@ -4001,7 +4129,8 @@ cd4a4611-a5cf-4768-813a-1d5e70681b11.uar.COMMAND_FORCE_RESTART.subtitle: Erzwing
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 1f6ceb3b-c443-487f-82ac-931ca14897d6.lands.messages.lands.message.event.enter.pvp-warning: '#Du
   hast eine PvP-Zone betreten.'
-c23f37fb-3ae6-4a1a-8098-a95f70ab2bf4.advancedenchants.commands.aegive.invalid-item-flag:
+c23f37fb-3ae6-4a1a-8098-a95f70ab2bf4.advancedenchants.commands.aegive.invalid-item-flag: '&cInvalid
+  ItemFlag! You can choose from the following: %1'
 c0bd9118-1004-471a-ad80-6ce7c66b0b98.cmd.discord.unlink.title: '&x&3&2&4&B&B&0Du bist
   mit Discord verlinkt'
 a766fd97-0b48-4304-8a57-52286fbcdf0e.PlayerParticlescommand-description-fixed-create-console: >-
@@ -4019,11 +4148,13 @@ e6d1ef58-17a8-4282-8191-0d976b800dd3.lands.messages.general.land.title.admin: '&
   (%7): %8</li> </ul>
 440a13dc-5c48-4be3-b4b1-f69bc812eb65.excellentcratesCommand.Drop.Desc: Lass die Kiste
   an einem bestimmten Ort in der Welt fallen.
-03f1103c-a06b-4abc-8d13-f59d126f6a34.advancedenchants.prefix:
+03f1103c-a06b-4abc-8d13-f59d126f6a34.advancedenchants.prefix: '&b&lᴇɴᴄʜᴀɴᴛᴍᴇɴᴛs &8&l|
+  &f'
 75730dfd-0a59-44e7-b813-e90dba84515e.excellentcratesEditor.CrateEditorType.EDITOR_KEYS.Lore.2: '#bbff6a&lAktionen:'
 ea0df479-f22f-4e6d-b723-846839bba614.deathmessages.Mobs.piglin.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-61995a52-6070-4ba4-a209-a7e6f2fec408.advancedenchants.commands.main.giveitem.success:
+61995a52-6070-4ba4-a209-a7e6f2fec408.advancedenchants.commands.main.giveitem.success: '&7Added
+  %1x %2&7 for player &b%3'
 86c88863-6e8e-4c5f-bc34-5313e4f1724b.deathmessages.Natural-Cause.Fly-Into-Wall.0: '%1
   ist gegen eine Wand geflogen'
 5ced4c47-e664-43a0-8696-8c664d07e895.playerpoints.base-command-help: '&7Benutze &b/points
@@ -4049,7 +4180,8 @@ e82f29cf-77b2-4296-8ae4-969551a3d8cc.deathmessages.Mobs.donkey.Gang.Melee.0: '%1
   von einer Bande von %2 erschlagen'
 7765b81b-8846-4089-8417-ee1ac4ddbc33.deathmessages.Mobs.sheep.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-2f8a86f7-b12a-4ba7-9bb9-1d75608b295f.advancedenchants.commands.main.greset.reset-all:
+2f8a86f7-b12a-4ba7-9bb9-1d75608b295f.advancedenchants.commands.main.greset.reset-all: '&aReset
+  all GKits for %1!'
 1fe9cac1-f044-4c64-9cff-f6e0f1e67c59.SuperVanishMessages.SilentQuitMessageForAdmins: §x§9§9§f§f§9§9⏩
   §f%1
 2e4d0d9b-2a8a-4d92-926d-0044fd61f63b.cmd.event.noevent.title: '&Currently there is
@@ -4081,14 +4213,15 @@ c77c7036-f364-4bd0-af7f-b86909829513.deathmessages.Mobs.shulker.Gang.Projectile-
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 c020b943-9c49-40a8-be5b-2e482bd7a695.deathmessages.Mobs.cod.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
-f04520ee-e709-4987-b014-988a6958e669.advancedenchants.orbs.failed:
+f04520ee-e709-4987-b014-988a6958e669.advancedenchants.orbs.failed: '&cOrb failed!'
 3e035d74-cdf5-4ffd-a8f2-25976b5a3165.deathmessages.Mobs.zombie.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
 00590fbf-6a24-4d14-ab47-a9e2592f5d43.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.6: '#ff6a6a▪
   #bdc8c9Das ist #ff6a6aNICHT#bdc8c9 Kistenartikel-Name!'
 a91e9e71-f917-4e03-99ad-eb261b908f87.deathmessages.Mobs.enderdragon.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-b6a47ab6-e28d-44b8-b61f-7944ce58fb33.advancedenchants.commands.withdrawsouls.less-than-one:
+b6a47ab6-e28d-44b8-b61f-7944ce58fb33.advancedenchants.commands.withdrawsouls.less-than-one: '&cCount
+  must be positive.'
 2e7aa9cb-3f78-4068-b8cc-d0192738c21c.deathmessages.Mobs.cow.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
 1ad94ef1-d83e-40bc-b2bb-5d91ebdc2b91.cmd.settings.desc.unknown.s24: |2
@@ -4159,7 +4292,8 @@ b8c78029-025a-416e-8426-8839cb79713e.deathmessages.Mobs.zombievillager.Gang.Weap
 b125cb1d-84a6-4917-985f-f1debba6cd05.excellentcratesCommand.Menu.Desc: Öffne das Kistenmenü.
 68d8da3d-88f9-4e09-ba83-81972ea5ce4e.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.12: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aBetrag ändern'
-d81e3165-1e11-4880-a976-81b9fcae8d43.advancedenchants.sets.commands.listweapons.weapon:
+d81e3165-1e11-4880-a976-81b9fcae8d43.advancedenchants.sets.commands.listweapons.weapon: ' &8>>
+  &f%1'
 85af1348-ed49-485d-a9e4-f45da84c946b.SuperVanishMessages.NoPermission: '&b&l%1 &8&l┃
   &7Du hast keine Erlaubnis, das zu tun!'
 af79f6f7-2065-4e0b-b27b-8b5fed00c86b.PlayerParticlesgui-edit-primary-style-description: '&fBearbeite
@@ -4287,7 +4421,8 @@ ce07efe2-086a-4772-aab5-0bf37b0601e2.cmd.rules.chat.1-6: >-
   [Zeit]'
 ced6785a-16dc-471f-a306-aab8aa42fc9b.tempflygeneral.time.purchased: '%1 &7Du hast
   &f⌚%2&7 für &b&l$&b%3&7 gekauft!'
-69762f6e-507e-4858-b74d-51b74dcbc8af.advancedenchants.commands.main.unenchant.not-holding-item:
+69762f6e-507e-4858-b74d-51b74dcbc8af.advancedenchants.commands.main.unenchant.not-holding-item: '&cYou
+  must be holding an item!'
 df83825e-d518-4290-bfa7-27c10677554e.deathmessages.Mobs.cod.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
 4ae360d1-92be-473c-b175-a37811243aec.lands.messages.wars.message.capture.place.outskirts: >-
@@ -4315,12 +4450,14 @@ adeaa961-78e3-4cd6-a6d0-8f514ac18b9d.deathmessages.Natural-Cause.Projectile-Unkn
   von ein paar %2 angegriffen! Einer schlug sie mit %3'
 fb1f183b-746c-4120-b4c4-4df04e7a330d.cmd.settings.title.unknown.s20: '&bTeleport &8|
   &7[Toggle]'
-d7126e46-0ace-49ea-bcbe-3a9ba96691a5.advancedenchants.heroic.cannot-apply:
+d7126e46-0ace-49ea-bcbe-3a9ba96691a5.advancedenchants.heroic.cannot-apply: "&cYou
+  can't apply a crystal upgrade to this item."
 e42e8fc9-ff0f-475f-a494-8754dd10cdf3.deathmessages.Natural-Cause.Drowning.0: '%1 dachte,
   sie könnten ewig schwimmen'
 992d6540-528c-4f83-9de1-98301a72080f.PlayerParticlesgui-select-data-vibration: '&b%1
   &fticks'
-9da20257-6574-465a-a510-334423608e5f.advancedenchants.enchanter.successful-purchase:
+9da20257-6574-465a-a510-334423608e5f.advancedenchants.enchanter.successful-purchase: '&aPurchase
+  successful!'
 5a17f733-c8a7-4fd8-8525-057ec5ee7a66.tempflygeneral.info.infinite: '&7Unendlich: &3&lDer
   Benutzer kann unbegrenzt fliegen!'
 7a2290a0-4b14-4912-9a8f-effbca3b5c21.ia.10.1: Handel mit Waren unter Verwendung
@@ -4397,7 +4534,8 @@ d3454825-c1c5-4e2b-98ee-c761510c2a4a.lands.messages.general.wNo: '&cNein'
   Partikelgruppen gespeichert!'
 80e7f13d-eede-4bfd-9da4-a1482efc06cd.deathmessages.Mobs.goat.Gang.Melee.0: '%1 wurde
   von einem Haufen %2 umgeworfen'
-cd65d45a-4d21-46fa-b73c-dc6380c69561.advancedenchants.combining.failure:
+cd65d45a-4d21-46fa-b73c-dc6380c69561.advancedenchants.combining.failure: '&cCombining
+  failed!'
 7ba91c56-213f-4e71-b1e8-9270df939758.deathmessages.Mobs.illusioner.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 b5e504e0-624d-40df-9740-e2f4a7638059.lands.messages.general.map.info.trusted: ' &e▉
@@ -4441,7 +4579,8 @@ bf2cc006-4884-4922-b1de-de0cabac4eb8.cmd.settings.title.unknown.s40: '&bTodesnac
   &8| &7[Toggle]'
 0fd48006-060e-459e-bf92-b9f20dd0c0ca.deathmessages.Mobs.cavespider.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
-18f29d7a-2e1d-4536-8e0f-00de7ab4fd47.advancedenchants.commands.enchantment-not-found:
+18f29d7a-2e1d-4536-8e0f-00de7ab4fd47.advancedenchants.commands.enchantment-not-found: '&cEnchantment
+  &c&n%1&c could not be found.'
 9c04bd51-065d-4005-be50-cc383d4bce1c.PlayerParticlesother-unknown-player: '&7Der Spieler
   &c%1 &7wurde nicht gefunden.'
 b234f1da-0ee0-46df-826d-70ffd8bd9a1d.PlayerParticlescommand-description-help: Zeigt
@@ -4450,7 +4589,8 @@ ca78f9d0-2653-45ee-8d60-afa1a0cc8eb8.deathmessages.Mobs.chicken.Gang.Melee.0: '%
   wurde von einer Bande von %2 erschlagen'
 b8809e13-a250-4a19-8a1d-8fe8899808ab.lands.messages.nations.command.general.noaccess: '&cDas
   darfst du nicht für Nation&4 %1&c. &8Flagge: %2'
-a028d0d9-2803-4787-9f42-9b90d7027f2b.advancedenchants.commands.no-permission:
+a028d0d9-2803-4787-9f42-9b90d7027f2b.advancedenchants.commands.no-permission: "&cYou
+  don't have permission to do that!"
 34d01c12-734b-4ccf-a844-ca4bc0224f33.deathmessages.Mobs.irongolem.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 2167a57b-ee7a-4a77-96ea-111e92ea4b91.deathmessages.Mobs.villager.Gang.Projectile-Arrow.0: '%1
@@ -4499,7 +4639,8 @@ a7013064-cfb7-40eb-9214-96afd4701127.tempflygeneral.time.given_self: '%1 &7Du ha
 b0f5139f-56b7-4d13-a0e0-5204b39a3990.cmd.ref.click-to-buy: '&7ᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ'
 76f40ef7-0ffb-4481-90e6-4f43c656a021.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.1: '#bdc8c9
   Es wird in Nachrichten und GUIs verwendet.'
-fbde61cc-d637-4d47-8c4a-c60947f93d27.advancedenchants.alchemist.doesnt-accept:
+fbde61cc-d637-4d47-8c4a-c60947f93d27.advancedenchants.alchemist.doesnt-accept: "&cThe
+  Alchemist doesn't accept this item!"
 8fbc7122-47b5-4c5d-90d6-adcc0bb16913.lands.messages.lands.message.area.exists: '&cEin
   Gebiet mit dem Namen&4 %1 &ist bereits in Land&4 %2&c vorhanden.'
 cfc9521d-e8b5-4d30-9996-79fa5b2c8515.lands.messages.help.command.lands.admin.hologram.create: >-
@@ -4535,7 +4676,8 @@ f2d79416-c527-48d8-8f79-f2965c8dc28f.lands.messages.wars.command.info.declaratio
   abzulehnen.[/H][C]%7[/C][/T]
 9e19e1b5-0c28-4aea-a478-4a19ad74715f.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Name: '#ffed6a&lName
   anzeigen'
-10478951-bfe7-458c-9337-abf058ae5fba.advancedenchants.commands.aegive.invalid-enchantment:
+10478951-bfe7-458c-9337-abf058ae5fba.advancedenchants.commands.aegive.invalid-enchantment: '&cInvalid
+  Enchantment!'
 7eba699f-29dc-4ff4-ac22-be6cd1069a4e.playerpoints.unknown-player: 'Der Spieler konnte
   nicht gefunden werden: '
 0eef555b-280c-4634-86bb-fc0ba926c7f1.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.0: '#bdc8c9Dieser
@@ -4575,7 +4717,8 @@ fd778bb4-4fde-4998-b89e-d11b72e93c43.lands.messages.help.command.lands.admin.deb
   Unclaim[newline]&cStopped'
 97db8f4b-f0db-4690-a9d4-5051737eed0d.excellentcratesCrate.Open.Error.NoHoldKey.2: '#d4d9d8Du
   musst einen Schlüssel halten, um Kisten zu öffnen!'
-e9d22d8d-921d-44fb-8453-733e590c2a4f.advancedenchants.commands.offline-player:
+e9d22d8d-921d-44fb-8453-733e590c2a4f.advancedenchants.commands.offline-player: '&cThat
+  player is not online!'
 59acba06-b266-4c58-a658-f29c8c5271f5.alonsotags.Please-reconnect: Unerwarteter Fehler.
   Bitte verbinden Sie sich erneut mit dem Server!
 585cbf47-6b2d-429e-b17e-083ac579993d.excellentcratesEditor.CrateEditorType.EDITOR_CRATES.Lore.2: '#bbff6a&lAktionen:'
@@ -4585,7 +4728,8 @@ f316b912-1bbe-44f4-bd18-454ed4af1837.excellentcratesEditor.CrateEditorType.CRATE
   [T]&e%1 %2 %3 &8- &7Liste der Ansprüche deines Landes[H]&7Dieser Befehl zeigt
   dir alle /Landansprüche deines Landes an. &7Klicke zum
   Ausführen.[/H][C]%4[/C][/T]
-c0f33af0-e817-4644-b7c0-210692ec2997.advancedenchants.commands.main.admin.invalid-page:
+c0f33af0-e817-4644-b7c0-210692ec2997.advancedenchants.commands.main.admin.invalid-page: '&cInvalid
+  page'
 1035c8d9-4263-455e-b688-b126a60e7ed5.cmd.discord.unlink.desc: "&f\n&f● &x&3&2&4&B&B&0You
   can unlink yourself from Discord.\n&f\n&f● &x&3&2&4&B&B&0You will lose access to
   your roles\n&f &x&3&2&4&B&B&0that you have on our discord.\n&f\n&f● &bYou will get
@@ -4600,7 +4744,8 @@ c0f33af0-e817-4644-b7c0-210692ec2997.advancedenchants.commands.main.admin.invali
 4be0e6f0-dea4-4e9f-82ac-ef8c3a63a3db.lands.messages.lands.command.claim.max-chunk: >-
   &cDu kannst nicht&4 %1 &cmmehr Chunks für dieses Land beanspruchen. &7Das
   Maximum für Land&2 %2 &7ist&3 %3 &7chunks. &8Erlaubnis: lands.chunks.<Anzahl>
-d4b3afdd-0b3c-4597-bae5-870cd4b179e6.advancedenchants.commands.enchants.open-menu-message:
+d4b3afdd-0b3c-4597-bae5-870cd4b179e6.advancedenchants.commands.enchants.open-menu-message: '&7Showing
+  list of all enchantments...'
 6198c325-3d57-4ce2-9744-2d9babc0fb33.excellentenchantmentsCommand.Book.Desc: Gibt
   ein eigenes verzaubertes Buch.
 76e10df7-e7a6-43f9-b99a-728df0e1e62d.deathmessages.Mobs.polarbear.Gang.Melee.0: '%1
@@ -4662,7 +4807,8 @@ bf102741-0d45-4b20-b32f-12be5dc26eef.cmd.main.desc.s40.2: |-
    &b| &7Gib dir ein paar
    &b| &7schöne Werkzeuge zum Bauen.
    &3| &fKlick zur Ansicht.
-c1773ad0-f825-47f7-a000-afcfb7e491e2.advancedenchants.commands.invalid-usage:
+c1773ad0-f825-47f7-a000-afcfb7e491e2.advancedenchants.commands.invalid-usage: '&cUsage:
+  %1'
 1ef83d5c-b80c-4eaa-af54-fd7ef4d1235d.lands.messages.general.integration.squaremap.nation.description: >-
   <div class="\"infowindow\""><span style="font-size: 200%;"><span style="color:
   %1;">%2</span><br /></span> %3</div> <ul> <li class="\"infowindow\""> Level:
@@ -4683,15 +4829,19 @@ e69d9e02-86e0-4f6e-b3e7-f621021acd89.excellentcratesEditor.CrateEditorType.KEY_C
    &3| &fKlick zur Ansicht.
    &4| &cDies ist in Farmwelten nicht verfügbar
 6c46949e-d3d5-4287-9765-64de22287628.cmd.main.title.s19: '&b&lUpgrades'
-09913ad9-d928-42a1-82fe-fd2f6bcda489.advancedenchants.tinkerer.non-tradeable-item.1:
-83a77de5-4324-4c9d-89fa-95ad2ab49bfe.advancedenchants.sets.commands.list.set:
-62b1580a-e815-4124-96c4-49e73e76407b.advancedenchants.orbs.cannot-apply:
+09913ad9-d928-42a1-82fe-fd2f6bcda489.advancedenchants.tinkerer.non-tradeable-item.1: '&7It
+  will only accept custom enchanted equipment'
+83a77de5-4324-4c9d-89fa-95ad2ab49bfe.advancedenchants.sets.commands.list.set: ' &8>>
+  &f%1'
+62b1580a-e815-4124-96c4-49e73e76407b.advancedenchants.orbs.cannot-apply: '&cCannot
+  apply orb to this item!'
 254b25d2-834f-4f0d-9511-0bcaeab1fac3.lands.messages.lands.command.ban.area.already: >-
   &7Der Spieler&3 %1 &7ist bereits in dem Gebiet&6 %2 &7von Land&2 %3&7
   verboten.
 2ff59892-f815-4f5b-a0b2-c62d192433b9.deathmessages.Natural-Cause.Fire.0: '%1 dachte,
   im Feuer zu stehen sei eine gute Idee'
-7537c512-9093-4b77-8b5b-294f5ea55005.advancedenchants.interact.main-hand-only:
+7537c512-9093-4b77-8b5b-294f5ea55005.advancedenchants.interact.main-hand-only: '&cYou
+  can only do that with your main hand!'
 2533fc85-81e6-42d6-a26d-92e80b703b2b.playerpoints.unknown-command: 'Unbekannter Befehl: '
 a06adf9b-7ce6-4cc3-9f35-a1fd96471b11.cmd.back: '&b&l⤊ &bGoBack'
 c3026f3a-95d9-4ec8-820d-21e3e95be4f5.PlayerParticlesfixed-edit-style-invalid: >-
@@ -4715,7 +4865,8 @@ e8d8651c-64df-4a09-ac9f-3840177a8596.deathmessages.Mobs.mule.Solo.Projectile-Arr
   wurde von einem %2 irgendwie mit %3 erschossen'
 2624c7f6-53c6-4ad2-a84d-356c8b5563c7.lands.messages.help.command.nations.untrust: '[T]&e%1
   %2 %3 &8- &7Entferne Land[H]&7Klicke zum Kopieren.[/H][SC]%4[/SC][/T]'
-fc4b343f-9f7f-42ce-a2a7-05e9fd485898.advancedenchants.commands.main.pastetypes:
+fc4b343f-9f7f-42ce-a2a7-05e9fd485898.advancedenchants.commands.main.pastetypes: '&aEnchantment
+  type list: %1'
 aa04cb42-6958-4516-977f-ddd3fb1e61fe.deathmessages.Mobs.wanderingtrader.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 f6d13b80-b443-4f6b-bdc1-53da76862af6.deathmessages.Mobs.donkey.Solo.Weapon.0: '%1
@@ -4800,11 +4951,13 @@ e80f3075-e440-4e6c-8b22-24fba806e074.lands.messages.help.command.lands.admin.lan
 1c8674a4-7d04-4dbb-9840-a7bd4a7fdd9e.deathmessages.Mobs.ghast.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 af7607cb-fb2f-4594-b306-946c146551c2.dh.token-lb.titel: '[Top 10 Dola Dola!]'
-df642c0c-efca-4767-83f1-851690f52429.advancedenchants.commands.gedit.edit.invalid-usage:
+df642c0c-efca-4767-83f1-851690f52429.advancedenchants.commands.gedit.edit.invalid-usage: '&cUsage:
+  /gedit edit <gkit>'
 f268273e-530d-43dd-8c94-68d84830b64b.lands.messages.help.command.lands.top: >-
   [T]&e%1 %2 &8- &7Länder oben anzeigen[H]&7Klick zum
   Ausführen.[/H][C]%3[/C][/T]
-24c29af9-d9ac-4894-bd58-6a03825d09e5.advancedenchants.commands.main.givercbook.success:
+24c29af9-d9ac-4894-bd58-6a03825d09e5.advancedenchants.commands.main.givercbook.success: '&aGave
+  &2%1 %2x %3 &aright click books!'
 c8ae7442-7bf2-4a10-9871-c92125277ac7.lands.messages.lands.message.event.leave.camp: '#t#[config]in:5,stay:30,out:2[/config]&2&lWilderness[newline]&7Feel
   the wild'
 0dbe0fb5-7b26-41ac-9af2-b29bd705da9d.lands.messages.lands.command.trust.land.target: >
@@ -4835,7 +4988,8 @@ a7c55fe0-923f-41f9-bfe3-cc3346141119.deathmessages.Natural-Cause.Projectile-Trid
   &bBeschreibung:
    &b| &7Aktiviere/Deaktiviere die Ankündigungen
    &b| &7Nachrichten-Benachrichtigungen.
-64d557cb-0b45-4629-b055-075e5f5c7313.advancedenchants.sets.commands.invalid-usage:
+64d557cb-0b45-4629-b055-075e5f5c7313.advancedenchants.sets.commands.invalid-usage: '&cInvalid
+  usage! Please reference /asets for the proper usage.'
 8a934d4a-df77-4b21-8ec3-ecf7a6554862.mycmd.itemnoset: '&7Es gibt keine Befehle für
   diesen Artikel'
 e311af68-dd1a-48bf-a2ec-5fb95ba549ca.deathmessages.Mobs.illusioner.Gang.Melee.0: '%1
@@ -4846,10 +5000,12 @@ e311af68-dd1a-48bf-a2ec-5fb95ba549ca.deathmessages.Mobs.illusioner.Gang.Melee.0:
 9c42929b-f1fb-46e9-8b14-e964b1d5deee.mycmd.noperms: '&7Dazu haben Sie keine Berechtigung!'
 dc6b9c7f-ed1d-4b70-994f-2f2eda07f057.deathmessages.Mobs.giant.Gang.Weapon.0: '%1 wurde
   von ein paar %2 angegriffen! Einer schlug sie mit %3'
-5ff83eed-6878-4086-bed0-3ae0fbcc1e19.advancedenchants.commands.main.setsouls.success:
+5ff83eed-6878-4086-bed0-3ae0fbcc1e19.advancedenchants.commands.main.setsouls.success: "&cSet
+  item's soul count to: %1"
 50661fa1-9af2-4873-8f88-4f72405c0efe.deathmessages.Mobs.skeletonhorse.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-1c0574f7-4f30-403d-adac-71338eca2afc.advancedenchants.tinkerer.non-tradeable-item.0:
+1c0574f7-4f30-403d-adac-71338eca2afc.advancedenchants.tinkerer.non-tradeable-item.0: "&cThe
+  Server Tinkerer doesn't want that item!"
 eed6dff9-d1ca-422d-a44a-5553d0b23b87.tab.ani.3.3: '&fᴋᴀᴜғᴇ ʀᴀ̈ɴɢᴇ ᴜɴᴅ ᴘᴜɴᴋᴛᴇ ɪɴ ᴜɴsᴇʀᴇᴍ
   sʜᴏᴘ!'
 e125d8b1-6f3c-4ce4-bbb9-5feae7adfb18.lands.messages.lands.command.accept.area.success: '&7Erfolgreich
@@ -4874,7 +5030,8 @@ ba6ce514-a6ad-43b1-8577-f9b52ff1e216.lands.messages.general.inbox.member.join: '
 273cb6aa-489d-4521-840f-bb3daaf2e259.lands.messages.wars.message.capture.broadcast: >-
   #b#[config]color:red,style:solid[/config]&cFeind erobert einen Teil von %1 -
   %2%, %3 Eindringling(en), x: %4, y: %5, z: %6
-b0fc5a1c-71c5-439f-8a3a-3daaa050ee49.advancedenchants.commands.invalid-enchant:
+b0fc5a1c-71c5-439f-8a3a-3daaa050ee49.advancedenchants.commands.invalid-enchant: '&c%1
+  is not a valid enchant!'
 ae0bffa5-c213-41b6-8945-411d5ddbf8e2.PlayerParticlesfixed-info-invalid: '&7Unable
   to get info, you do not have a fixed effect with the ID of &c%1&7!'
 2162ab49-b68e-4806-8ac6-0db6887a9819.lands.messages.wars.command.general.no-war: >-
@@ -4887,7 +5044,8 @@ fa810ba7-271b-4584-82ec-8ecdde868842.tempflygeneral.invalid.permission: '&7Dazu 
 9fabff96-0c43-42a6-a10b-b6adf13be243.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_IGNORED_FOR_PERMISSIONS.Lore.9: '#bbff6a▪
   #bdc8c9Right-Click: #bbff6aListe löschen'
 793e3cbb-0457-4766-a09e-99a86a2963c9.ib.tilgis.top-money-server: '&fServer Geld'
-0288f5db-070f-417c-929a-243e481f51bd.advancedenchants.commands.main.enchant.removed:
+0288f5db-070f-417c-929a-243e481f51bd.advancedenchants.commands.main.enchant.removed: '&cRemoved
+  the %1 enchant from the item.'
 228bf952-1c9f-4071-8660-7f4cb2ff835f.tempflycommand.base.speed.0: Geschwindigkeit
 15bd5cbb-8702-4b7d-80e5-47d57adad6ed.cmd.settings.desc.s13: |2
 
@@ -4960,7 +5118,8 @@ bf5e9414-a8f2-4c92-9f52-3428bee3dc5c.deathmessages.Mobs.husk.Gang.Melee.0: '%1 w
   wurde von einem %2 irgendwie mit %3 erschlagen'
 79fcc495-a47e-4e0c-9707-a836bdd197e1.deathmessages.Mobs.pillager.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-a39faa17-9341-40bc-86ec-e3d228bcb1bf.advancedenchants.items.white-scroll.item-saved:
+a39faa17-9341-40bc-86ec-e3d228bcb1bf.advancedenchants.items.white-scroll.item-saved: '&aWhite
+  scroll saved the item!'
 4915c45d-7c31-49e1-969c-b096cfe8fa02.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.1: '#bdc8c9diese
   Kiste zum Öffnen oder zur Vorschau'
 06f9e736-e571-4e02-9ee4-137e5bb7ac49.playerpoints.command-take-lacking-funds: '&b%1
@@ -4975,8 +5134,10 @@ cc508f86-8e6d-4464-844d-53e5c0453799.deathmessages.Mobs.illusioner.Solo.Projecti
   wurde von einem %2 irgendwie mit %3 erschossen'
 3bd7f751-b90e-4099-81db-cf502cb2f50b.deathmessages.Mobs.stray.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-6f7e29d5-5412-4bb6-b5df-57c477782830.advancedenchants.alchemist.exceeds-max-level:
-6d0b43c5-7754-46a2-b79c-07b725abe7a0.advancedenchants.items.soul-tracker.disabled:
+6f7e29d5-5412-4bb6-b5df-57c477782830.advancedenchants.alchemist.exceeds-max-level: '&cYour
+  combined level exceeds maximum enchantment level!'
+6d0b43c5-7754-46a2-b79c-07b725abe7a0.advancedenchants.items.soul-tracker.disabled: '&cSouls
+  are not enabled on this server!'
 0cad4439-b1fe-40ca-82d1-24a2dc763a18.deathmessages.Mobs.player.Solo.Projectile-Fireball.0: '%1
   wurde von %2 mit Feuerbällen beschossen'
 7e791111-b1e0-4ea9-a3bc-50b6ed4a5aed.excellentenchantmentsCommand.Enchant.Usage: '%1
@@ -5011,7 +5172,8 @@ c74e25f9-36b2-4e4c-bb1c-3935ef9f2f9c.lands.messages.general.map.info.others: ' &
    &b| &8Stelle deine Sprache ein
    &b| &7Russisch!
    &3| &fKlick zum Ändern.
-aa1734d7-5f8b-499a-b09a-88430ae45ac1.advancedenchants.applying.not-applicable-with:
+aa1734d7-5f8b-499a-b09a-88430ae45ac1.advancedenchants.applying.not-applicable-with: '&cThe
+  &4%1 &cenchantment cannot be applied together with the &4%2&7 &cenchant!'
 7d335209-eb14-46e1-a67e-5e2eb0af3332.cmd.settings.desc.s12: |2
 
   &bBeschreibung
@@ -5049,7 +5211,8 @@ c1c649f5-d523-4ccc-ad7d-77b6f237aea3.deathmessages.Mobs.goat.Gang.Melee.0: '%1 w
   erklären, sind&3 %2 &7Spieler.
 07056d40-05b1-401e-9e1b-c27483dcfd2f.lands.messages.lands.command.general.not-exist: '&cEs
   gibt kein solches Land oder Volk mit dem Namen&4 %1&c. &7Typo?'
-5170ac0b-3b27-4e64-bdde-f6ad7b571b49.advancedenchants.token.success:
+5170ac0b-3b27-4e64-bdde-f6ad7b571b49.advancedenchants.token.success: '&2&lx &aSuccessfully
+  downloaded token &l%1&a enchantment, reloading...'
 c3e9a018-10a1-47ef-8fea-e6ab0ff0e393.excellentcratesCrate.Key.Error.Exists: '#fd5e5eDer
   Schlüssel mit dieser ID ist bereits vorhanden!'
 417c3a6c-6088-4c8a-a92d-ea074a69383d.cmd.settings.title.s33: '&bAnnouncements Sound
@@ -5067,7 +5230,8 @@ d970d355-4e95-4634-bdf5-aaab0f4ba419.SuperVanishMessages.EntityHitDenied: '&b&l%
 
   &cDer Verteidiger hat die
   &ctdie Erklärung noch nicht angenommen.
-7bde59e8-4f12-4020-861d-cbb2ff324944.advancedenchants.commands.main.tinkereritem.success:
+7bde59e8-4f12-4020-861d-cbb2ff324944.advancedenchants.commands.main.tinkereritem.success: "&cGave
+  x%1 tinkerer item's to %2"
 154ee715-fc9f-4b0a-9b88-dfc314c866c8.chatcolor.gui-active: '&bAktiv'
 1884cdaa-e5a9-4e62-aa02-381d7450c92d.deathmessages.Mobs.parrot.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
@@ -5076,7 +5240,8 @@ d970d355-4e95-4634-bdf5-aaab0f4ba419.SuperVanishMessages.EntityHitDenied: '&b&l%
 1e94d983-a952-439b-89b0-90b67c5a6424.deathmessages.Mobs.guardian.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 82e6031e-9dcd-4e22-8894-7b319c9f0383.lands.messages.list.sign.rented.0: '&6&lVermietet'
-b1a99845-d46f-4409-85ca-2acf6ae235e4.advancedenchants.commands.main.zip.success:
+b1a99845-d46f-4409-85ca-2acf6ae235e4.advancedenchants.commands.main.zip.success: '&eA
+  zip file containing all plugin data has been created at %1.'
 477bd285-4965-41e2-b391-ef957e1b62b6.deathmessages.Mobs.player.Solo.Melee.0: '%1 wurde
   von %2 erschlagen'
 5c092b26-91ef-41e0-8e5d-db6d718bf826.deathmessages.Mobs.pig.Solo.Projectile-Arrow.0: '%1
@@ -5092,7 +5257,8 @@ b1a99845-d46f-4409-85ca-2acf6ae235e4.advancedenchants.commands.main.zip.success:
 292ab78f-0282-4f72-8990-80095c80eb05.lands.messages.help.help.sub.unknown: |
   &cDer Unterbefehl&4 %1 &cist nicht vorhanden.
    [T]&7✖ Befehle anzeigen: &3/%2 &8[KLICK][H]&7Klicke hier, um eine Liste der verfügbaren Befehle zu erhalten[/H][C]%3[/C][/T]
-8e26ded0-73f5-4b95-ae67-19c03e8ddb07.advancedenchants.commands.enchantment-info.invalid-usage:
+8e26ded0-73f5-4b95-ae67-19c03e8ddb07.advancedenchants.commands.enchantment-info.invalid-usage: '&cInvalid
+  usage! Proper usage: %1 <enchantment>'
 32adbb61-6598-466d-9a76-4d087e3fd96a.PlayerParticlescommand-description-worlds: 'Finde
   heraus, in welchen Welten Partikel deaktiviert sind'
 3c3bb5b7-f0f1-4b1f-8fcc-4ab7fefa5127.lands.messages.lands.message.event.inbox: '&eInbox
@@ -5122,7 +5288,8 @@ ec2f1a8b-c311-4e44-a1db-95aee2166ce6.lands.messages.help.command.lands.admin.pla
   Kopieren.[/H][SC]%3[/SC][/T]
 ca1d3eba-d892-4d39-b33f-d3be009186ee.deathmessages.Mobs.drowned.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-cf876227-c5f4-485e-9eec-201fa5e8638f.advancedenchants.commands.main.setsouls.invalid-item:
+cf876227-c5f4-485e-9eec-201fa5e8638f.advancedenchants.commands.main.setsouls.invalid-item: '&cInvalid
+  item.'
 48dde147-0b05-4cad-bb8e-7dbaca9fc58b.cmd.main.desc.31: |-
   &bBeschreibung
    &b| &7Viel Spaß bei diesem
@@ -5141,7 +5308,8 @@ e8d62f0c-cb46-4a60-b248-60f0b92c6f2b.deathmessages.Mobs.ocelot.Gang.Weapon.0: '%
   und verwalte Belohnungen hier!'
 6447daf1-1cdc-4e7b-a9b3-098be40cf12d.deathmessages.Mobs.skeleton.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-b70a901a-3979-4284-8ef7-5fd860bf978a.advancedenchants.sets.commands.invalid-set:
+b70a901a-3979-4284-8ef7-5fd860bf978a.advancedenchants.sets.commands.invalid-set: '&cSet
+  is invalid.'
 0b0316f2-56f7-4e82-9dc1-9c22c61f27b9.PlayerParticlesadd-particle-applied: >-
   &7Ein neuer Partikel wurde mit dem Effekt &b%1&7, dem Stil &b%2&7 und den
   Daten &b%3&7 angewendet!
@@ -5161,7 +5329,8 @@ e2e948fb-88b6-43ae-87a4-73bcfc2067de.lands.messages.lands.command.setspawn.wilde
 25d2e01e-8383-43d0-878c-e2c616432871.tempflygeneral.time.sent_other: '%1 &7Du hast
   &f%2&f ⌚%3&7.'
 0c8bf1a2-cfce-4447-bc14-331b1ab9a79b.excellentenchantmentsFitItemType.TRIDENT: Dreizack
-3a1f93b5-c06f-4e4e-ba73-9b55928797d7.advancedenchants.commands.main.givegkit.success:
+3a1f93b5-c06f-4e4e-ba73-9b55928797d7.advancedenchants.commands.main.givegkit.success: '&cKit
+  %1 was given to player %2'
 448998e2-c28c-47d7-9882-0df7614095c0.deathmessages.Mobs.chicken.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 acf56e3d-a874-413e-b8e5-809a3e26b9ad.excellentcratesCrate.Open.Reward.Broadcast.5: '#d4d9d8'
@@ -5176,7 +5345,8 @@ feb189ea-d710-4e8e-9e24-8387929c9fd0.deathmessages.Mobs.traderllama.Gang.Weapon.
   Du kannst keine Nation mit Land&4 %1 &als Hauptstadt gründen, während sie sich
   in einem Krieg gegen&4 %2&c befindet. &7Bitte versuche es noch einmal, wenn
   der Krieg vorbei ist.
-826a54bb-4346-43c0-9f21-2a36562a48af.advancedenchants.commands.main.unenchant.invalid-enchant:
+826a54bb-4346-43c0-9f21-2a36562a48af.advancedenchants.commands.main.unenchant.invalid-enchant: '&c%1
+  is not a valid enchant!'
 d5f668d0-a91b-4053-857d-57cdf0ba1e0a.lands.messages.help.command.wars.deny: >-
   [T]&e%1 %2 &8- &7Gegenseitige Kriegserklärung ablehnen[H]&7Klick zum
   Ausführen.[/H][C]%3[/C][/T]
@@ -5342,12 +5512,14 @@ d69fcce8-1c8c-43a7-9cf5-7a8e90f36e80.SuperVanishMessages.ListMessagePrefix: '&b&
   von einem %2 erschlagen'
 31dfec21-db2c-47e0-a6c0-4d9c8e36716d.deathmessages.Mobs.zombiehorse.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-26c40281-c3b3-4c4a-9ddd-e936b63457cd.advancedenchants.applying.max-level:
+26c40281-c3b3-4c4a-9ddd-e936b63457cd.advancedenchants.applying.max-level: '&cThis
+  enchantment is already at max level!'
 063b0a5d-3428-486d-8494-14f8a8a6368e.PlayerParticlesgui-reset-particles-description: Löscht
   alle deine aktiven Partikel
 c13b2c24-273a-4431-b6c2-73fa51587001.deathmessages.Mobs.traderllama.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-b6b22717-5b47-4b3c-9a3a-a8314e50996e.advancedenchants.commands.main.open:
+b6b22717-5b47-4b3c-9a3a-a8314e50996e.advancedenchants.commands.main.open: '&aOpened
+  %1 for %2!'
 60b6ac6f-1412-4877-8635-9f6494691168.tempflycommand.unit.minutes.recognized.2: Minute
 54bfaad9-1310-48db-8796-f099f57b94ce.PlayerParticlesgui-select-data-color-transition-start: '&7Wähle
   die &bstart &7Farbe'
@@ -5373,7 +5545,8 @@ adfd8793-9c2c-4e3e-953f-5e48c89cbd5d.deathmessages.Natural-Cause.Contact.0: '%1 
 9a4169d8-dba3-421c-9eeb-1639267e5114.lands.messages.wars.message.capture.destroy.presense: >-
   &cDiese Eroberungsflagge kann derzeit nicht gebrochen werden. &7Es befinden
   sich noch&3 %1 &7feindliche Spieler in diesem Gebiet.
-5d3a441a-bf57-484b-834f-1b1b2223c0e5.advancedenchants.enchanter.cannot-afford.0:
+5d3a441a-bf57-484b-834f-1b1b2223c0e5.advancedenchants.enchanter.cannot-afford.0: '&cYou
+  do not have enough EXP to purchase that.'
 e0dae569-0453-4644-8799-3139318a6bf4.deathmessages.Mobs.stray.Gang.Weapon.0: '%1 wurde
   von ein paar %2 angegriffen! Einer schlug sie mit %3'
 07c29a44-5dba-4f01-8e72-0db0f47019be.lands.messages.wars.message.capture.place.state: >-
@@ -5413,7 +5586,8 @@ c0ff24e7-b95e-44d4-bdcd-af9894b9617d.excellentcratesCommand.Open.Desc: 'Bringt [
   haben Sie keine Berechtigung!'
 15436d85-17f1-45ca-9354-8c4ddae61fd2.deathmessages.Mobs.zombie.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
-a8f77c4b-0314-40ea-9d5b-78b7309e4a5d.advancedenchants.sets.commands.weapon.success:
+a8f77c4b-0314-40ea-9d5b-78b7309e4a5d.advancedenchants.sets.commands.weapon.success: '&eGave
+  &f %1 &eSet to &f %2'
 d0157a51-2532-49a8-aa49-69d1174dcfe5.deathmessages.Mobs.phantom.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 f83074a9-78ba-4386-a7d0-e2f6e28f8f07.gsitMessages.command-permission-error: '[P]&c
@@ -5471,7 +5645,8 @@ f79892b9-7353-4f72-90a7-37490a49bd07.lands.messages.lands.command.general.noacce
   %1'
 82bf34df-2964-4a9b-9302-289c85e6b8dc.excellentenchantmentsFitItemType.TRIDENT: Dreizack
 c4645f69-c0eb-44fd-b518-1be148468ee6.ia.8.1: Laden Sie Ihre Freunde zum Spielen ein
-9abc0fa2-6069-47af-933d-dd19edd208ee.advancedenchants.commands.main.unenchant.success:
+9abc0fa2-6069-47af-933d-dd19edd208ee.advancedenchants.commands.main.unenchant.success: '&aRemoved
+  enchant %1!'
 ef46717a-8dba-4ac0-a78e-4bdec2e1a6fc.deathmessages.Mobs.player.Solo.CombatLogX-Kill.0: >-
   %1 hat sich während des Kampfes gegen %2 ausgeloggt, sie sind trotzdem
   gestorben -.-
@@ -5493,7 +5668,8 @@ d32166fb-5fa9-4c90-b18a-0dd6444d9273.excellentcratesEditor.CrateEditorType.CRATE
   %1'
 d7e04fa8-d717-4558-85d8-7e88ab43de9d.deathmessages.Mobs.donkey.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
-365cd0b1-44a0-42cd-9214-5f609d021387.advancedenchants.chances.book-failed:
+365cd0b1-44a0-42cd-9214-5f609d021387.advancedenchants.chances.book-failed: "&cYour
+  book failed but item wasn't destroyed!"
 f89daba7-7f65-4706-8f40-037715c9dfae.cmd.upgrade.choose.title.s25: '&b&lGruppen'
 9f41a831-b72f-4698-82fe-9ff691d42897.PlayerParticlescommand-description-fixed-remove: '&b/pp
   fixed remove&3 <ID> &8-&f Entfernt einen fixen Effekt anhand seiner ID'
@@ -5538,7 +5714,8 @@ b6df58af-c776-4241-a9d9-24783d0a0601.lands.messages.lands.command.leave.area.suc
   wurde von einem %2 irgendwie mit %3 erschlagen'
 354cc497-6ffa-4c7e-9fd5-dcd1c9afe0ad.deathmessages.Mobs.pillager.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
-5ba1ea43-e5e4-44dd-9e61-63469b6d4ba5.advancedenchants.commands.gedit.setdelay.invalid-delay:
+5ba1ea43-e5e4-44dd-9e61-63469b6d4ba5.advancedenchants.commands.gedit.setdelay.invalid-delay: '&c%1
+  is not a valid integer!'
 8da13c26-17af-4a74-8ec6-423ba689ac6c.lands.messages.lands.command.merge.nation: >
   &cDu kannst Land&4 %1 &cinto&4 %2&c nicht fusionieren. &7Land&2 %3 &7ist die
   Hauptstadt der Nation&9 %4&7.
@@ -5561,7 +5738,8 @@ dbfd874b-da0d-4873-901f-90fc1277236d.deathmessages.Mobs.hoglin.Solo.Melee.0: '%1
   sortieren'
 2f17d638-93a8-450f-94fd-68085dbe47bc.deathmessages.Mobs.traderllama.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-b46f2180-7dd8-4eb9-bb92-48cfaf29bf32.advancedenchants.sets.commands.offline-player:
+b46f2180-7dd8-4eb9-bb92-48cfaf29bf32.advancedenchants.sets.commands.offline-player: '&cPlayer
+  is offline.'
 8ef51c5b-0f00-4c77-804e-f41487e91c45.lands.messages.help.command.lands.spawn: >-
   [T]&e%1 %2 %3 &8- &7Teleport an Land[H]&7Klick zum
   Kopieren.[/H][SC]%4[/SC][/T]
@@ -5582,7 +5760,8 @@ cca8977b-60e8-4255-9e61-3fb4bec0bec3.lands.messages.help.command.lands.menu: '[T
   mit der Wildnis überschneidet.
 662992d0-81b1-4eb8-977b-04acf090b232.PlayerParticlesother-unknown-command: '&7Der
   Befehl &b/pp &3%1 &7ist nicht vorhanden.'
-8c09ddc2-ec14-4af8-afd8-a01756dc9e35.advancedenchants.enchanter.full-inventory:
+8c09ddc2-ec14-4af8-afd8-a01756dc9e35.advancedenchants.enchanter.full-inventory: '&cYour
+  inventory is full!'
 b33ba3f4-ab00-4fc5-8500-f266b0f9cc0b.cmd.rules.chat.1-3: >-
   &7&lDas Einbringen von beleidigenden Inhalten in Konversationen in jeglicher
   Form
@@ -5619,7 +5798,8 @@ b911c9a0-45ed-4450-a7d0-6acf21b647f4.lands.messages.lands.message.chat-input.ren
 e68c4a13-5caa-4151-af88-4023f4178949.deathmessages.Mobs.villager.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 b47f7209-18ac-475b-aedc-8b2b9472f197.excellentenchantmentsFitItemType.UNIVERSAL: Universal
-f2b7d1a8-4c29-417a-aa5e-ced586965494.advancedenchants.commands.main.zip.success:
+f2b7d1a8-4c29-417a-aa5e-ced586965494.advancedenchants.commands.main.zip.success: '&eA
+  zip file containing all plugin data has been created at %1.'
 29223fb5-3606-4cdb-ad0f-c084183ccbd6.lands.messages.lands.command.relations.enemies.add.broadcast: '&7%1
   &7und %2 &7 sind jetzt Feinde.'
 bf422279-295c-4041-ac16-e8612591f3ca.gsitMessages.command-gsit-playertoggle-on: >-
@@ -5683,7 +5863,8 @@ b1a9cda1-8d56-4eca-9ae0-6e2ee6a9e46a.cmd.event.money: '&b&lGratisgeld &7(hol dir
 c399e653-9706-498f-bb88-7c5c73ee95b6.lands.messages.lands.command.withdraw.failed: >-
   &cDie Abhebung ist fehlgeschlagen. &7Der Server begrenzt möglicherweise den
   Betrag, den du abheben kannst.
-bfc5ff0c-9368-49be-a94d-67a9b354a63a.advancedenchants.combining.something-went-wrong:
+bfc5ff0c-9368-49be-a94d-67a9b354a63a.advancedenchants.combining.something-went-wrong: '&cSomething
+  went wrong with combining.'
 95b24131-328c-4b28-ae0b-e7e5cd02efd7.deathmessages.Mobs.dolphin.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 9cbdfe9e-7e7c-425d-9ae3-54108f0896f5.cmd.settings.title.false.s23: '&bScoreboard &8|
@@ -5725,7 +5906,8 @@ c81a9ccc-65e8-4b7e-8076-7de227be2a41.excellentcratesEditor.CrateEditorType.CRATE
   #bdc8c9Links-Klick: #bbff6aTeilchen wechseln'
 b6a3fe3c-6147-402a-ab75-1720c056fe6f.deathmessages.Mobs.player.Solo.Projectile-Fireball.0: '%1
   wurde von %2 mit Feuerbällen beschossen'
-57d9dab0-5982-416d-95e5-0001bf25f404.advancedenchants.gkits.cooldown:
+57d9dab0-5982-416d-95e5-0001bf25f404.advancedenchants.gkits.cooldown: '&eYou cannot
+  use this kit yet, kit &6%1&e is on cooldown &7(%2)'
 57c7ea54-4557-4af0-9e57-65a2ac497add.tempflycommand.unit.hours.recognized.1: Stunde
 26e351ec-bd51-4dc8-b39b-15010434bbe1.deathmessages.Mobs.warden.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
@@ -5742,7 +5924,8 @@ e5d39733-e0f9-4e5e-b9b6-226ed9e53ade.excellentenchantmentsFitItemType.LEGGINGS: 
 c1d59e97-f6c1-4913-a2f6-f7a12cd81e10.deathmessages.Mobs.drowned.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 e41af4d4-556c-45ab-90a9-d12ea2b749d8.tempflycommand.base.time.0: Zeit
-55cd3744-4f96-4015-ad06-6d8f093bc20e.advancedenchants.commands.withdrawsouls.invalid-usage:
+55cd3744-4f96-4015-ad06-6d8f093bc20e.advancedenchants.commands.withdrawsouls.invalid-usage: '&cUsage:
+  /withdrawsouls <count>'
 c3f976ff-887b-49bc-bee2-3ef750c4569f.deathmessages.Mobs.pufferfish.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 d7fe1984-2f55-464d-b91f-2b3f8722fc34.excellentcratesCommand.Key.Give.Usage: '%1 %2
@@ -5772,7 +5955,8 @@ c7bd740d-f264-44cc-80d2-16252e4ca0f9.deathmessages.Mobs.irongolem.Gang.Projectil
   wurde von einem Haufen schallgeladener Schreie ausgelöscht'
 f01073c9-d44b-4dfd-9775-605641cd1efc.deathmessages.Mobs.panda.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-11733b7e-eaec-477f-808e-e2c38372f729.advancedenchants.commands.offline-player:
+11733b7e-eaec-477f-808e-e2c38372f729.advancedenchants.commands.offline-player: '&cThat
+  player is not online!'
 4f860330-0405-42d4-bba5-5ae964386150.cmd.main.title.s39: '&b&lBenutzerdefinierte Verzauberungen'
 1b298b27-c20f-48e4-8767-8813ffacf765.deathmessages.Mobs.villager.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
@@ -5787,7 +5971,8 @@ f01073c9-d44b-4dfd-9775-605641cd1efc.deathmessages.Mobs.panda.Gang.Projectile-Ar
   (%7): %8</li> </ul>
 c7ad4491-4eab-4d42-81d7-801f1a57a002.deathmessages.Natural-Cause.Lightning.0: '%1
   wurde von /Beleuchtung getroffen'
-05f297bf-674d-44d9-9cde-746c1304692b.advancedenchants.applying.applied:
+05f297bf-674d-44d9-9cde-746c1304692b.advancedenchants.applying.applied: '&aEnchantment
+  was applied to your item.'
 6bb6be09-57a5-4f20-b871-81bf55c8b5cf.lands.messages.general.integration.pl3xmap.capital.spawn: >-
   <div class="\"infowindow\""><span style="font-size: 200%;"><span style="color:
   %1;">Hauptstädte Spawnpoint</span><br /></span> Dieser Spawn gehört zu der
@@ -5805,7 +5990,8 @@ fb033e33-a884-4769-932f-c04226f2ceb4.dh.menu.l4: '&7do Jobs, besuche den Laden u
 8019a20b-9366-4e51-81b9-89b96691c7ea.cmd.settings.title.true.s20: '&bTeleport &8|
   &7[Aktiviert]'
 a3906af4-2f92-4b82-a37f-6c0a6836bb50.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.6: '#bbff6a&lAktionen:'
-8882db3c-4297-4614-8028-78c5cc14cd73.advancedenchants.commands.main.enchant.upgraded:
+8882db3c-4297-4614-8028-78c5cc14cd73.advancedenchants.commands.main.enchant.upgraded: '&2Upgraded
+  %1 from level %previous-level% to %2.'
 d78fb5cc-2dae-4900-96b7-e560d7d7efb3.PlayerParticlesupdate-available: >-
   &7Ein Update (&bv%1&7) ist verfügbar! Du führst &bv%2&7 aus.
   &bhttps://www.spigotmc.org/resources/playerparticles.40261/
@@ -5846,9 +6032,11 @@ a42a5344-c925-4e62-88ae-9a9f00568128.lands.messages.help.command.wars.admin.end:
   Ausführen.[/H][C]%3[/C][/T]
 b38f2a6a-38ab-4b83-8310-1ba435065608.excellentcratesEditor.CrateEditorType.Reward.Rarity.Lore.4: '#ffed6a▪
   #bdc8c9Rarität: #ffed6a%1'
-1aad8c87-cdbd-4a74-ae81-5a114b28b4ba.advancedenchants.chances.book-failed:
+1aad8c87-cdbd-4a74-ae81-5a114b28b4ba.advancedenchants.chances.book-failed: "&cYour
+  book failed but item wasn't destroyed!"
 f4cf74cb-4892-4f57-a154-0d75f67a1c7a.tempflysystem.help.2: '&7- Umschalten des Tempelflyers'
-dc02bdde-e036-436c-b04d-52befd1c7f96.advancedenchants.enchant-limitations.cannot-be-modified:
+dc02bdde-e036-436c-b04d-52befd1c7f96.advancedenchants.enchant-limitations.cannot-be-modified: '&cThis
+  item cannot be modified!'
 e897b0c6-95b0-4494-a40f-ea1f090ca934.lands.messages.nations.command.leave.confirm: >
   &7Bitte bestätige, dass du Land&2 %1 &7aus der Nation&9 %2&7 entfernen
   möchtest:
@@ -5870,8 +6058,10 @@ f2e16bd7-8cce-4a8a-9de3-7c1badc9a31b.tempflyaesthetic.trail.removed_other: '%1 &
   &7hatten ihre Spur verloren!'
 c5c78938-b9f9-4342-9284-40e9024ec263.alonsotags.Tag-purchased: Sie haben das Tag &f%1&7
   erfolgreich gekauft!
-222f58db-4d88-4307-8de1-24951c8da73c.advancedenchants.enchanter.examine-book:
-98e1b4b3-fc0b-42e0-beb3-0dbb64d7f6e9.advancedenchants.commands.main.pastetypes:
+222f58db-4d88-4307-8de1-24951c8da73c.advancedenchants.enchanter.examine-book: '&7You
+  examined %group-color%%group-name%&7 book and found %enchant-color% %1'
+98e1b4b3-fc0b-42e0-beb3-0dbb64d7f6e9.advancedenchants.commands.main.pastetypes: '&aEnchantment
+  type list: %1'
 20412212-f754-4ea3-bfdc-7178039e2cea.playerpoints.command-pay-description: '&8 - &b/points
   pay &3<Spieler> <Menge> &8- &fBezahle einen Spieler'
 8b9dab3d-7493-4c5b-ba77-2382230bbcd6.cmd.main.desc.s10: |-
@@ -5883,7 +6073,8 @@ c5c78938-b9f9-4342-9284-40e9024ec263.alonsotags.Tag-purchased: Sie haben das Tag
    &8▪ &7Mitarbeiter: &f%1
    &8▪ &7Jobs Joined: &a%2&8/&c%2
   &8%4
-739a5f94-1375-4905-8371-3e199c069a7a.advancedenchants.items.soul-tracker.apply-successful:
+739a5f94-1375-4905-8371-3e199c069a7a.advancedenchants.items.soul-tracker.apply-successful: '&7You
+  successfully applied &f&lSoul Tracker &7to your item!'
 dabcdd3e-d4bc-4d38-8619-0fd05a0e8e6d.deathmessages.Mobs.cat.Gang.Weapon.0: '%1 wurde
   von ein paar %2 angegriffen! Einer schlug sie mit %3'
 64618744-fc17-4fad-9c2b-639fd31070ce.cmd.kits.choose.title.s20: '&b⌚ &8| &bFree Kit'
@@ -5902,7 +6093,8 @@ eb18b1a6-8826-4456-9b1b-e1dd67d5ca61.excellentcratesEditor.CrateEditorType.KEY_C
   #bdc8c9Right-Click: #bbff6aObtain'
 04d08786-2419-4f9d-a24d-c04384fb452a.excellentcratesEditor.CrateEditorType.Reward.Rarity.Lore.1: '#bdc8c9Erfahre
   mehr darüber im Plugin-Wiki.'
-875b3303-ac21-4e70-8690-3b0e0c007302.advancedenchants.enchanter.disabled-in-world:
+875b3303-ac21-4e70-8690-3b0e0c007302.advancedenchants.enchanter.disabled-in-world: '&cThe
+  Enchanter is disabled in this world.'
 56d67910-a5c8-49b9-9886-d022778335f5.chatcolor.gui-title: '&8Chatcolor Auswählen'
 bdd6d1d0-09cf-426b-ab07-3b66a052cd23.deathmessages.Mobs.vindicator.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
@@ -5928,10 +6120,12 @@ e040daa5-510d-4e05-91a9-febb0c5c1830.playerpoints.command-lead-title: '&b&lPunkt
 7cb7e202-29d1-4010-9be3-348cfff5402c.lands.messages.wars.message.capture.place.region: >-
   &Cann die Eroberungsflagge hier nicht platzieren. &7Es überschneidet sich mit
   einem Eroberungsbereich einer anderen Eroberungsflagge.
-637adede-da3b-4ad7-a7a2-9b206663dba3.advancedenchants.enchanter.cannot-afford.1:
+637adede-da3b-4ad7-a7a2-9b206663dba3.advancedenchants.enchanter.cannot-afford.1: '&7Your
+  XP: %1'
 e503547c-d7aa-4b56-8276-dabd47fbe3ee.lands.messages.nations.command.general.not-exist: '&cDie
   Nation&9 %1 &cExistiert nicht. &7Es gibt keine Nation mit diesem Namen.'
-5671437a-cb6d-403f-aa10-ce316bf98e96.advancedenchants.items.randomization-scroll.cannot-apply:
+5671437a-cb6d-403f-aa10-ce316bf98e96.advancedenchants.items.randomization-scroll.cannot-apply: '&cYou
+  cannot apply a randomizer to this!'
 635c23eb-35b5-4f89-b42c-72b3339a3669.deathmessages.Mobs.stray.Gang.Weapon.0: '%1 wurde
   von ein paar %2 angegriffen! Einer schlug sie mit %3'
 f3432f51-6698-4d8c-83e8-9ab5465be7aa.lands.messages.help.command.lands.admin.player.delete: >-
@@ -5949,8 +6143,10 @@ cf1fc1c5-1847-40c2-8242-22fbdb0a3ffe.deathmessages.Mobs.cavespider.Solo.Projecti
   wurde von einem %2 irgendwie mit %3 erschossen'
 869637ef-bb11-4c38-a3cb-fe85e13c8be6.deathmessages.Natural-Cause.Projectile-Unknown.0: '%1
   hat sich erschossen'
-4d77145f-e656-4c2a-961a-7e5fe3e57e5a.advancedenchants.commands.not-a-number:
-fcb4f302-cd55-4d9d-8fdc-e590e6abb7f0.advancedenchants.items.magic-dust.single-items-only:
+4d77145f-e656-4c2a-961a-7e5fe3e57e5a.advancedenchants.commands.not-a-number: '&c%1
+  is not a number!'
+fcb4f302-cd55-4d9d-8fdc-e590e6abb7f0.advancedenchants.items.magic-dust.single-items-only: '&cYou
+  can only use this on single items!'
 480fd329-b8f6-4035-a6ed-b6fceeb26a66.lands.messages.help.command.nations.spawn: '[T]&e%1
   %2 &8- &7Kapitaler Laich[H]&7Klick zum Kopieren.[/H][SC]%3[/SC][/T]'
 43bc9f69-93b6-4080-a682-2bf8a0516567.excellentcratesEditor.CrateEditorType.CRATE_CREATE.Lore.2: '#bbff6a▪
@@ -5975,10 +6171,12 @@ efd21f60-e0f2-4460-9e2c-22c236ca6f71.deathmessages.Mobs.wolf.Solo.Projectile-Arr
 6855b6f3-0e79-4fbe-b063-1e30f09e643b.cmd.upgrade.choose.title.s29: '&b&lJobs'
 7466c79f-54d7-4fa0-b038-8beb363f7c4d.deathmessages.Mobs.endermite.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-b9335fe5-a0cc-4541-a38e-f9af42de4ff6.advancedenchants.commands.main.enchant.added:
+b9335fe5-a0cc-4541-a38e-f9af42de4ff6.advancedenchants.commands.main.enchant.added: '&aAdded
+  the %1 enchant!'
 eb229c9c-927a-4eb6-87ac-e275c7318157.deathmessages.Mobs.endermite.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-1ff4dc42-e98a-46a5-8aed-d0658edbf888.advancedenchants.commands.invalid-amount:
+1ff4dc42-e98a-46a5-8aed-d0658edbf888.advancedenchants.commands.invalid-amount: '&cInvalid
+  amount. Must be between 1-64.'
 431df96c-ff9b-4d45-8ab2-07a06b5e278e.deathmessages.Mobs.rabbit.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
 81bcdf7c-3b2e-4e72-ad47-76c7e8629304.lands.messages.nations.command.setcapital.confirm: >
@@ -6011,7 +6209,8 @@ efaf23c5-6744-4cd2-b075-8e32b91c09d6.tab.ani.2.3: '&fᴋᴀᴜғᴇ ʙᴇғᴇʜ
   wurde von einem %2 irgendwie mit %3 erschlagen'
 ce2db2d0-b0a3-4073-9bb1-fd3d2f225b0a.deathmessages.Mobs.blaze.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
-e1d9e399-e0f7-4808-8eca-1c74e0385f94.advancedenchants.commands.apply.reapplied-for-all:
+e1d9e399-e0f7-4808-8eca-1c74e0385f94.advancedenchants.commands.apply.reapplied-for-all: '&aArmor
+  has been reapplied for everyone!'
 a0c64a09-8a8f-4129-b65b-1d5e31773285.cmd.links.desc.s29.2: |-
   &f
   §x§7§2§8§9§d§aBeschreibung
@@ -6047,7 +6246,8 @@ e651a801-44e2-4187-a743-848ad6fb9d06.cmd.settings.title.true.s24: '&bVote Broadc
 13c4b11e-4604-4a9c-afe9-c1ec51790a91.dh.your-tokens: '&fDeine Tokens:'
 9bdc605d-5d4e-402b-8339-ec473b2d1900.deathmessages.Mobs.skeleton.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
-8cf0baf5-7c4d-4d02-b2d9-9b1a8dccfa5d.advancedenchants.heroic.cannot-apply:
+8cf0baf5-7c4d-4d02-b2d9-9b1a8dccfa5d.advancedenchants.heroic.cannot-apply: "&cYou
+  can't apply a crystal upgrade to this item."
 e3e74879-748a-4e28-bbf1-4bd49a54997d.lands.messages.general.integration.pl3xmap.land.spawn: >-
   <div class="\"infowindow\""><span style="font-size: 200%;"><span style="color:
   %1;">Spawnpoint</span></span></div> <div class="\"infowindow\""> <br /> Offen
@@ -6131,7 +6331,8 @@ c38acaa9-a336-4f98-b00c-da02791da137.lands.messages.general.command.argument.typ
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 87af92da-aff4-43a3-a96b-be936d52a064.deathmessages.Mobs.panda.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
-8e6931cc-7ff3-4b36-ad70-3b777bd68f13.advancedenchants.orbs.cannot-apply:
+8e6931cc-7ff3-4b36-ad70-3b777bd68f13.advancedenchants.orbs.cannot-apply: '&cCannot
+  apply orb to this item!'
 39172408-eed2-427a-b431-5af9be076cc1.lands.messages.lands.message.teleportation.combat: >-
   Du kannst dich nicht teleportieren, während du in einen Kampf verwickelt bist.
   &7Warte bitte noch&5 %1 &7während du niemanden angreifst.
@@ -6175,7 +6376,8 @@ c921358e-79d5-4553-a31c-bb79d067bff9.deathmessages.Basic-Mode.Gang.Weapon.0: '%1
   von einer Gruppe von %2 irgendwie mit %3 erschlagen'
 43814aa0-7d2c-44d3-9309-3308883122cc.deathmessages.Mobs.mushroomcow.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-7a0bc773-8991-4ff6-bb89-b625a4832e35.advancedenchants.sets.commands.givepiece.success:
+7a0bc773-8991-4ff6-bb89-b625a4832e35.advancedenchants.sets.commands.givepiece.success: '&eGave
+  &f%1 &efrom &f%2 &eto &f %3'
 66471414-9ca1-4d31-8ddd-56b040aaec5b.lands.messages.wars.command.declare.min-balance.attacker: >-
   &cKann diese Erklärung nicht senden. &7Die Angreifer %1 &7brauchen ein
   Mindestguthaben von&c %2 &7um einen Krieg zu beginnen. Zahle Geld in deine
@@ -6210,7 +6412,8 @@ fa5b1af0-4563-4e71-9abd-68ca786f62cd.deathmessages.Mobs.cow.Solo.Weapon.0: '%1 w
 7e0559bf-923c-4607-9852-9a0c81a08ad3.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.5: >-
   #ffa76a▪ #bdc8c9Verwendest du einen Gegenstand mit vorgefertigtem Namen,
   Überlieferung, Modell usw.
-999d36da-a908-4e8b-be2d-4c793a3963bf.advancedenchants.commands.invalid-enchant:
+999d36da-a908-4e8b-be2d-4c793a3963bf.advancedenchants.commands.invalid-enchant: '&c%1
+  is not a valid enchant!'
 7e8c44ee-057a-483c-b720-9329e2b9646e.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.0: '#bdc8c9Stellt
   ein, wie lange der Spieler warten muss'
 bd64db01-1b9a-42c3-9b8f-56b531cbb9bf.PlayerParticlescommand-description-list: Listet
@@ -6227,7 +6430,8 @@ cae1c393-076e-484e-b7e3-775946fac5c3.excellentcratesCommand.Key.Set.Usage: '%1 %
   &7Du darfst jetzt fliegen!'
 57ca3db0-54c8-476c-b5ec-e787630f7e57.deathmessages.Mobs.ocelot.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-bcd78d90-7da1-4d61-a8aa-c3c477e41bd0.advancedenchants.combining.something-went-wrong:
+bcd78d90-7da1-4d61-a8aa-c3c477e41bd0.advancedenchants.combining.something-went-wrong: '&cSomething
+  went wrong with combining.'
 e673250f-c691-45d8-aa1d-957ca9e5a141.deathmessages.Natural-Cause.Bed.0: '%1 hat versucht,
   im %2 zu schlafen :kappa:'
 bfa1f4ba-0cf4-41aa-9a09-0a1f2458f149.lands.messages.lands.command.teleport.not-trusted: >-
@@ -6250,7 +6454,8 @@ c3b0e6fb-55f9-4a91-b88d-04aad17d0272.deathmessages.Mobs.turtle.Gang.Melee.0: '%1
   von einer Bande von %2 erschlagen'
 2d1ccccd-1543-4b84-88b9-edf5adab1bca.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.1: '#bdc8c9über
   dem Kistenblock mit dem angegebenen Text.'
-de18e034-2e3a-434b-9e4f-50be2302d5be.advancedenchants.enchanter.disabled-in-world:
+de18e034-2e3a-434b-9e4f-50be2302d5be.advancedenchants.enchanter.disabled-in-world: '&cThe
+  Enchanter is disabled in this world.'
 3023708b-5258-4bc5-a52e-649a639a980b.lands.messages.help.command.lands.admin.migratedb: >-
   [T]&e%1 %2 %3 &8- &7Migration der Datenbank[H]&7Klick zum
   Kopieren.[/H][SC]%4[/SC][/T]
@@ -6310,7 +6515,8 @@ b1b87f69-b65e-4243-8720-f32cf4d0fb57.lands.messages.lands.command.unclaim.succes
   &b&l● &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 c593dc86-e403-4447-b74b-535e95ff4170.deathmessages.Mobs.wanderingtrader.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-5387323b-cb89-4654-9e11-4bcfa52e2f7a.advancedenchants.items.black-scroll.invalid-enchant:
+5387323b-cb89-4654-9e11-4bcfa52e2f7a.advancedenchants.items.black-scroll.invalid-enchant: "&cCannot
+  remove enchant as it's invalid!"
 6c6f99ef-e4dd-4e51-b54b-4d3cc15b7b33.deathmessages.Mobs.hoglin.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
 a0fd5b7f-eb4c-4d0a-8cbc-3cfbb94eea53.deathmessages.Mobs.spider.Gang.Projectile-Arrow.0: '%1
@@ -6373,19 +6579,23 @@ ac195706-afbc-415a-91c3-c2bd8aac9946.deathmessages.Mobs.creeper.Gang.Projectile-
 
   [T]&7Mehr Infos: &e/%14 &8[KLICK][H]&7Klicke hier, um das Kriegsmenü zu
   öffnen.[/H][C]%15[/C][/T]
-1864fc66-4380-4126-af4a-a182cf346810.advancedenchants.sets.commands.listweapons.header:
+1864fc66-4380-4126-af4a-a182cf346810.advancedenchants.sets.commands.listweapons.header: '&eList
+  of all available Weapons &7[%1]'
 668c5d51-d9e2-43ad-a517-5eea0d00492c.lands.messages.help.command.lands.admin.about: >-
   [T]&e%1 %2 &8- &7Informationen über das Land anzeigen[H]&7Klick zur
   Ausführung.[/H][C]%3[/C][/T]
-571ae9f2-db79-4394-80b7-ef2aaee901c0.advancedenchants.combining.success:
+571ae9f2-db79-4394-80b7-ef2aaee901c0.advancedenchants.combining.success: '&aSuccess!
+  &7%1 is now level %2!'
 e3b8e97c-a97e-4fe6-b908-3d829d582ead.tempflyaesthetic.featherboard.seconds: '&f%1s '
 e886ead5-0d07-4d8c-8d55-528345d70db5.deathmessages.Mobs.bat.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
-52ff5272-ff00-40bf-8392-8efd588d110f.advancedenchants.commands.apply.no-args:
+52ff5272-ff00-40bf-8392-8efd588d110f.advancedenchants.commands.apply.no-args: '&cPlease
+  specify which player should be affected.'
 88f3b510-714e-471e-a67d-e3c043c0c10b.excellentcratesCrate.Open.Reward.Broadcast.3: '#d4d9d8'
 fc5a53a2-3042-41ae-980c-cd9d131d4642.tempflygeneral.time.max_other: '%1 &f%2 &7hat
   die maximal zulässige Zeit erreicht!'
-4b4deadb-3176-42fc-a0a2-33dcabe3f325.advancedenchants.gkits.missing-permission:
+4b4deadb-3176-42fc-a0a2-33dcabe3f325.advancedenchants.gkits.missing-permission: "&cGkit
+  %1's permission is invalid or non-existent"
 42c9d678-d976-4c5b-b45c-5de78af6fffd.lands.messages.list.sign.sell.area.3: '&8Klick
   zum Kaufen.'
 458a9a22-77e1-47c8-b42c-61b53d16a7ac.deathmessages.Mobs.evoker.Solo.Projectile-Arrow.0: '%1
@@ -6395,7 +6605,8 @@ c5f46110-b284-430c-b7c8-ce4ac2b61c66.deathmessages.Mobs.cat.Solo.Melee.0: '%1 wu
 1e4d6c67-4089-4108-a298-419787074c23.lands.messages.lands.message.noaccess.combat.target: >-
   &cDein Ziel darf hier keine Spieler angreifen. &7Du kannst hier nicht mit
   ihnen kämpfen. &7Dieses Gebiet gehört zu Land&2 %1&7.
-76752f72-9d5f-4d29-bef3-64cca93824d0.advancedenchants.commands.apply.reapplied-for-all:
+76752f72-9d5f-4d29-bef3-64cca93824d0.advancedenchants.commands.apply.reapplied-for-all: '&aArmor
+  has been reapplied for everyone!'
 1ec56c6a-0805-43e4-a651-977fc83c6da5.cmd.upgrade.choose.title.s11: '&b&lPlayerWarps'
 3a7c82b7-147d-4442-b989-d39c874cf829.cmd.settings.desc.unknown.s20: |2
 
@@ -6415,7 +6626,8 @@ c5f46110-b284-430c-b7c8-ce4ac2b61c66.deathmessages.Mobs.cat.Solo.Melee.0: '%1 wu
 3aa031d4-8d2a-4782-bc0d-2b78755f5deb.lands.messages.lands.command.delete.confirm: |
   &7Bitte bestätige die Löschung von Land&2 %1 &7, indem du unten klickst:
    [T]&2✔ Bestätige: &e/%2 &8[KLICK][H]&7Klicke hier, um diese Aktion zu bestätigen.[/H][C]%3[/C][/T]
-e747f4b8-3337-40ba-86ef-0b113f466dcb.advancedenchants.commands.main.givercbook.success:
+e747f4b8-3337-40ba-86ef-0b113f466dcb.advancedenchants.commands.main.givercbook.success: '&aGave
+  &2%1 %2x %3 &aright click books!'
 1f95c50d-c4b8-409c-bc39-fa073d9c654d.PlayerParticlesgui-color-subtext: §7
 74761a9a-b0f4-49f2-bd33-f4b7a7667989.lands.messages.nations.command.chat.none: >-
   &cKeine Nation für den Nationenchat gefunden. &7Benutze [T]&e/nations chat
@@ -6453,7 +6665,8 @@ a7b7138b-8833-43f0-b019-7e17234f70a4.tempflysystem.help.4: '&7- Verbleibende Flu
 5e17343d-774c-429a-b7ae-5681d37a9a5f.lands.messages.lands.command.unclaim.rental: >-
   &cDieser Chunk&7 kann nicht freigegeben werden, da er die vermietete/verkaufte
   Fläche&6 %1&7 enthält. Mieter:&3 %2
-87ce4dd6-92ae-4fb8-b1f4-ccf4407ff7c8.advancedenchants.commands.main.zip.error:
+87ce4dd6-92ae-4fb8-b1f4-ccf4407ff7c8.advancedenchants.commands.main.zip.error: '&cAn
+  error occurred while zipping files! Check console for more information.'
 5dc63abd-1ca6-4cbb-8b25-946c76ef73fe.deathmessages.Mobs.player.Solo.Projectile-Arrow.0: '%1
   wurde von %2 irgendwie mit %3 erschossen'
 12d5e2ff-fd15-4283-9be5-db67d7884481.lands.messages.help.command.lands.admin.main: '[T]&e%1
@@ -6513,7 +6726,8 @@ e1141c7c-ed19-48d9-8841-3bd3babfab2c.deathmessages.Mobs.phantom.Solo.Weapon.0: '
    §x§7§4§9§1§2§d&l15 Stunden Spielzeit §x§7§4§9§1§2§doder §x§7§4§9§1§2§d&l90 Token
    
   §x§b§7§f§0§2§e&l| §x§b§7§f§0§2§e&l
-050957b2-0886-4f95-9059-5cfc223f2391.advancedenchants.sets.commands.invalid-chances:
+050957b2-0886-4f95-9059-5cfc223f2391.advancedenchants.sets.commands.invalid-chances: '&cInvalid
+  chances.'
 8bdf1094-5e95-494c-ade5-d3f859cba316.cmd.settings.title.unknown.s21: '&bGlowing &8|
   &7[Toggle]'
 626fdd6c-1156-4c47-9a64-46a6e778736d.deathmessages.Mobs.spider.Solo.Melee.0: '%1 wurde
@@ -6535,7 +6749,8 @@ e8259565-1fcc-4023-9998-4dcd6fb658fc.lands.messages.lands.message.role.delete.vi
   &c%1'
 995961a8-4217-4de8-a0e3-6eaba3d7485d.excellentcratesCommand.Key.GiveAll.Usage: '%1
   %2 %3 [-s]'
-69b56a32-435d-47ce-9b71-5377a187ad27.advancedenchants.commands.enchantment-not-found:
+69b56a32-435d-47ce-9b71-5377a187ad27.advancedenchants.commands.enchantment-not-found: '&cEnchantment
+  &c&n%1&c could not be found.'
 0fee383b-a993-4fe2-83bb-acbb72f3f0ca.lands.messages.lands.command.ban.land.already: '&7Player&3
   %1 &7ist bereits im ganzen Land verboten&2 %2&7.'
 845fd66d-4870-4e33-ae37-84b58935c777.lands.messages.lands.command.admin.listperms.footer: |
@@ -6560,7 +6775,8 @@ b3027c68-1a20-4136-8234-314c0db64113.PlayerParticlesgui-manage-your-particles-na
 25c97748-6189-4331-83c6-776fbc4799fd.lands.messages.general.command.argument.type.args: Argumente
 8d1d67ca-700f-4704-b2fd-9a80cc99343d.deathmessages.Mobs.vex.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
-b33b19e6-358f-4ac3-9444-3ab3a27a6c54.advancedenchants.commands.main.unenchant.invalid-usage:
+b33b19e6-358f-4ac3-9444-3ab3a27a6c54.advancedenchants.commands.main.unenchant.invalid-usage: '&cInvalid
+  usage: /ae unenchant <enchant>'
 b02e3f4f-449c-4b0e-ba73-f428562044c6.deathmessages.Mobs.strider.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 9da91566-14e2-448b-a2a6-8a2709d4545e.lands.messages.list.hologram.rent.2: '&7Max Dauer:
@@ -6586,7 +6802,8 @@ b1a4a047-9c6a-43b0-a124-f5219181ad1a.deathmessages.Mobs.magmacube.Solo.Projectil
   wurde von einem %2 irgendwie mit %3 erschossen'
 6080b19d-4d7b-45cc-80ed-521fc804feaa.lands.messages.lands.command.rent.remove.offer.success.land: '&7Land&2
   %1 &7kann nicht mehr gekauft werden.'
-0df7eae8-4c36-41c2-a727-bcf3612e5619.advancedenchants.commands.not-a-number:
+0df7eae8-4c36-41c2-a727-bcf3612e5619.advancedenchants.commands.not-a-number: '&c%1
+  is not a number!'
 6a344e41-bacc-4477-9327-d59fc56ec892.deathmessages.Mobs.player.Solo.Bed.0: '%1 stand
   zu nah an %2''s Bett im %3'
 38c0458e-ca91-45fc-adba-6aee962906c5.mycmd.sign-created: '&7Schild erstellt! Weitere
@@ -6599,8 +6816,10 @@ a09935ed-5d67-4ba0-9ae2-219305ae3a10.deathmessages.Mobs.sheep.Gang.Projectile-Ar
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 ed1debd2-50df-438a-af28-73df66d2d196.deathmessages.Mobs.pufferfish.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
-61bb16ed-f57d-49cc-94de-0bb5ba371e26.advancedenchants.items.black-scroll.cannot-remove:
-0462010f-a658-4857-9f1c-90e9e86bfd55.advancedenchants.commands.apply.reapplied-other:
+61bb16ed-f57d-49cc-94de-0bb5ba371e26.advancedenchants.items.black-scroll.cannot-remove: '&cEnchantment
+  %1 cannot be removed!'
+0462010f-a658-4857-9f1c-90e9e86bfd55.advancedenchants.commands.apply.reapplied-other: '&aArmor
+  has been reapplied for %1.'
 abeb58c7-c9ad-42c6-a464-b7549bb9ca72.deathmessages.Mobs.bee.Solo.Weapon.0: '%1 wurde
   von einem %2 gestochen, der %3 benutzt hat.'
 6e082aac-4eec-4947-b9c7-28c55007bf73.excellentenchantmentsFitItemType.CHESTPLATE: Brustharnisch
@@ -6631,14 +6850,16 @@ ee9192a4-ad8c-4323-a8be-a3fa1bce295d.deathmessages.Mobs.ghast.Gang.Melee.0: '%1 
   von einer Bande von %2 erschlagen'
 7ceb327f-60ea-4484-a2da-5869cbf224c0.cmd.event.items: '&b&lGratisartikel &7(könnte
   nett sein!)'
-fc259d23-2a71-4185-9f17-363d59205de8.advancedenchants.enchanter.unknown-payment-method:
+fc259d23-2a71-4185-9f17-363d59205de8.advancedenchants.enchanter.unknown-payment-method: '&cFailed
+  to validate %1 payment method, please contact an administrator.'
 c6680c2c-fd18-4481-86fe-d674e8dd829a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.12: '#bbff6a▪
   #bdc8c9Right-Click: #bbff6aListe löschen'
 96ca0a0c-bfc8-4a16-80fe-7b27468350e2.gsitMessages.action-emote-exist-error: '[P]&c
   Das Emote&6 %Emote%&c existiert nicht!'
 6ad9fb66-1775-4df3-9409-e515f3e1ebec.excellentcratesEditor.Reward.Enter.Chance: '#d4d9d8Eintrag
   #aefd5e[Chance]'
-3c1c8aad-343d-497b-8ef6-44dc28e527c7.advancedenchants.commands.main.greset.reset:
+3c1c8aad-343d-497b-8ef6-44dc28e527c7.advancedenchants.commands.main.greset.reset: '&aReset
+  the %1 kit for %2!'
 26412b93-f8d4-485f-87d9-c0eb1c6521d4.lands.messages.lands.command.accept.banned: >-
   &cDu kannst das Gebiet&4 %1&7 des Landes&4 %2&c nicht betreten. &7Sie haben
   dich aus diesem Gebiet verbannt.
@@ -6714,7 +6935,8 @@ f2f6031f-4967-40bc-8dd3-6454c2f993fe.SuperVanishMessages.DynmapFakeQuit: '%1 Bee
   &bBeschreibung
    &b| &7Schalte deine Partikeleffekte ein oder aus.
    &b| &7Damit kannst du deine FPS verbessern.
-510c003f-b966-4cc0-91d7-4ec742aea35f.advancedenchants.sets.commands.give.success:
+510c003f-b966-4cc0-91d7-4ec742aea35f.advancedenchants.sets.commands.give.success: '&eGave
+  &f %1 &eSet to &f %2'
 f128d1dc-3e88-4747-bbef-fae2e8b6afe2.deathmessages.Mobs.shulker.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 a5324e82-41f2-42ca-974f-d3d8d807e8dc.excellentcratesCrate.Open.Error.Cost.Money.2: '#d4d9d8Du
@@ -6749,8 +6971,10 @@ a5bcf5b6-ae93-461e-90ea-3674607891e0.uar.COMMAND_USER_VIEWINTERVAL.title: AM NEU
   §e%1: §6%2'
 b40e5d1f-241e-476f-8900-2b06bf71e628.deathmessages.Mobs.drowned.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-fb945358-db55-4280-9205-7e0148ae03b6.advancedenchants.commands.main.pasteenchants:
-539e9200-0f9a-497a-9087-fc7cf19517a0.advancedenchants.commands.gedit.list:
+fb945358-db55-4280-9205-7e0148ae03b6.advancedenchants.commands.main.pasteenchants: '&aEnchantments
+  list: %1'
+539e9200-0f9a-497a-9087-fc7cf19517a0.advancedenchants.commands.gedit.list: '&eGKits:
+  &6%1'
 168acd01-08f8-4bc6-952d-9ed518e1ae73.cmd.startmenu.allesandere.title.rewards: '&fBelohnungen'
 e4520727-7ca2-49ed-ae4e-b627143aaf9d.deathmessages.Mobs.player.Solo.Wither.0: '%1
   ist durch die Magie von %2 verwelkt'
@@ -6772,10 +6996,12 @@ c7da709f-77bc-44cd-b74a-a992ef0117c7.deathmessages.Basic-Mode.Solo.Explosion.0: 
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 caedfeb4-e7a4-49ed-9825-80c06789b613.deathmessages.Mobs.blaze.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-fa2b4784-de6e-4cfa-b1e6-8f6fb2df8c51.advancedenchants.sets.commands.list.set:
+fa2b4784-de6e-4cfa-b1e6-8f6fb2df8c51.advancedenchants.sets.commands.list.set: ' &8>>
+  &f%1'
 8510813a-9c6b-4863-be5e-c8f63fdf8b0a.lands.messages.nations.command.trust.camp: '&Camps
   können nicht Teil von Nationen sein. &7Das Land&2 %1 &7ist ein Camp.'
-c342a1c9-c30d-493b-bfb3-315b77cd94e4.advancedenchants.commands.gedit.setdelay.invalid-delay:
+c342a1c9-c30d-493b-bfb3-315b77cd94e4.advancedenchants.commands.gedit.setdelay.invalid-delay: '&c%1
+  is not a valid integer!'
 8cacfe98-1518-4e18-9802-c726f78aa78a.deathmessages.Natural-Cause.Explosion.0: '%1
   ist explodiert'
 b175f4b5-26bd-4836-8166-bba4672dd5d5.lands.messages.help.command.lands.level: >-
@@ -6800,7 +7026,8 @@ d7057522-10f5-478f-ac72-f609fbc04f3a.deathmessages.Mobs.wanderingtrader.Gang.Pro
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 caf720d0-cdb6-46d1-b9ee-74515d926f59.deathmessages.Mobs.cow.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-85a996a3-9e37-47d7-9011-ece755dc8cde.advancedenchants.commands.invalid-level:
+85a996a3-9e37-47d7-9011-ece755dc8cde.advancedenchants.commands.invalid-level: '&cInvalid
+  enchant level! Try using: %1'
 681c3571-58ce-4918-a66c-8f0b47bb9c22.PlayerParticleseffect-list: '&7Du kannst die
   folgenden Effekte nutzen: &a%1'
 c0096e65-5fd9-4cfe-8019-7b3337bf2b5a.tempflygeneral.fly.disabled_other: '%1 &f%2 &7fliegt
@@ -6823,7 +7050,8 @@ f4a20c55-076d-427d-9bc4-57f43ce98060.lands.messages.lands.message.flags.land_ent
   betreten. &7Du wurdest an deinen vorherigen Standort teleportiert. &8Flagge:
   %5
 55379062-536b-4eec-a239-15008233872a.lands.messages.general.relation.neutral: '&7Neutral'
-2c74500b-be84-4304-adb3-5f71897d64de.advancedenchants.commands.main.enchant.downgraded:
+2c74500b-be84-4304-adb3-5f71897d64de.advancedenchants.commands.main.enchant.downgraded: '&2Downgraded
+  %1 from level %previous-level% to %2.'
 765ce1b9-ab71-4bd3-8d0b-93b50818c279.tempflygeneral.invalid.flyer_self: '%1 &7Du fliegst
   nicht!'
 a6be88d9-044f-4c40-8b51-aa883a7cec6b.PlayerParticlestoggle-on: '&7Partikel wurden
@@ -6862,11 +7090,13 @@ c43e58a9-4f9f-4510-bddf-f95bebf08c10.cmd.main.desc.s16: |-
   &bInformationen
    &8▪ &7Frei: &f1
    &8▪ &7Spielzeit: &f6
-77c746eb-f99c-4e81-8f22-4c1423df97ab.advancedenchants.commands.withdrawsouls.less-than-one:
+77c746eb-f99c-4e81-8f22-4c1423df97ab.advancedenchants.commands.withdrawsouls.less-than-one: '&cCount
+  must be positive.'
 14a5191b-c1c9-465e-ac63-0075d82a8b68.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.1: '#bdc8c9specified
   Reihenfolge.'
 d3c79301-0f7e-4e06-ab5a-dd43e96563b7.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.3: '#ffed6a&lAktuell:'
-b5b174d6-63af-4db7-900c-5c081fe98b4e.advancedenchants.sets.commands.invalid-usage:
+b5b174d6-63af-4db7-900c-5c081fe98b4e.advancedenchants.sets.commands.invalid-usage: '&cInvalid
+  usage! Please reference /asets for the proper usage.'
 d6a80512-7783-4875-93f0-fbea6cbb349d.tempflygeneral.fly.disabled_self: '%1 &7Dein
   Flug wurde deaktiviert!'
 26b9b757-5cf2-4156-9a72-1544083a98be.deathmessages.Mobs.horse.Gang.Melee.0: '%1 wurde
@@ -6881,7 +7111,8 @@ d3376ab3-34ff-4a8e-90fd-e21906aeb7a4.tempflysystem.help.3: '&6/tf Zeit'
   Spieler erforderlich.
 02be6afd-8a77-4281-9c2e-1cb71044eb06.deathmessages.Mobs.phantom.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-9ff8d071-8853-4b25-bf48-d65435a335c5.advancedenchants.commands.enchantment-info.invalid-usage:
+9ff8d071-8853-4b25-bf48-d65435a335c5.advancedenchants.commands.enchantment-info.invalid-usage: '&cInvalid
+  usage! Proper usage: %1 <enchantment>'
 cd32bd17-2f22-46aa-b69d-5abb8939f466.PlayerParticleslist-output: '&bID&8: &f%1 &bEffect&8:
   &f%2 &bStyle&8: &f%3 &bData&8: &f%4'
 ac9d6dfc-ae10-44f8-ad93-b5f4589ce96f.PlayerParticlesgui-color-unavailable: §c
@@ -6910,10 +7141,12 @@ df3761bb-84f1-4132-98be-0c18de58e027.deathmessages.Mobs.spider.Gang.Projectile-A
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 f7f69853-6a29-435e-99b1-636ab63d830a.excellentcratesCrate.Key.Error.Invalid: '#fd5e5eUngültiger
   Schlüssel!'
-dc6810b2-121a-48af-90a2-e34a8692a0ef.advancedenchants.enchanter.re-buy:
+dc6810b2-121a-48af-90a2-e34a8692a0ef.advancedenchants.enchanter.re-buy: '&cPlease
+  re-buy the item from the enchanter.'
 31d283ef-1cae-4693-a7d8-586eb13c22b8.deathmessages.Mobs.strider.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-4bad0200-5472-4e65-97df-5f9f68ab42eb.advancedenchants.sets.commands.invalid-set:
+4bad0200-5472-4e65-97df-5f9f68ab42eb.advancedenchants.sets.commands.invalid-set: '&cSet
+  is invalid.'
 43ffc687-2014-4269-9893-1bb55b48a529.lands.messages.help.command.lands.unclaim.auto: >-
   [T]&e%1 %2 &8- &7Beanspruchen beim Bewegen aufheben[H]&7Damit werden alle
   Chunks, die du beim Bewegen eingibst, aufgehoben. Klicke zum
@@ -6923,7 +7156,8 @@ cdbceb9a-9430-4a14-9116-93c2da694c39.lands.messages.lands.command.general.area-n
   Gebiet&6 %1 &7von Land&2 %2&7.
 92444bec-8448-4fd9-ba51-3b5d765e7200.deathmessages.Mobs.dolphin.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-0d884090-2caf-4351-8900-8c3006f8bfdf.advancedenchants.commands.invalid-usage:
+0d884090-2caf-4351-8900-8c3006f8bfdf.advancedenchants.commands.invalid-usage: '&cUsage:
+  %1'
 0b211979-d802-459f-8755-04209cb0faf7.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.14: '#bbff6a▪
   #bdc8c9Shift-Left: #bbff6aOne-Timed'
 a770ef57-3aec-4b47-8bb0-dc684772f96a.deathmessages.Mobs.phantom.Solo.Projectile-Arrow.0: '%1
@@ -6938,7 +7172,8 @@ dcefb1b8-08de-4881-a36e-4ee83433aede.lands.messages.general.integration.dynmap.c
 08532426-f87a-427a-b6f4-7fc55df679be.deathmessages.Mobs.mule.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
 c7f267e0-6d25-470f-aab9-363b01233b0f.lands.messages.general.value.unlimited: '&unbegrenzt'
-8019683a-6bea-4005-8db5-960cb7c01285.advancedenchants.gkits.unknown-gkit:
+8019683a-6bea-4005-8db5-960cb7c01285.advancedenchants.gkits.unknown-gkit: '&cGKit
+  %1 does not exist!'
 2911cb0d-0b1e-46db-a8c6-c028efdd31c0.cmd.links.title.s29.2: '&cDu bist nicht verlinkt
   :('
 081a554a-aaae-4630-acb0-f40cd99234f4.PlayerParticlesgui-edit-style-description: '&bKlick
@@ -7027,7 +7262,8 @@ c47be06e-04dc-4408-a7b4-65420a503c93.excellentcratesEditor.Crate.Enter.Block.Hol
   abzubrechen.
 0321c804-e218-4a1f-b00c-2d835bb1c8d9.chatcolor.gui-color-already-set: '&7Farbe bereits
   ausgewählt!'
-8cc7a98a-9fdd-4097-942f-114a73a6d2bc.advancedenchants.commands.gedit.edit.invalid-usage:
+8cc7a98a-9fdd-4097-942f-114a73a6d2bc.advancedenchants.commands.gedit.edit.invalid-usage: '&cUsage:
+  /gedit edit <gkit>'
 3ec3bcc8-a72b-4341-ac9a-281e763fea79.lands.messages.lands.command.unclaim.selection.empty: >-
   &cDu hast keine Chunks zurückgefordert, weil sie nicht beansprucht sind oder
   du sie nicht zurückfordern darfst.
@@ -7042,11 +7278,13 @@ ad143582-019d-47fa-ade9-54ee12e82de9.lands.messages.lands.message.teleportation.
    [T]&2✔ Teleportiere trotzdem: &e/%1 &8[KLICK][H]&7Warnung: Das Teleportationsziel ist nicht sicher und könnte gefährlich für dich sein.[/H][C]%2[/C][/T]
 51621c49-83f5-42b5-a38f-31127b7b7129.deathmessages.Mobs.silverfish.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-78036b41-9a61-41e1-b72c-871d23b16eb1.advancedenchants.gkits.unknown-enchant:
+78036b41-9a61-41e1-b72c-871d23b16eb1.advancedenchants.gkits.unknown-enchant: '&7Enchant
+  %1 cannot be resolved.'
 8b10b071-f0d1-40d6-bf86-dcc050877409.cmd.main.title.s14: '&b&lAuctionHouse'
 35d4f9e4-ae76-4b16-a811-7db29255844e.lands.messages.lands.command.leave.area.untrusted: '&7Du
   bist nicht vertrauenswürdig im Gebiet&6 %1 &7des Landes&2 %2&7.'
-3cf63d8a-a175-43f0-9a26-0b71fa56ff0c.advancedenchants.items.black-scroll.full-inventory:
+3cf63d8a-a175-43f0-9a26-0b71fa56ff0c.advancedenchants.items.black-scroll.full-inventory: '&cYour
+  inventory is full!'
 d647e58d-c694-4e25-abb5-a5cabf58a2d7.PlayerParticlescommand-description-edit: Ein
   Partikel bearbeiten
 9de02652-a3c6-4da6-acaa-8934f742b08b.deathmessages.Mobs.drowned.Solo.Melee.0: '%1
@@ -7060,7 +7298,8 @@ f42900d4-d23e-4562-8078-38298c9d1460.deathmessages.Mobs.drowned.Gang.Weapon.0: '
   von einem %2 irgendwie mit %3 erschlagen'
 2613828a-c2ba-495a-a7a0-9f47de69c513.bungee.restart.actionbar: '&bVerlasse den Server
   nicht, &6 wir verbinden dich erneut!'
-e6d0c787-41ec-48dd-a3ce-5a45b6267aad.advancedenchants.commands.main.info.1:
+e6d0c787-41ec-48dd-a3ce-5a45b6267aad.advancedenchants.commands.main.info.1: '&6Description&7:
+  &e%1'
 d450003d-6e8a-4208-9d95-9f0746168979.deathmessages.Mobs.wither.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 ea01d6ff-35f6-450b-869b-a479e87e484b.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.0: '#bdc8c9Setzt
@@ -7093,7 +7332,8 @@ de1acc33-1572-4da6-b362-6d1906c0d884.deathmessages.Mobs.zombievillager.Gang.Mele
   wurde von einer Bande von %2 erschlagen'
 7cc318a9-014d-4348-b595-2e2b4960ac3a.PlayerParticlesgui-select-data: '&bAuswahl der
   Partikeldaten'
-c81502c6-bbea-4913-823f-5e49e440ab86.advancedenchants.commands.main.setsouls.invalid-item:
+c81502c6-bbea-4913-823f-5e49e440ab86.advancedenchants.commands.main.setsouls.invalid-item: '&cInvalid
+  item.'
 ec594a7c-f152-41ea-9816-2594cd8f763e.deathmessages.Mobs.endermite.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 e6bc8995-1ddf-4444-aa2c-ccc680c2e684.deathmessages.Mobs.mule.Gang.Weapon.0: '%1 wurde
@@ -7141,7 +7381,8 @@ d72ed0a5-52ce-436c-be38-d96fa7a70a06.gsitMessages.action-sit-now-error: '[P]&c D
   Farmworlds
 c2cd6a5b-d396-491b-a01a-c016c47c2f62.PlayerParticlesremove-effect-none: '&7Du hast
   keine Partikel mit dem Effekt &b%1&7 angewendet!'
-b1ecc9b0-b735-414c-9d4f-f0c7bb7dd08e.advancedenchants.enchanter.successful-purchase:
+b1ecc9b0-b735-414c-9d4f-f0c7bb7dd08e.advancedenchants.enchanter.successful-purchase: '&aPurchase
+  successful!'
 546e467a-996a-4d68-8452-d403b90e2fed.deathmessages.Mobs.llama.Solo.Weapon.0: '%1 wurde
   von einem %2 irgendwie mit %3 erschlagen'
 26ceedff-ff14-409e-ab61-c9f391b0cc3a.menu.bank.menu.info.title: '&bDeine Informationen'
@@ -7221,10 +7462,12 @@ ec34040c-336b-4518-a039-0acd450863af.lands.messages.general.command.argument.typ
 62220365-9a65-43e7-b059-65834a121ce7.lands.messages.lands.message.flags.interact_container: >-
   &cSie dürfen hier keine Container öffnen (&cGebiet:&4 %1 &cLand:&4 %2&c).
   &8Flagge: %3
-0d15358b-c728-4249-9c70-f6b67a7a5d45.advancedenchants.enchanter.full-inventory:
+0d15358b-c728-4249-9c70-f6b67a7a5d45.advancedenchants.enchanter.full-inventory: '&cYour
+  inventory is full!'
 7f51b8ed-ac6d-436b-9157-6db4056eea4d.lands.messages.list.sign.sell.land.3: '&8Klick
   zum Kaufen.'
-cd533095-d88f-467e-bd1e-4333a96eef89.advancedenchants.commands.main.info.1:
+cd533095-d88f-467e-bd1e-4333a96eef89.advancedenchants.commands.main.info.1: '&6Description&7:
+  &e%1'
 95d44a85-d2cd-42f6-ad79-1f6daebf1d0f.deathmessages.Mobs.illusioner.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 5d5156d0-d442-4f84-8cb0-d2875e9b544a.PlayerParticlesgui-editing-particle: '&bBearbeiten
@@ -7243,7 +7486,8 @@ c2fea39b-acc8-4f4a-ba1f-68b379464699.tempflygeneral.info.hours: '&fStunden: &b%1
   %1 ist jetzt der neue Besitzer.'
 5d9e04c7-7438-4eca-b467-cfe66308e5f2.PlayerParticlesfixed-invalid-command: '&7Ungültiger
   Sub-Befehl für &b/pp behoben&7!'
-66caf766-a05a-421a-be3b-8191d2f6728c.advancedenchants.commands.main.unenchant.does-not-have-enchant:
+66caf766-a05a-421a-be3b-8191d2f6728c.advancedenchants.commands.main.unenchant.does-not-have-enchant: "&cThat
+  item doesn't have &4%1&c!"
 866b5cda-5917-4267-a6e2-14a605fa0721.deathmessages.Mobs.squid.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
 8faed297-a564-44f7-8289-43a66a9375c8.deathmessages.Mobs.ocelot.Gang.Melee.0: '%1 wurde
@@ -7275,7 +7519,8 @@ eeb3cf3f-4aba-47a9-85b7-22df19b465be.deathmessages.Mobs.creeper.Gang.Melee.0: '%
    &b| &8Stelle deine Sprache ein
    &b| &7Französisch!
    &3| &fKlick zum Ändern.
-a20fc984-1310-4cb6-8464-4991728701fb.advancedenchants.commands.main.tinkereritem.success:
+a20fc984-1310-4cb6-8464-4991728701fb.advancedenchants.commands.main.tinkereritem.success: "&cGave
+  x%1 tinkerer item's to %2"
 10302f64-a5ed-4695-9be6-2fc9506b1fa6.deathmessages.Mobs.witherskeleton.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 30b14fa5-7c29-4f96-88d6-61467a66c62e.lands.messages.lands.command.selection.too-far: '&cDer
@@ -7299,7 +7544,8 @@ b240bebf-c481-4ae5-a0c7-5e5b66697aec.tempflysystem.reload: '%1 &aDu hast das Plu
 2597a11e-13be-4313-884c-663e4cc88113.deathmessages.Mobs.villager.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 4820a53b-da09-4f38-b31b-96da4a658980.tab.sb.quests: 'Quest:'
-b900c269-8f5f-4f59-a5e0-0e67abcf32b7.advancedenchants.items.black-scroll.cannot-remove:
+b900c269-8f5f-4f59-a5e0-0e67abcf32b7.advancedenchants.items.black-scroll.cannot-remove: '&cEnchantment
+  %1 cannot be removed!'
 5885bbb5-cfe1-4510-a296-97289f099e28.mycmd.sign-removed: '&7Zeichen entfernt!'
 14f23706-d3dd-43f9-9d81-9dd500353e5b.tempflygeneral.time.max_self: '%1 &7Du hast die
   maximal zulässige Zeit erreicht!'
@@ -7342,7 +7588,8 @@ d8bf2bd1-f5ab-4ec4-9dbe-f94b6f1cbe4b.deathmessages.Mobs.hoglin.Solo.Weapon.0: '%
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 d566dcdc-6f5f-4cd8-b58c-437003e3a117.deathmessages.Mobs.bee.Gang.Weapon.0: '%1 wurde
   von ein paar %2 angegriffen! Einer schlug sie mit %3'
-2d443f6a-40af-4e21-b6bf-360528274fee.advancedenchants.items.magic-dust.full-inventory:
+2d443f6a-40af-4e21-b6bf-360528274fee.advancedenchants.items.magic-dust.full-inventory: '&cYour
+  inventory is full!'
 63062e4f-4fed-424b-9b8c-a00368e6c933.lands.messages.general.integration.bluemap.land.spawn: >-
   Spawnpoint von Land %1. Offen für nicht vertrauenswürdige Spieler: %2. Wenn
   dieser Spawnpunkt für nicht vertrauenswürdige Spieler offen ist, kann sich
@@ -7457,7 +7704,8 @@ a386274d-911c-45bb-a786-b3125faf7854.deathmessages.Mobs.elderguardian.Gang.Melee
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 3a38babc-c191-4d11-89ac-6fc37e3bb180.PlayerParticlesother-missing-args: '&7Es fehlen
   einige Argumente. &b/ppo &3<Spieler> <Befehl>'
-b433a5f0-ef4c-449a-abac-01cbc48c0639.advancedenchants.commands.main.greset.reset-all:
+b433a5f0-ef4c-449a-abac-01cbc48c0639.advancedenchants.commands.main.greset.reset-all: '&aReset
+  all GKits for %1!'
 816f0364-2df8-424a-8b11-04fa990d1978.lands.messages.lands.command.relations.enemies.add.success: '&7Du
   &8(&7%1&8) &7und %2 &7sind jetzt Feinde.'
 5e396554-6d75-4a49-b4de-c9a2a149c082.cmd.main.title.s30: '&b&lRegeln'
@@ -7482,7 +7730,8 @@ bd1217a8-6527-4962-b954-f34398679519.deathmessages.Mobs.turtle.Gang.Weapon.0: '%
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 59313abe-b727-45dd-9afa-1f4418147474.deathmessages.Mobs.irongolem.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-db694919-457e-4281-aaa9-79a69d7708ab.advancedenchants.gkits.used-kit:
+db694919-457e-4281-aaa9-79a69d7708ab.advancedenchants.gkits.used-kit: '&eYou have
+  used kit &6%1.'
 057876f9-d466-47ba-954f-f0a9f043dad9.lands.messages.lands.command.relations.enemies.remove.already: '&7%1
   &7ist kein Feind von&7 %2&7.'
 c8c21e3f-a377-4ed4-85d8-fdfc4652ce95.deathmessages.Mobs.squid.Gang.Weapon.0: '%1 wurde
@@ -7592,7 +7841,8 @@ fb6aefac-a8f4-4407-b963-b989949cce99.excellentcratesEditor.CrateEditorType.REWAR
    [T]&7Erschaffe deine eigene Nation: &e/%2 &8[KLICK][H]&7Klick zum Kopieren.[/H][SC]%3[/SC][/T]
 9748c5e2-1ef2-4b95-ba46-b5c9b4a3ec66.PlayerParticlesgroup-load-success: '&7Angewandte
   &b%1 &7Partikel aus deiner gespeicherten Gruppe namens &b%2&7!'
-aa2a5698-c9f3-4675-a133-79ff3809810a.advancedenchants.applying.applied:
+aa2a5698-c9f3-4675-a133-79ff3809810a.advancedenchants.applying.applied: '&aEnchantment
+  was applied to your item.'
 60ef4f30-85a5-422a-a575-9dd2b1b96426.lands.messages.lands.command.rent.remove.tenant.confirm: >
   &cBitte bestätige, dass du&4 %1 &eine Entschädigung an den Mieter&4 %2 &zahlen
   willst, um ihn zu entfernen:
@@ -7653,7 +7903,8 @@ a7129dad-b3fd-49ac-87f5-b5229d05ae93.PlayerParticlescommand-description-fixed-cl
 9749347b-147c-4854-b749-458e85498502.mycmd.warmup3: '&7Du wärmst dich bereits für
   diesen Befehl auf. Warte &c%1 Sekunden'
 ecd43879-916e-49f6-a844-b2615c3f6342.tempflycommand.base.remove.1: nimm
-fc0df6a9-97bb-4cef-a03a-3b939b611ccf.advancedenchants.commands.apply.cooldown:
+fc0df6a9-97bb-4cef-a03a-3b939b611ccf.advancedenchants.commands.apply.cooldown: '&cYou
+  will be able to use this command in %1 seconds.'
 4fa87da2-3811-4b77-81c8-71bf5f9ed69e.mycmd.nodata: KEINE DATEN
 19b91367-e989-4c1c-b125-8f883950287a.lands.messages.help.command.lands.setowner: >-
   [T]&e%1 %2 %3 &8- &7Eigentum übertragen[H]&7Klick zum
@@ -7720,10 +7971,12 @@ aeb829a6-28b8-4020-bbd7-7a9a00d214f9.excellentcratesEditor.Crate.Enter.Cooldown:
   #aefd5e[Sekundenbetrag]'
 be243a57-112a-4636-9701-af03bfc132c6.lands.messages.list.hologram.rent.0: '&6Miete
   %1'
-1f3e9f2e-e078-408d-9c7a-456cbe506719.advancedenchants.tinkerer.non-tradeable-item.0:
+1f3e9f2e-e078-408d-9c7a-456cbe506719.advancedenchants.tinkerer.non-tradeable-item.0: "&cThe
+  Server Tinkerer doesn't want that item!"
 cefaee0b-74d9-416f-bed2-cc484c50cdd6.excellentcratesCrate.Open.Error.Cooldown.Temporary.1: '#fd5e5e&lCrate
   auf Abklingzeit!'
-7151b572-3939-478a-ac4c-218144fcd197.advancedenchants.commands.apply.reapplied-other:
+7151b572-3939-478a-ac4c-218144fcd197.advancedenchants.commands.apply.reapplied-other: '&aArmor
+  has been reapplied for %1.'
 f853a227-d07c-4e43-aade-dd177225a3ae.deathmessages.Mobs.evoker.Solo.Magic.0: '%1 wurde
   von einem %2 mit Da-Magie getötet'
 0ef463cd-ef24-4443-87a4-6f66a2ee76f5.tempflygeneral.requirement.fail.world: '%1 &7Flug
@@ -7732,8 +7985,10 @@ b24801b5-c265-4c00-a8a4-de6a7aab1583.cmd.languages.title.s23: '&b&lFranzösisch'
 adc2a2ac-fcc3-4778-aeaf-eebabffa1e68.lands.messages.wars.command.declare.no-nation: >-
   &cDu kannst kein Land angreifen&4 %1&c. &7Sie müssen Teil einer Nation sein,
   um in einen Krieg verwickelt zu werden.
-0b5ee902-2499-4c79-8ee9-578272114bd7.advancedenchants.gkits.unknown-gkit:
-a58c0e08-2ca8-41e3-8784-2bf459e98ad7.advancedenchants.commands.enchantment-info.open-menu-message:
+0b5ee902-2499-4c79-8ee9-578272114bd7.advancedenchants.gkits.unknown-gkit: '&cGKit
+  %1 does not exist!'
+a58c0e08-2ca8-41e3-8784-2bf459e98ad7.advancedenchants.commands.enchantment-info.open-menu-message: '&7Information
+  about &e%1 &7enchantment.'
 ab997741-8189-4240-ba97-51f7260a85ef.lands.messages.lands.command.merge.max.chunks: >-
   &cDu kannst Land&4 %1 &cinto&4 %2&c nicht fusionieren. &7Ihre Gesamtanzahl
   an&3 %3 &7Blöcken übersteigt die Grenze von&3 %4 &7Blöcken für dein Land&2
@@ -7769,7 +8024,8 @@ d4615b57-252d-4ead-9e77-5855c786e8e8.lands.messages.lands.command.map.header: '&
   <0-255>>|<Regenbogen>|<Zufall>
 4ef6a01c-ea20-4fc8-8d7c-b58b94c9eebc.PlayerParticlesfixed-clear-no-permission: '&7Dazu
   haben Sie keine Berechtigung!'
-42d0fec1-c688-4832-a205-0145645b51b4.advancedenchants.applying.already-applied:
+42d0fec1-c688-4832-a205-0145645b51b4.advancedenchants.applying.already-applied: '&cThe
+  item already has this enchantment.'
 c800f74b-98b2-441e-ac3b-f47c96bc7e4f.deathmessages.Mobs.dolphin.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 e0a88392-0eca-4aa1-af27-4926a8352f00.lands.messages.general.command.argument.type.sorting: Sortieren
@@ -7795,7 +8051,8 @@ e4bdb4bb-d027-40b6-a676-47851a4022e6.deathmessages.Mobs.player.Gang.Melee.0: '%1
   von einer Bande von %2 erschlagen'
 6ab553bf-372e-4acc-ae93-f466ce44fc77.deathmessages.Mobs.wither.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-1d5ca346-4c44-4225-85c9-4cf5023b4e49.advancedenchants.commands.gedit.reset.success:
+1d5ca346-4c44-4225-85c9-4cf5023b4e49.advancedenchants.commands.gedit.reset.success: '&6%1
+  &6gkit has been reset for player &e%2'
 984bdd88-9512-4c4c-b2bb-6d1ef3aee69c.lands.messages.help.command.lands.admin.resetworld: >-
   [T]&e%1 %2 %3 &8- &7Lösche alle Ansprüche in der Welt[H]&7Klicke zum
   Kopieren.[/H][SC]%4[/SC][/T]
@@ -7809,7 +8066,8 @@ e4bdb4bb-d027-40b6-a676-47851a4022e6.deathmessages.Mobs.player.Gang.Melee.0: '%1
 ffd4838c-1493-4a46-b36f-3e459a91271c.lands.messages.lands.command.wild.searching: '#t#&6Searching[newline]&7Destination...'
 d22d93dd-a3f3-41c2-b16e-bf8ee1d4267f.tempflygeneral.fly.already_disabled: '%1 &7Dein
   Flug ist bereits deaktiviert!'
-3dc96044-40b9-4d33-8f32-6ce4f66dd5e8.advancedenchants.gkits.no-permission:
+3dc96044-40b9-4d33-8f32-6ce4f66dd5e8.advancedenchants.gkits.no-permission: "&eYou
+  don't have permissions to use &e%1&6 kit."
 c5ec662a-3d72-490e-8dd1-c8ca6d6cc786.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.4: '#ffed6a▪
   #bdc8c9Chance: #ffed6a%1%'
 bbf836a2-0680-42ed-8672-bef5dd3589f9.mycmd.hour: 'Stunde '
@@ -7828,7 +8086,8 @@ bbf836a2-0680-42ed-8672-bef5dd3589f9.mycmd.hour: 'Stunde '
   hat sich verzögert um
 118a5d87-ae5a-4bd0-b48b-04f0924acff7.PlayerParticlesgui-manage-your-particles: '&bVerwalte
   deine Partikel'
-0345691f-88fc-45f9-90bf-35fb8e12e847.advancedenchants.gkits.missing-permission:
+0345691f-88fc-45f9-90bf-35fb8e12e847.advancedenchants.gkits.missing-permission: "&cGkit
+  %1's permission is invalid or non-existent"
 d15e69d8-57d4-4797-88f6-87476b50be72.deathmessages.Natural-Cause.Falling-Block.0: '%1
   wurde von einem %2 zerquetscht'
 c4a5d6b5-57dd-40d5-b39a-7bbf37f423a3.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.1: '#bdc8c9Es
@@ -7867,7 +8126,8 @@ c3bc89eb-eaa6-4df0-93d1-d53e95bc765b.ia.reload: '&7Konfigurations- und Sprachdat
 b4893461-ff6b-41e3-84d8-3cd9a000fbd5.PlayerParticlesgroup-save-success: >-
   &7Deine aktuellen Partikel wurden unter der Gruppe mit dem Namen &b%1&7
   gespeichert!
-1506a3ab-18f3-4406-9c63-68e4da0eaff1.advancedenchants.commands.main.info.0:
+1506a3ab-18f3-4406-9c63-68e4da0eaff1.advancedenchants.commands.main.info.0: '&eInformation
+  about &6%1 &eenchantment&7:'
 157b0398-4561-4a63-a469-934b52344c4c.cmd.main.title.s12: '&b&lPlayerWarps'
 020074fb-f064-4bce-a2ed-597d0197eb06.deathmessages.Mobs.sheep.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
@@ -7899,7 +8159,8 @@ c346c7c4-1188-4a7c-bc61-1bf9a5cd26b2.lands.messages.lands.command.untrust.area.r
   wurde von einem %2 bespuckt'
 2bd9fde0-1f18-451f-a350-9df90d637e32.deathmessages.Mobs.endermite.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
-08d6732a-1f4a-4dea-9bf6-d6798a84ea83.advancedenchants.gkits.cooldown:
+08d6732a-1f4a-4dea-9bf6-d6798a84ea83.advancedenchants.gkits.cooldown: '&eYou cannot
+  use this kit yet, kit &6%1&e is on cooldown &7(%2)'
 1bccf85f-415e-46b1-bb0b-a572940cff18.ib.tilgis.welcome: '§7Willkommen auf [lang]Präfix[/lang]
   §7%1'
 1c87d6a1-4f14-4999-a0af-db5d4bc8255b.excellentenchantmentsFitItemType.WEAPON: Waffe
@@ -7970,7 +8231,8 @@ ff3535d1-b338-4cab-bfbe-cbd68ffad22d.excellentcratesEditor.CrateEditorType.REWAR
   von einem %2 erschlagen'
 4ac64ed0-3a26-4003-9fa0-6f1d64d6ccce.deathmessages.Mobs.blaze.Solo.Weapon.0: '%1 wurde
   von einem %2 irgendwie mit %3 erschlagen'
-0e047666-3e71-4b36-8d82-22cc0987545b.advancedenchants.alchemist.cannot-afford:
+0e047666-3e71-4b36-8d82-22cc0987545b.advancedenchants.alchemist.cannot-afford: '&cYou
+  cannot afford this transaction!'
 9fb389b6-ca72-41c1-9a0f-9f4186143d19.deathmessages.Mobs.ghast.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 789a1eb1-7dd2-4eae-82e3-7bdae08f3434.prefix: '&bʜᴀᴍsᴛᴇʀ&6ɢᴀᴍᴇs&7.ᴇᴜ '
@@ -8032,7 +8294,8 @@ b4356862-a3ad-4565-a92e-4fd89fc7ed12.deathmessages.Mobs.wanderingtrader.Gang.Pro
   &7Fixierter Effekt kann nicht bearbeitet werden, es wurde eine ungültige
   Eigenschaft angegeben! Nur &blocation&7, &beffect&7, &bstyle&7, und &bdata &7
   sind gültig.
-b5a4c156-ac1b-4561-b705-16ba3634986c.advancedenchants.commands.apply.no-args:
+b5a4c156-ac1b-4561-b705-16ba3634986c.advancedenchants.commands.apply.no-args: '&cPlease
+  specify which player should be affected.'
 42a8a486-add8-4c0c-86f8-82b52d94b828.lands.messages.lands.command.general.input.nation: '&cDie
   Nation&4 %1 &cExistiert nicht. &7Es gibt keine Nation mit diesem Namen.'
 eefadd41-ae4c-4390-a43f-48331f058877.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.6: '#ff6a6a&lWarnung:'
@@ -8044,7 +8307,8 @@ eefadd41-ae4c-4390-a43f-48331f058877.excellentcratesEditor.CrateEditorType.CRATE
   tnt gespielt'
 a24bd404-dfcd-46fd-b37b-011b3971e300.deathmessages.Mobs.armorstand.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
-0dde3e2e-5db5-4e70-b8e3-79dd81665eff.advancedenchants.items.magic-dust.full-inventory:
+0dde3e2e-5db5-4e70-b8e3-79dd81665eff.advancedenchants.items.magic-dust.full-inventory: '&cYour
+  inventory is full!'
 a6cdb804-9a1b-491f-bf6d-571aaa195cd2.deathmessages.Mobs.dolphin.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 d2d5316f-56e0-4f23-b1bd-9e0aad02d49b.deathmessages.Mobs.mushroomcow.Solo.Melee.0: '%1
@@ -8052,7 +8316,8 @@ d2d5316f-56e0-4f23-b1bd-9e0aad02d49b.deathmessages.Mobs.mushroomcow.Solo.Melee.0
 403d420a-fac3-4923-9fdc-262ac62b9e04.PlayerParticlesgui-save-group-description: |-
   &bKlick &8|&7 eine neue Gruppe speichern. Du wirst aufgefordert
   &7den neuen Gruppennamen im Chat einzugeben.
-d32653e8-fa72-4151-b85b-8dbcec423c34.advancedenchants.commands.gedit.setdelay.invalid-usage:
+d32653e8-fa72-4151-b85b-8dbcec423c34.advancedenchants.commands.gedit.setdelay.invalid-usage: '&cUsage:
+  /gedit setdelay <gkit> <delay (in seconds)>'
 8b919a97-72ac-4fce-9b07-2cf527deaaba.lands.messages.general.inbox.war.surrender.received: '&7Feind
   %1 &7hat kapituliert. Habe %2 als Tribut erhalten.'
 74809cea-d1f2-48f7-aca1-d00d0ef56855.PlayerParticlesgui-select-data-note: 'Anmerkung
@@ -8148,3 +8413,21 @@ e96d92ed-52b8-47d5-903a-b2f497562538.lands.messages.general.inbox.relation.ally.
   &7Your new Rang is: &#20F707%1"
 1b59e7ec-13cc-4d07-9386-eeef4b7de50b.rang.new_rang: '&fHey! &7You got a new Rang:
   &#20F707'
+4040402d-8db7-4bf2-86bf-1255f23eef09.cmd.homes.title: '&bHomes Upgrade'
+4e4944eb-9167-4e2b-af6d-d719b9066093.cmd.upgrade.max: '&7You already have every upgrade
+  of the type &#20F707%1'
+4140613b-4420-447d-8c64-ab330521b5ce.cmd.upgrade.unable: "&7You can't buy upgrades
+  of the type &#20F707%1, because it costs ⛃%2 tokens."
+b74de6c7-b61a-4a44-b9c5-a1d7bcb7a6ab.cmd.jobs.title: '&bJobs Upgrade'
+4ead42aa-6cbb-41bf-a9b5-167b1a310926.cmd.vote.desc.all: "&f\n &f● &7Rewards after
+  you votes for all sites:\n &1● &7(&fx9&8) &fVote Keys\n &1● &7&b&l$&b10,000\n &1●
+  &7&b&l⛃&b20\n &1● &7&b&l🧪&b100\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+7700e217-7890-4bb9-99d8-fc90b7dc4920.cmd.exp.desc: "&aDescription\n&f● &7Craft yourself\n
+  &f● &7the bottles of XP\n&f\n&f● &7Craft: &f🧪%1\n&f● &7This covers %2 Slot(s)\n
+  &f\n&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴄʀᴀғᴛ"
+709179ea-bda0-46af-9ded-3413af667106.cmd.vote.desc: "&f\n &f● &7Priority: &f#%1\n
+  &f● &7Rewards:\n &1● &7(&fx1&8) &fVote Key\n &1● &7&b&l$&b1,000\n &1● &7&b&l⛃&b2\n
+  &1● &7&b&l🧪&b10\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+3bddc1c7-0785-4809-b976-211eab7ef189.cmd.exp.title: '&aCraft EXP Bottles #99FF99⏩'
+932ec3f7-6ce7-4271-965c-4c9a584a0fd8.cmd.upgrade.buy: '&7You can buy upgrades of the
+  type &#20F707%1 for a total of ⛃%2 Tokens'
