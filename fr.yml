@@ -7115,3 +7115,553 @@ e256cdd2-fe5e-48c9-9a99-afb5d5ac3c4f.advancedenchants.gkits.no-permission: "&eYo
   &#20F707'
 40efe7df-58ac-4b3a-870e-3aa143cfc67f.ce.new.rang: "&fHey! &7You got a new Rang!\n
   &7Your new Rang is: &#20F707%1"
+2208a00b-7438-41d6-a9dc-fba4e6b7bbd6.advancedenchants.items.randomization-scroll.single-items-only: '&cYou
+  can only use this on single items!'
+3f0fa31f-2cfb-4dec-8cec-7a7ca5de93c2.advancedenchants.applying.wrong-material: '&cThis
+  enchantment cannot be applied on this item.'
+78c74ac9-eef9-444e-9848-eda3931a556d.advancedenchants.commands.main.info.3: '&6Max
+  level&7: &e%max-level%'
+8f0c70d9-f09d-41e3-97d0-a81eab59c81f.advancedenchants.commands.gedit.reset.invalid-usage: '&cUsage:
+  /gedit reset <gkit> <player>'
+4ea25839-1ad0-4c19-9033-77f9c0b6efea.advancedenchants.items.black-scroll.invalid-enchant: "&cCannot
+  remove enchant as it's invalid!"
+f6fd40be-7761-4e5e-8c47-f8c869a806b5.advancedenchants.commands.main.info.0: '&eInformation
+  about &6%1 &eenchantment&7:'
+7cdc7cce-7c52-40f4-8bfe-2539d5c775b4.advancedenchants.effects.steal-money: '&6%1 &7stole
+  &6%2 &7from &6%3&7!'
+79c75f06-132a-47aa-bbbe-e70d7cd8789b.advancedenchants.enchanter.unknown-payment-method: '&cFailed
+  to validate %1 payment method, please contact an administrator.'
+c6d9c71c-cb4a-4c0e-be0f-9385e4d4c1f6.advancedenchants.items.white-scroll.apply-successful: '&aWhite
+  scroll has been applied to your item!'
+970b7822-b474-49db-9ba1-c13bd9060597.advancedenchants.commands.main.greset.reset: '&aReset
+  the %1 kit for %2!'
+026d12f9-6fdb-47af-a8e8-db1134e469a9.advancedenchants.sets.commands.invalid-set-piece: "&cInvalid
+  set piece, you may use one of these: \n%set pieces%"
+3e6ce011-0bbb-41f6-907f-8cf5ced1add3.advancedenchants.slots.limit-reached: '&cYou
+  cannot apply that enchantment! There are no free slots left!'
+88d49ae5-bb4d-400e-a54b-ba51ff9f63ed.advancedenchants.sets.commands.invalid-weapon: '&cWeapon
+  is invalid.'
+fe082f1f-6929-4c0a-b2cd-2f4bc90e1234.advancedenchants.commands.gedit.set-permission.success: "&eChanged
+  &6%1's&e kit permission to &6%2"
+427bdfed-31ae-44ac-a3a6-befc547a10bb.advancedenchants.commands.gedit.setdelay.success: '&eChanged
+  &6%1&e kit delay to &6%2'
+7bde59e8-4f12-4020-861d-cbb2ff324944.advancedenchants.commands.main.tinkereritem.success: "&cGave
+  x%1 tinkerer item's to %2"
+cf876227-c5f4-485e-9eec-201fa5e8638f.advancedenchants.commands.main.setsouls.invalid-item: '&cInvalid
+  item.'
+b70a901a-3979-4284-8ef7-5fd860bf978a.advancedenchants.sets.commands.invalid-set: '&cSet
+  is invalid.'
+3a1f93b5-c06f-4e4e-ba73-9b55928797d7.advancedenchants.commands.main.givegkit.success: '&cKit
+  %1 was given to player %2'
+f618bc9b-780a-4f47-bbca-92a94841e08c.advancedenchants.tinkerer.trade-accepted: '&aTrade
+  accepted!'
+92ce16d0-5a53-4ade-9488-b439ef9ab11f.advancedenchants.commands.apply.reapplied: '&aYour
+  armor has been re-applied.'
+2dc32249-58e5-4c1c-87b9-fa1d0d6bbe80.advancedenchants.alchemist.cannot-afford: '&cYou
+  cannot afford this transaction!'
+bcc9fc84-7dbd-448e-8497-c61fa0da2be7.advancedenchants.commands.main.give.success: '&aSuccessfully
+  gave %1 one %2 %3 book!'
+7d8f5671-474a-4d40-b853-4735e22df94d.advancedenchants.combining.success: '&aSuccess!
+  &7%1 is now level %2!'
+c1251a5d-f22e-4d76-b3ab-ad0ae48e93e0.advancedenchants.applying.max-level: '&cThis
+  enchantment is already at max level!'
+459fcd7a-3b02-4021-81ec-6a962f99f25c.advancedenchants.commands.enchants.open-menu-message: '&7Showing
+  list of all enchantments...'
+22189acf-555a-42b9-aef2-b3e29fa6f031.advancedenchants.enchant-limitations.cannot-be-modified: '&cThis
+  item cannot be modified!'
+ea8a2dbd-9cd4-41ea-8289-86c554129690.advancedenchants.commands.main.zip.zip-exists: '&cPlease
+  try again.'
+3fe06bc2-0119-40cf-8c20-6c8cd7e1df5c.advancedenchants.commands.gedit.set-permission.invalid-usage: '&cUsage:
+  /gedit setpermission <gkit> <perm>'
+03b1b916-4ce9-4a78-92c3-745750ecb8ef.advancedenchants.commands.main.zip.error: '&cAn
+  error occurred while zipping files! Check console for more information.'
+3748f3ec-972b-4774-889e-e512e9e82e33.advancedenchants.items.black-scroll.no-enchants: "&cThis
+  item doesn't have any enchants!"
+25b5a7b7-3677-4177-9c9b-2d0f62978174.advancedenchants.destroy.book-failed: '&cEnchantment
+  was unsuccessful!'
+243693bb-bd88-4f4d-a89e-b8c540378f29.advancedenchants.commands.main.unenchant.invalid-enchant: '&c%1
+  is not a valid enchant!'
+5e9ef533-9acf-40b7-92ea-4c202d5fb401.advancedenchants.alchemist.trade-cancelled: '&cTrade
+  cancelled.'
+7c6bae4c-4597-4329-a0a0-60d84570fb9a.advancedenchants.destroy.book-failed: '&cEnchantment
+  was unsuccessful!'
+728fd2d4-87e8-48e2-9586-3175acbeab48.advancedenchants.commands.main.enchant.downgraded: '&2Downgraded
+  %1 from level %previous-level% to %2.'
+6a8b4a33-9449-47af-8a1e-998b97887612.advancedenchants.items.magic-dust.single-items-only: '&cYou
+  can only use this on single items!'
+fc9e9ef6-646a-4967-9c94-b2ac84d14b88.advancedenchants.applying.requires-enchant: '&cThe
+  &4%1 &cenchantment requires the &4%2&7 &cenchant to be applied!'
+a5e6a14b-b6f6-4a22-816f-329a6f88e47c.advancedenchants.items.black-scroll.full-inventory: '&cYour
+  inventory is full!'
+21189671-2ab2-4b84-a4b0-e97884020d3e.advancedenchants.interact.main-hand-only: '&cYou
+  can only do that with your main hand!'
+136ac6db-940c-4b05-a296-24b67f97747e.advancedenchants.commands.apply.reapplied: '&aYour
+  armor has been re-applied.'
+d6290ad9-00b4-4550-857a-f88ff4a583a9.advancedenchants.commands.aegive.invalid-material: "&cInvalid
+  material. Please reference the 'materials.yml' file for all valid materials."
+c4ac61a9-a16a-4154-aba1-300045738fe2.advancedenchants.commands.gedit.set-permission.invalid-usage: '&cUsage:
+  /gedit setpermission <gkit> <perm>'
+ef81172e-1e25-4af5-a00c-ea6cc31422d3.advancedenchants.commands.aegive.success: '&aGave
+  &2%1x %2 &ato %3&a!'
+95b23d38-fc85-463b-9166-742b91cc699a.advancedenchants.commands.gedit.setdelay.invalid-usage: '&cUsage:
+  /gedit setdelay <gkit> <delay (in seconds)>'
+c43564b7-3728-422a-a761-e132b059eef9.advancedenchants.applying.not-applicable-with: '&cThe
+  &4%1 &cenchantment cannot be applied together with the &4%2&7 &cenchant!'
+bdf97fc9-c3a2-40eb-bc4c-9ea9aa554c5b.advancedenchants.orbs.incompatible: '&cCannot
+  apply lower slots orb than available slots!'
+be104740-e9ac-40dc-9390-681a62ffcb4f.advancedenchants.commands.main.unenchant.does-not-have-enchant: "&cThat
+  item doesn't have &4%1&c!"
+e22be810-f41e-44a8-a9ed-22af78c522ef.advancedenchants.commands.enchantment-info.open-menu-message: '&7Information
+  about &e%1 &7enchantment.'
+50b80159-f506-4733-bffe-473c8f195cc6.advancedenchants.commands.aegive.invalid-item-flag: '&cInvalid
+  ItemFlag! You can choose from the following: %1'
+d95f0b0a-3a55-4799-a270-b8a5f329a997.advancedenchants.alchemist.doesnt-accept: "&cThe
+  Alchemist doesn't accept this item!"
+dd6c7199-5c07-498e-8cf7-83f542a2eb04.advancedenchants.combining.already-max-level: This
+  enchantment is already max level!
+31cae036-1e6b-488a-8f0b-767e247105cb.advancedenchants.effects.steal-money: '&6%1 &7stole
+  &6%2 &7from &6%3&7!'
+bf7426ff-e008-421d-b1cb-4b9fc42ed711.advancedenchants.commands.gedit.setdelay.success: '&eChanged
+  &6%1&e kit delay to &6%2'
+bde94bad-5764-41b1-b095-10a61357d46e.advancedenchants.tinkerer.trade-accepted: '&aTrade
+  accepted!'
+787560e1-c0b0-4194-b745-0fbdb40da525.advancedenchants.commands.gedit.reset.invalid-usage: '&cUsage:
+  /gedit reset <gkit> <player>'
+1c1c8ff3-cf1e-4e1b-9f41-8ff3f9ff83e4.advancedenchants.items.randomization-scroll.cannot-apply: '&cYou
+  cannot apply a randomizer to this!'
+5ee36d10-6b8e-4337-8357-effe533f8a2a.advancedenchants.commands.invalid-amount: '&cInvalid
+  amount. Must be between 1-64.'
+76f3594d-dab1-4567-abc5-1f579a1346ec.advancedenchants.orbs.failed: '&cOrb failed!'
+c23f37fb-3ae6-4a1a-8098-a95f70ab2bf4.advancedenchants.commands.aegive.invalid-item-flag: '&cInvalid
+  ItemFlag! You can choose from the following: %1'
+03f1103c-a06b-4abc-8d13-f59d126f6a34.advancedenchants.prefix: '&b&lᴇɴᴄʜᴀɴᴛᴍᴇɴᴛs &8&l|
+  &f'
+61995a52-6070-4ba4-a209-a7e6f2fec408.advancedenchants.commands.main.giveitem.success: '&7Added
+  %1x %2&7 for player &b%3'
+2f8a86f7-b12a-4ba7-9bb9-1d75608b295f.advancedenchants.commands.main.greset.reset-all: '&aReset
+  all GKits for %1!'
+f04520ee-e709-4987-b014-988a6958e669.advancedenchants.orbs.failed: '&cOrb failed!'
+b6a47ab6-e28d-44b8-b61f-7944ce58fb33.advancedenchants.commands.withdrawsouls.less-than-one: '&cCount
+  must be positive.'
+c0f33af0-e817-4644-b7c0-210692ec2997.advancedenchants.commands.main.admin.invalid-page: '&cInvalid
+  page'
+d4b3afdd-0b3c-4597-bae5-870cd4b179e6.advancedenchants.commands.enchants.open-menu-message: '&7Showing
+  list of all enchantments...'
+df642c0c-efca-4767-83f1-851690f52429.advancedenchants.commands.gedit.edit.invalid-usage: '&cUsage:
+  /gedit edit <gkit>'
+24c29af9-d9ac-4894-bd58-6a03825d09e5.advancedenchants.commands.main.givercbook.success: '&aGave
+  &2%1 %2x %3 &aright click books!'
+1c0574f7-4f30-403d-adac-71338eca2afc.advancedenchants.tinkerer.non-tradeable-item.0: "&cThe
+  Server Tinkerer doesn't want that item!"
+b0fc5a1c-71c5-439f-8a3a-3daaa050ee49.advancedenchants.commands.invalid-enchant: '&c%1
+  is not a valid enchant!'
+6f7e29d5-5412-4bb6-b5df-57c477782830.advancedenchants.alchemist.exceeds-max-level: '&cYour
+  combined level exceeds maximum enchantment level!'
+6d0b43c5-7754-46a2-b79c-07b725abe7a0.advancedenchants.items.soul-tracker.disabled: '&cSouls
+  are not enabled on this server!'
+5170ac0b-3b27-4e64-bdde-f6ad7b571b49.advancedenchants.token.success: '&2&lx &aSuccessfully
+  downloaded token &l%1&a enchantment, reloading...'
+b1a99845-d46f-4409-85ca-2acf6ae235e4.advancedenchants.commands.main.zip.success: '&eA
+  zip file containing all plugin data has been created at %1.'
+8e26ded0-73f5-4b95-ae67-19c03e8ddb07.advancedenchants.commands.enchantment-info.invalid-usage: '&cInvalid
+  usage! Proper usage: %1 <enchantment>'
+b6b22717-5b47-4b3c-9a3a-a8314e50996e.advancedenchants.commands.main.open: '&aOpened
+  %1 for %2!'
+5d3a441a-bf57-484b-834f-1b1b2223c0e5.advancedenchants.enchanter.cannot-afford.0: '&cYou
+  do not have enough EXP to purchase that.'
+57d9dab0-5982-416d-95e5-0001bf25f404.advancedenchants.gkits.cooldown: '&eYou cannot
+  use this kit yet, kit &6%1&e is on cooldown &7(%2)'
+8cf0baf5-7c4d-4d02-b2d9-9b1a8dccfa5d.advancedenchants.heroic.cannot-apply: "&cYou
+  can't apply a crystal upgrade to this item."
+8e6931cc-7ff3-4b36-ad70-3b777bd68f13.advancedenchants.orbs.cannot-apply: '&cCannot
+  apply orb to this item!'
+7a0bc773-8991-4ff6-bb89-b625a4832e35.advancedenchants.sets.commands.givepiece.success: '&eGave
+  &f%1 &efrom &f%2 &eto &f %3'
+999d36da-a908-4e8b-be2d-4c793a3963bf.advancedenchants.commands.invalid-enchant: '&c%1
+  is not a valid enchant!'
+bcd78d90-7da1-4d61-a8aa-c3c477e41bd0.advancedenchants.combining.something-went-wrong: '&cSomething
+  went wrong with combining.'
+de18e034-2e3a-434b-9e4f-50be2302d5be.advancedenchants.enchanter.disabled-in-world: '&cThe
+  Enchanter is disabled in this world.'
+52ff5272-ff00-40bf-8392-8efd588d110f.advancedenchants.commands.apply.no-args: '&cPlease
+  specify which player should be affected.'
+4b4deadb-3176-42fc-a0a2-33dcabe3f325.advancedenchants.gkits.missing-permission: "&cGkit
+  %1's permission is invalid or non-existent"
+76752f72-9d5f-4d29-bef3-64cca93824d0.advancedenchants.commands.apply.reapplied-for-all: '&aArmor
+  has been reapplied for everyone!'
+e747f4b8-3337-40ba-86ef-0b113f466dcb.advancedenchants.commands.main.givercbook.success: '&aGave
+  &2%1 %2x %3 &aright click books!'
+87ce4dd6-92ae-4fb8-b1f4-ccf4407ff7c8.advancedenchants.commands.main.zip.error: '&cAn
+  error occurred while zipping files! Check console for more information.'
+a58c0e08-2ca8-41e3-8784-2bf459e98ad7.advancedenchants.commands.enchantment-info.open-menu-message: '&7Information
+  about &e%1 &7enchantment.'
+4040402d-8db7-4bf2-86bf-1255f23eef09.cmd.homes.title: '&bHomes Upgrade'
+4e4944eb-9167-4e2b-af6d-d719b9066093.cmd.upgrade.max: '&7You already have every upgrade
+  of the type &#20F707%1'
+4140613b-4420-447d-8c64-ab330521b5ce.cmd.upgrade.unable: "&7You can't buy upgrades
+  of the type &#20F707%1, because it costs ⛃%2 tokens."
+b74de6c7-b61a-4a44-b9c5-a1d7bcb7a6ab.cmd.jobs.title: '&bJobs Upgrade'
+4ead42aa-6cbb-41bf-a9b5-167b1a310926.cmd.vote.desc.all: "&f\n &f● &7Rewards after
+  you votes for all sites:\n &1● &7(&fx9&8) &fVote Keys\n &1● &7&b&l$&b10,000\n &1●
+  &7&b&l⛃&b20\n &1● &7&b&l🧪&b100\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+7700e217-7890-4bb9-99d8-fc90b7dc4920.cmd.exp.desc: "&aDescription\n&f● &7Craft yourself\n
+  &f● &7the bottles of XP\n&f\n&f● &7Craft: &f🧪%1\n&f● &7This covers %2 Slot(s)\n
+  &f\n&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴄʀᴀғᴛ"
+7afc9f72-23db-40ea-9a73-2c009e25917c.advancedenchants.items.white-scroll.full-inventory: '&cYour
+  inventory is full!'
+709179ea-bda0-46af-9ded-3413af667106.cmd.vote.desc: "&f\n &f● &7Priority: &f#%1\n
+  &f● &7Rewards:\n &1● &7(&fx1&8) &fVote Key\n &1● &7&b&l$&b1,000\n &1● &7&b&l⛃&b2\n
+  &1● &7&b&l🧪&b10\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+3bddc1c7-0785-4809-b976-211eab7ef189.cmd.exp.title: '&aCraft EXP Bottles #99FF99⏩'
+932ec3f7-6ce7-4271-965c-4c9a584a0fd8.cmd.upgrade.buy: '&7You can buy upgrades of the
+  type &#20F707%1 for a total of ⛃%2 Tokens'
+5ecb4937-f6ee-488c-9d85-26206495a32f.advancedenchants.sets.commands.listweapons.header: '&eList
+  of all available Weapons &7[%1]'
+286dfec4-511b-46ea-b0be-a3d09037f883.advancedenchants.prefix: '&b&lᴇɴᴄʜᴀɴᴛᴍᴇɴᴛs &8&l|
+  &f'
+a5c9556c-5aca-4b5f-9148-163efbe109d3.advancedenchants.commands.main.give.success: '&aSuccessfully
+  gave %1 one %2 %3 book!'
+a78acdec-fd99-4a8c-99ad-57d3eee9be43.advancedenchants.sets.commands.invalid-chances: '&cInvalid
+  chances.'
+a4e279f7-e4b3-4caf-8733-803e834e69fa.advancedenchants.commands.gedit.list: '&eGKits:
+  &6%1'
+a6105460-6244-4d86-b780-0e546591a921.advancedenchants.commands.main.unknown-command: '&cIncorrect
+  command usage! Type "/ae" for the correct usage.'
+2d328e16-c101-4ca0-86f9-27a90bcb8ccf.advancedenchants.commands.main.giverandombook.success: '&aGave
+  &2%1 %2x %3 &abooks!'
+47f6d64c-e85d-4eaf-aac7-719448e50815.advancedenchants.token.success: '&2&lx &aSuccessfully
+  downloaded token &l%1&a enchantment, reloading...'
+a3dc6e01-4505-4d90-be2e-7c1be9ec202d.advancedenchants.alchemist.exceeds-max-level: '&cYour
+  combined level exceeds maximum enchantment level!'
+7927b21d-4902-431a-a9da-e7f93077fe86.advancedenchants.commands.main.setsouls.success: "&cSet
+  item's soul count to: %1"
+a50ffd22-cbc4-49bf-838f-05449590457d.advancedenchants.enchanter.cannot-afford.0: '&cYou
+  do not have enough EXP to purchase that.'
+c9674454-b9b0-45cd-be61-6c621c69bd4b.advancedenchants.sets.commands.invalid-weapon: '&cWeapon
+  is invalid.'
+1d35ad0a-be0c-4018-98f6-939580bfe897.advancedenchants.sets.commands.weapon.success: '&eGave
+  &f %1 &eSet to &f %2'
+aa1734d7-5f8b-499a-b09a-88430ae45ac1.advancedenchants.applying.not-applicable-with: '&cThe
+  &4%1 &cenchantment cannot be applied together with the &4%2&7 &cenchant!'
+365cd0b1-44a0-42cd-9214-5f609d021387.advancedenchants.chances.book-failed: "&cYour
+  book failed but item wasn't destroyed!"
+8c09ddc2-ec14-4af8-afd8-a01756dc9e35.advancedenchants.enchanter.full-inventory: '&cYour
+  inventory is full!'
+fb6ad8f0-33ff-4efe-a80d-61406e6345eb.advancedenchants.sets.commands.offline-player: '&cPlayer
+  is offline.'
+03d7abb3-1bd8-441e-aea0-a43268f3d4e5.advancedenchants.sets.commands.listweapons.weapon: ' &8>>
+  &f%1'
+32424999-e13c-4c2e-a3cf-1d127350d660.advancedenchants.commands.apply.cooldown: '&cYou
+  will be able to use this command in %1 seconds.'
+81dec755-09f7-478f-b615-28fc83746562.advancedenchants.enchanter.examine-book: '&7You
+  examined %group-color%%group-name%&7 book and found %enchant-color% %1'
+55dfd393-e875-4340-b8df-67c5dde8394a.advancedenchants.commands.main.setsouls.invalid-usage: '&cInvalid
+  usage: /ae setsouls <amount>'
+9b544e7b-2323-421f-a9d6-6c74d8ab58d6.advancedenchants.commands.main.giverandombook.success: '&aGave
+  &2%1 %2x %3 &abooks!'
+0f5c902d-d02e-4dfd-875f-6d1c39f4c4d5.advancedenchants.commands.main.claim.invalid-usage: '&cPlease
+  enter enchant token.'
+7411faa5-ad70-4cf8-b30b-6e4fcbbad198.advancedenchants.applying.wrong-material: '&cThis
+  enchantment cannot be applied on this item.'
+4d1772f8-663f-4dc9-add8-b6095cd66d8d.advancedenchants.items.soul-tracker.disabled: '&cSouls
+  are not enabled on this server!'
+8ad0c5d1-32b4-4826-a9c5-b0ab21753083.advancedenchants.commands.main.unenchant.invalid-usage: '&cInvalid
+  usage: /ae unenchant <enchant>'
+6615e594-1748-4511-ba9a-56b4f3d07416.advancedenchants.commands.main.unenchant.not-holding-item: '&cYou
+  must be holding an item!'
+95ff16a2-a723-46ac-a7c8-8217ec5b1b6e.advancedenchants.heroic.upgrade-failed: '&cThe
+  crystal upgrade &nfailed&c!'
+58c7e249-995b-4d8d-a622-a1a4e18c39eb.advancedenchants.sets.commands.givepiece.success: '&eGave
+  &f%1 &efrom &f%2 &eto &f %3'
+e22a2688-eead-4303-b8ea-53ff0da82440.advancedenchants.commands.not-holding-item: '&cYou
+  must be holding an item!'
+935a6fe8-f9b8-4950-8b74-b09848dc239e.advancedenchants.sets.commands.unknown-command: '&cCommand
+  not found! Type "/asets" for a list of all valid commands.'
+740cd7db-18ae-45f1-931a-24fec4ce52a5.advancedenchants.commands.main.givegkit.success: '&cKit
+  %1 was given to player %2'
+e745753c-7dcc-4e39-a03a-33c466c61192.advancedenchants.sets.commands.list.header: '&eList
+  of all available Sets &7[%1]'
+d898590a-2799-424d-88d5-630ab16989a1.advancedenchants.commands.aegive.invalid-material: "&cInvalid
+  material. Please reference the 'materials.yml' file for all valid materials."
+d3605df9-0d20-4903-b4b0-df1b5ed1477f.advancedenchants.gkits.unknown-enchant: '&7Enchant
+  %1 cannot be resolved.'
+b619050a-a46b-480e-a887-9482b37400f8.advancedenchants.sets.commands.list.header: '&eList
+  of all available Sets &7[%1]'
+5ef46a85-b0e5-4ed4-905d-bde7087ca2af.advancedenchants.items.black-scroll.no-enchants: "&cThis
+  item doesn't have any enchants!"
+d7f39bc0-45f2-4063-a87b-e9d5196a80af.advancedenchants.sets.commands.unknown-command: '&cCommand
+  not found! Type "/asets" for a list of all valid commands.'
+d0c29c38-038b-4d22-be17-c7b29ed6f6e3.advancedenchants.commands.main.givebook.success: '&aGave
+  &2%1 %2x %3 %4 &abooks!'
+e75bc7d0-fe90-4e5a-8260-c8cad5164892.advancedenchants.commands.main.setsouls.invalid-usage: '&cInvalid
+  usage: /ae setsouls <amount>'
+dd655eb8-8d7c-4ae4-a12f-33dbf03f9d47.advancedenchants.combining.failure: '&cCombining
+  failed!'
+8a9280a7-e4c6-401d-bce0-39f4424a9f56.advancedenchants.commands.main.zip.zip-exists: '&cPlease
+  try again.'
+2fab929e-1eef-46cf-a6a2-7e1d853de45e.advancedenchants.gkits.used-kit: '&eYou have
+  used kit &6%1.'
+99002679-e2a0-41bd-aeed-f9aec91c3a30.advancedenchants.items.soul-tracker.apply-successful: '&7You
+  successfully applied &f&lSoul Tracker &7to your item!'
+f294a796-f100-4565-8df3-9696febcde44.advancedenchants.items.white-scroll.item-saved: '&aWhite
+  scroll saved the item!'
+f080879a-08fb-4655-93d3-e6d4aa3df38e.advancedenchants.commands.gedit.unknown-gkit: '&c%1
+  is not a valid gkit!'
+bc7583f6-c8ea-47a6-85db-b58cb1fbc3e8.advancedenchants.commands.main.info.2: '&6Applies
+  to&7: &e%1'
+cb3c4b9b-b1e6-48bf-bb9e-5b1b801692bb.advancedenchants.commands.withdrawsouls.invalid-usage: '&cUsage:
+  /withdrawsouls <count>'
+693a69cc-f87c-41da-aad3-1eb251da6200.advancedenchants.commands.main.unenchant.success: '&aRemoved
+  enchant %1!'
+1acbbd32-7bdd-49f9-94f9-e3399478adcd.advancedenchants.commands.main.info.2: '&6Applies
+  to&7: &e%1'
+2b7e05c0-061d-4648-89e9-5cdad3bf1dc7.advancedenchants.items.randomization-scroll.single-items-only: '&cYou
+  can only use this on single items!'
+e0f0a356-87fd-4207-bbb6-f07d4608a157.advancedenchants.commands.no-permission: "&cYou
+  don't have permission to do that!"
+da0c5f89-a735-4ede-8f33-42da14eb0ca5.advancedenchants.enchanter.re-buy: '&cPlease
+  re-buy the item from the enchanter.'
+37cca3e9-3e5a-4bf7-a5eb-b34e0e0052c1.advancedenchants.heroic.upgrade-failed: '&cThe
+  crystal upgrade &nfailed&c!'
+bd8e6cc9-cc64-41b1-9ffe-d2f0af3eb6e1.advancedenchants.commands.gedit.reset.success: '&6%1
+  &6gkit has been reset for player &e%2'
+cce1804c-83a9-4e66-971a-551a49345ec2.advancedenchants.enchanter.cannot-afford.1: '&7Your
+  XP: %1'
+b7ec3eac-d3bd-4d45-99bd-d098d3b3d086.advancedenchants.tinkerer.non-tradeable-item.1: '&7It
+  will only accept custom enchanted equipment'
+1b9d547a-035c-49ba-84f1-7365a5c72fda.advancedenchants.commands.gedit.set-permission.success: "&eChanged
+  &6%1's&e kit permission to &6%2"
+14d34581-265e-4c16-a0a9-363ffc2208e3.advancedenchants.commands.main.enchant.removed: '&cRemoved
+  the %1 enchant from the item.'
+74483ba8-c4f4-453e-8b53-e37eef8fc69f.advancedenchants.commands.invalid-level: '&cInvalid
+  enchant level! Try using: %1'
+d3aa6318-23a7-40bd-be0e-3592b451bec3.advancedenchants.commands.main.giveitem.success: '&7Added
+  %1x %2&7 for player &b%3'
+cf003008-a42e-4320-8714-0005a706cd60.advancedenchants.commands.withdrawsouls.invalid-item: '&cInvalid
+  item.'
+1a7bf964-e22e-4c21-803a-b70a5defb434.advancedenchants.alchemist.trade-cancelled: '&cTrade
+  cancelled.'
+d0ca7ecf-9535-4664-8168-7a484fcd6d2b.advancedenchants.commands.aegive.success: '&aGave
+  &2%1x %2 &ato %3&a!'
+40d5d5e7-15a8-4119-8231-b99cac9a0d91.advancedenchants.items.white-scroll.apply-successful: '&aWhite
+  scroll has been applied to your item!'
+da955c80-8c00-402b-a2d1-15be71316026.advancedenchants.commands.aegive.invalid-enchantment: '&cInvalid
+  Enchantment!'
+39013dd8-364b-4d3f-ae43-3735f3993f9b.advancedenchants.commands.main.givebook.success: '&aGave
+  &2%1 %2x %3 %4 &abooks!'
+4e68f34c-aebd-467c-a043-5539530a4d8d.advancedenchants.applying.already-applied: '&cThe
+  item already has this enchantment.'
+034c2d1e-0143-465c-8294-c8b2ec46efbe.advancedenchants.commands.main.enchant.upgraded: '&2Upgraded
+  %1 from level %previous-level% to %2.'
+8331c759-6dda-4a23-9706-9dbe1fc15604.advancedenchants.commands.main.info.3: '&6Max
+  level&7: &e%max-level%'
+4e1f75e9-f024-45ec-a5da-9e70a32afbb2.advancedenchants.commands.main.enchant.added: '&aAdded
+  the %1 enchant!'
+23530152-f8e1-49ce-bfe8-cd7b8fefb946.advancedenchants.orbs.incompatible: '&cCannot
+  apply lower slots orb than available slots!'
+4247204b-a376-48b8-b6ac-37cd7eda583d.advancedenchants.commands.gedit.unknown-gkit: '&c%1
+  is not a valid gkit!'
+6e07eb5b-e60b-427e-8ee9-bc2b8893f8cf.advancedenchants.commands.main.unknown-command: '&cIncorrect
+  command usage! Type "/ae" for the correct usage.'
+b3844424-0b6e-44a3-9864-c68a1caecd88.advancedenchants.commands.withdrawsouls.invalid-item: '&cInvalid
+  item.'
+bbb890ed-859d-4c62-a93e-b5eaf86f9158.advancedenchants.commands.main.open: '&aOpened
+  %1 for %2!'
+d81e3165-1e11-4880-a976-81b9fcae8d43.advancedenchants.sets.commands.listweapons.weapon: ' &8>>
+  &f%1'
+69762f6e-507e-4858-b74d-51b74dcbc8af.advancedenchants.commands.main.unenchant.not-holding-item: '&cYou
+  must be holding an item!'
+d7126e46-0ace-49ea-bcbe-3a9ba96691a5.advancedenchants.heroic.cannot-apply: "&cYou
+  can't apply a crystal upgrade to this item."
+9da20257-6574-465a-a510-334423608e5f.advancedenchants.enchanter.successful-purchase: '&aPurchase
+  successful!'
+cd65d45a-4d21-46fa-b73c-dc6380c69561.advancedenchants.combining.failure: '&cCombining
+  failed!'
+18f29d7a-2e1d-4536-8e0f-00de7ab4fd47.advancedenchants.commands.enchantment-not-found: '&cEnchantment
+  &c&n%1&c could not be found.'
+a028d0d9-2803-4787-9f42-9b90d7027f2b.advancedenchants.commands.no-permission: "&cYou
+  don't have permission to do that!"
+fbde61cc-d637-4d47-8c4a-c60947f93d27.advancedenchants.alchemist.doesnt-accept: "&cThe
+  Alchemist doesn't accept this item!"
+10478951-bfe7-458c-9337-abf058ae5fba.advancedenchants.commands.aegive.invalid-enchantment: '&cInvalid
+  Enchantment!'
+e9d22d8d-921d-44fb-8453-733e590c2a4f.advancedenchants.commands.offline-player: '&cThat
+  player is not online!'
+c1773ad0-f825-47f7-a000-afcfb7e491e2.advancedenchants.commands.invalid-usage: '&cUsage:
+  %1'
+09913ad9-d928-42a1-82fe-fd2f6bcda489.advancedenchants.tinkerer.non-tradeable-item.1: '&7It
+  will only accept custom enchanted equipment'
+83a77de5-4324-4c9d-89fa-95ad2ab49bfe.advancedenchants.sets.commands.list.set: ' &8>>
+  &f%1'
+62b1580a-e815-4124-96c4-49e73e76407b.advancedenchants.orbs.cannot-apply: '&cCannot
+  apply orb to this item!'
+7537c512-9093-4b77-8b5b-294f5ea55005.advancedenchants.interact.main-hand-only: '&cYou
+  can only do that with your main hand!'
+fc4b343f-9f7f-42ce-a2a7-05e9fd485898.advancedenchants.commands.main.pastetypes: '&aEnchantment
+  type list: %1'
+64d557cb-0b45-4629-b055-075e5f5c7313.advancedenchants.sets.commands.invalid-usage: '&cInvalid
+  usage! Please reference /asets for the proper usage.'
+5ff83eed-6878-4086-bed0-3ae0fbcc1e19.advancedenchants.commands.main.setsouls.success: "&cSet
+  item's soul count to: %1"
+0288f5db-070f-417c-929a-243e481f51bd.advancedenchants.commands.main.enchant.removed: '&cRemoved
+  the %1 enchant from the item.'
+a39faa17-9341-40bc-86ec-e3d228bcb1bf.advancedenchants.items.white-scroll.item-saved: '&aWhite
+  scroll saved the item!'
+826a54bb-4346-43c0-9f21-2a36562a48af.advancedenchants.commands.main.unenchant.invalid-enchant: '&c%1
+  is not a valid enchant!'
+26c40281-c3b3-4c4a-9ddd-e936b63457cd.advancedenchants.applying.max-level: '&cThis
+  enchantment is already at max level!'
+a8f77c4b-0314-40ea-9d5b-78b7309e4a5d.advancedenchants.sets.commands.weapon.success: '&eGave
+  &f %1 &eSet to &f %2'
+9abc0fa2-6069-47af-933d-dd19edd208ee.advancedenchants.commands.main.unenchant.success: '&aRemoved
+  enchant %1!'
+5ba1ea43-e5e4-44dd-9e61-63469b6d4ba5.advancedenchants.commands.gedit.setdelay.invalid-delay: '&c%1
+  is not a valid integer!'
+b46f2180-7dd8-4eb9-bb92-48cfaf29bf32.advancedenchants.sets.commands.offline-player: '&cPlayer
+  is offline.'
+f2b7d1a8-4c29-417a-aa5e-ced586965494.advancedenchants.commands.main.zip.success: '&eA
+  zip file containing all plugin data has been created at %1.'
+bfc5ff0c-9368-49be-a94d-67a9b354a63a.advancedenchants.combining.something-went-wrong: '&cSomething
+  went wrong with combining.'
+55cd3744-4f96-4015-ad06-6d8f093bc20e.advancedenchants.commands.withdrawsouls.invalid-usage: '&cUsage:
+  /withdrawsouls <count>'
+11733b7e-eaec-477f-808e-e2c38372f729.advancedenchants.commands.offline-player: '&cThat
+  player is not online!'
+05f297bf-674d-44d9-9cde-746c1304692b.advancedenchants.applying.applied: '&aEnchantment
+  was applied to your item.'
+8882db3c-4297-4614-8028-78c5cc14cd73.advancedenchants.commands.main.enchant.upgraded: '&2Upgraded
+  %1 from level %previous-level% to %2.'
+1aad8c87-cdbd-4a74-ae81-5a114b28b4ba.advancedenchants.chances.book-failed: "&cYour
+  book failed but item wasn't destroyed!"
+dc02bdde-e036-436c-b04d-52befd1c7f96.advancedenchants.enchant-limitations.cannot-be-modified: '&cThis
+  item cannot be modified!'
+222f58db-4d88-4307-8de1-24951c8da73c.advancedenchants.enchanter.examine-book: '&7You
+  examined %group-color%%group-name%&7 book and found %enchant-color% %1'
+98e1b4b3-fc0b-42e0-beb3-0dbb64d7f6e9.advancedenchants.commands.main.pastetypes: '&aEnchantment
+  type list: %1'
+739a5f94-1375-4905-8371-3e199c069a7a.advancedenchants.items.soul-tracker.apply-successful: '&7You
+  successfully applied &f&lSoul Tracker &7to your item!'
+875b3303-ac21-4e70-8690-3b0e0c007302.advancedenchants.enchanter.disabled-in-world: '&cThe
+  Enchanter is disabled in this world.'
+637adede-da3b-4ad7-a7a2-9b206663dba3.advancedenchants.enchanter.cannot-afford.1: '&7Your
+  XP: %1'
+5671437a-cb6d-403f-aa10-ce316bf98e96.advancedenchants.items.randomization-scroll.cannot-apply: '&cYou
+  cannot apply a randomizer to this!'
+4d77145f-e656-4c2a-961a-7e5fe3e57e5a.advancedenchants.commands.not-a-number: '&c%1
+  is not a number!'
+fcb4f302-cd55-4d9d-8fdc-e590e6abb7f0.advancedenchants.items.magic-dust.single-items-only: '&cYou
+  can only use this on single items!'
+b9335fe5-a0cc-4541-a38e-f9af42de4ff6.advancedenchants.commands.main.enchant.added: '&aAdded
+  the %1 enchant!'
+1ff4dc42-e98a-46a5-8aed-d0658edbf888.advancedenchants.commands.invalid-amount: '&cInvalid
+  amount. Must be between 1-64.'
+e1d9e399-e0f7-4808-8eca-1c74e0385f94.advancedenchants.commands.apply.reapplied-for-all: '&aArmor
+  has been reapplied for everyone!'
+5387323b-cb89-4654-9e11-4bcfa52e2f7a.advancedenchants.items.black-scroll.invalid-enchant: "&cCannot
+  remove enchant as it's invalid!"
+1864fc66-4380-4126-af4a-a182cf346810.advancedenchants.sets.commands.listweapons.header: '&eList
+  of all available Weapons &7[%1]'
+571ae9f2-db79-4394-80b7-ef2aaee901c0.advancedenchants.combining.success: '&aSuccess!
+  &7%1 is now level %2!'
+050957b2-0886-4f95-9059-5cfc223f2391.advancedenchants.sets.commands.invalid-chances: '&cInvalid
+  chances.'
+69b56a32-435d-47ce-9b71-5377a187ad27.advancedenchants.commands.enchantment-not-found: '&cEnchantment
+  &c&n%1&c could not be found.'
+b33b19e6-358f-4ac3-9444-3ab3a27a6c54.advancedenchants.commands.main.unenchant.invalid-usage: '&cInvalid
+  usage: /ae unenchant <enchant>'
+0df7eae8-4c36-41c2-a727-bcf3612e5619.advancedenchants.commands.not-a-number: '&c%1
+  is not a number!'
+61bb16ed-f57d-49cc-94de-0bb5ba371e26.advancedenchants.items.black-scroll.cannot-remove: '&cEnchantment
+  %1 cannot be removed!'
+0462010f-a658-4857-9f1c-90e9e86bfd55.advancedenchants.commands.apply.reapplied-other: '&aArmor
+  has been reapplied for %1.'
+fc259d23-2a71-4185-9f17-363d59205de8.advancedenchants.enchanter.unknown-payment-method: '&cFailed
+  to validate %1 payment method, please contact an administrator.'
+3c1c8aad-343d-497b-8ef6-44dc28e527c7.advancedenchants.commands.main.greset.reset: '&aReset
+  the %1 kit for %2!'
+510c003f-b966-4cc0-91d7-4ec742aea35f.advancedenchants.sets.commands.give.success: '&eGave
+  &f %1 &eSet to &f %2'
+fb945358-db55-4280-9205-7e0148ae03b6.advancedenchants.commands.main.pasteenchants: '&aEnchantments
+  list: %1'
+539e9200-0f9a-497a-9087-fc7cf19517a0.advancedenchants.commands.gedit.list: '&eGKits:
+  &6%1'
+fa2b4784-de6e-4cfa-b1e6-8f6fb2df8c51.advancedenchants.sets.commands.list.set: ' &8>>
+  &f%1'
+c342a1c9-c30d-493b-bfb3-315b77cd94e4.advancedenchants.commands.gedit.setdelay.invalid-delay: '&c%1
+  is not a valid integer!'
+85a996a3-9e37-47d7-9011-ece755dc8cde.advancedenchants.commands.invalid-level: '&cInvalid
+  enchant level! Try using: %1'
+2c74500b-be84-4304-adb3-5f71897d64de.advancedenchants.commands.main.enchant.downgraded: '&2Downgraded
+  %1 from level %previous-level% to %2.'
+77c746eb-f99c-4e81-8f22-4c1423df97ab.advancedenchants.commands.withdrawsouls.less-than-one: '&cCount
+  must be positive.'
+b5b174d6-63af-4db7-900c-5c081fe98b4e.advancedenchants.sets.commands.invalid-usage: '&cInvalid
+  usage! Please reference /asets for the proper usage.'
+9ff8d071-8853-4b25-bf48-d65435a335c5.advancedenchants.commands.enchantment-info.invalid-usage: '&cInvalid
+  usage! Proper usage: %1 <enchantment>'
+dc6810b2-121a-48af-90a2-e34a8692a0ef.advancedenchants.enchanter.re-buy: '&cPlease
+  re-buy the item from the enchanter.'
+4bad0200-5472-4e65-97df-5f9f68ab42eb.advancedenchants.sets.commands.invalid-set: '&cSet
+  is invalid.'
+0d884090-2caf-4351-8900-8c3006f8bfdf.advancedenchants.commands.invalid-usage: '&cUsage:
+  %1'
+8019683a-6bea-4005-8db5-960cb7c01285.advancedenchants.gkits.unknown-gkit: '&cGKit
+  %1 does not exist!'
+8cc7a98a-9fdd-4097-942f-114a73a6d2bc.advancedenchants.commands.gedit.edit.invalid-usage: '&cUsage:
+  /gedit edit <gkit>'
+78036b41-9a61-41e1-b72c-871d23b16eb1.advancedenchants.gkits.unknown-enchant: '&7Enchant
+  %1 cannot be resolved.'
+3cf63d8a-a175-43f0-9a26-0b71fa56ff0c.advancedenchants.items.black-scroll.full-inventory: '&cYour
+  inventory is full!'
+e6d0c787-41ec-48dd-a3ce-5a45b6267aad.advancedenchants.commands.main.info.1: '&6Description&7:
+  &e%1'
+c81502c6-bbea-4913-823f-5e49e440ab86.advancedenchants.commands.main.setsouls.invalid-item: '&cInvalid
+  item.'
+b1ecc9b0-b735-414c-9d4f-f0c7bb7dd08e.advancedenchants.enchanter.successful-purchase: '&aPurchase
+  successful!'
+0d15358b-c728-4249-9c70-f6b67a7a5d45.advancedenchants.enchanter.full-inventory: '&cYour
+  inventory is full!'
+cd533095-d88f-467e-bd1e-4333a96eef89.advancedenchants.commands.main.info.1: '&6Description&7:
+  &e%1'
+66caf766-a05a-421a-be3b-8191d2f6728c.advancedenchants.commands.main.unenchant.does-not-have-enchant: "&cThat
+  item doesn't have &4%1&c!"
+a20fc984-1310-4cb6-8464-4991728701fb.advancedenchants.commands.main.tinkereritem.success: "&cGave
+  x%1 tinkerer item's to %2"
+b900c269-8f5f-4f59-a5e0-0e67abcf32b7.advancedenchants.items.black-scroll.cannot-remove: '&cEnchantment
+  %1 cannot be removed!'
+2d443f6a-40af-4e21-b6bf-360528274fee.advancedenchants.items.magic-dust.full-inventory: '&cYour
+  inventory is full!'
+b433a5f0-ef4c-449a-abac-01cbc48c0639.advancedenchants.commands.main.greset.reset-all: '&aReset
+  all GKits for %1!'
+db694919-457e-4281-aaa9-79a69d7708ab.advancedenchants.gkits.used-kit: '&eYou have
+  used kit &6%1.'
+aa2a5698-c9f3-4675-a133-79ff3809810a.advancedenchants.applying.applied: '&aEnchantment
+  was applied to your item.'
+fc0df6a9-97bb-4cef-a03a-3b939b611ccf.advancedenchants.commands.apply.cooldown: '&cYou
+  will be able to use this command in %1 seconds.'
+1f3e9f2e-e078-408d-9c7a-456cbe506719.advancedenchants.tinkerer.non-tradeable-item.0: "&cThe
+  Server Tinkerer doesn't want that item!"
+7151b572-3939-478a-ac4c-218144fcd197.advancedenchants.commands.apply.reapplied-other: '&aArmor
+  has been reapplied for %1.'
+0b5ee902-2499-4c79-8ee9-578272114bd7.advancedenchants.gkits.unknown-gkit: '&cGKit
+  %1 does not exist!'
+42d0fec1-c688-4832-a205-0145645b51b4.advancedenchants.applying.already-applied: '&cThe
+  item already has this enchantment.'
+1d5ca346-4c44-4225-85c9-4cf5023b4e49.advancedenchants.commands.gedit.reset.success: '&6%1
+  &6gkit has been reset for player &e%2'
+3dc96044-40b9-4d33-8f32-6ce4f66dd5e8.advancedenchants.gkits.no-permission: "&eYou
+  don't have permissions to use &e%1&6 kit."
+0345691f-88fc-45f9-90bf-35fb8e12e847.advancedenchants.gkits.missing-permission: "&cGkit
+  %1's permission is invalid or non-existent"
+1506a3ab-18f3-4406-9c63-68e4da0eaff1.advancedenchants.commands.main.info.0: '&eInformation
+  about &6%1 &eenchantment&7:'
+08d6732a-1f4a-4dea-9bf6-d6798a84ea83.advancedenchants.gkits.cooldown: '&eYou cannot
+  use this kit yet, kit &6%1&e is on cooldown &7(%2)'
+0e047666-3e71-4b36-8d82-22cc0987545b.advancedenchants.alchemist.cannot-afford: '&cYou
+  cannot afford this transaction!'
+b5a4c156-ac1b-4561-b705-16ba3634986c.advancedenchants.commands.apply.no-args: '&cPlease
+  specify which player should be affected.'
+0dde3e2e-5db5-4e70-b8e3-79dd81665eff.advancedenchants.items.magic-dust.full-inventory: '&cYour
+  inventory is full!'
+d32653e8-fa72-4151-b85b-8dbcec423c34.advancedenchants.commands.gedit.setdelay.invalid-usage: '&cUsage:
+  /gedit setdelay <gkit> <delay (in seconds)>'
