@@ -8267,3 +8267,21 @@ e96d92ed-52b8-47d5-903a-b2f497562538.lands.messages.general.inbox.relation.ally.
   &7Your new Rang is: &#20F707%1"
 1b59e7ec-13cc-4d07-9386-eeef4b7de50b.rang.new_rang: '&fHey! &7You got a new Rang:
   &#20F707'
+4040402d-8db7-4bf2-86bf-1255f23eef09.cmd.homes.title: '&bHomes Upgrade'
+4e4944eb-9167-4e2b-af6d-d719b9066093.cmd.upgrade.max: '&7You already have every upgrade
+  of the type &#20F707%1'
+4140613b-4420-447d-8c64-ab330521b5ce.cmd.upgrade.unable: "&7You can't buy upgrades
+  of the type &#20F707%1, because it costs ⛃%2 tokens."
+b74de6c7-b61a-4a44-b9c5-a1d7bcb7a6ab.cmd.jobs.title: '&bJobs Upgrade'
+4ead42aa-6cbb-41bf-a9b5-167b1a310926.cmd.vote.desc.all: "&f\n &f● &7Rewards after
+  you votes for all sites:\n &1● &7(&fx9&8) &fVote Keys\n &1● &7&b&l$&b10,000\n &1●
+  &7&b&l⛃&b20\n &1● &7&b&l🧪&b100\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+7700e217-7890-4bb9-99d8-fc90b7dc4920.cmd.exp.desc: "&aDescription\n&f● &7Craft yourself\n
+  &f● &7the bottles of XP\n&f\n&f● &7Craft: &f🧪%1\n&f● &7This covers %2 Slot(s)\n
+  &f\n&a&l| &aᴄʟɪᴄᴋ ᴛᴏ ᴄʀᴀғᴛ"
+709179ea-bda0-46af-9ded-3413af667106.cmd.vote.desc: "&f\n &f● &7Priority: &f#%1\n
+  &f● &7Rewards:\n &1● &7(&fx1&8) &fVote Key\n &1● &7&b&l$&b1,000\n &1● &7&b&l⛃&b2\n
+  &1● &7&b&l🧪&b10\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+3bddc1c7-0785-4809-b976-211eab7ef189.cmd.exp.title: '&aCraft EXP Bottles #99FF99⏩'
+932ec3f7-6ce7-4271-965c-4c9a584a0fd8.cmd.upgrade.buy: '&7You can buy upgrades of the
+  type &#20F707%1 for a total of ⛃%2 Tokens'
