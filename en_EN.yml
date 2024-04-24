@@ -8263,3 +8263,9 @@ c00da470-4855-427d-b380-b7c09b31a44d.gsitPlugin.plugin-prefix: §b&lsɪᴛ §8&l
   not found! §b"/help"§7 for more information!'
 e96d92ed-52b8-47d5-903a-b2f497562538.lands.messages.general.inbox.relation.ally.remove: '&7We''re
   no longer allies with %1&7.'
+6367d902-d87c-4633-8ee9-4bc3e35e2a58.ce.get.belohnung: '&7You got an playtime reward.
+  Your rewards are : &#20F707%1'
+40efe7df-58ac-4b3a-870e-3aa143cfc67f.ce.new.rang: "&fHey! &7You got a new Rang!\n
+  &7Your new Rang is: &#20F707%1"
+1b59e7ec-13cc-4d07-9386-eeef4b7de50b.rang.new_rang: '&fHey! &7You got a new Rang:
+  &#20F707'
