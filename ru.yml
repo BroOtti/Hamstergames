@@ -6888,3 +6888,9 @@ e256cdd2-fe5e-48c9-9a99-afb5d5ac3c4f.advancedenchants.gkits.no-permission: "&eYo
   set piece, you may use one of these: \n%set pieces%"
 4d961404-e484-4335-87b1-9e32444c111d.advancedenchants.commands.main.admin.invalid-page: '&cInvalid
   page'
+6367d902-d87c-4633-8ee9-4bc3e35e2a58.ce.get.belohnung: '&7You got an playtime reward.
+  Your rewards are : &#20F707%1'
+40efe7df-58ac-4b3a-870e-3aa143cfc67f.ce.new.rang: "&fHey! &7You got a new Rang!\n
+  &7Your new Rang is: &#20F707%1"
+1b59e7ec-13cc-4d07-9386-eeef4b7de50b.rang.new_rang: '&fHey! &7You got a new Rang:
+  &#20F707'
