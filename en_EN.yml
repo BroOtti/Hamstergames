@@ -1480,8 +1480,7 @@ e745753c-7dcc-4e39-a03a-33c466c61192.advancedenchants.sets.commands.list.header:
 8bb8ef49-433c-4b54-9843-fcb8964be32f.deathmessages.Mobs.stray.Gang.Melee.0: '%1 was
   slain by a bunch of %2''s'
 d898590a-2799-424d-88d5-630ab16989a1.advancedenchants.commands.aegive.invalid-material: >-
-  &cInvalid material. Please reference the 'materials.yml' file for all valid
-  materials.
+  &cInvalid material. Please reference the 'materials.yml' file for all valid materials.
 54713f46-5fdc-4908-9f7b-de940bf931b4.deathmessages.Mobs.piglinbrute.Solo.Melee.0: '%1
   was slain by a %2'
 633c472e-12b9-4334-af44-11f86df68d58.deathmessages.Mobs.slime.Gang.Melee.0: '%1 was
@@ -2931,8 +2930,7 @@ fdfcadbb-7804-43cb-ac13-6f5e56f926c7.PlayerParticlesgui-disabled: §6The server 
   to rent.'
 0d3556b7-5d27-43d3-983c-00f97a028742.tempflycommand.unit.minutes.recognized.1: min
 d6290ad9-00b4-4550-857a-f88ff4a583a9.advancedenchants.commands.aegive.invalid-material: >-
-  &cInvalid material. Please reference the 'materials.yml' file for all valid
-  materials.
+  &cInvalid material. Please reference the 'materials.yml' file for all valid materials.
 0dc019e5-2db6-45b8-b1b7-6d40b15b121f.deathmessages.Mobs.parrot.Gang.Projectile-Arrow.0: '%1
   was ganged up on by some %2! One shot them with %3'
 29e3cbe5-23fd-4a76-8bfa-15fe2be7d715.lands.messages.lands.message.flags.block_place: >-
