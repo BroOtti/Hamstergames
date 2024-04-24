@@ -7109,3 +7109,9 @@ a440fb3a-c450-405a-8155-7cb45b4b392d.advancedenchants.sets.commands.give.success
   cannot apply that enchantment ! There are no free slots left !'
 e256cdd2-fe5e-48c9-9a99-afb5d5ac3c4f.advancedenchants.gkits.no-permission: "&eYou
   don't have permissions to use &e%1&6 kit."
+6367d902-d87c-4633-8ee9-4bc3e35e2a58.ce.get.belohnung: '&7You got an playtime reward.
+  Your rewards are : &#20F707%1'
+1b59e7ec-13cc-4d07-9386-eeef4b7de50b.rang.new_rang: '&fHey! &7You got a new Rang:
+  &#20F707'
+40efe7df-58ac-4b3a-870e-3aa143cfc67f.ce.new.rang: "&fHey! &7You got a new Rang!\n
+  &7Your new Rang is: &#20F707%1"
