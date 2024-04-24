@@ -12,8 +12,8 @@ a440fb3a-c450-405a-8155-7cb45b4b392d.advancedenchants.sets.commands.give.success
   &f %1 &eSet to &f %2'
 8b6df645-e002-4527-9e11-cd0f2845588f.PlayerParticlescommand-error-unknown: §7Befehl
   nicht gefunden! "§b/pp help§7" für weitere Informationen.
-866c82c7-6831-4b71-8654-890f1ebad84b.advancedenchants.combining.already-max-level: This
-  enchantment is already max level!
+866c82c7-6831-4b71-8654-890f1ebad84b.advancedenchants.combining.already-max-level: Diese
+  Verzauberung ist bereits auf maximalen Level!
 7f76a1e9-cc3c-4628-bf5f-f5d60d41d500.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.3: '#ffed6a&lAktuell:'
 e0e72db9-5f9d-4fa6-90e2-8cb4b1a47121.lands.messages.lands.message.role.player.land: >-
   &cDu kannst diesen Spieler im Land nicht bearbeiten&4 %1&c. &7Deine Rolle&6 %2
@@ -52,13 +52,13 @@ d9c19cca-46be-410b-b707-69c4c0f50f63.excellentcratesEditor.CrateEditorType.CRATE
 2c1e3dfa-1a09-4f34-b97d-5b4f2d80f015.deathmessages.Mobs.chicken.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 30f5132c-d8f2-47d9-a749-110ee4244761.lands.messages.list.hologram.sell.area.0: '&aKaufen'
-1badde40-45e5-4a1b-b0bf-63078bed1475.advancedenchants.commands.main.pasteenchants: '&aEnchantments
-  list: %1'
+1badde40-45e5-4a1b-b0bf-63078bed1475.advancedenchants.commands.main.pasteenchants: '&aVerzauberung
+  liste: %1'
 10666cfb-a113-4537-bedc-1e0f164b3b54.lands.messages.lands.command.view.y-lock.enabled: >-
   &cDer Y-Lock-Modus wurde umgeschaltet: &7Die Landgrenzen folgen deiner
   Position nicht mehr nach oben und unten.
-5ecf9681-636d-48c6-a292-e945e4c2a9a1.advancedenchants.commands.main.claim.invalid-usage: '&cPlease
-  enter enchant token.'
+5ecf9681-636d-48c6-a292-e945e4c2a9a1.advancedenchants.commands.main.claim.invalid-usage: '&cBitte
+  gib einen Verzauberungs Tocken ein.'
 cb954e7a-0c53-4fef-acfb-c6a46dcba113.lands.messages.general.inbox.war.declaration.mutual.denied: '&7Gegenseitige
   Kriegserklärung von %1&7 verweigert.'
 cafc0596-a4e5-40b4-ba0f-e7431771c7bc.deathmessages.Mobs.irongolem.Gang.Projectile-Arrow.0: '%1
@@ -166,8 +166,8 @@ ce620f0d-6013-4f64-b8da-ab1196c02d87.excellentcratesEditor.CrateEditorType.CRATE
    &3| &fAt: &bᴄᴜʀʀᴇɴᴛʟʏ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ&f!
   &f
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
-4d961404-e484-4335-87b1-9e32444c111d.advancedenchants.commands.main.admin.invalid-page: '&cInvalid
-  page'
+4d961404-e484-4335-87b1-9e32444c111d.advancedenchants.commands.main.admin.invalid-page: '&cUngültige
+  Seite'
 77255bd8-87e6-466b-802c-f422ac28aea3.deathmessages.Mobs.skeletonhorse.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 7c1e5441-8db1-4ca7-b42b-65496cdbae44.deathmessages.Mobs.zombiehorse.Solo.Weapon.0: '%1
@@ -393,8 +393,8 @@ aa99b9e7-1c67-456c-baeb-18d7bfc0cd7c.deathmessages.Mobs.piglin.Solo.Weapon.0: '%
 a52b1f7d-cc3f-4ebf-9c12-13bde534da87.lands.messages.general.prefix.normal: '&b&lʟᴀɴᴅs
   &8&l| &7'
 71bebce5-410e-4c46-a6e6-396659c64667.cmd.main.title.s42: '&b&lChallanges'
-3e83bede-45ca-403c-84a1-1fe531e84de4.cmd.discord.link.title: '&x&3&2&4&B&B&0Link yourself
-  to Discord'
+3e83bede-45ca-403c-84a1-1fe531e84de4.cmd.discord.link.title: '&x&3&2&4&B&B&0Link dich
+  selbst zum Discord'
 9c05d8c1-bd72-4860-b4bd-3fb9979a3355.cmd.settings.title.true.s23: '&bScoreboard &8|
   &7[Enabled]'
 6acb13b1-bcba-4baf-92be-701f3328eceb.deathmessages.Mobs.player.Solo.Bed.0: '%1 stand
@@ -909,7 +909,7 @@ df7d0276-410b-4ee6-b916-63bad4994510.deathmessages.Mobs.pillager.Solo.Contact.0:
 d139121e-a03b-4316-8b41-ae83d16dc52b.ia.toggle-sound-off: '&7Du hast &c&l❌ &cDisabled&7
   die Tonansage &8&o(/toggle) umgeschaltet'
 f4d6e0da-f544-4daa-8eff-6d7beff727b9.cmd.serverbasierend.title.que-cha: '&b&lQuests
-  and Challenges'
+  und Herausforderungen'
 8b04ebf7-12ad-4492-bb3e-7ae40d9af0e0.excellentcratesEditor.CrateEditorType.KEY_OBJECT.Lore.0: '#ffed6a▪
   #bdc8c9Virtuell: #ffed6a%1'
 1bbddb46-f078-4ab5-917b-7e4b35754fdc.deathmessages.Natural-Cause.Projectile-Trident.0: '%1
@@ -2135,8 +2135,8 @@ da0c5f89-a735-4ede-8f33-42da14eb0ca5.advancedenchants.enchanter.re-buy:
   &f
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 eba69d59-1909-4bd5-9f73-194874dbcfa2.cmd.startmenu.desc.spielerbasierend: "&f● &#20F707Warps\n
-  &f● &#20F707Upgrades\n&f● &#20F707Auctions\n&f● &#20F707Kits\n&f● &#20F707Quests\n
-  &f● &#20F707Challanges"
+  &f● &#20F707Upgrades\n&f● &#20F707Auktionen\n&f● &#20F707Kits\n&f● &#20F707Quests\n
+  &f● &#20F707Herausforderungen"
 b3dda760-84af-43b6-9f7c-98483b9a6c89.gsitMessages.action-sit-kick-error: '[P]&7 Hier
   sitzt schon jemand!'
 83078810-097a-41c4-9c73-75fa94eeefeb.deathmessages.Mobs.irongolem.Gang.Weapon.0: '%1
@@ -3260,8 +3260,8 @@ fc112e2a-1d6d-45b6-872e-1d3c005860e5.lands.messages.wars.message.noaccess.wilder
 48332380-e5de-44af-90a0-91aefb9fa328.lands.messages.lands.command.unclaim.selection.partly: >-
   &7Du hast erfolgreich %1 / %2 Teile dieser Auswahl zurückgefordert. Du hast&c
   %3 &7zurück.
-d95236a6-f53d-49e8-81c2-2f6c4cf8a801.cmd.rules.accepted: Thanks for accepting the
-  rules.
+d95236a6-f53d-49e8-81c2-2f6c4cf8a801.cmd.rules.accepted: Danke fürs Akzeptieren der
+  Regeln
 bff09532-7a33-4f27-8b7d-118e122f5e6e.tempflygeneral.unit.minutes: m
 dc463ab2-5111-4169-87a8-e1dab38fc5f3.tempflysystem.prefix: '&b&lᴛᴇᴍᴘᴏ ғʟʏ &8&l┃'
 3a6f6642-0db9-40a0-971c-efcdc7a59ecb.lands.messages.general.wars.state.preparation: '&aVorbereitung'
@@ -3278,8 +3278,8 @@ d9ebaf87-9072-4692-977a-2a4cadf7df40.deathmessages.Mobs.enderman.Gang.Projectile
   können im Menü "Bereiche" des Landes gelöscht werden.
 654bc188-c5d9-439d-a95f-b87d4cfce709.PlayerParticlesgroup-no-name: '&7Du hast keinen
   Gruppennamen angegeben! &b/pp &3%1 <Gruppenname>'
-d56187bb-d27a-4893-b817-9ae15d3c7399.ActivityRewarder.daily-reward-given: "&7You have
-  collected today's daily reward"
+d56187bb-d27a-4893-b817-9ae15d3c7399.ActivityRewarder.daily-reward-given: "&7Du hast
+  deine heutige Belohnung erhalten"
 751dfcc2-42d4-430f-9503-ab56d5ab7129.PlayerParticlesdata-invalid-block: '&7Die von
   dir eingegebenen Blockdaten sind ungültig! &7Format: &c<blockName>'
 f2890552-e65b-416c-9b3a-ef1aabebffa0.deathmessages.Mobs.ravager.Gang.Projectile-Arrow.0: '%1
@@ -4002,8 +4002,8 @@ cd4a4611-a5cf-4768-813a-1d5e70681b11.uar.COMMAND_FORCE_RESTART.subtitle: Erzwing
 1f6ceb3b-c443-487f-82ac-931ca14897d6.lands.messages.lands.message.event.enter.pvp-warning: '#Du
   hast eine PvP-Zone betreten.'
 c23f37fb-3ae6-4a1a-8098-a95f70ab2bf4.advancedenchants.commands.aegive.invalid-item-flag:
-c0bd9118-1004-471a-ad80-6ce7c66b0b98.cmd.discord.unlink.title: '&x&3&2&4&B&B&0You
-  are linked to Discord'
+c0bd9118-1004-471a-ad80-6ce7c66b0b98.cmd.discord.unlink.title: '&x&3&2&4&B&B&0Du bist
+  mit Discord verlinkt'
 a766fd97-0b48-4304-8a57-52286fbcdf0e.PlayerParticlescommand-description-fixed-create-console: >-
   &b/pp fixed create&3 <x> <y> <z> <world> <effect> <style> [data] &8-&f Erzeugt
   einen neuen fixen Effekt
@@ -4057,8 +4057,8 @@ e82f29cf-77b2-4296-8ae4-969551a3d8cc.deathmessages.Mobs.donkey.Gang.Melee.0: '%1
 3461384e-a1ca-4d67-b487-9085957ae2a3.deathmessages.Mobs.shulker.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 d376579b-7429-4e13-baf7-e7fbf0e2bf8c.cmd.settings.title.s29: '&bTrade &8| &7[Toggle]'
-485fbf7c-6fb1-444c-a3a0-fe51a35118f5.cmd.startmenu.desc.allesandere: "&f● &#20F707Cosmetics\n
-  &f● &#20F707Enchants\n&f● &#20F707Jobs\n&f● &#20F707Ranks\n&f● &#20F707Rewards\n
+485fbf7c-6fb1-444c-a3a0-fe51a35118f5.cmd.startmenu.desc.allesandere: "&f● &#20F707Kosmetik\n
+  &f● &#20F707Verzauberungen\n&f● &#20F707Jobs\n&f● &#20F707Ränge\n&f● &#20F707Belohnungen\n
   &f● &#20F707Votes"
 b80f4f23-1345-4693-bc11-4ca3a48419ed.gsitMessages.command-gsit-toggle-on: >-
   [P]&7 Du hast &a&l✔ &aAktiviert:&7 Klick-Interaktionen für Sitzen!
@@ -4461,8 +4461,8 @@ a028d0d9-2803-4787-9f42-9b90d7027f2b.advancedenchants.commands.no-permission:
 b49cb893-70b9-449a-ae30-b5014ba2d75c.deathmessages.Mobs.pig.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
 f8030775-7095-404b-89e6-5369a3eb890b.cmd.rules.chat: '&b&l| &bChat-Regeln'
-8c2a6d5a-f565-493f-96a0-317c80805be6.ActivityRewarder.reminder: "&7It looks like you
-  haven't collected today's reward. &b/daily"
+8c2a6d5a-f565-493f-96a0-317c80805be6.ActivityRewarder.reminder: "&7Es sieht so aus,
+  als hättest du die heutige Belohnung noch nicht eingesammelt. &b[/daily]"
 217215b5-92fe-4b5f-a15f-873b78635615.tempflycommand.syntax_error.cmd_fly.toggle_self: '&b/tf
   &3[on / off]'
 e842c07b-d468-49c4-a2d3-38bf3cbbcf98.deathmessages.Mobs.parrot.Gang.Projectile-Arrow.0: '%1
@@ -4708,7 +4708,7 @@ c3026f3a-95d9-4ec8-820d-21e3e95be4f5.PlayerParticlesfixed-edit-style-invalid: >-
 7ad944fa-b41e-4814-8929-99d04781e607.deathmessages.Mobs.bat.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
 7053c655-fa59-4985-a022-5940e3e04514.cmd.serverbasierend.desc.que-cha: "&f● &#20F707Quests
-  &7(ʀɪɢʜᴛ ᴄʟɪᴄᴋ)\n&f● &#20F707Challenges &7(ʟᴇғᴛ ᴄʟɪᴄᴋ)"
+  &7(ʀᴇᴄʜᴛs ᴋʟɪᴄᴋ)\n&f● &#20F707Herausforderungen &7(ʟɪɴᴋs ᴋʟɪᴄᴋ)"
 587cbb1d-b558-43ea-b861-4f15bc19452d.deathmessages.Mobs.ravager.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 e8d8651c-64df-4a09-ac9f-3840177a8596.deathmessages.Mobs.mule.Solo.Projectile-Arrow.0: '%1
@@ -5335,7 +5335,7 @@ e71456f1-ac1a-428f-86c2-136d06bcd6bb.lands.messages.general.top.hologram.nation.
   &2%2 &7%3:&3 %4'
 aad00c43-1cfb-4243-8f4e-841fdfa9c388.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_REWARDS.Lore.3: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aÖffnen'
-14068897-fec6-4999-b92a-3186d1b0f30e.cmd.rules.accept: I accept the rules!
+14068897-fec6-4999-b92a-3186d1b0f30e.cmd.rules.accept: Ich akzeptiere die Regeln!
 d69fcce8-1c8c-43a7-9cf5-7a8e90f36e80.SuperVanishMessages.ListMessagePrefix: '&b&l%1
   &8&l┃ &7Unsichtbare Spieler:&b %l'
 9dc249b3-f006-4f81-89c3-5fad6ada136f.deathmessages.Mobs.rabbit.Solo.Melee.0: '%1 wurde
