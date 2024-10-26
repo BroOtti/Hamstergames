@@ -1242,9 +1242,10 @@ a98e7f79-db6e-4be2-b4c3-7837a15073a1.deathmessages.Mobs.pig.Solo.Melee.0: '%1 wa
 e9946006-6c14-4d6c-bcce-e79e96693cc3.playerpoints.noperm: You don't have a permission
   to do that
 f2875d08-f534-405d-b712-448c70960e6a.cmd.startmenu.allesandere.desc.rank: >-
-  &f● &#20F707Ranks &fidentify&#20F707players &fwith special rights and tasks.
+  &f● §x§2§0§F§7§0§7Ranks &fidentify§x§2§0§F§7§0§7players &fwith special rights and
+  tasks.
 
-  &f● &fThey allow us to manage the server, &#20F707support the community &fand
+  &f● &fThey allow us to manage the server, §x§2§0§F§7§0§7support the community &fand
   improve the gaming experience for everyone.
 22597640-d037-45ac-ad82-dba39a00181d.deathmessages.Mobs.zoglin.Solo.Weapon.0: '%1
   was slain by a %2 somehow using %3'
@@ -2166,12 +2167,12 @@ da0c5f89-a735-4ede-8f33-42da14eb0ca5.advancedenchants.enchanter.re-buy: '&cPleas
   &f
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 eba69d59-1909-4bd5-9f73-194874dbcfa2.cmd.startmenu.desc.spielerbasierend: |-
-  &f● &#20F707Warps
-  &f● &#20F707Upgrades
-  &f● &#20F707Auctions
-  &f● &#20F707Kits
-  &f● &#20F707Quests
-  &f● &#20F707Challanges
+  &f● §x§2§0§F§7§0§7Warps
+  &f● §x§2§0§F§7§0§7Upgrades
+  &f● §x§2§0§F§7§0§7Auctions
+  &f● §x§2§0§F§7§0§7Kits
+  &f● §x§2§0§F§7§0§7Quests
+  &f● §x§2§0§F§7§0§7Challanges
 b3dda760-84af-43b6-9f7c-98483b9a6c89.gsitMessages.action-sit-kick-error: '[P]§7 Someone
   is already sitting here!'
 83078810-097a-41c4-9c73-75fa94eeefeb.deathmessages.Mobs.irongolem.Gang.Weapon.0: '%1
@@ -2339,12 +2340,12 @@ bd0d47b3-e030-4db2-904f-504501434a0c.excellentcratesCommand.ResetLimit.Done.Rewa
   #fdf35e%3#d4d9d8.
 a3c18b28-e866-4eb2-8b9a-398661ba211e.cmd.main.desc.s25: |-
   &bDescription
-   &b● &7View all available &#20F707warps in this region &ffor you
+   &b● &7View all available §x§2§0§F§7§0§7warps in this region &ffor you
    &b● &7to teleport!
    &3● &fClick to view.
   &bInformation
-   &8● &#20F707Server Warps
-   &8● &#20F707RTP Warps
+   &8● §x§2§0§F§7§0§7Server Warps
+   &8● §x§2§0§F§7§0§7RTP Warps
 93e4c76a-b420-4531-8b94-c245b932d9ec.deathmessages.Mobs.ocelot.Solo.Weapon.0: '%1
   was slain by a %2 somehow using %3'
 3fe06bc2-0119-40cf-8c20-6c8cd7e1df5c.advancedenchants.commands.gedit.set-permission.invalid-usage: '&cUsage:
@@ -2358,12 +2359,12 @@ a3c18b28-e866-4eb2-8b9a-398661ba211e.cmd.main.desc.s25: |-
   &bInformation
    &8▪ &7Points: &f✪%1
    &8▪ &7Upgrades Available
-      &8▶ &#20F707Quests
-      &8▶ &#20F707PlayerWarps
-      &8▶ &#20F707AuctionHouse
-      &8▶ &#20F707ChestShop
-      &8▶ &#20F707Homes
-      &8▶ &#20F707Jobs
+      &8▶ §x§2§0§F§7§0§7Quests
+      &8▶ §x§2§0§F§7§0§7PlayerWarps
+      &8▶ §x§2§0§F§7§0§7AuctionHouse
+      &8▶ §x§2§0§F§7§0§7ChestShop
+      &8▶ §x§2§0§F§7§0§7Homes
+      &8▶ §x§2§0§F§7§0§7Jobs
       &8▶ &7and more...
 225e108c-c940-4866-947d-626bf50ad6ff.deathmessages.Mobs.sheep.Gang.Weapon.0: '%1 was
   ganed up on by some %2''s! One wacked them with %3'
@@ -2390,9 +2391,9 @@ c1404bf0-9b31-4177-bc0e-762bdfbefccf.lands.messages.lands.command.general.input.
 9ea2b862-70f8-4bec-9fba-bd248cc57a04.cmd.kits.choose.desc.s20: |2-
 
   &bDescription
-  &f● &#20F707Click to view a free kit categories
-  &f● &#20F707here you can view, preview and or claim
-  &f● &#20F707free kits from the server
+  &f● §x§2§0§F§7§0§7Click to view a free kit categories
+  &f● §x§2§0§F§7§0§7here you can view, preview and or claim
+  &f● §x§2§0§F§7§0§7free kits from the server
 
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 6e1c3a19-a9b4-49af-9ea6-199ab0ea8b78.lands.messages.general.command.argument.type.y-min: y-min
@@ -2784,9 +2785,9 @@ b9e86347-31b3-4fc4-8b69-bb043db0e123.excellentenchantmentsFitItemType.ARMOR: Arm
 1d1f01b3-816c-4a3d-b7b5-c915ef2f3df2.cmd.kits.choose.desc.s24: |2-
 
   &bDescription
-  &f● &fClick to view &#20F707a donator kit &fcategorie
+  &f● &fClick to view §x§2§0§F§7§0§7a donator kit &fcategorie
   &f● &fhere you can view, preview and or claim
-  &f● &#20F707donor kits&f from the server
+  &f● §x§2§0§F§7§0§7donor kits&f from the server
 
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ
 56007461-8022-44c6-8488-c2a86a21e7f9.tempflysystem.help.6: §7- send another player
@@ -3396,10 +3397,10 @@ e004e105-5be5-4e36-9351-9b19e1f371cc.menu.bank.menu.interest: |-
 
    &f● With the Interest feature
    &f● your money will continue to increase
-   &f● every #20F70712 &fHours§7!
+   &f● every §x§2§0§F§7§0§712 &fHours§7!
    
    &f● Click here to upgrade the bank level
-   &f● Cost to Upgrade: #20F707$ %1
+   &f● Cost to Upgrade: §x§2§0§F§7§0§7$ %1
 d161dfb1-37bd-42c9-ada1-d955e03b989a.SuperVanishMessages.NoConfigUpdateAvailable: '&b&l%1
   &8&l┃ &7Your SuperVanish-files are up to date!'
 92f51475-b2ab-48f8-bf1d-37ada5e53ecc.lands.messages.list.hologram.sold.area.3: '&8Shift
@@ -3555,7 +3556,7 @@ a8ae3b05-2593-45db-8050-d8429f8dcb65.lands.messages.help.command.lands.rent.main
 01e603ed-9e16-4ce9-a8ea-dac424f5f526.cmd.main.desc.s43: |-
   &bDescription
   &f● &fPlay on our server and unlock
-  &f● &#20F707special perks ☺
+  &f● §x§2§0§F§7§0§7special perks ☺
   &f● &fClick to view.
   &bInformation
    &8▪ &7Rank: &f%1
@@ -4116,12 +4117,12 @@ e82f29cf-77b2-4296-8ae4-969551a3d8cc.deathmessages.Mobs.donkey.Gang.Melee.0: '%1
   was slain by a %2 somehow using %3'
 d376579b-7429-4e13-baf7-e7fbf0e2bf8c.cmd.settings.title.s29: '&bTrade &8| &7[Toggle]'
 485fbf7c-6fb1-444c-a3a0-fe51a35118f5.cmd.startmenu.desc.allesandere: |-
-  &f● &#20F707Cosmetics
-  &f● &#20F707Enchants
-  &f● &#20F707Jobs
-  &f● &#20F707Ranks
-  &f● &#20F707Rewards
-  &f● &#20F707Votes
+  &f● §x§2§0§F§7§0§7Cosmetics
+  &f● §x§2§0§F§7§0§7Enchants
+  &f● §x§2§0§F§7§0§7Jobs
+  &f● §x§2§0§F§7§0§7Ranks
+  &f● §x§2§0§F§7§0§7Rewards
+  &f● §x§2§0§F§7§0§7Votes
 b80f4f23-1345-4693-bc11-4ca3a48419ed.gsitMessages.command-gsit-toggle-on: '[P]§7 You''ve
   §a&l✔ §aEnabled§7 click-interactions to sit! §8&o(/toggle)'
 1b494445-736d-4928-b715-f50399f12ac5.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.0: '#bdc8c9Sets
@@ -4317,9 +4318,9 @@ ffc14298-9afc-4987-a754-30b2468e2091.excellentcratesEditor.CrateEditorType.REWAR
   &8&l┃ &7You''re not allowed to change &f%2''s&7 visibility!'
 9397ad59-d46d-478e-9cf3-584628ea74fe.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.3: '#ff6a6a&lWarning:'
 580b52ba-6ec0-4214-9d69-08e4f22102d0.cmd.startmenu.desc.serverbasierend: |2-
-   &f● &#20F707Rules
-   &f● &#20F707Settings
-   &f● &#20F707Social Media
+   &f● §x§2§0§F§7§0§7Rules
+   &f● §x§2§0§F§7§0§7Settings
+   &f● §x§2§0§F§7§0§7Social Media
 9e394eb2-364b-4f36-885b-9395582db612.lands.messages.general.command.argument.type.holder: land
   | nation
 5bb19056-c95c-4520-a52d-79084d30ac71.deathmessages.Mobs.skeleton.Solo.Projectile-Arrow.0: '%1
@@ -4776,8 +4777,8 @@ c3026f3a-95d9-4ec8-820d-21e3e95be4f5.PlayerParticlesfixed-edit-style-invalid: '�
 7ad944fa-b41e-4814-8929-99d04781e607.deathmessages.Mobs.bat.Solo.Melee.0: '%1 was
   slain by a %2'
 7053c655-fa59-4985-a022-5940e3e04514.cmd.serverbasierend.desc.que-cha: |-
-  &f● &#20F707Quests &7(ʀɪɢʜᴛ ᴄʟɪᴄᴋ)
-  &f● &#20F707Challenges &7(ʟᴇғᴛ ᴄʟɪᴄᴋ)
+  &f● §x§2§0§F§7§0§7Quests &7(ʀɪɢʜᴛ ᴄʟɪᴄᴋ)
+  &f● §x§2§0§F§7§0§7Challenges &7(ʟᴇғᴛ ᴄʟɪᴄᴋ)
 587cbb1d-b558-43ea-b861-4f15bc19452d.deathmessages.Mobs.ravager.Solo.Weapon.0: '%1
   was slain by a %2 somehow using %3'
 e8d8651c-64df-4a09-ac9f-3840177a8596.deathmessages.Mobs.mule.Solo.Projectile-Arrow.0: '%1
@@ -5947,8 +5948,8 @@ c5c78938-b9f9-4342-9284-40e9024ec263.alonsotags.Tag-purchased: You successfully 
   pay §3<player> <amount> §8- §fPay a player
 8b9dab3d-7493-4c5b-ba77-2382230bbcd6.cmd.main.desc.s10: |-
   &bDescription
-  &f● &fBrowse &#20F707jobs&f to get
-  &f● &fmore&#20F707 income&f!
+  &f● &fBrowse §x§2§0§F§7§0§7jobs&f to get
+  &f● &fmore§x§2§0§F§7§0§7 income&f!
   &f● &fClick to view.
   &bInformation
    &8▪ &7Employees: &f%1
@@ -7075,8 +7076,8 @@ b668e08c-65c4-4602-8923-d0d4fc01dda4.cmd.settings.desc.true.s21: |2-
 ee00b4b7-f46d-4c81-9608-b089dd570d1f.lands.messages.wars.command.declare.admin: '&cYou
   can''t declare war against admin lands.'
 6183e156-9dea-42fa-8bcd-dbb9f7a21eb0.command-not-found: >-
-  &7The Command &b%1 &7was not found. If you need help, ask staff or look on our
-  FAQ [/faq]
+  &7The Command &b%1 &7was not found. If you need help, ask staff or look on our menu
+  [/menu]
 fc77c1c2-e57b-44a4-b1de-94b8cb8c3e53.lands.messages.help.command.lands.admin.player.give.permission.chunks: '[T]&e%1
   %2 %3 &8- &7Modify max. chunks[H]&7Click to copy.[/H][SC]%4[/SC][/T]'
 ca017225-2833-4681-a22c-30e7b7531a31.lands.messages.wars.command.declare.min-age.attacker: >-
@@ -8262,16 +8263,16 @@ c00da470-4855-427d-b380-b7c09b31a44d.gsitPlugin.plugin-prefix: §b&lsɪᴛ §8&l
 e96d92ed-52b8-47d5-903a-b2f497562538.lands.messages.general.inbox.relation.ally.remove: '&7We''re
   no longer allies with %1&7.'
 6367d902-d87c-4633-8ee9-4bc3e35e2a58.ce.get.belohnung: '&7You got an playtime reward.
-  Your rewards are : &#20F707%1'
+  Your rewards are : §x§2§0§F§7§0§7%1'
 40efe7df-58ac-4b3a-870e-3aa143cfc67f.ce.new.rang: "&fHey! &7You got a new Rang!\n
   &7Your new Rang is: &#20F707%1"
 1b59e7ec-13cc-4d07-9386-eeef4b7de50b.rang.new_rang: '&fHey! &7You got a new Rang:
-  &#20F707'
+  §x§2§0§F§7§0§7'
 4040402d-8db7-4bf2-86bf-1255f23eef09.cmd.homes.title: '&bHomes Upgrade'
 4e4944eb-9167-4e2b-af6d-d719b9066093.cmd.upgrade.max: '&7You already have every upgrade
-  of the type &#20F707%1'
+  of the type §x§2§0§F§7§0§7%1'
 4140613b-4420-447d-8c64-ab330521b5ce.cmd.upgrade.unable: "&7You can't buy upgrades
-  of the type &#20F707%1, because it costs ⛃%2 tokens."
+  of the type §x§2§0§F§7§0§7%1, because it costs ⛃%2 tokens."
 b74de6c7-b61a-4a44-b9c5-a1d7bcb7a6ab.cmd.jobs.title: '&bJobs Upgrade'
 4ead42aa-6cbb-41bf-a9b5-167b1a310926.cmd.vote.desc.all: "&f\n &f● &7Rewards after
   you votes for all sites:\n &1● &7(&fx9&8) &fVote Keys\n &1● &7&b&l$&b10,000\n &1●
@@ -8284,4 +8285,4 @@ b74de6c7-b61a-4a44-b9c5-a1d7bcb7a6ab.cmd.jobs.title: '&bJobs Upgrade'
   &1● &7&b&l🧪&b10\n&b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
 3bddc1c7-0785-4809-b976-211eab7ef189.cmd.exp.title: '&aCraft EXP Bottles #99FF99⏩'
 932ec3f7-6ce7-4271-965c-4c9a584a0fd8.cmd.upgrade.buy: '&7You can buy upgrades of the
-  type &#20F707%1 for a total of ⛃%2 Tokens'
+  type §x§2§0§F§7§0§7%1 for a total of ⛃%2 Tokens'
