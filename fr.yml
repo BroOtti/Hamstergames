@@ -7665,3 +7665,360 @@ b5a4c156-ac1b-4561-b705-16ba3634986c.advancedenchants.commands.apply.no-args: '&
   inventory is full!'
 d32653e8-fa72-4151-b85b-8dbcec423c34.advancedenchants.commands.gedit.setdelay.invalid-usage: '&cUsage:
   /gedit setdelay <gkit> <delay (in seconds)>'
+640b979c-401f-4f6a-84dc-c882d8bde5a2.glow.pink.title: '&d&l■ &8| &dLight Purple Glowing'
+4e58caba-1fec-4463-8949-59bcd875ba15.dh.discord.link: '&7dc.&bHamster&6games&7.eu'
+3833f262-ccc1-492c-91d3-998f8469e15d.glow.unlock.no_points: "&f\n&0Information\n &8|
+  &7Color: %1\n &8| &7Price: &c✪%2\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cʏᴏᴜ
+  ɴᴇᴇᴅ ᴍᴏʀᴇ ᴘᴏɪɴᴛs"
+d6e7625b-9407-47d1-adb1-87bab9059930.ia.trade.2: §x§2§0§F§7§0§7[/trade] &fallows you
+  to obtain valuable resources and fulfill your needs.
+dd14ea78-95a3-4ae6-8ca7-d7d86ae40ae3.ia.homes.1: Set [/homes] to quickly teleport
+  to your favorite places!
+0141b243-e36f-4d77-952a-86db6ced5870.ia.kits.1: '&fStart off with a kit! Choose §x§2§0§F§7§0§7[/kits]
+  &fto get starter equipment.'
+14c53183-009e-4041-b170-208454dcfbaf.rules.1-5: "§x§2§0§F§7§0§71.5 – Compliance with
+  naming guidelines:\n&f\n&fYour Minecraft username and nickname (/nick) must comply
+  with the rules. \n§x§2§0§F§7§0§7Avoid: &fThe use of inappropriate or offensive names.\n
+  &fImpersonating staff members or other players.\n&fThe use of names that infringe
+  trademarks or copyrights."
+0c615800-e467-48fa-8041-f66912b605ee.dh.discord.7: '&fYou can also link yourself'
+266bfe4d-78ad-4557-ba20-87b16765b60a.glow.black.lock: "&f\n&0Information\n &8| &7Color:
+  &0Black\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ ᴛᴏ
+  ᴜɴʟᴏᴄᴋ"
+6e37bda6-f7f3-4684-9e10-341dc8369e76.ia.upgrade.1: Enhance your gameplay experience
+  with [/upgrades]!
+881b539c-cb93-4b00-afef-12ac3a06c517.cmd.bank.infos.desc: "&f\n§x§2§0§F§7§0§7Information\n
+  &f● Balance: §x§2§0§F§7§0§7$ %1\n &f● Bank: §x§2§0§F§7§0§7$ %2\n &f\n &f● Interest:
+  §x§2§0§F§7§0§7 %3\n &f● Rate: §x§2§0§F§7§0§7%4%\n &f● Level: §x§2§0§F§7§0§7%5\n
+  &f\n &f● Next Level Cost§x§2§0§F§7§0§7 %6\n&f\n§x§2§0§F§7§0§7ᴄʟɪᴄᴋ ᴛᴏ ᴜᴘɢʀᴀᴅᴇ"
+7e806b2d-7ace-4ad3-8595-2378b68e7a07.glow.pink.lock: "&f\n&dInformation\n &8| &7Price:
+  &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ ᴛᴏ ᴜɴʟᴏᴄᴋ"
+19b890e0-1871-4b0c-ae11-62ce395314b6.dh.discord.5: '&fnotifications about &bupdates'
+39300783-7008-4619-993d-8257785be085.rules.1-4: "§x§2§0§F§7§0§71.4 – Avoid offensive
+  content:\n&f\n&fAvoid offensive content in all chat channels. §x§2§0§F§7§0§7This
+  includes:\n&fPolitical and religious discussions that could lead to arguments.\n
+  &fRacist, sexist or homophobic statements.\n&fHate speech and other forms of discrimination.\n
+  &fInsults and personal attacks against other players."
+f8fdbae4-1414-418b-b551-bfec32477136.rules.1-2: "§x§2§0§F§7§0§71.2 – Avoid spam:\n
+  &f\n&fSpamming is prohibited in all chat channels. This includes:\n&fSending repeated
+  messages that fill the chat unnecessarily.\n&fSending messages in rapid succession
+  that exclude other players from the chat.\n&fSending strings that make the chat
+  unreadable.\n&fWriting messages in capital letters, which can be interpreted as
+  shouting."
+d4e7080a-9a1f-4420-867c-fb190ce0ee16.ia.dc.1: '&fConnect your §x§2§0§F§7§0§7[/discord]
+  &faccount to the server to sync your roles!'
+493f57d9-dfc3-4abc-8bfa-619c37d72207.banmenu.kick.titel: '&cKick permission'
+80ac928e-63bc-437e-91a7-afb22f18e642.cmd.referral.keys: "&b● &7Rewards:\n&f●  &8(&fx4&8)
+  &fFood Key\n&f●  &8(&fx2&8) &fMonster Key\n&f●  &8(&fx2&8) &fNatural Key\n&f●  &8(&fx2&8)
+  &fOcean Key\n&f●  &8(&fx4&8) &fWood Key"
+c7328ad3-2b36-46ca-92db-ceb5460b1729.ia.dc.3: '&fBe part of our community! Meet other
+  players on our §x§2§0§F§7§0§7[/discord] &fserver.'
+4c56c653-7151-4c2b-9941-61b9c71c5dbb.rules.reminder.subtitle: '&cPlease read our rules!
+  [/rules]'
+735f70bc-6358-4520-88ed-e3a97677b06f.cmd.tag.nametag: '&bNametags'
+cccfd816-d0c3-40ed-8983-dd5d1a956771.ia.exp.1: Feeling overloaded with EXP? Trade
+  your experience in bottles with [/exp] for a more streamlined adventure!
+b36d01c9-927a-4f28-bc8f-a520db6b906c.cmd.etwas_neues_kommt_bald: "§7Something new
+  is coming\n§7in the near §x§0§0§f§d§0§afuture."
+b352daaf-0092-40f3-bb59-166b81f9a7bd.rules.2-3: "§x§2§0§F§7§0§72.3 – Prohibition of
+  impersonation:\n&f\n&fPretending to be a staff member (skin, name, chat messages)
+  is prohibited; \n&fthis also applies to mini-modding.\n&fDo not attempt to deceive
+  or confuse other players by impersonating a Staff Member.\n&fRespect the authority
+  of the staff and follow their instructions."
+8f62ac1c-eada-4c52-b0b2-c90c6cc62956.cmd.tag.kopf.titel: '&bHeads with texture'
+3c8b23d8-791d-41de-a16b-327b2a2c6d1c.cmd.tempfly.purchase.poor: '&fYou can not afford
+  §x§0§0§f§d§0§a%1§x§0§0§f§d§0§am&f of tempfly for §x§0§0§f§d§0§a⛃§x§0§0§f§d§0§a%2
+  &ftokens'
+069f57d6-aba9-4e39-a6c5-3dd964f723c8.cmd.tag.normale-items: '&bNormal items'
+33661211-cca2-49d2-bf49-699a0765abd9.glow.darkcyan.unlock: "&f\n&3Information\n &8|
+  &7Color: &3Dark Aqua\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ'"
+8a6fa451-bf12-47f9-906b-68b60a6fa7d0.glow.darkgray.title: '&8&l■ &8| &8Dark Gray Glowing'
+7f7d13fc-2b48-4b8d-8edc-d8a7648039e0.glow.yellow.unlock: "&f\n&eInformation\n &8|
+  &7Color: &eYellow\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+b79010b2-e9db-4ef0-9448-55e1a07461f6.glow.gold.title: '&6&l■ &8| &6Gold Glowing'
+9500de91-041b-41cc-af66-f9d1bd7481bf.glow.effect.remove.desc: "&bDescription\n &b●
+  &7Remove your currently\n &b● &7visible glow effect\n&f\n&b&l● &bᴄʟɪᴄᴋ ᴛᴏ ʀᴇᴍᴏᴠᴇ"
+5ea7193a-91fc-473d-b2a4-dec9f71a6e94.dh.web.6: '&fquestions, and much more.'
+ff2e953a-62c3-49d3-9c89-71408cf5e65f.glow.yellow.lock: "&f\n&eInformation\n &8| &7Color:
+  &eYellow\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ
+  ᴛᴏ ᴜɴʟᴏᴄᴋ"
+398183e5-2fd6-4985-8a9a-098cc222a3e0.dh.discord.9: '&7are in the menu)'
+a2067363-1f53-467b-8f28-c2c066455a2e.ia.upgrade.2: Use [/upgrade] to improve homes,
+  limits, and other features.
+ca5c0c76-9aed-49c3-8e24-868e494563be.dh.settings.l1: Settings
+dae3e8cc-6265-46c2-bd95-737901f5cbc8.ia.quest.2: Use [/quests] to see a list of all
+  available quests.
+9568ccef-f3a9-4a50-8d2e-59f6db057ffa.cmd.tags.universal-beschreibung: "§x§2§0§F§7§0§7Buy
+  %1 §x§2§0§F§7§0§7tags for\n§x§2§0§F§7§0§7%2 §x§2§0§F§7§0§7tokens"
+b1e521e0-88a1-4591-9503-7bae34b5dd14.dh.web.5: '&fsee the latest updates,'
+95e1866c-818e-4f8e-a51b-9693b2744ced.ia.trade.1: '&fFind trading partners! Use §x§2§0§F§7§0§7[/trade]
+  &fto exchange items with other players.'
+13a46a62-eeb2-4e6d-9288-fa63d046e4d3.rules.2-1: "§x§2§0§F§7§0§72.1 – No NSFW/offensive
+  buildings:\n&f\n&fBuildings with NSFW or offensive content are prohibited. \n&fThis
+  applies to both signs and written books.\n&fAvoid content that contains sexual references,
+  violence, or hate speech.\n&fMake sure your builds are suitable for all players
+  and don’t offend anyone."
+cc11f593-470a-4775-b391-8e7ef220db4d.ia.warps.2: '[/warp] shows you a list of all
+  available warps.'
+507590f9-8ade-4d15-a569-f928b888934d.glow.black.title: '&0&l■ &8| &0Black Glowing'
+59df361f-18b9-4269-ab62-7907fddd2a15.glow.blue.unlock: "&f\n&9Information\n &8| &7Color:
+  &9Blue\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+3d65dff4-8f80-481d-978d-39b0131abb8a.glow.darkred.lock: "&f\n&4Information\n &8| &7Color:
+  &4Dark Red\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ
+  ᴛᴏ ᴜɴʟᴏᴄᴋ"
+8af1cd39-3679-4716-bca1-47b92cad1ae0.ia.quest.1: Complete [/quests] and earn rewards!
+9c5e9e00-3b1b-448c-b9b5-7c332f2b95dd.dh.ores.5: '&fotherwise farm them! &cI need those!!'
+8103dfb0-0179-41ae-97cf-bda738b783b0.glow.white.lock: "&f\n&fInformation\n &8| &7Color:
+  &fWhite\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ ᴛᴏ
+  ᴜɴʟᴏᴄᴋ"
+b05d7220-74fc-4793-a514-73ce736ca15a.ia.jobs.2: Choose [/jobs] to see a list of all
+  available jobs.
+b9307587-dea1-4c40-821e-452901531a45.ia.ah.1: Sell your items to other players at
+  the auction house! [/ah]
+ad38cdee-ee23-430b-83a2-504c23197695.glow.purple.unlock: "&f\n&5Information\n &8|
+  &7Color: &5Purple\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+793bb8eb-2fb5-436c-b336-f71c3a303e20.rules.2-5: "§x§2§0§F§7§0§72.5 – Avoid Laying
+  Machines:\n&f\n&fLag machines, farms, or buildings that cause lag on the server
+  will be penalized. \n&fThe severity of the penalty depends on the extent of the
+  lag.\n&fMake sure your builds and activities do not impact server performance.\n
+  &fAvoid excessive redstone construction, entity spawning, \n&for other activities
+  that could put a strain on the server.\n&fIf you are unsure whether your design
+  is putting a strain on the server, \n§x§2§0§F§7§0§7contact the staff team."
+fc592be6-010e-4e7d-bd43-93e536331fef.ia.content.1: Ever wanted to create content without
+  the hassle of applications? Then [/rang] is for you!
+c00e0ebc-df84-4847-8069-19c927922b5a.glow.gold.lock: "&f\n&6Information\n &8| &7Color:
+  &6Gold\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ ᴛᴏ
+  ᴜɴʟᴏᴄᴋ"
+bfab28ff-df76-4af3-a7e6-f3d5d9f70097.glow.green.lock: "&f\n&aInformation\n &8| &7Color:
+  &aGreen\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ ᴛᴏ
+  ᴜɴʟᴏᴄᴋ"
+a1f2ecd9-22b6-4da9-bbc3-63d9f921a035.cmd.upgrades.got.message: '&7You upgraded your
+  §x§2§0§F§7§0§7%1 &7limit. You can now set §x§2§0§F§7§0§7%2 %1(s)'
+79cdcab4-081a-4088-81fa-979694736cb0.dh.discord.6: '&bGiveaways&f, &bEvents&f, and
+  more'
+55115042-9680-4673-abc7-c47e3b3285b3.cmd.upgrade.title.publichomes: §x§2§0§F§7§0§7Public
+  homes
+bc7bd371-9b74-4227-8d21-8f884945a77c.glow.darkgray.unlock: "&f\n&8Information\n &8|
+  &7Color: &8&lDark Gray\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+ad83f1d3-fac9-4a9c-add0-dd864214ec6c.dh.web.8: '&bpopular&f online map'
+91b7248a-6456-4bce-862e-403680d9148b.banmenu.ban.titel: '&cBan permission'
+91a59f09-f768-4d85-be3d-6a9d3a4ba4eb.glow.gray.title: '&7&l■ &8| &7Gray Glowing'
+a2dfbb9e-4845-4b0c-a805-30ce27cd9766.cmd.allesandere.title.pur-shop: '&b&lPurchase
+  and Shop'
+25f1f2ee-e582-44d4-96a1-986f575b1d2f.dh.ores.3: '&fSell or buy a few §x§2§0§F§7§0§7shiny'
+635f142d-5f31-4119-bf44-a793c18b17fd.ia.kits.2: §x§2§0§F§7§0§7[/kits] &foffers kits
+  for various play styles and professions. Find the perfect kit for you!
+9b555fae-331c-423b-9e25-68abf5564654.ia.dc.4: §x§2§0§F§7§0§7[/discord] &fconnects
+  you with friends and allies. Join us!
+4a4b9c28-556d-48aa-a822-2da68d3f8958.ia.challenge.2: Earn unique rewards for completing
+  [/challenges].
+65990a86-87f0-4112-a584-37be1c6cae4d.glow.effect.remove.title: '&7Remove your glow
+  effect'
+d346d92c-5ab0-47cf-9ec5-a4513c37be42.ia.trash.2: §x§2§0§F§7§0§7[/trash] &fhelps you
+  free up space and organize your inventory.
+053eeddf-8947-4334-808f-61edbe28967f.glow.pink.unlock: "&f\n&dInformation\n &8| &7Color:
+  &dLight Purple\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+81443cc2-1d70-4c64-bb9b-8a86d725bee7.cmd.referral.exp: "&b●  &7Rewards:\n&f●  §x§2§0§F§7§0§7$1,000
+  &7(MONEY)\n&f●  §x§2§0§F§7§0§7⛃10 &7(TOKEN)\n&f●  §x§2§0§F§7§0§7🧪50 &7(EXP)"
+803ebe44-5e08-474e-884e-fb6731e8e8fa.rules.2-11: "§x§2§0§F§7§0§72.11 – AFK Farming:\n
+  &f\n&fAFK farming on automatic farms is allowed.\n&fAFK farming, which requires
+  the player to actively intervene \n&fto keep the farm running (e.g., by pressing
+  buttons), is prohibited.\n&fThis is especially true for farms that mine resources\n
+  &fsuch as wood, stone, or iron.\n&fThe purpose of this rule is to ensure that all
+  players \n&fhave equal opportunities to collect resources."
+7487c3fd-6bc3-4bc0-a348-5d30c4d7804c.dh.discord.4: '&fJoin our &bDiscord &ffor'
+2f30b0ae-5549-4803-879c-d503deae16cf.ia.settings.2: Use [/settings] to change language,
+  sounds, and other options.
+0456eb33-d3de-4a36-b474-4d803812aebd.glow.black.unlock: "&f\n&0Information\n &8| &7Color:
+  &0Black\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+ddb7488d-68ee-45aa-ad30-06ddcc193fd8.ia.warps.1: Use [/warps] to quickly and easily
+  teleport to different locations on the server!
+a17d9ddf-1364-4e4d-a40b-45ec99eeb7d7.cmd.tempfly.purchase.now: '&fDo you want to buy
+  §x§0§0§f§d§0§a%1§x§0§0§f§d§0§am&f of tempfly for §x§0§0§f§d§0§a⛃§x§0§0§f§d§0§a%2
+  &ftokens'
+1ab747e8-766c-48ef-b08f-8f16d518113a.ia.crate.2: Get your loot on! Explore the wonders
+  hidden within the crates at spawn!
+d3e4bfca-b442-4419-b406-b43a51610618.glow.darkred.unlock: "&f\n&4Information\n &8|
+  &7Color: &4Dark Red\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+926a44ad-4918-4242-86e1-ba46d387c11f.glow.darkcyan.lock: "&f\n&3Information\n &8|
+  &7Color: &3Dark Aqua\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l|
+  &cᴄʟɪᴄᴋ ᴛᴏ ᴜɴʟᴏᴄᴋ"
+d07bc611-2132-47ac-9fd5-471c719a18dd.rules.2-10: "§x§2§0§F§7§0§72.10 – No Scams:\n
+  &f\n&fNo scams involving virtual goods or in-game currencies. \n&fThis includes
+  barter fraud, griefing and other forms of fraud.\n§x§2§0§F§7§0§7Play fairly and
+  respect other players.\n&fAvoid engaging in activities that could cause harm or
+  loss to other players."
+55a99e52-42f7-490a-b2e7-f6edb07cd7ba.glow.darkblue.title: '&1&l■ &8| &1Dark Blue Glowing'
+80211d9e-3137-4aef-a9a2-3665382089f5.ia.shop.1: '&fVisit the §x§2§0§F§7§0§7[/shop]!
+  &fBuy and sell materials to advance your adventures.'
+9c62669c-5719-4bab-8f08-5725215c4710.tab.quests.active: active
+dd235a30-4b72-46c5-88d3-28a03c032a68.rules.1-1: "§x§2§0§F§7§0§71.1 – Avoid harassment:\n
+  &f\n&fDo not harass other players or staff in any chat channel \n&f(e.g., General
+  Chat, /msg, etc.). \n&fThis includes all forms of verbal abuse, threats, stalking,
+  and harassment.\n&fTreat all players with respect, regardless of their gender, origin,
+  religion or playing ability.\n&fAvoid discriminatory or offensive statements, whether
+  in text form or by voice."
+904fc0ab-066a-452d-bc09-d43763c4ed65.ia.welcome.2: Enjoy your time on our server and
+  explore the many possibilities.
+1b124adb-fb39-4ba0-8ce9-b2975bbfb7f3.rules.1-6: "§x§2§0§F§7§0§71.6 – No advertising
+  without permission:\n&f\n&fAvoid promoting other Minecraft servers, giveaways, \n
+  &fyour own social media channels, etc. in chat without prior approval from the staff.\n
+  &fIn-game advertising for your own shops or exchanges is allowed, \n&fbut avoid
+  repeating advertising messages too often.\n&fMake sure your advertising is relevant
+  to the server and doesn’t bother players."
+76be6e10-c00c-48a7-b445-7e4c6df533ec.cnd.allesandere.referral.desc: "&f\n&bDescription\n
+  &f● &7Buy things with your hard\n&f● &7earned §x§2§0§F§7§0§7referral points\n&f\n
+  &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ"
+9734b58d-37ba-406c-97a7-a03f0aae7234.ia.trash.1: '&fUse §x§2§0§F§7§0§7[/trash] &fto
+  quickly and easily dispose of unwanted items!'
+307922a3-03e4-444b-9e98-01468ce44cc4.glow.darkblue.unlock: "&f\n&1Information\n &8|
+  &7Color: &1Dark Blue\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+38a68429-0a6c-431f-8b41-5bcfabf4a31b.dh.web.4: '&fVisit our &bWebsite&f to'
+6213c5a4-a0c6-45e6-95fa-4a61b9f366f7.rules.2-7: "§x§2§0§F§7§0§72.7 – No avoidance
+  of penalties:\n&f\n&fDo not try to avoid any penalties imposed on you by the Staff.
+  \n§x§2§0§F§7§0§7This can lead to harsher penalties.\n&fDo not attempt to switch
+  accounts or use other means to avoid punishment.\n&fAccept responsibility for your
+  actions and learn from your mistakes."
+24fda94c-d5bf-42d1-9340-ca78c0d16061.glow.red.lock: "&f\n&cInformation\n &8| &7Color:
+  &cRed\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ ᴛᴏ
+  ᴜɴʟᴏᴄᴋ"
+c1107856-78f2-4c68-8e52-5255b1960e96.ia.enchant.2: Craft your legend! Enhance your
+  weapons and armor with powerful enchantments using [/enchanter]. Choose from different
+  tiers to suit your play style.
+4f2ed4d3-dc96-4d1a-8d04-0893fa62e429.dh.settings.l5: ᴄʜᴀɴɢᴇ ᴛʜɪɴɢs ʏᴏᴜ &#15CEFEᴅᴏɴᴛ
+  ɴᴇᴇᴅ
+77ac413a-f553-4883-bcf9-13854ac53b5a.cmd.buy-now: '&aʙᴜʏ ɴᴏᴡ'
+8598fe96-5003-4ec2-a4c3-9a9e3e4278aa.glow.darkgray.lock: "&f\n&8Information\n &8|
+  &7Color: &8&lDark Gray\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n
+  &c&l| &cᴄʟɪᴄᴋ ᴛᴏ ᴜɴʟᴏᴄᴋ"
+757e0f68-208a-4129-ae8f-adfdcc34e929.ia.challenge.1: '[/challenge] yourself and take
+  part in challenges!'
+d45235e8-e5d5-430d-bf44-bc866afc7b25.tab.sb.restart: 'Reboot in: §x§2§0§F§7'
+2b98b47d-90ee-4576-bb3a-52c08d877971.glow.blue.lock: "&f\n&9Information\n &8| &7Color:
+  &9Blue\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ ᴛᴏ
+  ᴜɴʟᴏᴄᴋ"
+03aeb1f2-2ad2-429c-8a54-c5b8fbbe2f92.cmd.already-have-it: '&bᴀʟʀᴇᴀᴅʏ ɢᴏᴛ ɪᴛ'
+fd4dbfbd-0d35-424e-b425-89cbee0e7ce6.ia.welcome.1: Welcome to our server! We are glad
+  you are here.
+c5189d05-7cee-4d5c-bce3-f220fc8a5e66.ia.bank.1: Invest your money in the [/bank] and
+  watch it grow safely!
+195a077b-eeb4-4a35-b59e-4db38a6aadc1.teamrechte.hauptmenu.titel: '&cTeam Permissions'
+429f1599-8d93-4e6c-ae3b-f52cb744957f.glow.darkgreen.lock: "&f\n&2Information\n &8|
+  &7Color: &2Dark Green\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n
+  &c&l| &cᴄʟɪᴄᴋ ᴛᴏ ᴜɴʟᴏᴄᴋ"
+e209242b-d7a3-4898-b0ce-e9a8b4f0591c.glow.cyan.title: '&b&l■ &8| &bAqua Glowing'
+ab06172e-1299-4a47-914e-2e164420b5b9.ia.exp.2: Don't waste time grinding! Trade your
+  excess EXP in Bottles with [/exp]. More time for adventures, less time for grinding!
+08221cc0-911b-4da1-85a1-be4e6608ce6e.glow.darkred.title: '&4&l■ &8| &4Dark Red Glowing'
+8ef4f2d9-5795-46a4-a9e9-f88da7bb8430.glow.red.title: '&c&l■ &8| &cRed Glowing'
+8c1e719e-6355-44bc-8054-ee8ab58b990e.dh.web.7: '&fYou can also visit our'
+bd30f382-a948-446e-88b8-d139a2bc2706.ia.jobs.1: Earn money through various [/jobs]
+  on the server!
+cff8a2a5-8891-494c-9216-efcc6bd73b06.rules.reminder.title: '&4⚠ &c&lREMINDER &4⚠'
+78c2c3c8-2023-4a8b-a5e7-43298415de75.glow.white.title: '&f&l■ &8| &fWhite Glowing'
+acf1bb5e-c7eb-4769-9faf-77ceeb3cfeb9.dh.discord.8: '&fusing &b[/dc] &7(Instructions'
+fee602f1-757f-459b-8050-6782097c75a1.glow.green.title: '&a&l■ &8| &aGreen Glowing'
+72602bf9-ccfc-4133-b6cb-6c5bce22ea7b.ia.settings.1: Customize your gaming experience
+  with [/settings]!
+9b42c71f-17a4-41a5-a894-8bf4161bf92a.glow.gray.unlock: "&f\n&7Information\n &8| &7Color:
+  &7&lGray\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+19073c2d-e8eb-4f8d-bcf8-34b2e1012c3e.dh.web.9: '&ffor every server!'
+477ae21b-8bda-49d1-a8e9-dade121b846c.rules.2-2: "§x§2§0§F§7§0§72.2 – Skin Policy Compliance:\n
+  &f\n&fYour Minecraft skin cannot show prohibited content \n&fsuch as pornography
+  or violence.\n&fAvoid skins that might offend or shock other players.\n&fMake sure
+  your skin meets the game’s age requirements."
+226f38e2-4c1d-4c43-9ae0-3875df97e3c6.glow.blue.title: '&9&l■ &8| &9Blue Glowing'
+fbc61fdc-ef63-4b6c-8437-58749bd97414.ia.content.2: Share your adventures and unleash
+  your inner content creator with [/rang]! No application required.
+1782d0f6-0474-47df-89ae-c7196fff4ac6.ia.crate.1: Feeling lucky? Head to spawn and
+  crack open a mysterious crate! What wonders await?
+a5ada5e7-5987-4669-b18e-4c28c3a439bb.ia.vote.2: '[/vote] at https://hamstergames.eu
+  and get great prizes.'
+f40cc32d-9a20-415b-a5a8-e6ed4f999a53.ia.invite.1: "&fInvite your friends to play with
+  you on our server!\nGet cool rewards when using §x§2§0§F§7§0§7[/referral]"
+739ca12b-30f9-4657-9f0f-73550b53ba09.glow.gray.lock: "&f\n&7Information\n &8| &7Color:
+  &7&lGray\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ
+  ᴛᴏ ᴜɴʟᴏᴄᴋ"
+01a3bb16-379b-4e6d-809f-6fa82723bf5c.rules.2-4: "§x§2§0§F§7§0§72.4 – No Exploitation
+  of Bugs:\n&f\n&fDon’t use glitches, bugs, or errors to your advantage.\n&fReport
+  such issues to the server team so they can be resolved.\n&fDon’t try to manipulate
+  the game or gain an unfair advantage."
+ae1135c1-b7a4-4685-af33-acba0faa709d.rules.2-8: "§x§2§0§F§7§0§72.8 – No Client Modifications:\n
+  &f\n&fDon’t modify your Minecraft client to give yourself an unfair advantage over
+  other players. \n&fThis includes using hacked clients\n&for other modifications
+  that affect game balance.\n&f&fAvoid modifications that give you information that
+  is not available to other players (e.g., ray tracing, wall hacks, minimaps).\n§x§2§0§F§7§0§7Make
+  sure the mods you use comply with server rules."
+8e017bb0-5f94-46b9-922a-633fcd39a313.ia.shop.2: '&fThe §x§2§0§F§7§0§7[/shop] &foffers
+  a wide variety of resources at fair prices.'
+fff553e9-1bc7-451f-92b8-b746e57f395f.glow.purple.lock: "&f\n&5Information\n &8| &7Color:
+  &5Purple\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ
+  ᴛᴏ ᴜɴʟᴏᴄᴋ"
+836479d2-4e04-4ea2-8690-d90d2eb87cbe.glow.cyan.unlock: "&f\n&bInformation\n &8| &7Color:
+  &bAqua\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+b83d324d-f0ae-4e51-a850-7863c6063915.glow.darkcyan.title: '&3&l■ &8| &3Dark Aqua Glowing'
+7a2872ba-2475-45d2-9607-6d7a10212874.cnd.allesandere.referral.title: '&7Referrals'
+58480f5a-de13-4d8c-a373-9c03220dc1f1.ia.playtime.2: Higher ranks give you access to
+  new features and benefits. Level up and become part of the elite!
+94e5f9e1-73cd-41ea-b977-107b3a667736.cmd.poor: '&cʏᴏᴜ ᴀʀᴇ ᴘᴏᴏʀ'
+796ac5fc-01d1-4ad2-81fa-6a78c334c5fd.glow.purple.title: '&5&l■ &8| &5Purple Glowing'
+1b50bcf7-7462-4d5d-ae04-bd5a943643d6.reamrechte.hauptmenu.disclaimer: "&4&lIMPORTANT\n
+  &f\n&cAn exploitation of the rights will occur\n&cwith &4DIRECT &cexclusion\n&cof
+  the team.\n&f\n&b• All rights are temporary"
+828caf51-ea97-4774-83b9-1ed083e522d2.ia.bank.2: Use [/bank] to manage your earnings
+  and get interest.
+3c7ae26d-bad1-4415-8781-a60304655780.rules.1-3: "§x§2§0§F§7§0§71.3 – Keep the chat
+  adult-free:\n\n&fThe chat should be suitable for all players. \n§x§2§0§F§7§0§7Avoid:
+  &fExplicit content, pornography and adult themes.\n&fViolent or gory descriptions.\n
+  &fOffensive or offensive language.\n&fSubjects that may cause discomfort to minors."
+c95b2aaf-b6b5-4494-83f5-ec36b545ceff.ia.enchant.1: Unleash the hidden potential of
+  your gear! Use [/enchanter] to add powerful enchantments with various tiers.
+8bfb0b89-9537-48f2-a6dd-165121732a0e.ia.homes.2: Use [/home] to teleport to one of
+  your set homes.
+a91fea6d-575f-4829-b7af-c43d0cc7a558.ia.homes.3: '[/sethome] allows you to set a new
+  home at your current location.'
+11df9de4-49ae-47ee-903b-0d475422b392.ia.playtime.1: Play and reach new ranks! Have
+  free inventory space for your rewards! :D
+6d4a8e09-2141-4d3c-940c-ff44d4d5356f.glow.green.unlock: "&f\n&aInformation\n &8| &7Color:
+  &aGreen\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+0d7cf737-28f3-4801-a247-73e29dcb6db2.glow.darkgreen.unlock: "&f\n&2Information\n &8|
+  &7Color: &2Dark Green\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+af74455e-a9ea-40aa-bf6d-69316e00627d.glow.gold.unlock: "&f\n&6Information\n &8| &7Color:
+  &6Gold\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+366a6610-50ae-40b2-8c2a-3dfda65c0fcb.glow.darkgreen.title: '&2&l■ &8| &2Dark Green
+  Glowing'
+28d6e2e4-ae9a-46c9-9f8f-e2d4507c1f6b.dh.ores.4: §x§2§0§F§7§0§7ores &fhere if you are
+  §x§2§0§F§7§0§7lazy,
+c666b389-d6fd-4a70-9bd7-e07a2ab548dd.dh.settings.l4: ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ &#15CEFEsᴇᴛᴛɪɴɢs
+7f226864-3dee-492d-a7e9-322b0ce77dea.ia.vote.1: Support our server and get rewarded!
+  [/vote]
+9ef6dcec-5f2c-4425-95b6-7987ba795732.dh.web.link: '&bHamster&6games&7.eu'
+1b46a552-0b52-4d5a-98a2-272f7b7c872c.glow.white.unlock: "&f\n&fInformation\n &8| &7Color:
+  &fWhite\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+145218f1-5454-4a56-8f42-9e9ea913c741.glow.darkblue.lock: "&f\n&1Information\n &8|
+  &7Color: &1Dark Blue\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l|
+  &cᴄʟɪᴄᴋ ᴛᴏ ᴜɴʟᴏᴄᴋ"
+1400ae67-7f6a-4c36-83db-418d58a53ca4.cmd.allesandere.desc.pur-shop: "&f● §x§2§0§F§7§0§7Shop&7(ʀɪɢʜᴛ
+  ᴄʟɪᴄᴋ)\n&f● §x§2§0§F§7§0§7Purchase &7(ʟᴇғᴛ ᴄʟɪᴄᴋ)"
+d4f98e60-6aa7-4b43-a26c-975afdefc82c.rules.2-6: "§x§2§0§F§7§0§72.6 – Misuse of the
+  Rules:\n&f\n&fDon’t try to use the rules to your advantage. \n&fFinding loopholes
+  or circumventing the rules to gain an unfair advantage is not allowed.\n&fAbuse
+  of game mechanics, bugs, or errors may result in penalties.\n&fDo not attempt to
+  undermine the staff’s authority or circumvent their decisions."
+d6b0cfb9-9d69-49a0-9f20-59b47fb4d1b2.glow.red.unlock: "&f\n&cInformation\n &8| &7Color:
+  &cRed\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
+26ea6d33-f04e-454f-b327-267479b35101.cmd.bank.infos.title: §x§2§0§F§7§0§7Your Informations
+685d2ae4-8093-4d71-9c93-1b11a791572a.ia.dc.2: '&fUse §x§2§0§F§7§0§7[/discord] &fto
+  link your Discord roles with your ingame ranks.'
+a61b34fa-3f9c-4c38-bad4-feadce08d944.ia.ah.2: Use [/ah] to create and manage your
+  auctions.
+5e45d7fa-a379-4794-9f7e-6187a78abcc7.cmd.tag.custom-items: '&bCustom items'
+a63d1522-603d-4653-bd71-9f19deb47977.glow.yellow.title: '&e&l■ &8| &eYellow Glowing'
+170c2f14-ec83-4fdf-bc13-2f9b00848b81.glow.cyan.lock: "&f\n&bInformation\n &8| &7Color:
+  &bAqua\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ ᴛᴏ
+  ᴜɴʟᴏᴄᴋ"
+0f9f4521-ec32-4f2a-9519-2c2174dd05f7.rules.2-9: "§x§2§0§F§7§0§72.9 – Protection of
+  privacy:\n&f\n&fDo not post other players’ private information (doxxing). \n&fThis
+  includes names, addresses, telephone numbers or other personal information.\n&fRespect
+  other players’ privacy and \n§x§2§0§F§7§0§7do not share&f information without their
+  consent.\n&fAvoid harassing or stalking players by posting their personal information."
