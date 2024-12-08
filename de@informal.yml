@@ -84,8 +84,8 @@ d683ddb3-46aa-49c7-9045-95b3c642683d.deathmessages.Mobs.cat.Gang.Melee.0: '%1 wu
 80f0d2eb-82b8-4423-8aab-43fc5479bff0.lands.messages.help.command.lands.admin.player.give.permission.main: >-
   [T]&e%1 %2 %3 &8- &7Ändere nummerierte Berechtigungen[H]&7Klicke zum
   Kopieren.[/H][SC]%4[/SC][/T]
-618c63ac-5b3c-424c-81a8-aa3820c5d802.advancedenchants.applying.requires-enchant: '&cThe
-  &4%1 &cenchantment requires the &4%2&7 &cenchant to be applied!'
+618c63ac-5b3c-424c-81a8-aa3820c5d802.advancedenchants.applying.requires-enchant: '&cDie
+  &4%1 &cVerzauberung erfordert die Anwendung der &4%2&7 &cverzauberung!'
 5d56c134-c3f2-4a46-99d0-9f9e518f89b3.excellentcratesEditor.CrateEditorType.KEY_VIRTUAL.Name: '#ffed6a&lVirtuell'
 78c07df4-8877-4c43-98d1-244fd73000ab.ia.4.2: auf diesem Server §8(bist du introvertiert?)
 499be3fb-1473-45b0-ad68-05e729ee34ad.deathmessages.Mobs.phantom.Gang.Melee.0: '%1
@@ -106,18 +106,18 @@ d683ddb3-46aa-49c7-9045-95b3c642683d.deathmessages.Mobs.cat.Gang.Melee.0: '%1 wu
   für den Effekt! Befehlsverwendung: §b/pp data§3 <Effekt>'
 fdd6351d-20ff-4796-956e-09507bfd9dbb.SuperVanishMessages.OnVanish: '&b&l%1 &8&l┃ &7Du
   bist jetzt unsichtbar!'
-73ead135-9f28-46c6-b999-90a80b2e8149.advancedenchants.slots.limit-reached: '&cYou
-  cannot apply that enchantment! There are no free slots left!'
+73ead135-9f28-46c6-b999-90a80b2e8149.advancedenchants.slots.limit-reached: '&cDu kannst
+  diesen Zauber nicht anwenden! Es sind keine freien Slots mehr verfügbar!'
 d6e7625b-9407-47d1-adb1-87bab9059930.ia.trade.2: §x§2§0§F§7§0§7[/trade] &fallows you
   to obtain valuable resources and fulfill your needs.
 a4069b9a-ac85-4a7a-a6ba-bcddb0dff342.lands.messages.help.command.nations.setcapital: '[T]&e%1
   %2 %3 &8- &7Set capital[H]&7Klick zum Kopieren.[/H][SC]%4[/SC][/T]'
 978b37ef-d83c-499c-a78b-62cfe8471377.deathmessages.Mobs.pufferfish.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-e256cdd2-fe5e-48c9-9a99-afb5d5ac3c4f.advancedenchants.gkits.no-permission: "&eYou
-  don't have permissions to use &e%1&6 kit."
-96f228e9-3fed-4a02-882f-06fdde902060.advancedenchants.sets.commands.invalid-set-piece: "&cInvalid
-  set piece, you may use one of these: \n%set pieces%"
+e256cdd2-fe5e-48c9-9a99-afb5d5ac3c4f.advancedenchants.gkits.no-permission: "&eDu hast
+  keine Berechtigung, das Kit &e%1&6 zu verwenden."
+96f228e9-3fed-4a02-882f-06fdde902060.advancedenchants.sets.commands.invalid-set-piece: "&cUngültiges
+  Set-Stück, Sie können eines davon verwenden: \n%set pieces%"
 81b9df29-b8d5-4ac6-8a5f-e79d4bd6d1a8.tempflycommand.base.givall.1: addall
 590447ce-79e1-4e69-812b-aeb07cf2ed6c.huskhomeslocales.edit_home_update_name: '[Successfully
   renamed your home: %1 →](&&#00fb9a) [%2](&&#00fb9a bold)'
@@ -212,8 +212,8 @@ d3f79d06-b9dd-4982-86c3-05f6ace11245.deathmessages.Mobs.rabbit.Gang.Melee.0: '%1
   von einer Bande von %2 erschlagen'
 ae5a8037-6961-493a-9dff-77d50ee105c1.lands.messages.lands.command.relations.enemies.add.revoked: '&7Du
   &8(&7%1&8) hast das Neutralisierungsangebot für %2&7 widerrufen.'
-5ecb4937-f6ee-488c-9d85-26206495a32f.advancedenchants.sets.commands.listweapons.header: '&eList
-  of all available Weapons &7[%1]'
+5ecb4937-f6ee-488c-9d85-26206495a32f.advancedenchants.sets.commands.listweapons.header: '&eListe
+  aller verfügbaren Waffen &7[%1]'
 0141b243-e36f-4d77-952a-86db6ced5870.ia.kits.1: '&fStart off with a kit! Choose §x§2§0§F§7§0§7[/kits]
   &fto get starter equipment.'
 d6f5719a-c9f3-4b5b-a0bb-43c10d5c0acc.lands.messages.help.command.lands.claim.radius: >-
@@ -257,8 +257,8 @@ acc24171-96ef-42b7-84a9-f37ebbcdffee.excellentcratesEditor.CrateEditorType.REWAR
 6db35b21-58bf-4b66-bcdc-707c75b753e3.lands.messages.lands.command.merge.success: >-
   &7Du hast erfolgreich Land&2 %1 &7in&2 %2&7 zusammengelegt. Du hast&c %3&7
   bezahlt.
-f618bc9b-780a-4f47-bbca-92a94841e08c.advancedenchants.tinkerer.trade-accepted: '&aTrade
-  accepted!'
+f618bc9b-780a-4f47-bbca-92a94841e08c.advancedenchants.tinkerer.trade-accepted: '&aTausch
+  akzeptiert!'
 9493f77f-de4b-42f3-a5ee-22e20a9197a0.lands.messages.list.hologram.sold.area.2: '&7Zu:
   %1'
 5b89cff6-b5fd-40da-a612-3d9252ff95be.deathmessages.Mobs.hoglin.Gang.Melee.0: '%1 wurde
@@ -270,8 +270,8 @@ f618bc9b-780a-4f47-bbca-92a94841e08c.advancedenchants.tinkerer.trade-accepted: '
   with the rules. \n§x§2§0§F§7§0§7Avoid: &fThe use of inappropriate or offensive names.\n
   &fImpersonating staff members or other players.\n&fThe use of names that infringe
   trademarks or copyrights."
-a5c9556c-5aca-4b5f-9148-163efbe109d3.advancedenchants.commands.main.give.success: '&aSuccessfully
-  gave %1 one %2 %3 book!'
+a5c9556c-5aca-4b5f-9148-163efbe109d3.advancedenchants.commands.main.give.success: '&a%1
+  hat erfolgreich ein %2 %3 Buch gegeben!'
 0ccde240-a565-4bbf-907f-3bcd8a6b9de3.lands.messages.list.sign.rent.2: '&5%1'
 d321cb30-c3cc-424c-8745-6b1725d24d9d.huskhomeslocales.list_previous_page_button: '[◀](white
   show_text=&7View previous page run_command=%1 %2) '
@@ -293,8 +293,8 @@ d268a570-6da5-4714-baad-921a353a927f.huskhomeslocales.error_public_home_invalid:
   Positionen eingestellt sind. [T]&7Du kannst den Auswahlmodus umschalten, indem
   du &e/lands selection &8[&8CLICK&8][H]&7Klicke hier, um den Auswahlmodus
   umzuschalten.[/H][C]lands selection[/C][/T]
-a78acdec-fd99-4a8c-99ad-57d3eee9be43.advancedenchants.sets.commands.invalid-chances: '&cInvalid
-  chances.'
+a78acdec-fd99-4a8c-99ad-57d3eee9be43.advancedenchants.sets.commands.invalid-chances: '&cUngültige
+  Chancen.'
 9a695dfd-2062-4fdf-a719-670f2a281a2c.deathmessages.Mobs.pillager.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 dc66f699-091a-4b70-87d5-1033dba89ba1.deathmessages.Mobs.witherskeleton.Solo.Projectile-Arrow.0: '%1
@@ -323,11 +323,10 @@ de9e17fb-8173-4ad9-b926-118a44642938.deathmessages.Mobs.bat.Solo.Weapon.0: '%1 w
   %1 privacy)'
 ff213edb-21c1-4eeb-8f62-04e22872c6af.PlayerParticlesgroup-list-presets: '&7Die folgenden
   voreingestellten Gruppen sind verfügbar: &b%1'
-a4e279f7-e4b3-4caf-8733-803e834e69fa.advancedenchants.commands.gedit.list: '&eGKits:
+a4e279f7-e4b3-4caf-8733-803e834e69fa.advancedenchants.commands.gedit.list: '&eKits:
   &6%1'
 742b4030-8d94-48f8-a899-4f160246d652.lands.messages.lands.command.rent.set.success: >
-  &7Du legst die Fläche&6 %1 &7zur Miete fest. Der Mieter zahlt&c %2 &7jeden&5
-  %3&7.
+  &7Du legst die Fläche&6 %1 &7zur Miete fest. Der Mieter zahlt&c %2 &7jeden&5 %3&7.
    [T]&8✖ &7Angebot entfernen: &e/%4 &8[KLICK][H]&7Klicke hier, um das Mietangebot
   zu entfernen.[/H][C]%5[/C][/T]
 eaf726db-9727-4281-8593-f15498c3144b.cmd.settings.title.s14: '&bScoreboard &8| &7[Toggle]'
@@ -392,8 +391,8 @@ d31d247c-3841-4449-b046-09a6f1615131.deathmessages.Mobs.parrot.Gang.Weapon.0: '%
   wurde von einem %2 irgendwie mit %3 erschossen'
 6f461b68-71bf-4785-b731-8d812ebcce03.alonsotags.Vault-not-available: Vault scheint
   auf diesem Server nicht verfügbar zu sein!
-a6105460-6244-4d86-b780-0e546591a921.advancedenchants.commands.main.unknown-command: '&cIncorrect
-  command usage! Type "/ae" for the correct usage.'
+a6105460-6244-4d86-b780-0e546591a921.advancedenchants.commands.main.unknown-command: '&cFalsche
+  Befehlsverwendung! Gib „/ae“ für die korrekte Verwendung ein.'
 b9e4778b-9c77-46a2-8348-221265203f7a.deathmessages.Mobs.magmacube.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 48a6d495-74e8-446b-ac64-378836c23f6b.deathmessages.Mobs.snowman.Solo.Weapon.0: '%1
@@ -1964,8 +1963,8 @@ c4bbab57-05a2-4088-a449-0fc03d999d01.deathmessages.Mobs.guardian.Gang.Projectile
 e75bc7d0-fe90-4e5a-8260-c8cad5164892.advancedenchants.commands.main.setsouls.invalid-usage: '&cInvalid
   usage: /ae setsouls <amount>'
 51bf3c51-f8e2-4835-b644-c7aea341ceec.lands.messages.lands.command.rent.rent.success: >
-  &7Du hast eine Fläche&6 %1 &7von Land&2 %2 &7für&c %3&7 gepachtet. Sie wird
-  in&5 %4&7 ablaufen.
+  &7Du hast eine Fläche&6 %1 &7von Land&2 %2 &7für&c %3&7 gepachtet. Sie wird in&5
+  %4&7 ablaufen.
     &8✖ &7Mehr Zeit hinzufügen: Klicke auf das Zeichen oder Hologramm
    [T]&8✖ &7Mietvertrag kündigen: &e/%5 &8[CLICK][H]&7Klicke hier, um deinen Mietvertrag
   zu kündigen.[/H][C]%6[/C][/T]
@@ -2019,8 +2018,8 @@ d096d45a-97d3-487c-994e-6fc1e3f95767.deathmessages.Mobs.piglinbrute.Gang.Weapon.
   aufgehört, dich zu äußern.'
 98b6ec5b-d351-4020-ae6b-ec32a3c0c195.cmd.main.title.s21: '&b&lDailyReward &7Preis'
 77a46af2-340f-4ee5-a0c3-63b2b4e6eaec.lands.messages.lands.command.leave.owner: >
-  &cDu kannst dieses Land nicht verlassen. &7Als Besitzer eines Landes kannst du
-  das Land löschen oder einfach den Besitz übertragen.
+  &cDu kannst dieses Land nicht verlassen. &7Als Besitzer eines Landes kannst du das
+  Land löschen oder einfach den Besitz übertragen.
    [T]&c✘ Löschen &8[&8CLICK&8][C]Land löschen[/C][H]&7Klicke, um Land&2 %1&7 zu löschen.[/H][/T]
     [T]&2✔ Besitz übertragen &8[&8CLICK&8][SC]lands setowner [/SC][H]&7Klicke zum
   Kopieren
@@ -2068,8 +2067,8 @@ bed33c40-df74-48f5-a21e-684c31ff0ff3.excellentcratesEditor.CrateEditorType.CRATE
 eedabf67-e380-4d7e-a0ad-485b9c69215d.deathmessages.Custom-Mobs.Mythic-Mobs.SkeletalMinion.Solo.Projectile-Arrow.0: '%1
   wurde von %2 erschossen'
 c149e37c-62d2-4bd6-b4a0-d3c77a5a3dbd.lands.messages.lands.command.assign.confirm: >
-  &cDeine Auswahl hat eine geringe Höhe. &7Unterbereiche haben im Gegensatz zu
-  Ansprüchen eine Höhe und reichen standardmäßig nicht von unten nach oben.
+  &cDeine Auswahl hat eine geringe Höhe. &7Unterbereiche haben im Gegensatz zu Ansprüchen
+  eine Höhe und reichen standardmäßig nicht von unten nach oben.
     [T] &7✖ Fortfahren: &e/%1 &8[KLICK][H]&7Klicke hier, um fortzufahren.[/H][C]%2[/C][/T]
     [T] &7✖ Vollständig erweitern: &e/%3 &8[CLICK][H]&7Klicke hier, um die Auswahl
   vom
@@ -4861,8 +4860,8 @@ ffc14298-9afc-4987-a754-30b2468e2091.excellentcratesEditor.CrateEditorType.REWAR
 95908359-d4dd-496a-955a-fcdfc6b33f4f.PlayerParticlesfixed-teleport-no-args: '&7Du
   hast keine ID angegeben, zu der du dich teleportieren kannst!'
 377bd7fe-e6a4-4e5b-90ce-21323670f682.lands.messages.lands.command.relations.enemies.add.nation: >
-  &cDu kannst Land&4 %1 &nicht zum Feind erklären. &7Das Land wird von Nation&9
-  %2&7 regiert.
+  &cDu kannst Land&4 %1 &nicht zum Feind erklären. &7Das Land wird von Nation&9 %2&7
+  regiert.
     [T]&7✖ Erkläre stattdessen Nation&9 %3 &7als Feind: &e/%4 &8[KLICK][H]&7Klicke
   hier
   um Nation&9 %5 &7zum Feind zu erklären.[/H][C]%6[/C][/T]
@@ -5065,7 +5064,7 @@ e117c791-92c8-4dc5-8dae-e9ce4ab253e9.lands.messages.lands.command.rename.success
   Ausführen.[/H][C]%4[/C][/T]
 bf2cc006-4884-4922-b1de-de0cabac4eb8.cmd.settings.title.unknown.s40: '&bTodesnachricht
   &8| &7[Toggle]'
-4f2ed4d3-dc96-4d1a-8d04-0893fa62e429.dh.settings.l5: ᴀ̈ɴᴅᴇʀᴇ ᴅɪɴɢᴇ ᴅɪᴇ ᴅᴜ &#15CEFEɴɪᴄʜᴛ
+4f2ed4d3-dc96-4d1a-8d04-0893fa62e429.dh.settings.l5: ᴀ̈ɴᴅᴇʀᴇ ᴅɪɴɢᴇ ᴅɪᴇ ᴅᴜ §x§1§5§C§E§F§Eɴɪᴄʜᴛ
   ʙʀᴀᴜᴄʜsᴛ
 0fd48006-060e-459e-bf92-b9f20dd0c0ca.deathmessages.Mobs.cavespider.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
@@ -6169,8 +6168,7 @@ f83074a9-78ba-4386-a7d0-e2f6e28f8f07.gsitMessages.command-permission-error: '[P]
   Auswahl an.
 f01f4e13-e26f-4b7a-bcdb-f2b50b0e66d4.mycmd.minutes: 'Minuten '
 c4631e20-ad5f-4075-99db-0afc90706aa0.lands.messages.lands.command.selection.status.reminder: >
-  &7Die Auswahl ist abgeschlossen: Die folgenden Aktionen können ausgeführt
-  werden:
+  &7Die Auswahl ist abgeschlossen: Die folgenden Aktionen können ausgeführt werden:
    [T]&7✖ Beanspruchen: &e/beanspruchen &8[&8CLICK&8][H]&7Klicke hier, um diese Auswahl
   zu beanspruchen.[/H][C]Ländereien beanspruchen[/C][/T]
     [T]&7✖ Beanspruchen aufheben: &e/beanspruchen aufheben &8[&8CLICK&8][H]&7Klicke
@@ -6292,12 +6290,12 @@ b6df58af-c776-4241-a9d9-24783d0a0601.lands.messages.lands.command.leave.area.suc
 5ba1ea43-e5e4-44dd-9e61-63469b6d4ba5.advancedenchants.commands.gedit.setdelay.invalid-delay: '&c%1
   is not a valid integer!'
 8da13c26-17af-4a74-8ec6-423ba689ac6c.lands.messages.lands.command.merge.nation: >
-  &cDu kannst Land&4 %1 &cinto&4 %2&c nicht fusionieren. &7Land&2 %3 &7ist die
-  Hauptstadt der Nation&9 %4&7.
+  &cDu kannst Land&4 %1 &cinto&4 %2&c nicht fusionieren. &7Land&2 %3 &7ist die Hauptstadt
+  der Nation&9 %4&7.
     [T]&7✖ Hauptstadt ändern: &e/nations setcapital &8<&eland&8>[H]&7Klicke hier,
   um die
-  die Hauptstadt der Nation. Dadurch kannst du das Land %5 zusammenlegen. Klicke
-  zum Kopieren.[/H][SC]nations setcapital[/SC][/T]
+  die Hauptstadt der Nation. Dadurch kannst du das Land %5 zusammenlegen. Klicke zum
+  Kopieren.[/H][SC]nations setcapital[/SC][/T]
 e25a9d33-bd4d-42f8-b631-5e95ef6704d7.lands.messages.general.inbox.relation.enemy.offer: '&7%1
   &7wollt uns gegenüber neutral sein.'
 df150901-8a61-443e-b80c-46e1f9df7f9f.huskhomeslocales.edit_warp_update_name: '[Successfully
@@ -8458,7 +8456,7 @@ c9e1eea0-5efb-4958-b5d1-16495a7ebc0d.deathmessages.Natural-Cause.Dragon-Breath.0
   §x§2§0§F§7§0§7lazy,
 a386274d-911c-45bb-a786-b3125faf7854.deathmessages.Mobs.elderguardian.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
-c666b389-d6fd-4a70-9bd7-e07a2ab548dd.dh.settings.l4: ᴀ̈ɴᴅᴇʀᴇ ᴅᴇɪɴᴇ &#15CEFEᴇɪɴsᴛᴇʟʟᴜɴɢᴇɴ
+c666b389-d6fd-4a70-9bd7-e07a2ab548dd.dh.settings.l4: ᴀ̈ɴᴅᴇʀᴇ ᴅᴇɪɴᴇ §x§1§5§C§E§F§Eᴇɪɴsᴛᴇʟʟᴜɴɢᴇɴ
 76e5ccf2-24e2-4197-8ce7-0f15bf6b2ae5.huskhomeslocales.home_list_item: '[[%1]](show_text=&&&#00fb9a&%2\n&7Status:
   %3\n&7ℹ %4 run_command=/huskhomes:edithome %5)'
 2bcbf53b-11df-4330-b251-183ebd7078fb.deathmessages.Mobs.pufferfish.Solo.Projectile-Arrow.0: '%1
@@ -8623,8 +8621,8 @@ fb6aefac-a8f4-4407-b963-b989949cce99.excellentcratesEditor.CrateEditorType.REWAR
 aa2a5698-c9f3-4675-a133-79ff3809810a.advancedenchants.applying.applied: '&aEnchantment
   was applied to your item.'
 60ef4f30-85a5-422a-a575-9dd2b1b96426.lands.messages.lands.command.rent.remove.tenant.confirm: >
-  &cBitte bestätige, dass du&4 %1 &eine Entschädigung an den Mieter&4 %2 &zahlen
-  willst, um ihn zu entfernen:
+  &cBitte bestätige, dass du&4 %1 &eine Entschädigung an den Mieter&4 %2 &zahlen willst,
+  um ihn zu entfernen:
    [T]&2✔ Bestätige: &e/%3 &8[KLICK][H]&7Klicke hier, um diese Aktion und die Zahlung
   zu bestätigen.[/H][C]%4[/C][/T]
 79dcf235-3fd9-44de-8afa-0afc4fb290ca.deathmessages.Basic-Mode.Solo.Projectile-Arrow.0: '%1
@@ -8731,8 +8729,8 @@ b86d7ea2-7b27-470c-9990-577833ca0a21.lands.messages.general.inbox.war.end.won: >
   &7Du hast den Pächter&3 %1 &7aus dem Gebiet&6 %2 &7von Land&2 %3 &7entfernt
   und&c %4 &7als Entschädigung bezahlt.
 ec1f148b-1533-4624-9d81-755eabea8a39.lands.messages.lands.command.trust.land.banned: >
-  &cDu kannst dem Spieler&4 %1&c im Land&4 %2&c nicht trauen. &7Sie sind im
-  ganzen Land gebannt.
+  &cDu kannst dem Spieler&4 %1&c im Land&4 %2&c nicht trauen. &7Sie sind im ganzen
+  Land gebannt.
     [T]&2✔ Bann aufheben: &e/%3 &8[&8CLICK&8][H]&7Klicke hier, um den Bann dieses
   Spielers aus dem
   ganzen Land.[/H][C]%4[/C][/T]
@@ -9252,29 +9250,30 @@ c00da470-4855-427d-b380-b7c09b31a44d.gsitPlugin.plugin-prefix: '&b&lsɪᴛ &8&l�
   nicht gefunden! &b"/help"&7 für weitere Informationen!'
 e96d92ed-52b8-47d5-903a-b2f497562538.lands.messages.general.inbox.relation.ally.remove: '&7Wir
   sind nicht länger mit %1&7 verbündet.'
-78f08e02-c7ad-4078-b2b0-e1fec041a716.dh.npc.spawn.panel.l4: §fᴍᴀɴᴀɢᴇ ʏᴏᴜʀ §x§d§1§3§7§F§7sᴜʀᴠɪᴠᴀʟ
+78f08e02-c7ad-4078-b2b0-e1fec041a716.dh.npc.spawn.panel.l4: §ᴠᴇʀᴡᴀʟᴛᴇ ᴅᴇɪɴ §x§d§1§3§7§F§7sᴜʀᴠɪᴠᴀʟ
   ᴘᴀɴᴇʟ
-8a90a63b-6bfc-476a-8c4d-80ffaa1c4515.dh.npc.spawn.bank.l4: '&fᴘᴜᴛ ʏᴏᴜʀ ᴍᴏɴᴇʏ ɪɴ ᴛʜᴇ
+8a90a63b-6bfc-476a-8c4d-80ffaa1c4515.dh.npc.spawn.bank.l4: '&fᴘᴀᴄᴋᴇ ᴅᴇɪɴ ɢᴇʟᴅ ɪɴ ᴅɪᴇ
   §x§E§8§8§C§0§8ʙᴀɴᴋ'
-434bb4ce-6ed7-4674-a2af-2d55d84662e2.dh.npc.spawn.panel.l5: §fᴛᴏ ᴀᴄᴄᴇs ᴀʟʟ ᴏᴜʀ ғᴇᴀᴛᴜʀᴇs
-a40f7014-d987-4c38-a107-2253ab099d5c.dh.npc.spawn.daily.l5: '&fʏᴏᴜʀ &aᴅᴀɪʟʏ ʀᴇᴡᴀʀᴅs&f,
-  ᴋᴇᴇᴘ ʏᴏᴜʀ sᴛʀᴇᴀᴋ'
-a6f89c0e-f38f-4a7c-b83f-8655bd82a936.dh.npc.spawn.daily.l6: '&fᴛᴏ ɢᴇᴛ ᴀʟʟ ᴛʜᴇ &aaɢɪғᴛs
-  ᴡᴇ ᴏғғᴇʀ'
-a52bf6bd-72d7-4ab4-86c2-3e438369aee8.dh.npc.dimenstion_at_this_npc: ᴅɪᴍᴇɴsɪᴏɴ ᴀᴛ ᴛʜɪs
-  ɴᴘᴄ
-58296749-e296-4d0a-b8b6-739add380629.dh.npc.spawn.bank.l5: '&fᴀɴᴅ sᴀᴠᴇ ɪᴛ ᴜᴘ ғᴏʀ ʟᴀᴛᴇʀ'
-fb582c1a-4c2f-4241-8a14-894b1b0cde2c.bankplus.success-withdraw: Successfully withdrew
-  &a%1% &7money! &8(&b%2% &7lost in taxes&8)
-23e68495-64a8-4920-9ad1-e870036e7a4c.dh.npc.spawn.bank.l10: '&c(ᴛʜᴇ ʙᴀɴᴋ ᴡɪʟʟ ɴᴏᴛ
-  ᴘᴀʏ ʏᴏᴜʀ ᴄʟᴀɪᴍs)'
-af4ed799-0307-4ee7-9629-73c35a4bf463.dh.npc.spawn.bank.l7: '&fʙᴜᴛ ɪғ ʏᴏᴜ ᴀʀᴇ ʀɪᴄʜ,
-  ʏᴏᴜ ɢᴏᴛᴛᴀ ᴘᴀʏ'
-85405543-58d3-4d91-9618-7060ddd012c3.dh.npc.spawn.daily.l4: '&fɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ ᴛᴏ
-  ᴄʟᴀɪᴍ'
-6591deb7-f97f-466f-9195-a379f1cec41b.dh.npc.spawn.bank.l6: '&fʏᴏᴜ ᴍɪɢʜᴛ ᴍᴀᴋᴇ sᴏᴍᴇ
-  §x§E§8§8§C§0§8ᴍᴏɴᴇʏ'
-74aa7fb2-d9ba-4ecc-bdfe-10029ef5bc37.dh.npc.teleport_to_dimension: ᴛᴇʟᴇᴘᴏʀᴛ ᴛᴏ ᴛʜᴇ
-259d500a-4551-4a0d-be5d-a357b02ae175.dh.npc.spawn.bank.l8: sᴏᴍᴇ ʜɪɢʜ ᴛᴀxᴇs ᴛᴏ ᴋᴇᴇᴘ
-  ᴛʜᴇ §x§E§8§8§C§0§8ᴍᴏɴᴇʏ
-633f4ebd-2665-498f-9fb5-db5870461706.dh.npc.time_in_this_world: ᴛɪᴍᴇ ɪɴ ᴛʜɪs ᴡᴏʀʟᴅ
+434bb4ce-6ed7-4674-a2af-2d55d84662e2.dh.npc.spawn.panel.l5: §fᴜᴍ ᴀʟʟᴇ ғᴜɴᴋᴛɪᴏɴᴇɴ ᴢᴜ
+  ɴᴜᴛᴢᴇɴ
+a40f7014-d987-4c38-a107-2253ab099d5c.dh.npc.spawn.daily.l5: '&fᴅᴇʀ &aᴛᴀ̈ɢʟɪᴄʜᴇɴ ʙᴇʟᴏʜɴᴜɴɢᴇɴ&f,
+  ʙᴇʜᴀʟᴛᴇ ᴅᴇɪɴ'
+a6f89c0e-f38f-4a7c-b83f-8655bd82a936.dh.npc.spawn.daily.l6: '&fsᴛʀᴇᴀᴋ ғᴜ̈ʀ &aɢᴇsᴄʜᴇɴᴋᴇ'
+a52bf6bd-72d7-4ab4-86c2-3e438369aee8.dh.npc.dimenstion_at_this_npc: ᴅɪᴍᴇɴsɪᴏɴ ʙᴇɪ
+  ᴅɪᴇsᴇᴍ ɴᴘᴄ
+58296749-e296-4d0a-b8b6-739add380629.dh.npc.spawn.bank.l5: '&fᴜɴᴅ sᴘᴇɪᴄʜᴇʀ ᴇs ғᴜ̈ʀ
+  sᴘᴀ̈ᴛᴇʀ'
+fb582c1a-4c2f-4241-8a14-894b1b0cde2c.bankplus.success-withdraw: Es wurde erfolgreich
+  &a%1 &7Geld abgehoben! &8(&b%2 &7verloren in Steuern&8)
+23e68495-64a8-4920-9ad1-e870036e7a4c.dh.npc.spawn.bank.l10: '&c(ᴅɪᴇ ʙᴀɴᴋ ʙᴇᴢᴀʜʟᴛ ᴋᴇɪɴᴇ
+  ᴄʟᴀɪᴍs)'
+af4ed799-0307-4ee7-9629-73c35a4bf463.dh.npc.spawn.bank.l7: '&fᴀʙᴇʀ ᴡᴇɴɴ ᴅᴜ ᴢᴜ ʀᴇɪᴄʜ
+  ʙɪsᴛ, ᴍᴜssᴛ'
+85405543-58d3-4d91-9618-7060ddd012c3.dh.npc.spawn.daily.l4: '&fɪɴᴛᴇʀᴀɢɪᴇʀᴇ ᴢᴜᴍ ʙᴇᴀɴsᴘʀᴜᴄʜᴇɴ'
+6591deb7-f97f-466f-9195-a379f1cec41b.dh.npc.spawn.bank.l6: '&fᴅᴜ sᴏʟʟᴛᴇsᴛ ᴇᴛᴡᴀs §x§E§8§8§C§0§8ɢᴇʟᴅ
+  &fᴍᴀᴄʜᴇɴ'
+74aa7fb2-d9ba-4ecc-bdfe-10029ef5bc37.dh.npc.teleport_to_dimension: ᴛᴇʟᴇᴘᴏʀᴛɪᴇʀᴇ ᴅɪᴄʜ
+  ɪɴ ᴅɪᴇ
+259d500a-4551-4a0d-be5d-a357b02ae175.dh.npc.spawn.bank.l8: '&fᴅᴜ ᴍᴇʜʀ sᴛᴇᴜᴇʀɴ ᴢᴀʜʟᴇɴ,
+  ᴜᴍ §x§E§8§8§C§0§8ɢᴇʟᴅ&f ᴢᴜ ʙᴇʜᴀʟᴛᴇɴ'
+633f4ebd-2665-498f-9fb5-db5870461706.dh.npc.time_in_this_world: ᴢᴇɪᴛ ɪɴ ᴅɪᴇsᴇʀ ᴡᴇʟᴛ
