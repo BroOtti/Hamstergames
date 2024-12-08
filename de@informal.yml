@@ -46,7 +46,8 @@ dd130f3c-f766-41c1-9a36-7ddc9f416801.excellentenchantmentsFitItemType.WEAPON: Wa
   ɴᴇᴇᴅ ᴍᴏʀᴇ ᴘᴏɪɴᴛs"
 5c508a76-becc-4970-99a5-bd570e7c45c3.deathmessages.Mobs.strider.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-95ddcb59-66e3-4cdc-9988-6dfd0dbdf847.huskhomeslocales.teleporting_all_players:
+95ddcb59-66e3-4cdc-9988-6dfd0dbdf847.huskhomeslocales.teleporting_all_players: '[Teleporting
+  all players to your position…](&&#00fb9a)'
 45c01aed-c8bd-4694-9f4e-3dae4fa906f5.lands.messages.help.command.lands.ban: '[T]&e%1
   %2 %3 &8- &7Spieler bannen[H]&7Klick zum Kopieren.[/H][SC]%4[/SC][/T]'
 3881a08d-5183-4e24-aff0-943c4a9d10e6.advancedenchants.commands.not-holding-item: '&cDu
@@ -56,7 +57,8 @@ d9c19cca-46be-410b-b707-69c4c0f50f63.excellentcratesEditor.CrateEditorType.CRATE
 2c1e3dfa-1a09-4f34-b97d-5b4f2d80f015.deathmessages.Mobs.chicken.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 30f5132c-d8f2-47d9-a749-110ee4244761.lands.messages.list.hologram.sell.area.0: '&aKaufen'
-5f216da0-bf0d-4a4b-9217-a68e1e5c1ce3.huskhomeslocales.tphere_command_description:
+5f216da0-bf0d-4a4b-9217-a68e1e5c1ce3.huskhomeslocales.tphere_command_description: Teleport
+  another player to you
 1badde40-45e5-4a1b-b0bf-63078bed1475.advancedenchants.commands.main.pasteenchants: '&aVerzauberung
   liste: %1'
 10666cfb-a113-4537-bedc-1e0f164b3b54.lands.messages.lands.command.view.y-lock.enabled: >-
@@ -117,7 +119,8 @@ e256cdd2-fe5e-48c9-9a99-afb5d5ac3c4f.advancedenchants.gkits.no-permission: "&eYo
 96f228e9-3fed-4a02-882f-06fdde902060.advancedenchants.sets.commands.invalid-set-piece: "&cInvalid
   set piece, you may use one of these: \n%set pieces%"
 81b9df29-b8d5-4ac6-8a5f-e79d4bd6d1a8.tempflycommand.base.givall.1: addall
-590447ce-79e1-4e69-812b-aeb07cf2ed6c.huskhomeslocales.edit_home_update_name:
+590447ce-79e1-4e69-812b-aeb07cf2ed6c.huskhomeslocales.edit_home_update_name: '[Successfully
+  renamed your home: %1 →](&&#00fb9a) [%2](&&#00fb9a bold)'
 57ca07bb-65a2-42b8-b669-4da03abd5527.alonsotags.Invalid-player: Spieler ist nicht
   online!
 3fd14f8a-8731-4bc4-aa2b-6950966644a8.lands.messages.lands.message.noaccess.claimblock: '&cDieser
@@ -270,12 +273,14 @@ f618bc9b-780a-4f47-bbca-92a94841e08c.advancedenchants.tinkerer.trade-accepted: '
 a5c9556c-5aca-4b5f-9148-163efbe109d3.advancedenchants.commands.main.give.success: '&aSuccessfully
   gave %1 one %2 %3 book!'
 0ccde240-a565-4bbf-907f-3bcd8a6b9de3.lands.messages.list.sign.rent.2: '&5%1'
-d321cb30-c3cc-424c-8745-6b1725d24d9d.huskhomeslocales.list_previous_page_button:
+d321cb30-c3cc-424c-8745-6b1725d24d9d.huskhomeslocales.list_previous_page_button: '[◀](white
+  show_text=&7View previous page run_command=%1 %2) '
 8841844a-11c2-4599-b6fb-d78b75ed36a0.deathmessages.Natural-Cause.Climbable.0: '%1
   hat versucht, in größere Höhen zu klettern und ist von %2 gefallen'
 52eb38ca-666d-4cb8-aab2-d095ed8e1f25.deathmessages.Mobs.irongolem.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
-d268a570-6da5-4714-baad-921a353a927f.huskhomeslocales.error_public_home_invalid:
+d268a570-6da5-4714-baad-921a353a927f.huskhomeslocales.error_public_home_invalid: '[Error:](&&#ff3300)
+  [Could not find a public home owned by %1 called %2.](&&#ff7e5e)'
 71606dcd-bd52-4da2-b31e-004d56047155.cmd.event.xp.desc: |-
   &bBeschreibung
    &b| &7Erhalte ein paar xp
@@ -313,7 +318,9 @@ de9e17fb-8173-4ad9-b926-118a44642938.deathmessages.Mobs.bat.Solo.Weapon.0: '%1 w
    &3| &fKlick zur Ansicht.
   &bInformationen
    &8▪ &7Tag: §xF§xF§x9§xA§x2§x0ᴇᴠᴇɴᴛ 2023
-7df727da-c1db-4cba-9e7e-e1874cee9fe7.huskhomeslocales.edit_home_menu_privacy_button_public:
+7df727da-c1db-4cba-9e7e-e1874cee9fe7.huskhomeslocales.edit_home_menu_privacy_button_public: '[[☀
+  Make Public…]](&#6fff00 show_text=&7Click to open this home to the public run_command=/huskhomes:edithome
+  %1 privacy)'
 ff213edb-21c1-4eeb-8f62-04e22872c6af.PlayerParticlesgroup-list-presets: '&7Die folgenden
   voreingestellten Gruppen sind verfügbar: &b%1'
 a4e279f7-e4b3-4caf-8733-803e834e69fa.advancedenchants.commands.gedit.list: '&eGKits:
@@ -345,7 +352,7 @@ f07c99ec-7278-4654-ab97-df1e3c110b31.deathmessages.Natural-Cause.Fire-Tick.0: '%
 ee08cfb4-c24f-4108-b3d7-9839ad6bb0c8.deathmessages.Mobs.enderdragon.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 0c615800-e467-48fa-8041-f66912b605ee.dh.discord.7: '&fYou can also link yourself'
-8a037aea-0087-49ec-8265-97a2cfa60b01.huskhomeslocales.list_item_divider:
+8a037aea-0087-49ec-8265-97a2cfa60b01.huskhomeslocales.list_item_divider: ' [•](gray) '
 db4a0a2b-c65b-4607-8c6c-cc86d0b9cda7.tempflysystem.help.5: '&6/tf pay [Spieler] [Zeit]'
 4fb8ac7e-42fd-426f-9e2c-0d375cb06057.deathmessages.Mobs.squid.Gang.Weapon.0: '%1 wurde
   von ein paar %2 angegriffen! Einer schlug sie mit %3'
@@ -362,7 +369,8 @@ f4a02ec1-a271-4d14-abed-d4ece07e675d.lands.messages.nations.command.leave.capita
   wurde von einem %2 irgendwie mit %3 erschossen'
 2ae2a99c-a57a-4383-be0c-2af0439c117a.deathmessages.Mobs.husk.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-cd4d3b7e-4894-4214-9aac-f3cb98be82ff.huskhomeslocales.warp_list_item:
+cd4d3b7e-4894-4214-9aac-f3cb98be82ff.huskhomeslocales.warp_list_item: '[[%1]](show_text=&&&#00fb9a&%2\n&7ℹ
+  %3 run_command=/huskhomes:warp %4)'
 0a6a6bb5-fa54-40e9-a3c5-675c0949eeca.tempflycommand.unit.days.recognized.0: d
 b63f0402-79e1-4953-b115-878488f88a15.deathmessages.Mobs.zombievillager.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
@@ -411,7 +419,8 @@ d0447afb-7492-464f-ac5d-4e0a4c9ba220.cmd.rules.server.3-5: |-
   &7Bestrafung.
 96e490a6-a25d-4e62-a58d-287e5ae32ce8.deathmessages.Mobs.shulker.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-52ee260d-804e-46cc-a44d-dfd58d417f5c.huskhomeslocales.error_rtp_randomization_timeout:
+52ee260d-804e-46cc-a44d-dfd58d417f5c.huskhomeslocales.error_rtp_randomization_timeout: '[Error:](&&#ff3300)
+  [Failed to find a safe random location to teleport you.](&&#ff7e5e)'
 aa99b9e7-1c67-456c-baeb-18d7bfc0cd7c.deathmessages.Mobs.piglin.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 3f73dd1e-81a9-4363-b8ac-abc033b90b72.deathmessages.Mobs.mule.Gang.Melee.0: '%1 wurde
@@ -579,7 +588,8 @@ a9f590f5-74d1-4c7d-a062-b2c6eafd6c10.lands.messages.nations.command.create.succe
 5ea4b07d-9c7a-4325-8a4b-b8b3e5726b2d.lands.messages.help.command.lands.admin.menu: >-
   [T]&e%1 %2 %3 &8- &7Öffne Admin-Menü[H]&7Klicke zum
   Ausführen.[/H][C]%4[/C][/T]
-c1367117-2068-40b6-85ed-918238d6fef9.huskhomeslocales.tpa_request_received:
+c1367117-2068-40b6-85ed-918238d6fef9.huskhomeslocales.tpa_request_received: '[%1](&&#00fb9a
+  bold) [has requested to teleport to you.](&&#00fb9a)'
 917c3a43-d241-4155-9c86-7165f1a9d38b.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.11: '#bbff6a&lAktionen:'
 3032d7ec-7fb8-4feb-950e-45bb972e52ac.deathmessages.Mobs.ocelot.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
@@ -594,7 +604,8 @@ ca171821-6774-437c-b170-fad70d6c6b7d.deathmessages.Natural-Cause.Starvation.0: '
   downloaded token &l%1&a enchantment, reloading...'
 7e806b2d-7ace-4ad3-8595-2378b68e7a07.glow.pink.lock: "&f\n&dInformation\n &8| &7Price:
   &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ ᴛᴏ ᴜɴʟᴏᴄᴋ"
-7fdfb484-f4e1-4b7c-ad8b-df9992c983dc.huskhomeslocales.up_to_date:
+7fdfb484-f4e1-4b7c-ad8b-df9992c983dc.huskhomeslocales.up_to_date: '[HuskHomes](&&#00fb9a
+  bold) [| You are running the latest version of HuskHomes (v%1).](&&#00fb9a)'
 9315d8cb-4855-4854-9bd3-47bab04f5d97.lands.messages.general.inbox.nation.economy.upkeep.warning: '&Konntest
   die Unterhaltskosten von %1 nicht bezahlen.'
 6c134544-ada2-4962-ad02-8b626ea67672.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_COMMANDS.Lore.11: '#bbff6a▪
@@ -626,7 +637,8 @@ c8570235-c7e6-4098-aa90-f88602672eec.deathmessages.Basic-Mode.Gang.Magic.0: '%1 
   von einer Bande von %2 erschlagen'
 cb255b02-eb0b-4294-a8c4-bd2b4d7375b1.tempflycommand.unit.days.tab_complete: Tag
 4040402d-8db7-4bf2-86bf-1255f23eef09.cmd.homes.title: '&bHomes Upgrade'
-915482ea-b85b-40a1-a990-d7829ee0b647.huskhomeslocales.economy_action_send_teleport_request:
+915482ea-b85b-40a1-a990-d7829ee0b647.huskhomeslocales.economy_action_send_teleport_request: Sent
+  a teleport request
 dc8147b2-88a1-402d-8129-918ba7c84bcd.deathmessages.Mobs.snowman.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 96819d33-756d-477d-8472-b2a8493fdfb4.PlayerParticlesdata-usage-vibration: '&7Der Effekt
@@ -668,13 +680,15 @@ bfea7972-25da-4aff-af0d-5148d1c7e210.deathmessages.Mobs.player.Solo.Suffocation.
   %2&c). &8Flagge: %3
 c0a85a75-7f6b-4425-b84b-ed8028f8be1c.deathmessages.Mobs.fox.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-b573eff9-edad-4ddc-97de-6c42919634f7.huskhomeslocales.teleport_request_accepted_confirmation:
+b573eff9-edad-4ddc-97de-6c42919634f7.huskhomeslocales.teleport_request_accepted_confirmation: "[You
+  accepted %1's teleport request!](&&#00fb9a)"
 c7065378-e376-47fe-9f71-2510f6f94943.lands.messages.lands.command.sell.buy.owner-cooldown: >-
   &cDer Besitzer eines Grundstücks kann alle&4 %1&c wechseln. &7Du musst noch&5
   %2 &7 warten, bevor das Grundstück&2 %3 &7gekauft werden kann.
 b7cd49f1-0ae1-48f2-b44e-b390884fabf3.deathmessages.Mobs.drowned.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-95c1ba49-b39f-4409-9efa-b94dd95f8d22.huskhomeslocales.tpdecline_command_description:
+95c1ba49-b39f-4409-9efa-b94dd95f8d22.huskhomeslocales.tpdecline_command_description: Decline
+  a teleport request
 40b3b386-1308-4cf4-9cc2-8ca2364b4d9d.lands.messages.lands.command.assign.selection: >-
   &cDu musst zuerst eine Auswahl erstellen. &7Benutze &e/Länderauswahl &7um eine
   zu erstellen. Versuche es danach noch einmal.
@@ -728,7 +742,9 @@ c9674454-b9b0-45cd-be61-6c621c69bd4b.advancedenchants.sets.commands.invalid-weap
   stand zu nah am Feuerwerk von %2'
 78c74ac9-eef9-444e-9848-eda3931a556d.advancedenchants.commands.main.info.3: '&6Max
   level&7: &e%max-level%'
-aee3f6b9-ced8-4184-8ee1-ca9a49104002.huskhomeslocales.set_home_used_free_slots:
+aee3f6b9-ced8-4184-8ee1-ca9a49104002.huskhomeslocales.set_home_used_free_slots: '[ℹ
+  You have used all %1 of your free home slots. Setting additional homes will cost
+  %2 each.](gray)'
 f8a51393-6dbb-43f1-a2d9-2acf208ccd99.tempflyaesthetic.symbols.infinity: ∞
 b626d625-ca0b-4276-a055-31fba970e75a.lands.messages.nations.command.chat.activated: >-
   &7Aktivierter Nationen-Chat. Sende eine Nachricht im öffentlichen Chat, um mit
@@ -762,7 +778,8 @@ a60c331b-be03-4d5b-9c64-c0eda30678ac.lands.messages.general.top.hologram.nation.
 45596b09-a92f-4a7d-a191-018e40a82591.lands.messages.lands.command.selection.expand.enabled: >-
   &7Vergrößere deine Auswahl von unten nach oben (minimale und maximale
   Anspruchshöhe).
-3f35da37-682d-4aa0-81d8-b1b20173ac37.huskhomeslocales.home_deleted:
+3f35da37-682d-4aa0-81d8-b1b20173ac37.huskhomeslocales.home_deleted: '[Successfully
+  deleted your home,](&&#00fb9a) [%1](&&#00fb9a bold)'
 86697c9a-00da-4d2b-91b6-159badd99ddd.chatcolor.gui-selected: '&eAusgewählt'
 39300783-7008-4619-993d-8257785be085.rules.1-4: "§x§2§0§F§7§0§71.4 – Avoid offensive
   content:\n&f\n&fAvoid offensive content in all chat channels. §x§2§0§F§7§0§7This
@@ -811,7 +828,9 @@ c592a28a-8c66-4bd4-b3b9-bafc567e87c9.deathmessages.Mobs.horse.Gang.Projectile-Ar
   Einladungen einsehen, indem du /lands invites ausführst. &7Klick zum
   Kopieren.[/H][SC]%4[/SC][/T]
 fc29f7df-7b94-443a-a298-326103fb65be.excellentcratesEditor.CrateEditorType.Reward.Rarity.Lore.3: '#ffed6a&lAktuell:'
-ba1b4ab6-ba51-4a67-b6f6-48fa344f3b1e.huskhomeslocales.error_warp_description_characters:
+ba1b4ab6-ba51-4a67-b6f6-48fa344f3b1e.huskhomeslocales.error_warp_description_characters: '[Error:](&&#ff3300)
+  [Warp descriptions may only contain alphanumeric (A-Z, 0-9) characters, spaces,
+  hyphens (-) and underscores (_)](&&#ff7e5e)'
 f127794e-671e-461a-9a2b-d1da81f8f07f.lands.messages.general.inbox.nation.economy.taxes.warning: '&cLand
   %1 konnte keine Steuern zahlen.'
 515b82f5-1347-4019-8232-e55adf10458e.dh.farmserver.menu.l5: '&7sind unterschiedlich
@@ -824,10 +843,12 @@ f127794e-671e-461a-9a2b-d1da81f8f07f.lands.messages.general.inbox.nation.economy
 ecd552ec-a57b-4587-8ef3-49b1e4bc0232.tempflygeneral.unit.seconds: s
 f6fd40be-7761-4e5e-8c47-f8c869a806b5.advancedenchants.commands.main.info.0: '&eInformation
   about &6%1 &eenchantment&7:'
-7feffe58-54c5-4e69-8fd5-4069777e8eae.huskhomeslocales.teleporting_random_generation:
+7feffe58-54c5-4e69-8fd5-4069777e8eae.huskhomeslocales.teleporting_random_generation: '[Finding
+  a safe random position to teleport you to…](&&#00fb9a)'
 2c93db2c-fcf2-4dd0-b897-c7baed3a212f.gsitMessages.action-crawl-info: '&7Benutze deine&f
   Umschalt&7-Taste, um aufzustehen.'
-f2a02673-4fc9-476e-b6a1-b3df2d7a5a00.huskhomeslocales.teleporting_other_complete:
+f2a02673-4fc9-476e-b6a1-b3df2d7a5a00.huskhomeslocales.teleporting_other_complete: '[Teleported
+  %1 to %2.](&&#00fb9a)'
 180db7d5-06ea-4088-823e-596570ba031b.gsitPlugin.plugin-disabled: '[P]&7 Das Plugin
   wurde erfolgreich deaktiviert.'
 394c5f2e-88e4-428f-a663-325711f73102.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_OPEN_COST.Lore.2: '#bdc8c9
@@ -849,7 +870,8 @@ ff651667-d558-4471-ac65-117f4d1ac07b.ia.9.1: Tritt unserer Community bei
 adaff0a5-9472-427b-a6a6-a768a49ed22d.lands.messages.lands.message.chat-input.land: >-
   #t#&6Gebe den Namen[newline]&7des Ziellandes im Chat[newline]&7Gebe "cancel"
   ein, um abzubrechen.
-376326be-d036-44c2-a4c3-ed1cb3f08604.huskhomeslocales.error_no_offline_position:
+376326be-d036-44c2-a4c3-ed1cb3f08604.huskhomeslocales.error_no_offline_position: '[Error:](&&#ff3300)
+  [Could not find where %1 last logged out.](&&#ff7e5e)'
 1e231d7c-6b8f-4c63-a344-8bec95942e4d.lands.messages.lands.command.sell.sell.success.land: |
   &7Du stellst das ganze Land&2 %1 &7zum Verkauf. Kosten:&c %2
    &8✖ &7Angebot entfernen: &e/Landpacht entfernenAngebot
@@ -884,7 +906,8 @@ b28eafc8-73eb-42aa-b5d5-d130306f482a.deathmessages.Mobs.guardian.Solo.Melee.0: '
   wurde von einem %2 erschlagen'
 43102ea4-88eb-47d5-b9ea-53fbca2fe9ea.deathmessages.Mobs.elderguardian.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-c3f61709-d0ef-41cd-80d6-b9be03d3de09.huskhomeslocales.edit_home_privacy_private_success:
+c3f61709-d0ef-41cd-80d6-b9be03d3de09.huskhomeslocales.edit_home_privacy_private_success: '[Successfully
+  made your home,](&&#00fb9a) [%1](&&#00fb9a bold)[, private.](&&#00fb9a)'
 5198688f-785b-49c1-9d9e-01a6300cfb63.SuperVanishMessages.OnVanishCausedByOtherPlayer: '&b&l%1
   &8&l┃ &f%2 &7hid you, you are now invisible!'
 f90ab21c-56dc-451c-9bde-0bf938ae1a8b.playerpoints.command-set-success: '&7Setze den
@@ -902,7 +925,8 @@ bcae4ea3-37e1-4aad-a2eb-8c4b135589b6.playerpoints.command-take-usage: '&cAnwendu
 d94e6424-5315-4cdc-9f40-ecf666b8bba2.PlayerParticlesreload-no-permission: '&7Dazu
   haben Sie keine Berechtigung!'
 e7fa4b37-7c63-4db2-ae5b-dec5a5e36b2a.lands.messages.list.sign.sold.land.0: '&7&lVerkauft'
-8244c46a-fa73-41be-8300-d1d7dea1352c.huskhomeslocales.teleporting_cancelled_movement:
+8244c46a-fa73-41be-8300-d1d7dea1352c.huskhomeslocales.teleporting_cancelled_movement: '[Teleportation
+  cancelled—you moved!](&&#ff7e5e)'
 d4e7080a-9a1f-4420-867c-fb190ce0ee16.ia.dc.1: '&fConnect your §x§2§0§F§7§0§7[/discord]
   &faccount to the server to sync your roles!'
 3bc8567f-db4f-4db3-83a7-c302f0c84f20.alonsotags.inactive.lore: |-
@@ -917,7 +941,9 @@ d4e7080a-9a1f-4420-867c-fb190ce0ee16.ia.dc.1: '&fConnect your §x§2§0§F§7§0
   &c&lᴋʟɪᴄᴋᴇ ᴢᴜᴍ ᴇɴᴛғᴇʀɴᴇɴ
 7fa0caab-165b-42aa-8f2c-d0171a0363cc.deathmessages.Mobs.panda.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-49b5bfb6-1032-4e33-b667-3f8d533149cc.huskhomeslocales.error_ignoring_teleport_requests:
+49b5bfb6-1032-4e33-b667-3f8d533149cc.huskhomeslocales.error_ignoring_teleport_requests: '[Error:](&&#ff3300)
+  [You are currently ignoring teleport requests.](&&#ff7e5e) [[Stop Ignoring…]](&&#ff7e5e
+  show_text=&&&#ff7e5e&Click to listen for incoming teleport requests run_command=/huskhomes:tpignore)'
 a6e1184d-641b-4222-9eef-4eb0b72be744.cmd.purchase.choose.title.s24: '&b&lFly &7Einkauf'
 493f57d9-dfc3-4abc-8bfa-619c37d72207.banmenu.kick.titel: '&cKick Berechtigung'
 b78e73f1-4c8a-42a2-a230-e2c83a30827f.cmd.links.desc.s20: |-
@@ -960,12 +986,14 @@ e8cfdf78-3fc8-4f1f-93dc-51813a13ce9d.lands.messages.general.command.argument.typ
   Neustart des Servers in
 79c75f06-132a-47aa-bbbe-e70d7cd8789b.advancedenchants.enchanter.unknown-payment-method: '&cFailed
   to validate %1 payment method, please contact an administrator.'
-b5072e9b-f53c-4def-9fa7-f128a66bf782.huskhomeslocales.command_list_title:
+b5072e9b-f53c-4def-9fa7-f128a66bf782.huskhomeslocales.command_list_title: '[HuskHomes](&&#00fb9a
+  bold) [| Command List](&&#00fb9a)\n'
 d31d8316-821e-4842-a2c7-6bfd788d6132.deathmessages.Mobs.skeletonhorse.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 037024e3-ff54-422e-9cf5-944785aeb307.excellentcratesEditor.Crate.BlockPushback.Name: '#ffed6a&lBlock
   Pushback'
-79211c0c-e2cf-4ecf-b2ef-cea3ab95b2a5.huskhomeslocales.list_page_jumper_button:
+79211c0c-e2cf-4ecf-b2ef-cea3ab95b2a5.huskhomeslocales.list_page_jumper_button: '[%1](show_text=&7Jump
+  to page %2 run_command=%3 %4)'
 8efc9964-ac0b-4775-b104-93c43a771d96.excellentcratesCrate.Error.Invalid: '#fd5e5eUngültige
   Kiste!'
 5a01aab5-4010-4088-afc5-54347188858c.lands.messages.nations.command.trust.already: >-
@@ -1067,7 +1095,9 @@ e541fb29-4330-40ff-af1a-d276c3f0911c.lands.messages.lands.command.teleport.succe
   von einer Bande von %2 erschlagen'
 4c56c653-7151-4c2b-9941-61b9c71c5dbb.rules.reminder.subtitle: '&cPlease read our rules!
   [/rules]'
-b9fdce87-ee47-4ed4-bf4a-32f746efb799.huskhomeslocales.error_invalid_syntax:
+b9fdce87-ee47-4ed4-bf4a-32f746efb799.huskhomeslocales.error_invalid_syntax: '[Error:](&&#ff3300)
+  [Invalid syntax. Usage:](&&#ff7e5e) [%1](&&#ff7e5e italic show_text=&&&#ff7e5e&Click
+  to suggest suggest_command=%2)'
 4141319f-53b2-4041-b1c0-9bc3de0f7449.lands.messages.help.command.lands.help: '[T]&e%1
   %2 %3 - &7Hilfe holen[H]&7Klick zum Ausführen.[/H][C]%4[/C][/T]'
 1bc04c58-ab3f-44aa-b4d3-88b75e15224f.cmd.rules.chat.1-2: >-
@@ -1150,10 +1180,12 @@ e314758d-ddf7-4d4c-a8bb-248921711a6b.SuperVanishMessages.ToggledPickingUpItemsOn
 1bd9b640-7526-40b4-a5e8-364628a04109.PlayerParticlesgui-edit-data-color-orange: '#ff8c00Orange'
 0d3e3e9c-5950-4af8-9db0-e53540bda333.excellentcratesEditor.Reward.Enter.WinLimit.Cooldown: '#d4d9d8Eintrag
   #aefd5e[Sekundenbetrag]'
-6ebcae59-1381-487e-ab60-38a5f1aef295.huskhomeslocales.home_list_page_title:
+6ebcae59-1381-487e-ab60-38a5f1aef295.huskhomeslocales.home_list_page_title: "[%1's
+  Homes:](&&#00fb9a) [(%2-%3 of](&&#00fb9a) [%4](&&#00fb9a bold)[)](&&#00fb9a)\\n"
 ebaa6751-cbc3-4765-b0b2-beeab5736c3c.deathmessages.Mobs.slime.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-43d22597-40b4-452f-a153-bbd6b0d23c4e.huskhomeslocales.tpignore_command_description:
+43d22597-40b4-452f-a153-bbd6b0d23c4e.huskhomeslocales.tpignore_command_description: Ignore
+  incoming teleport requests
 817414b1-c334-4763-9326-d2eae6c513dc.cmd.settings.desc.s30: |2
 
   &bBeschreibung
@@ -1185,7 +1217,8 @@ c87a33af-da67-44cb-a6fd-6f9f5ec2c5f1.ia.2.2: oder schalte weitere Kits zum Spiel
   &3%1 %2'
 bb617f9f-5c92-4d5d-a596-13c5821bd0ff.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.1: '#bdc8c9
   kann verwendet werden, um diese Kiste zu öffnen.'
-cb70082a-3037-4fa4-afb5-7f2d97c1a92a.huskhomeslocales.error_edit_home_maximum_public_homes:
+cb70082a-3037-4fa4-afb5-7f2d97c1a92a.huskhomeslocales.error_edit_home_maximum_public_homes: '[Error:](&&#ff3300)
+  [You can only make a maximum of %1 homes public.](&&#ff7e5e)'
 953765e0-a1db-4425-93ce-c5e9310c9466.tempflycommand.base.trails.1: Partikel
 b36d01c9-927a-4f28-bc8f-a520db6b906c.cmd.etwas_neues_kommt_bald: "§7Something new
   is coming\n§7in the near §x§0§0§f§d§0§afuture."
@@ -1244,18 +1277,20 @@ db0037b6-b511-46b5-a1ba-b750134b4a4d.PlayerParticlesgui-edit-style: '&bStil bear
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 c280db1f-1a1b-4716-9a6a-99ad3fcc3b9f.deathmessages.Mobs.rabbit.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-da6c7d1b-ffc9-4db1-923d-18fcbb84cea9.huskhomeslocales.error_illegal_target_coordinates:
+da6c7d1b-ffc9-4db1-923d-18fcbb84cea9.huskhomeslocales.error_illegal_target_coordinates: '[Error:](&&#ff3300)
+  [Cancelled teleport as it exceeds the possible game world limits.](&&#ff7e5e)'
 012d8054-56a1-4fba-a207-4a3b13adbb36.excellentenchantmentsFitItemType.AXE: Axt
 bb8cea8f-3f56-4ce7-9b3d-ffc8e3d68255.lands.messages.lands.command.general.money.fallback: >-
   &7Benachrichtigung:&c %1 &7wurde von deinem persönlichen Konto abgebucht, weil
   die Bank deines Landes&2 %2 &7nicht genug Geld darin hat. Einzahlung:
   &e/%3[T]&8[KLICK][H]&7Klicke hier, um Geld auf die Bank des Landes %4
   einzuzahlen.[/H][SC]%5[/SC][/T]
-2dd3717f-9537-4eef-9ac3-b777c7cc3c10.huskhomeslocales.error_no_permission:
+2dd3717f-9537-4eef-9ac3-b777c7cc3c10.huskhomeslocales.error_no_permission: '[Error:](&&#ff3300)
+  [You do not have permission to execute that command.](&&#ff7e5e)'
 bf873254-9420-4a4c-9808-562feb4cbbbe.deathmessages.Mobs.vindicator.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 8df2ac72-9565-4033-8e47-a2c3f6a77d2b.tempflycommand.unit.days.recognized.1: Tag
-0dd435d1-bc65-41cb-a0ad-49169dfdb8f0.huskhomeslocales.item_no_description:
+0dd435d1-bc65-41cb-a0ad-49169dfdb8f0.huskhomeslocales.item_no_description: (No description)
 3181e360-101e-4309-821b-8dc9e7138f81.excellentenchantmentsFitItemType.HOE: Hacke
 338808fc-92da-4ce1-9b62-1ad5244b0284.tempflycommand.unit.hours.tab_complete: Stunde
 e2820c8d-c2d4-4aa2-b669-b1bf64e3ba3a.deathmessages.Mobs.zombievillager.Gang.Melee.0: '%1
@@ -1352,11 +1387,14 @@ b352daaf-0092-40f3-bb59-166b81f9a7bd.rules.2-3: "§x§2§0§F§7§0§72.3 – Pr
   of the staff and follow their instructions."
 0981aa58-0cf9-477f-b2bd-5c7bfe6968d0.deathmessages.Mobs.enderman.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-27c2080d-11dc-4db7-b1e1-863057d07e00.huskhomeslocales.error_teleport_request_sender_not_online:
-75f57732-cc19-4810-ad88-a0980f986cd5.huskhomeslocales.error_edit_home_privacy_already_public:
+27c2080d-11dc-4db7-b1e1-863057d07e00.huskhomeslocales.error_teleport_request_sender_not_online: '[Error:](&&#ff3300)
+  [The sender of your pending teleport request is no longer online.](&&#ff7e5e)'
+75f57732-cc19-4810-ad88-a0980f986cd5.huskhomeslocales.error_edit_home_privacy_already_public: '[Error:](&&#ff3300)
+  [This home is already set as public.](&&#ff7e5e)'
 a98e7f79-db6e-4be2-b4c3-7837a15073a1.deathmessages.Mobs.pig.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-cbac25f6-a098-441f-b75e-cec07a451f38.huskhomeslocales.importer_list_title:
+cbac25f6-a098-441f-b75e-cec07a451f38.huskhomeslocales.importer_list_title: '[HuskHomes](&&#00fb9a
+  bold) [| Available Data Importers:](&&#00fb9a)\n'
 e9946006-6c14-4d6c-bcce-e79e96693cc3.playerpoints.noperm: Dazu fehlt ihnen die Berechtigung
 f2875d08-f534-405d-b712-448c70960e6a.cmd.startmenu.allesandere.desc.rank: >-
   &f● §x§2§0§F§7§0§7Ränge &fkennzeichnen §x§2§0§F§7§0§7Spieler &fmit besonderen
@@ -1508,7 +1546,8 @@ ee36c596-a3a0-4c77-9b46-06eea710bdab.SuperVanishMessages.InvalidSender: '&b&l%1 
   crystal upgrade &nfailed&c!'
 24d1eddd-e6d4-4d57-91df-fa4e9d87ca64.mycmd.ECONOMY_COST: '&7Dieser Befehl kostet %1.
   Neuer Saldo %2'
-235fd757-7a74-4dd1-acf8-9fb68d8be4ec.huskhomeslocales.setspawn_command_description:
+235fd757-7a74-4dd1-acf8-9fb68d8be4ec.huskhomeslocales.setspawn_command_description: Set
+  the spawn position
 9bd93692-7557-43fc-af65-90b4cf8ce4e7.lands.messages.general.status.offline: '&coffline'
 920acf43-0022-46e8-a085-a9d28bea881c.lands.messages.general.integration.squaremap.capital.spawn: >-
   <div class="\&quot;infowindow\&quot;"><span style="font-size: 200%;"><span
@@ -1521,7 +1560,7 @@ ea376ee0-c946-4538-8c1c-86a7c088aac0.lands.messages.list.sign.rented.3: '&5%1 &7
 f2880927-6987-415f-9a60-2e89e1edacb1.deathmessages.Mobs.strider.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 00d5f7bd-6fe1-4020-b714-aeebee09c212.mycmd.hours: 'Stunden '
-e6216360-790c-4c33-ac6a-f5e563d0feb6.huskhomeslocales.list_page_jumper_current_page:
+e6216360-790c-4c33-ac6a-f5e563d0feb6.huskhomeslocales.list_page_jumper_current_page: '[%1](&&#00fb9a)'
 c314ad4d-993f-42eb-8ed4-4062e505b13f.excellentenchantmentsCommand.Enchant.Usage: '%1
   %2'
 b9c4d7e1-fe48-4248-b5b6-f1fa0b6f4f85.lands.messages.lands.command.general.money.failure.personal: >-
@@ -1539,7 +1578,9 @@ e8c1ea88-3dc9-4654-abcc-b796ae39cffc.alonsotags.close: '&c&l❌ &cClose'
 13604518-9e49-4fa2-9307-aa1937a8e463.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Lore.2: '#bbff6a&lAktionen:'
 58c7e249-995b-4d8d-a622-a1a4e18c39eb.advancedenchants.sets.commands.givepiece.success: '&eGave
   &f%1 &efrom &f%2 &eto &f %3'
-cfa6efcc-b32a-4d0f-a486-77cf297f16a0.huskhomeslocales.edit_home_menu_use_buttons:
+cfa6efcc-b32a-4d0f-a486-77cf297f16a0.huskhomeslocales.edit_home_menu_use_buttons: '[Use:](gray)
+  [[⏩ Teleport…]](&&#00fb9a show_text=&7Click to teleport to this home run_command=/huskhomes:home
+  %1)'
 ebeeafe6-7931-4a9b-9090-65e663c067aa.cmd.rules.chat.1-4: |-
   &7&lDein Minecraft-Benutzername und /nick <Nickname>
   &7Wenn du einen hast, müssen alle unsere Regeln eingehalten werden.
@@ -1571,7 +1612,8 @@ b4d16809-6c61-4245-bde7-4872857c59c0.deathmessages.Mobs.llama.Solo.Melee.0: '%1 
   von einem %2 erschlagen'
 935a6fe8-f9b8-4950-8b74-b09848dc239e.advancedenchants.sets.commands.unknown-command: '&cCommand
   not found! Type "/asets" for a list of all valid commands.'
-7f9c3242-5ab3-4cda-a506-39e5241f7362.huskhomeslocales.error_console_command_only:
+7f9c3242-5ab3-4cda-a506-39e5241f7362.huskhomeslocales.error_console_command_only: '[Error:](&&#ff3300)
+  [That command can only be run from the server console.](&&#ff7e5e)'
 9a2322ea-59f7-40f0-a9ca-8e1764b73ed4.tempflycommand.base.help.1: Befehle
 db0a3eb0-9adc-428b-a5ef-3cf2253c10ae.deathmessages.Mobs.vex.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
@@ -1581,7 +1623,11 @@ db0a3eb0-9adc-428b-a5ef-3cf2253c10ae.deathmessages.Mobs.vex.Solo.Projectile-Arro
   Stufe&3 %2 &8(&7zurzeit: %3&8)&7 sein.
 8822849e-3437-4026-bf15-f4672aaf3699.cmd.settings.title.false.s41: '&bAnkündigungen
   &8| &7[Deaktiviert]'
-c6389b47-6cda-4f7d-b384-9bd070063cb9.huskhomeslocales.edit_warp_menu_meta_edit_buttons:
+c6389b47-6cda-4f7d-b384-9bd070063cb9.huskhomeslocales.edit_warp_menu_meta_edit_buttons: '[Edit:](gray)
+  [[✎ Rename…]](&#c160ff-&#bb50ff show_text=&7Click to suggest the rename command
+  suggest_command=/huskhomes:editwarp %1 rename )   [[ℹ Description…]](&#bb50ff-&#b43fff
+  show_text=&7Click to suggest the edit description command suggest_command=/huskhomes:editwarp
+  %2 description )'
 97dff352-462f-42fb-b535-c88be3754d1f.cmd.upgrade.choose.desc.s25: |-
   &bBeschreibung
    &b| &7Erhöhe die Grenzen deiner Partikelgruppen
@@ -1646,7 +1692,8 @@ b2e81034-11cd-4a67-9567-143c57153619.deathmessages.Mobs.mushroomcow.Solo.Project
   wurde von einem %2 irgendwie mit %3 erschossen'
 12037145-6d4f-4051-ba87-9fa313ff89c6.lands.messages.general.area.description.sold: Dieses
   Gebiet ist an Spieler %1 verkauft.
-112afe31-64a6-4d2f-93c0-de75e0cf1081.huskhomeslocales.edit_home_menu_title_other:
+112afe31-64a6-4d2f-93c0-de75e0cf1081.huskhomeslocales.edit_home_menu_title_other: "[Viewing
+  details for %1's home,](&&#00fb9a) [%2](&&#00fb9a bold)[:](&&#00fb9a)"
 2305ee95-06aa-442e-a780-d3a27655142a.lands.messages.general.integration.bluemap.land.description: >-
   <div class="\"infowindow\""><span style="font-size: 200%;"><span style="color:
   %1;">%2</span><br /></span> %3</div> <ul> <li class="\"infowindow\""> Level:
@@ -1703,7 +1750,8 @@ e7b9ce3f-a37a-44bd-b06c-af2916bd078f.deathmessages.Mobs.pufferfish.Gang.Weapon.0
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 db742ba6-f850-4a74-ab8d-de080cb612cb.lands.messages.general.inbox.war.declaration.mutual.received: '&c%1
   &csent a war request. Akzeptieren: &e/wars deklarieren %2'
-e6d25cec-a0b6-463f-817a-48d7660ee3d5.huskhomeslocales.command_list_item:
+e6d25cec-a0b6-463f-817a-48d7660ee3d5.huskhomeslocales.command_list_item: '[/%1](&&#00fb9a
+  show_text=&7Click to suggest command suggest_command=/%2)   [%3](gray show_text=&&&#00fb9a&/%4\n&7%5)'
 dd088a57-7e87-4194-ade3-2fb2459f2a8b.PlayerParticlesgui-edit-data: '&bDaten bearbeiten'
 ca553ef9-2ccb-485d-af66-a6e1cda079a1.deathmessages.Mobs.salmon.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
@@ -1776,7 +1824,8 @@ e22f4d4c-2298-4835-8996-b2a122c6af3d.excellentcratesEditor.CrateEditorType.CRATE
 a32c1014-683f-4e9c-a93b-4620d0453357.excellentenchantmentsFitItemType.PICKAXE: Spitzhacke
 980e1353-9377-4fed-9cc5-22fb868bc6d3.deathmessages.Mobs.player.Solo.TNT.0: '%1 hat
   %2 mit tnt in die Luft gejagt'
-0f20caaf-f7d4-4af9-bd58-39ae2706034c.huskhomeslocales.error_on_cooldown:
+0f20caaf-f7d4-4af9-bd58-39ae2706034c.huskhomeslocales.error_on_cooldown: '[Error:](&&#ff3300)
+  [You must wait %1 before doing that again.](&&#ff7e5e)'
 02a91cda-e2b6-4dc3-b691-0a80cf1a19e4.excellentenchantmentsFitItemType.SHOVEL: Schaufel
 ebcb1562-1d84-483d-8562-92905d61720a.lands.messages.general.inbox.nation.general.created: '&7Nation
   %1 &7erschaffen.'
@@ -1885,7 +1934,8 @@ f05c64bc-3613-44d6-9db1-6f6bdd34b0f0.deathmessages.Mobs.ocelot.Solo.Projectile-A
 66e11832-3c33-4470-a59d-a6a351692489.PlayerParticlesrandom: Zufällig
 8f2dcadd-b81a-429f-a74d-687ec3a22ed6.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.4: '#ffed6a▪
   #bdc8c9Display Name: #ffed6a%1'
-b70efd7c-11ad-483e-852d-4d3053f40f40.huskhomeslocales.tpaccept_command_description:
+b70efd7c-11ad-483e-852d-4d3053f40f40.huskhomeslocales.tpaccept_command_description: Accept
+  a teleport request
 ef7aab58-9fec-4dce-b1ca-4e313689cd00.deathmessages.Mobs.wither.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
 1ed1d1e1-5f8c-42fe-97fa-321849d3472d.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.14: '#bbff6a▪
@@ -1959,7 +2009,8 @@ c8459899-5769-4b95-af47-adceaaaad402.cmd.settings.title.false.s39: '&bTeilchen &
 3a82c9c8-cda2-41ad-83c4-b8d0d73933fa.lands.messages.lands.command.claim.region.selection: >-
   &cDiese Auswahl kannst du nicht beanspruchen. &7Sie enthält Teile einer Region
   aus einem anderen Regionsmanagement-Plugin: %1
-74a531f8-b0b7-4677-8d5c-f9ec9c4206ba.huskhomeslocales.edit_home_update_location:
+74a531f8-b0b7-4677-8d5c-f9ec9c4206ba.huskhomeslocales.edit_home_update_location: '[Re-located
+  your home](&&#00fb9a) [%1](&&#00fb9a bold) [to your current position.](&&#00fb9a)'
 b3a26c2f-4492-4ae8-bb2e-933363a60625.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.8: '#bbff6a▪
   #bdc8c9Right-Click: #bbff6aGet Copy'
 d096d45a-97d3-487c-994e-6fc1e3f95767.deathmessages.Mobs.piglinbrute.Gang.Weapon.0: '%1
@@ -1991,7 +2042,8 @@ dd655eb8-8d7c-4ae4-a12f-33dbf03f9d47.advancedenchants.combining.failure: '&cComb
   automatisch auf &7%1 eingestellt'
 fcc6bce6-61f8-44d6-af20-71aa4cd294c0.deathmessages.Natural-Cause.Projectile-Snowball.0: '%1
   hat sich mit einem Schneeball erschossen'
-49db9ece-9616-4df7-ba2d-22f79be0944a.huskhomeslocales.teleporting_action_bar_cancelled:
+49db9ece-9616-4df7-ba2d-22f79be0944a.huskhomeslocales.teleporting_action_bar_cancelled: '[Teleportation
+  cancelled!](&&#ff7e5e)'
 fbe9bce1-3536-4e83-8db3-8d269123282e.PlayerParticlesgui-edit-primary-data-missing-effect: Du
   musst zuerst einen Effekt auswählen
 fea6845b-e40b-411d-9188-2bf4c726da88.cmd.settings.desc.s11: |2
@@ -2101,10 +2153,13 @@ c82eaf59-7f3d-4f4f-be82-b0ee60452226.excellentcratesEditor.CrateEditorType.KEY_C
 e3e74909-259c-4d07-9ec5-197a2e295dfa.lands.messages.wars.message.capture.online: >-
   #a#&cKann nicht erobern: Mindestens %1 Spieler des Landes %2 müssen online
   sein.
-b8c17011-781f-4968-a8f9-2a596e7fe28a.huskhomeslocales.edit_home_menu_coordinates:
+b8c17011-781f-4968-a8f9-2a596e7fe28a.huskhomeslocales.edit_home_menu_coordinates: '[⚐
+  x: %1, y: %2, z: %3](&&#ffc43b-&#f5c962 show_text=&&&#ffc43b&Coordinates:\n&8Location
+  of the home in the world\n&8yaw: %4, pitch: %5)\n'
 59df361f-18b9-4269-ab62-7907fddd2a15.glow.blue.unlock: "&f\n&9Information\n &8| &7Color:
   &9Blue\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
-76819ee1-0c0f-4d38-888c-d6c423042cce.huskhomeslocales.teleporting_cancelled_damage:
+76819ee1-0c0f-4d38-888c-d6c423042cce.huskhomeslocales.teleporting_cancelled_damage: '[Teleportation
+  cancelled—you took damage!](&&#ff7e5e)'
 b66c6fb3-c929-42de-be51-2bf8a53dc53c.excellentcratesCrate.Open.Error.InventorySpace.2: '#d4d9d8Räume
   die Inventarfächer auf, um die Kiste zu öffnen!'
 209d378a-2920-465f-82c6-2fcab5e8de9d.excellentenchantmentsCommand.TierBook.Error: §cUngültige
@@ -2135,7 +2190,9 @@ c3f228d2-3063-4010-92be-9cdcc9a7c650.excellentcratesEditor.CrateEditorType.KEY_C
   &8| &7[Toggle]'
 9ed5fafd-f227-4d02-ad0c-f884cdca0e4e.deathmessages.Mobs.ghast.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-b3b90b0c-4565-4fc5-961e-ba359febdd60.huskhomeslocales.tpignore_toggle_button:
+b3b90b0c-4565-4fc5-961e-ba359febdd60.huskhomeslocales.tpignore_toggle_button: '[[🔔
+  Toggle…]](&&#ffc43b show_text=&&&#ffc43b&Click to toggle:\n&7Toggle ignoring/listening
+  to incoming teleport requests run_command=/huskhomes:tpignore)'
 39692a6e-d019-42e5-bcf7-137369014ef9.deathmessages.Mobs.piglinbrute.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 294e884d-716a-4ec4-b721-dcc725974e26.bungee.restart.connect.title: '&bDer Server wird
@@ -2159,13 +2216,15 @@ f96ea6e7-b404-46ad-9b55-452edda76c1f.deathmessages.Mobs.vindicator.Gang.Projecti
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 e4e28831-7c5f-4beb-8897-200c63165154.deathmessages.Mobs.donkey.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-630c4671-8e36-4ea3-9c62-93173a8acd84.huskhomeslocales.public_home_list_item:
+630c4671-8e36-4ea3-9c62-93173a8acd84.huskhomeslocales.public_home_list_item: '[[%1]](show_text=&&&#00fb9a&%2\n&7☻
+  %3\n&7ℹ %4 run_command=/huskhomes:phome %5)'
 9c5e9e00-3b1b-448c-b9b5-7c332f2b95dd.dh.ores.5: '&fotherwise farm them! &cI need those!!'
 24df4d91-10c3-4352-98d3-4777ce53e824.deathmessages.Mobs.llama.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 0e8829b1-832a-4b42-9e95-bc149d19d8b9.lands.messages.general.inbox.economy.upkeep.paid: '&7Gezahlte
   Unterhaltskosten: %1'
-dcfd1800-17ae-4e1b-823e-5612b7a199ff.huskhomeslocales.error_invalid_teleport_request:
+dcfd1800-17ae-4e1b-823e-5612b7a199ff.huskhomeslocales.error_invalid_teleport_request: '[Error:](&&#ff3300)
+  [You do not have a pending teleport request from %1.](&&#ff7e5e)'
 6d4c051f-b755-4001-a0e7-4aa565ba62db.cmd.links.title.s29.1: '&4&lMelde mich!'
 75bf0cca-4f89-4e96-9a9a-06675b55e669.cmd.upgrade.choose.desc.s19: |-
   &bBeschreibung
@@ -2204,7 +2263,8 @@ d9998c47-7988-4f4d-a2e0-db6bcca04d7c.bungee.restart.subtitle: '&bWir verbinden d
   öffnen!
 6fa3c024-4514-453c-88c5-17f0a052e51e.deathmessages.Mobs.armorstand.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
-715a6d32-b2e2-4ac7-ae4f-f56fc62d4bba.huskhomeslocales.error_home_invalid_other:
+715a6d32-b2e2-4ac7-ae4f-f56fc62d4bba.huskhomeslocales.error_home_invalid_other: '[Error:](&&#ff3300)
+  [%1 does not have a home set named "%2"](&&#ff7e5e)'
 7f795320-81c3-4fbc-9a24-c8105b45c9f7.excellentcratesCommand.ResetCooldown.Done: >-
   #d4d9d8Setze die offene Abklingzeit von #fdf35e%1#d4d9d8 für #fdf35e%2#d4d9d8
   zurück.
@@ -2218,7 +2278,8 @@ c537f61f-6c5d-4253-a868-14f21566e0e0.lands.messages.lands.message.teleportation.
   hat sich mit %2 erschossen'
 6ce13825-a593-4604-a0fd-1ada246fed1e.tempflygeneral.time.set_other: '%1 &f%2 &7hatten
   ihre Zeit auf &f⌚%3&7 eingestellt.'
-20a652c3-1b79-42e4-aa95-9724fc1a854d.huskhomeslocales.tpignore_toggle_off:
+20a652c3-1b79-42e4-aa95-9724fc1a854d.huskhomeslocales.tpignore_toggle_off: '[Now](&&#00fb9a)
+  [listening](&&#00fb9a bold) [to incoming teleport requests.](&&#00fb9a) %1'
 1fbd7ba2-d992-46e3-b5d7-d25128d46740.cmd.settings.title.unknown.s25: |2
 
   &bBeschreibung
@@ -2228,7 +2289,8 @@ c537f61f-6c5d-4253-a868-14f21566e0e0.lands.messages.lands.message.teleportation.
   Temp Fly &f&m &b&m &3&m &r'
 0a101927-870c-4c0a-acde-4fd0bb976149.excellentcratesEditor.CrateEditorType.REWARD_CREATE.Lore.4: '#bbff6a▪
   #bdc8c9Drag & Drop: #bbff6aSchnelle Erstellung'
-15c7fac6-c04e-4f83-88e5-a2eec0a05430.huskhomeslocales.tpaall_request_sent:
+15c7fac6-c04e-4f83-88e5-a2eec0a05430.huskhomeslocales.tpaall_request_sent: '[You sent
+  a teleport request to every player asking them to teleport to you.](&&#00fb9a)'
 0ffa23ba-9c66-45b0-a15e-8553fc6b0ee4.alonsotags.Tag-not-selected: Sie haben kein Tag
   ausgewählt.
 f8a24251-e07d-4d69-9fd4-0f09a04b4ac5.cmd.settings.title.true.s21: '&bGlowing &8| &7[Aktiviert]'
@@ -2354,7 +2416,8 @@ cfa384e1-e425-4ba8-b6a3-4341f139212b.deathmessages.Mobs.creeper.Solo.Weapon.0: '
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ
 2b7e05c0-061d-4648-89e9-5cdad3bf1dc7.advancedenchants.items.randomization-scroll.single-items-only: '&cYou
   can only use this on single items!'
-33a80f31-8862-48b0-a1fe-442e46213fb4.huskhomeslocales.error_warp_description_length:
+33a80f31-8862-48b0-a1fe-442e46213fb4.huskhomeslocales.error_warp_description_length: '[Error:](&&#ff3300)
+  [Warp descriptions must be less than 255 characters in length.](&&#ff7e5e)'
 793bb8eb-2fb5-436c-b336-f71c3a303e20.rules.2-5: "§x§2§0§F§7§0§72.5 – Avoid Laying
   Machines:\n&f\n&fLag machines, farms, or buildings that cause lag on the server
   will be penalized. \n&fThe severity of the penalty depends on the extent of the
@@ -2366,7 +2429,8 @@ cfa384e1-e425-4ba8-b6a3-4341f139212b.deathmessages.Mobs.creeper.Solo.Weapon.0: '
 037ce5b0-151c-4b5c-bf93-7a655a3e8f4d.PlayerParticlesgui-edit-data-color-yellow: '#ffff00Gelb'
 cedbbb71-aaeb-493d-afc1-6c8397fafa4b.deathmessages.Basic-Mode.Gang.Projectile-Arrow.0: '%1
   wurde von einer Gruppe von %2 mit %3 erschossen'
-380997bf-4afa-4dae-a897-73f5bfde9610.huskhomeslocales.error_target_not_found:
+380997bf-4afa-4dae-a897-73f5bfde9610.huskhomeslocales.error_target_not_found: '[Error:](&&#ff3300)
+  [Could not find the target player.](&&#ff7e5e)'
 f0f160d2-c68b-46ea-97e1-d57bf2557bd9.PlayerParticlesgui-click-to-edit-particle: '&bKlick
   &8|&7 bearbeite den Effekt, den Stil oder die Daten dieses Partikels'
 338d03cb-01b6-4209-a8c8-775648c12715.excellentcratesCommand.ResetLimit.Desc: Setze
@@ -2449,7 +2513,8 @@ c35b834f-6b77-49ba-a988-22d37b2c35d7.lands.messages.help.command.lands.edit: >-
 fff05f3b-6b3c-4b3c-9ef5-f99508b2a563.lands.messages.lands.command.setowner.cooldown: >-
   &cDer Besitzer kann nur alle&4 %1&c gewechselt werden. &7Du musst noch&5 %2&7
   warten.
-66c5dc78-9d80-4d4b-99de-f19b19a419f3.huskhomeslocales.economy_action_additional_home_slot:
+66c5dc78-9d80-4d4b-99de-f19b19a419f3.huskhomeslocales.economy_action_additional_home_slot: Bought
+  an additional home slot
 9320fdeb-9244-4c4b-afbc-3d1df755aad6.deathmessages.Mobs.villager.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 35ddf3f5-af57-4f07-8c77-092e6a3a316c.lands.messages.lands.command.rent.cancel.success: >-
@@ -2525,7 +2590,8 @@ b2595b19-a406-42a8-8622-cfe87b06129f.excellentcratesCommand.Give.Done: >-
 358fdfa1-2fc3-42d5-9bac-727463b89e0f.lands.messages.general.inbox.war.end.lost: >-
   &7Wir haben den Krieg gegen den Feind %1 &7mit&3 %2 &7Punkten verloren. &7Sie
   hatten&3 %3 &7Punkte. Der Krieg dauerte &5%4&7.
-10e1b9ae-bdbc-4f1f-97db-5bb6204e92ce.huskhomeslocales.tpignore_toggle_on:
+10e1b9ae-bdbc-4f1f-97db-5bb6204e92ce.huskhomeslocales.tpignore_toggle_on: '[Now](&&#00fb9a)
+  [ignoring](&&#00fb9a bold) [incoming teleport requests.](&&#00fb9a) %1'
 839aa4ec-276c-45f4-8817-0018d098b22d.PlayerParticlescommand-description-version: Anzeige
   der Plugin-Version und des Autors
 333e0545-0bdb-4a5e-865e-8cd21827eded.lands.messages.lands.message.teleportation.started: >-
@@ -2540,7 +2606,8 @@ a50a864c-fd0f-4968-833d-60bce1191cf8.PlayerParticlesgui-load-a-preset-group: '&b
 bfab28ff-df76-4af3-a7e6-f3d5d9f70097.glow.green.lock: "&f\n&aInformation\n &8| &7Color:
   &aGreen\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ ᴛᴏ
   ᴜɴʟᴏᴄᴋ"
-dabf3011-47ac-4f10-a087-af31b95929eb.huskhomeslocales.error_home_name_taken:
+dabf3011-47ac-4f10-a087-af31b95929eb.huskhomeslocales.error_home_name_taken: '[Error:](&&#ff3300)
+  [You already have a home set with that name.](&&#ff7e5e)'
 0440e1dc-5d9c-439a-9b57-01f1a9f6982e.gsitPlugin.plugin-version: >-
   [P]&7 Dieses Plugin kann nicht mit dieser Serverversion verwendet werden!
   &f%Version%&7!
@@ -2553,7 +2620,8 @@ fe25f623-2de0-40b4-a9ee-fb329c62b519.deathmessages.Mobs.evoker.Gang.Melee.0: '%1
   von einer Bande von %2 erschlagen'
 bd8e6cc9-cc64-41b1-9ffe-d2f0af3eb6e1.advancedenchants.commands.gedit.reset.success: '&6%1
   &6gkit has been reset for player &e%2'
-134bb0c2-0135-4614-86f1-22d0d03da391.huskhomeslocales.phome_command_description:
+134bb0c2-0135-4614-86f1-22d0d03da391.huskhomeslocales.phome_command_description: Teleport
+  to a public home
 0eaff7e4-1d17-453f-a3d7-1e422760b9a9.lands.messages.general.affiliation.nation: '&8[&9%1
   &8|&2 %2&8]'
 e376e5bc-3334-4a1e-95bf-fea05569b5df.lands.messages.lands.command.untrust.owner: >-
@@ -2583,7 +2651,11 @@ ea8a2dbd-9cd4-41ea-8289-86c554129690.advancedenchants.commands.main.zip.zip-exis
   Abklingzeit'
 c2bdb22e-38d5-47b5-8bba-9cd4cee8ce60.deathmessages.Mobs.warden.Solo.Sonic-Boom.0: '%1
   wurde durch einen schallgeladenen Schrei ausgelöscht'
-c2432b0d-1081-4adf-92aa-7db19169322c.huskhomeslocales.delete_player_confirm:
+c2432b0d-1081-4adf-92aa-7db19169322c.huskhomeslocales.delete_player_confirm: "[Warning:](&&#ff3300)
+  [Are you sure you want to delete all of %1's data?](&&#ff7e5e)\\n[All associated
+  homes will also be deleted. This action is irreversible.](gray)\\n[→](gray) [[Confirm]](&&#ff3300
+  show_text=&&&#ff3300&Click to confirm deletion. This cannot be undone. run_command=/huskhomes:huskhomes
+  delete player %2 confirm)"
 e682d177-bfce-47a1-858e-0c9f2b8e3048.deathmessages.Mobs.villager.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 bd0d47b3-e030-4db2-904f-504501434a0c.excellentcratesCommand.ResetLimit.Done.Reward: >-
@@ -2811,7 +2883,9 @@ e0517293-1889-4a30-8a0b-418d2f9807cd.lands.messages.help.command.lands.admin.dis
   &8[KLICK][H]&7Klick hier, um Anspruch zu erheben.[/H][C]%4[/C][/T]
 4c3017ab-e9e9-4df5-8055-525b13ebfb59.deathmessages.Mobs.spider.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-e60fa87f-492e-4891-8955-cedad4d73e99.huskhomeslocales.edit_home_menu_metadata:
+e60fa87f-492e-4891-8955-cedad4d73e99.huskhomeslocales.edit_home_menu_metadata: '[⌚
+  %1](&#999999-&#ababab show_text=&7Set Timestamp:\n&8When the warp was set)   [⚡
+  %2](&#ababab-&#c7c7c7 show_text=&7Warp ID:\n&8%3)'
 823d5002-4a2f-4796-af72-a50eb2cea056.lands.messages.lands.command.general.land-not-trusted: >-
   &cPlayer&4 %1 &7ist nicht Teil des Landes&4 %2&c. Du musst ihm erst vertrauen,
   indem du &e/lands trust&7 benutzt.
@@ -2927,7 +3001,8 @@ fdc0db4f-92c6-4513-991f-d645bb40b4b0.cmd.settings.title.unknown.s39: '&bTeilchen
   auf besondere Weise gestorben'
 a2250c17-e2f4-47ee-989b-08a0d8963e14.deathmessages.Mobs.parrot.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
-62d0bd7a-ed22-46c8-a048-bb1925a9b05c.huskhomeslocales.huskhomes_command_description:
+62d0bd7a-ed22-46c8-a048-bb1925a9b05c.huskhomeslocales.huskhomes_command_description: View
+  plugin information & reload configs
 7582f4c9-b332-491f-a644-f01ea31fdf5c.PlayerParticlesfixed-list-none: '&7Sie haben
   keine festen Effekte!'
 74483ba8-c4f4-453e-8b53-e37eef8fc69f.advancedenchants.commands.invalid-level: '&cInvalid
@@ -2935,7 +3010,7 @@ a2250c17-e2f4-47ee-989b-08a0d8963e14.deathmessages.Mobs.parrot.Gang.Melee.0: '%1
 c2007d0d-8614-4ec1-919d-f5092b9f1ae9.lands.messages.nations.command.rename.success: >-
   &7Erfolgreich den neuen Namen&3 %1 &7für diese Nation gesetzt &8(&7Nation:&9
   %2&8)&7. Du hast bezahlt&c %3&7.
-60789e5a-927d-4535-9955-671881c241f7.huskhomeslocales.home_is_private:
+60789e5a-927d-4535-9955-671881c241f7.huskhomeslocales.home_is_private: '&&#239e6f&Private'
 da94482c-90c2-432b-a0b5-65df00e8ef71.lands.messages.list.sign.top.entry.1: '&7von
   %1'
 dae4458e-13bf-48b0-b056-7cffd9854a28.PlayerParticlesremove-effect-success: '&7Entferne
@@ -3094,7 +3169,9 @@ d8e265d8-38ac-4783-b892-98fc9ed6b8a0.deathmessages.Mobs.hoglin.Solo.Melee.0: '%1
   von einem %2 erschlagen'
 3148ac94-f01b-49a1-ad09-02ed3cd9beae.deathmessages.Mobs.enderman.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
-2445f318-8311-4062-aa36-0e1aebb05ea2.huskhomeslocales.tpahere_request_sent:
+2445f318-8311-4062-aa36-0e1aebb05ea2.huskhomeslocales.tpahere_request_sent: '[You
+  sent a teleport request asking](&&#00fb9a) [%1](&&#00fb9a bold) [to teleport to
+  you.](&&#00fb9a)'
 431d585b-1b6e-4802-a8fb-5fb21102ec80.lands.messages.lands.command.admin.land.addrole.confirm: >
   &cDas Ausführen dieses Befehls kann dazu führen, dass Länder die gleiche Rolle
   mehrfach haben. &7Zum Beispiel neu erstellte Länder, die diese Rolle bereits
@@ -3102,7 +3179,8 @@ d8e265d8-38ac-4783-b892-98fc9ed6b8a0.deathmessages.Mobs.hoglin.Solo.Melee.0: '%1
   für dieselbe Rolle kann zu Rollenduplikaten in den betroffenen Ländern führen.
   &7Bitte bestätige diese Aktion:
    [T]&2✔ Bestätige: &e/%1 &8[KLICK][H]&7Klicke hier, um diese Aktion zu bestätigen.[/H][C]%2[/C][/T]
-cdc13982-3551-4c77-875d-ea5b2c79a8e9.huskhomeslocales.editwarp_command_description:
+cdc13982-3551-4c77-875d-ea5b2c79a8e9.huskhomeslocales.editwarp_command_description: Edit
+  a warp
 b6ebc234-e852-420f-b517-8dc02ae20c9a.lands.messages.general.wars.nametag.ally: '&aALLY
   &8| '
 06b3bdd4-2370-43ec-9e14-972be279ea25.deathmessages.Mobs.ravager.Solo.Projectile-Arrow.0: '%1
@@ -3160,7 +3238,8 @@ a2e28288-595d-416b-aa1a-ea4316e3af0b.cmd.links.title.s24: §x§a§3§c§8§3§4S
 69eb22a8-cd50-4b62-8cdf-a52bef04509d.lands.messages.help.command.lands.admin.land.setflag: >-
   [T]&e%1 %2 %3 &8- &7Flaggenstatus setzen[H]&7Klick zum
   Kopieren.[/H][SC]%4[/SC][/T]
-0fe1fd5d-e1f3-45b0-b9b1-bbb81146ea70.huskhomeslocales.teleporting_action_bar_warmup:
+0fe1fd5d-e1f3-45b0-b9b1-bbb81146ea70.huskhomeslocales.teleporting_action_bar_warmup: '[Teleporting
+  in](&&#00fb9a) [%1](&&#00fb9a bold)[…](&&#00fb9a)'
 8cfe49f2-4aaa-48c6-9c16-78f55d29fc13.deathmessages.Mobs.wolf.Solo.Weapon.0: '%1 wurde
   von einem %2 irgendwie mit %3 erschlagen'
 136ac6db-940c-4b05-a296-24b67f97747e.advancedenchants.commands.apply.reapplied: '&aYour
@@ -3219,7 +3298,8 @@ bc4ff637-5a7c-4618-9648-f8dd1a3efbf5.deathmessages.Mobs.mushroomcow.Gang.Melee.0
   wurde von einem %2 erschlagen'
 fdfcadbb-7804-43cb-ac13-6f5e56f926c7.PlayerParticlesgui-disabled: '&6Der Serveradministrator
   hat die GUI deaktiviert!'
-c348ffbb-1248-414c-a17e-159f3fc8003c.huskhomeslocales.error_player_not_found:
+c348ffbb-1248-414c-a17e-159f3fc8003c.huskhomeslocales.error_player_not_found: '[Error:](&&#ff3300)
+  [Could not find the player %1.](&&#ff7e5e)'
 4e87b319-757d-4503-8ea3-223acb03f296.lands.messages.help.command.lands.view.disable: >-
   [T]&e%1 %2 &8- &7Visualisierung deaktivieren[H]&7Deaktiviere die aktuelle
   &e/Landesansicht &7Visualisierung. Klicke zum Ausführen.[/H][C]%3[/C][/T]
@@ -3311,7 +3391,8 @@ b1a65e31-09d0-498b-9394-3cf10168fb5f.PlayerParticlesdata-invalid-note: >-
   <0-24>|<&brainbow>|<random>
 a809d6ed-576a-4fac-9e37-eb1ab14880dc.deathmessages.Mobs.slime.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-a0ae4a19-761f-409e-8ac2-19d64d19e720.huskhomeslocales.edit_home_privacy_public_success:
+a0ae4a19-761f-409e-8ac2-19d64d19e720.huskhomeslocales.edit_home_privacy_public_success: '[Successfully
+  made your home,](&&#00fb9a) [%1](&&#00fb9a bold)[, open to the public.](&&#00fb9a)'
 fe62e35e-2b4e-4a8e-9738-06f38e63a334.playerpoints.command-me-success: '&7Du hast &b&l%1&b%2&7.'
 f4a041dd-455d-4778-91fa-17f75ba866c1.deathmessages.Mobs.ravager.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
@@ -3348,7 +3429,8 @@ c5714db3-e5c2-45b4-a90d-09fe3a1753d3.PlayerParticlesdata-usage-none: '&7Der Effe
   %1 haben ihren Schneeanzug nicht angezogen, bevor sie zum Spielen gegangen
   sind.
 7cf4131a-2398-4bc1-a637-06c907a69929.lands.messages.general.affiliation.land: '&8[&2%1&8]'
-c2d6bdaf-98c8-4662-95dc-93e725efa80d.huskhomeslocales.setwarp_command_description:
+c2d6bdaf-98c8-4662-95dc-93e725efa80d.huskhomeslocales.setwarp_command_description: Set
+  a new warp with given name
 5310f1ed-b5cd-472b-8dc4-d79ee2e183c6.cmd.upgrade.choose.title.s22: '&b&lHome &7Upgrades'
 adc93d6c-0942-492d-94a0-e9d9751a645f.deathmessages.Mobs.turtle.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
@@ -3372,7 +3454,8 @@ d9b5c7c5-80d1-47a7-a97b-ae5a91845977.PlayerParticlesgui-select-effect: '&bAuswah
 0834e4fd-5c44-4714-a8de-33572ca7a027.lands.messages.lands.command.spawn.war: >-
   &cDu kannst dich derzeit nicht zum Spawn von Land&4 %1&c teleportieren. &7Sie
   befinden sich derzeit in einem Krieg, der in&5 %2&7 enden wird.
-5b8ccade-1095-4904-846e-cae27ed4ebfc.huskhomeslocales.tpahere_command_description:
+5b8ccade-1095-4904-846e-cae27ed4ebfc.huskhomeslocales.tpahere_command_description: Request
+  another player to teleport to you
 d346d92c-5ab0-47cf-9ec5-a4513c37be42.ia.trash.2: §x§2§0§F§7§0§7[/trash] &fhelps you
   free up space and organize your inventory.
 b8cdf0d1-65bf-4cbb-83d9-4f20fa5e1ab5.deathmessages.Mobs.tropicalfish.Solo.Projectile-Arrow.0: '%1
@@ -3382,7 +3465,8 @@ e3a0a800-d42d-41dc-9764-196ad7d242b8.lands.messages.wars.command.declare.mutual.
   müssen sie nun annehmen oder ablehnen, bevor der Krieg beginnen kann. &7Wenn
   die Verteidiger während des Krieges kapitulieren, müssen sie&c %3 &7an die
   Angreifer zahlen.
-bcd3e731-49f2-4387-9fca-37ed8ad4360d.huskhomeslocales.edit_home_privacy_public_success_other:
+bcd3e731-49f2-4387-9fca-37ed8ad4360d.huskhomeslocales.edit_home_privacy_public_success_other: "[Successfully
+  made %1's home,](&&#00fb9a) [%2](&&#00fb9a bold)[, open to the public.](&&#00fb9a)"
 21dd72fc-cf56-40d1-9b52-c872805d9536.lands.messages.lands.command.chat.none: >-
   &cKein Land für den Land-Chat gefunden.&7Verwendet [T]&e/lands chat toggle
   &8[&8CLICK&8][H]&7Klicke hier, um den Chat-Modus zu deaktivieren.[/H][C]lands
@@ -3406,7 +3490,8 @@ da81febc-d07f-4f1b-ac3d-ea22021068c4.cmd.purchase.choose.title.s22: '&b&lPunkte 
 711cff34-2185-45b7-8240-75e5a9fc1f74.lands.messages.general.command.argument.type.flag: Flagge
 8302dcec-13fc-4693-8038-c56256a5161d.mpdb.importingDataComplete: '&eDaten-Import abgeschlossen!'
 64ad26ae-8d42-4a83-94d9-87783ea1ebbd.tempflycommand.base.reload.0: neu laden
-20dde544-42e9-4d4a-a8db-a5ab335b89a4.huskhomeslocales.list_footer:
+20dde544-42e9-4d4a-a8db-a5ab335b89a4.huskhomeslocales.list_footer: \n%1[Page](&&#00fb9a)
+  [%2](&&#00fb9a)/[%3](&&#00fb9a)%4   %5
 8e7d87cc-563e-4ce1-8a12-b568ab32b28f.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.1: '#bdc8c9
   um diese Kiste wieder zu öffnen.'
 0e675cd7-bed7-4e6a-b939-c5947b494b50.tempflyaesthetic.trail.removed_self: '%1 &a7Deine
@@ -3415,8 +3500,10 @@ c2edf57f-b98c-41ee-b82c-0a7afc43469f.excellentcratesEditor.CrateEditorType.CRATE
 2692926c-79c9-448f-a705-f52d9fcb01df.lands.messages.lands.command.claim.fill.none: >-
   &Couldn't find shape. &7Bitte vergewissere dich, dass du in einer
   unbeanspruchten Region stehst, die von deinem Anspruch überlagert wird.
-07ea51bc-b9c5-4fcb-989c-dc3f758d984a.huskhomeslocales.warplist_command_description:
-07ddd6e6-59c8-438d-8d26-97ef28a7e302.huskhomeslocales.delete_player_success:
+07ea51bc-b9c5-4fcb-989c-dc3f758d984a.huskhomeslocales.warplist_command_description: View
+  the list of warps
+07ddd6e6-59c8-438d-8d26-97ef28a7e302.huskhomeslocales.delete_player_success: '[Successfully
+  deleted all player data for](&&#00fb9a) [%1](&&#00fb9a bold)[, including %2 home(s).](&&#00fb9a)'
 348fb7aa-e61b-4d50-a1e7-0e325c89d807.uar.EVENT_RESTART_DELAY_STAFF.title: NEUSTART
   VERZÖGERUNG
 41f2dbf6-5f2a-4a1a-9d25-e1ffc3fcf721.lands.messages.lands.command.taxes.changes.entry: '[NoPrefix]&8-
@@ -3441,7 +3528,8 @@ a956c80f-c978-4c3d-80d0-713548ec9c02.PlayerParticlesgroup-preset-no-permission: 
   mit Feuerwerkskörpern zu spielen sei eine gute Idee'
 39013dd8-364b-4d3f-ae43-3735f3993f9b.advancedenchants.commands.main.givebook.success: '&aGave
   &2%1 %2x %3 %4 &abooks!'
-fcfe1fb6-ced5-4057-8577-a59ebeffb9f5.huskhomeslocales.error_set_home_not_enough_slots:
+fcfe1fb6-ced5-4057-8577-a59ebeffb9f5.huskhomeslocales.error_set_home_not_enough_slots: '[Error:](&&#ff3300)
+  [You have used all %1 of your free home slots!](&&#ff7e5e)'
 2ffa36df-5abf-44ae-afcf-711bcdc10f57.deathmessages.Mobs.ravager.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 c1801390-e85f-442e-8b1e-ba87059ed536.cmd.upgrade.choose.desc.s22: |-
@@ -3464,7 +3552,8 @@ d9d61b0f-5d21-4de6-8236-2e3ba3d9525d.deathmessages.Mobs.spider.Gang.Melee.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 fcb69ba4-fd50-4896-854c-6cd69bd2229f.alonsotags.Tag-cleared: Du hast deinen aktuellen
   Tag gelöscht.
-048714e5-985f-4e60-8690-f9c08a9704ca.huskhomeslocales.warp_command_description:
+048714e5-985f-4e60-8690-f9c08a9704ca.huskhomeslocales.warp_command_description: Teleport
+  to a warp
 227aca40-aae7-4be0-b1c3-f13fbfc5ccfb.lands.messages.help.command.lands.upkeep: >-
   [T]&e%1 %2 &8- &7Anstehende Unterhaltszahlungen anzeigen.[H]&7Klick zur
   Ausführung.[/H][C]%3[/C][/T]
@@ -3521,7 +3610,8 @@ d15613fc-ddb5-4888-8454-9f8706232b47.deathmessages.Mobs.player.Solo.Melee.0: '%1
 f75069bc-9686-45f6-a166-0ec4d8d0879a.lands.messages.lands.command.accept.area.broadcast: >-
   &2%1 &8| &7Spieler&3 %2 &7ist jetzt ein Mitglied des Gebiets&6 %3 &7in unserem
   Land.
-be586ea2-b5ad-4506-9060-f942c9d0c5a8.huskhomeslocales.edit_warp_menu_world:
+be586ea2-b5ad-4506-9060-f942c9d0c5a8.huskhomeslocales.edit_warp_menu_world: '[⭘ %1](&#3b76ff-&#5286ff
+  show_text=&&#3b76ff&World:\n&8The world where the warp is set)'
 47249a17-53b6-4dac-a5cb-6704eddfbebc.lands.messages.help.command.lands.invites: >-
   [T]&e%1 %2 &8- &7Eingeladene anzeigen[H]&7Klick zum
   Ausführen.[/H][C]%3[/C][/T]
@@ -3570,7 +3660,8 @@ af3f5467-37c8-4397-a1c2-7f89e9fe788f.deathmessages.Mobs.pufferfish.Gang.Projecti
   &7&lRückbuchungen von Einkäufen im Laden sind verboten
   &7und führen zu einer sofortigen Sperre für immer von unserem
   &7Server.
-fe3f3291-4c7c-4b5e-b630-e94d3d0113fd.huskhomeslocales.delhome_command_description:
+fe3f3291-4c7c-4b5e-b630-e94d3d0113fd.huskhomeslocales.delhome_command_description: Delete
+  a home you previously set
 95b23d38-fc85-463b-9166-742b91cc699a.advancedenchants.commands.gedit.setdelay.invalid-usage: '&cUsage:
   /gedit setdelay <gkit> <delay (in seconds)>'
 d26ce2e5-4fc6-4154-be1f-b38e6294e81b.tab.ani.2.1: '&fʙᴇᴛʀᴇᴛᴇ ᴜɴsᴇʀᴇɴ ᴏғғɪᴢɪᴇʟʟᴇɴ ᴅɪsᴄᴏʀᴅ
@@ -3612,7 +3703,8 @@ fd754b0d-45c2-430f-abc8-830bc0e20170.deathmessages.Mobs.player.Solo.Fall.0: '%1 
   durch %2 von einem hohen Platz gestoßen'
 b3a34a5f-aded-41be-82fc-107124751a59.excellentcratesEditor.Reward.Enter.Rarity: '#d4d9d8Eintrag
   #aefd5e[Rarität]'
-b8ef58cc-1aad-4a47-a404-19125eb57754.huskhomeslocales.spawn_warp_default_description:
+b8ef58cc-1aad-4a47-a404-19125eb57754.huskhomeslocales.spawn_warp_default_description: The
+  /spawn position of the server
 c43564b7-3728-422a-a761-e132b059eef9.advancedenchants.applying.not-applicable-with: '&cThe
   &4%1 &cenchantment cannot be applied together with the &4%2&7 &cenchant!'
 5b76be6e-33bd-4587-8c1a-38558d193343.cmd.rules.global.2-2: |-
@@ -3629,7 +3721,8 @@ f37d349c-8cca-4cb7-8a5e-bca99ff66fc6.deathmessages.Mobs.zombiehorse.Gang.Project
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 6a966265-2fa9-48e9-bba1-5b0fe712e740.deathmessages.Mobs.fox.Solo.Weapon.0: '%1 wurde
   von einem %2 irgendwie mit %3 erschlagen'
-b26c3c24-907e-4fd5-944e-9cc3250d94a8.huskhomeslocales.edithome_command_description:
+b26c3c24-907e-4fd5-944e-9cc3250d94a8.huskhomeslocales.edithome_command_description: Edit
+  one of your homes
 fd2405ee-8e53-4e61-9cff-23c996c6286d.lands.messages.help.command.nations.menu: '[T]&e%1
   %2 %3 &8- &7Menu[H]&7Klick zur Ausführung.[/H][C]%4[/C][/T]'
 515b66ea-af62-482d-b354-1c772216adbd.lands.messages.general.map.info.yours: ' &a▉
@@ -3648,7 +3741,10 @@ d95236a6-f53d-49e8-81c2-2f6c4cf8a801.cmd.rules.accepted: Danke fürs Akzeptieren
 7487c3fd-6bc3-4bc0-a348-5d30c4d7804c.dh.discord.4: '&fJoin our &bDiscord &ffor'
 bff09532-7a33-4f27-8b7d-118e122f5e6e.tempflygeneral.unit.minutes: m
 dc463ab2-5111-4169-87a8-e1dab38fc5f3.tempflysystem.prefix: '&b&lᴛᴇᴍᴘᴏ ғʟʏ &8&l┃'
-5b0224f6-5bcf-44a8-b519-60175725b6c9.huskhomeslocales.delete_all_warps_confirm:
+5b0224f6-5bcf-44a8-b519-60175725b6c9.huskhomeslocales.delete_all_warps_confirm: '[Warning:](&&#ff3300)
+  [Are you sure you want to delete every warp?](&&#ff7e5e)\n[Once you confirm, it
+  will not be possible to recover them.](gray)\n[→](gray) [[Confirm]](&&#ff3300 show_text=&&&#ff3300&Click
+  to confirm deletion. This cannot be undone. run_command=/delwarp all confirm)'
 3a6f6642-0db9-40a0-971c-efcdc7a59ecb.lands.messages.general.wars.state.preparation: '&aVorbereitung'
 83513f26-2953-4091-8fd1-72f216e054a1.lands.messages.lands.command.taxes.changes.header: |
   [NoPrefix]
@@ -3709,7 +3805,8 @@ cbb6183a-517c-4174-8f38-baf97bbec75c.deathmessages.Mobs.cat.Solo.Weapon.0: '%1 w
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 c1db505d-9a13-49e0-8853-873e5d06b905.cmd.main.title.s25: '&b&lWarps'
 72cb42a7-7e20-4d21-a4bd-ce3e90462f72.menu.bank.interest.title: '&bDein nächstes Interesse'
-5d606e28-f734-4125-a11e-dc6486eff5b1.huskhomeslocales.error_home_name_characters:
+5d606e28-f734-4125-a11e-dc6486eff5b1.huskhomeslocales.error_home_name_characters: '[Error:](&&#ff3300)
+  [Home names must be alphanumeric (A-Z, 0-9, -_)](&&#ff7e5e)'
 9ba2e3a3-f969-4f91-99d7-449921942abf.lands.messages.lands.command.rent.set.land: >-
   &cDu kannst nicht das ganze Land&4 %1 &czur Pacht einstellen. &7Du kannst
   entweder Teilflächen erstellen, um sie zur Pacht einzustellen, oder du
@@ -3765,7 +3862,7 @@ be104740-e9ac-40dc-9390-681a62ffcb4f.advancedenchants.commands.main.unenchant.do
   item doesn't have &4%1&c!"
 a05ba50f-91a7-464c-af38-2903d94a07d6.lands.messages.wars.message.capture.destroy.invader: '#t#&Capture
   Point[newline]&cin feindlichem Land %1 wurde zerstört'
-b275a364-330a-4d7b-a7ec-ca529336ef82.huskhomeslocales.list_page_jumper_group_separator:
+b275a364-330a-4d7b-a7ec-ca529336ef82.huskhomeslocales.list_page_jumper_group_separator: …
 64c2167b-2422-465d-8b86-944714ffc0d0.tempflygeneral.invalid.player: '%1 &7Der Spieler
   &f%2 &7wurde nicht gefunden...'
 5fec06ee-e542-4e53-9e8f-0648be81955e.lands.messages.lands.command.general.no-edit-land: >-
@@ -3849,7 +3946,10 @@ ffd3e67b-5234-47b1-a053-053be1d3f993.PlayerParticlescommand-descriptions-help-1:
   #bdc8c9Shift-Right: #bbff6aRückwärts bewegen'
 4090ff39-374a-4232-906a-85cf6537e8b3.deathmessages.Mobs.turtle.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-ff490d5d-1688-48e4-a83d-909649d3d693.huskhomeslocales.edit_home_menu_world_server:
+ff490d5d-1688-48e4-a83d-909649d3d693.huskhomeslocales.edit_home_menu_world_server: '[⭘
+  %1](&#3b76ff-&#477fff show_text=&&#3b76ff&World:\n&8The world where the home is
+  set)   [☁ %2](&#477fff-&#5286ff show_text=&&#3b76ff&Server:\n&8The server where
+  the home is set)'
 923c42d6-3d02-437e-8c18-770b01fc1ce8.tempflygeneral.time.first_join: '%1 &7Du hast
   &f⌚%2 &7Flugzeit erhalten. Fliege mit &b/temporarilyfly&7.'
 cdf559c0-4661-4d83-9c12-871c877a996e.excellentenchantmentsCommand.List.Desc: Liste
@@ -3895,7 +3995,8 @@ bb7d5fdd-85ef-45fd-8d04-8be076ae95d4.tempflygeneral.info.days: '&fTage: &b⌚%1'
 ae0129f9-b16c-47df-8744-ccbeef55ffc8.deathmessages.Mobs.vex.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
 36a17ccd-2e01-4ffb-a5b3-62ce5497b83e.cmd.ref.20.title: '&bRänge'
-86685015-92cc-450b-9101-6f8c8d772f0c.huskhomeslocales.set_warp_success:
+86685015-92cc-450b-9101-6f8c8d772f0c.huskhomeslocales.set_warp_success: '[Successfully
+  set a new warp called](&&#00fb9a) [%1](&&#00fb9a bold)'
 f7fbf7fe-76a8-4888-89be-3197f2a0cbb5.mpdb.armorSyncBackup: >-
   &6[!] &eDie lokale Rüstung wurde wiederhergestellt! &cLassen Sie keine
   Gegenstände in Ihrem Inventar, wenn Sie die Verbindung trennen!
@@ -4020,7 +4121,10 @@ fedef5d7-113b-4bcf-b7cd-61898b7a32ca.deathmessages.Mobs.llama.Gang.Melee.0: '%1 
   von einer Bande von %2 erschlagen'
 2dcbc9a2-529d-40c9-a770-92f180f13066.deathmessages.Mobs.player.Solo.Void.0: '%1 wurde
   von %2 ins Leere geschoben'
-3b211fc2-7fff-46f7-b337-86257385b39a.huskhomeslocales.error_no_importers_available:
+3b211fc2-7fff-46f7-b337-86257385b39a.huskhomeslocales.error_no_importers_available: '[Error:](&&#ff3300)
+  [No importers are currently available. Please check the](&&#ff7e5e) [plugin docs](&&#ff7e5e
+  italic show_text=&&&#ff7e5e&Click to open link open_url=https://william278.net/docs/huskhomes/importing-data)
+  [for more details.](&&#ff7e5e)'
 aef0761a-6fdf-47f8-b69a-fbd2c384726c.cmd.main.desc.s36: |-
   &bBeschreibung
    &b| &7Öffne das Menü, um
@@ -4029,7 +4133,8 @@ aef0761a-6fdf-47f8-b69a-fbd2c384726c.cmd.main.desc.s36: |-
 67f962b8-b451-4675-bfde-27bbca3467d4.cmd.settings.title.s13: '&bChat &8| &7[Toggle]'
 84322162-8aa5-4f0b-af47-88a571e55004.uar.EVENT_RESTART_DELAY_GLOBAL.subtitle: Der
   Neustart hat sich verzögert um
-8c3a0dd0-101e-4dcc-9e68-d6fb7f24fdce.huskhomeslocales.error_no_teleport_requests:
+8c3a0dd0-101e-4dcc-9e68-d6fb7f24fdce.huskhomeslocales.error_no_teleport_requests: '[Error:](&&#ff3300)
+  [You do not have a pending teleport request.](&&#ff7e5e)'
 731969a0-9ab5-455f-ab4f-bf81433b7c59.deathmessages.Mobs.zombie.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 3b65338a-225f-4a80-a14b-af29c494d985.deathmessages.Mobs.player.Solo.End-Crystal.0: '%1
@@ -4100,11 +4205,16 @@ d516e0e4-0141-460e-830e-c846d0c200b9.deathmessages.Mobs.enderdragon.Gang.Project
   Keys'
 793b2453-0454-41b6-9f9f-856755740a94.deathmessages.Mobs.squid.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-4c5a251b-f20d-45b9-8203-268857a16a59.huskhomeslocales.error_insufficient_funds:
+4c5a251b-f20d-45b9-8203-268857a16a59.huskhomeslocales.error_insufficient_funds: '[Error:](&&#ff3300)
+  [You do not have enough money. (Cost: %1)](&&#ff7e5e)'
 8a7831ea-6604-4f8f-90f6-05ef9a556664.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.3: '#ffed6a&lAktuell:'
 d95f0b0a-3a55-4799-a270-b8a5f329a997.advancedenchants.alchemist.doesnt-accept: "&cThe
   Alchemist doesn't accept this item!"
-02197e86-a54d-48c0-ab17-386f8893823f.huskhomeslocales.edit_home_menu_manage_buttons:
+02197e86-a54d-48c0-ab17-386f8893823f.huskhomeslocales.edit_home_menu_manage_buttons: '[Manage:](gray)
+  [[❌ Delete…]](&&#ff3300 show_text=&7Click to delete this home\n&&&#ff3300&⚠ This
+  cannot be undone! suggest_command=/huskhomes:delhome %1)   [[⚐ Relocate…]](&&#ffc43b-&#f5c962
+  show_text=&7Click to relocate this home to your position run_command=/huskhomes:edithome
+  %2 relocate)   %3'
 bb1e933d-6d51-432e-ba62-ca1688d67c1d.PlayerParticlescommand-description-group: Verwalte
   deine Gruppen
 d3e4bfca-b442-4419-b406-b43a51610618.glow.darkred.unlock: "&f\n&4Information\n &8|
@@ -4156,7 +4266,10 @@ ac4a0819-782e-4192-aeeb-8c7057a7f10c.tempflycommand.base.trail_remove.0: remove_
   speichern.
 0906b0b2-e9d4-41bc-8baa-4fa82ba4ea52.deathmessages.Mobs.witch.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-a393eeef-1629-455a-ae42-7a5149d72530.huskhomeslocales.edit_warp_menu_world_server:
+a393eeef-1629-455a-ae42-7a5149d72530.huskhomeslocales.edit_warp_menu_world_server: '[⭘
+  %1](&#3b76ff-&#477fff show_text=&&#3b76ff&World:\n&8The world where the warp is
+  set)   [☁ %2](&#477fff-&#5286ff show_text=&&#3b76ff&Server:\n&8The server where
+  the warp is set)'
 5cedf9d5-a126-44e1-8d59-31c6061bc264.deathmessages.Mobs.illusioner.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 230f9336-2a17-4195-bc96-26173ea35b9c.cmd.main.title.chapter3: '&6Kapitel 3'
@@ -4209,7 +4322,8 @@ ca67daff-26ba-4890-ba96-d5b9f172ee3a.cmd.settings.desc.false.s39: |2-
   oder gekauft von&4 %2&c. [T]&7Um den Pächter zu entfernen, führe &e/%3
   &8[KLICK] &7aus, während du in diesem Gebiet stehst.[H]&7Klicke hier, um den
   Pächter zu entfernen.[/H][C]%4[/C][/T]
-833f28dd-cbca-4536-9e31-3a69be8fd8ba.huskhomeslocales.sethome_command_description:
+833f28dd-cbca-4536-9e31-3a69be8fd8ba.huskhomeslocales.sethome_command_description: Set
+  a new home with given name
 d07bc611-2132-47ac-9fd5-471c719a18dd.rules.2-10: "§x§2§0§F§7§0§72.10 – No Scams:\n
   &f\n&fNo scams involving virtual goods or in-game currencies. \n&fThis includes
   barter fraud, griefing and other forms of fraud.\n§x§2§0§F§7§0§7Play fairly and
@@ -4289,7 +4403,10 @@ cbcf45b6-8a43-48f5-9fa9-0fc8c10db5dc.excellentcratesCommand.Open.Done: '#d4d9d8Z
 ad9bcf38-4eee-4618-9326-586e7c593352.lands.messages.general.inbox.relation.ally.offer: '&7%1
   &7wollt mit uns verbündet sein.'
 0d864c1d-c14c-4d1c-bdbe-de5777a66393.ia.7.1: 'Willkommen auf [lang]prefix[/lang]'
-2fe49e4b-a6cb-4b4b-a003-e7cf8920eeef.huskhomeslocales.error_invalid_importer:
+2fe49e4b-a6cb-4b4b-a003-e7cf8920eeef.huskhomeslocales.error_invalid_importer: '[Error:](&&#ff3300)
+  [Invalid importer. Please check the](&&#ff7e5e) [plugin docs](&&#ff7e5e italic show_text=&&&#ff7e5e&Click
+  to open link open_url=https://william278.net/docs/huskhomes/importing-data) [for
+  more details.](&&#ff7e5e)'
 fb1adee6-4ebf-4f96-8ac9-46b10fbe691d.lands.messages.general.map.hover.yours: >-
   &7Dieses Land ist dein Eigentum. Klicke, um Informationen über Land&3 %1&7
   anzuzeigen.
@@ -4530,7 +4647,8 @@ b80f4f23-1345-4693-bc11-4ca3a48419ed.gsitMessages.command-gsit-toggle-on: >-
   ist während des Kampfes gegen %2 in einer Wand erstickt'
 ef5911de-8ffa-4dd9-b0d0-c5cdc669abe9.PlayerParticlesgui-previous-page-button: '&b&l←
   &bZurück'
-d6f51769-6dfd-48b0-93fe-2f136adce96a.huskhomeslocales.delwarp_command_description:
+d6f51769-6dfd-48b0-93fe-2f136adce96a.huskhomeslocales.delwarp_command_description: Delete
+  a warp
 52a819f0-debe-4da5-8d1a-d97594a48063.excellentcratesEditor.CrateEditorType.KEY_CREATE.Name: '#ffed6a&lSchlüssel
   erstellen'
 665e5c47-ae72-4638-a7e6-13c8947e80d7.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.10: '#bbff6a&lAktionen:'
@@ -4616,7 +4734,8 @@ e9926a30-eb5d-4dd3-b3a3-9100c1c4df0b.dh.farmserver.menu.l6: '&4&lNicht alle Verz
   funktionieren!'
 b8c78029-025a-416e-8426-8839cb79713e.deathmessages.Mobs.zombievillager.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-05d2f445-917f-498c-b8ca-a52cbf2e71ce.huskhomeslocales.error_no_last_position:
+05d2f445-917f-498c-b8ca-a52cbf2e71ce.huskhomeslocales.error_no_last_position: '[Error:](&&#ff3300)
+  [You have no last position to return to!](&&#ff7e5e)'
 502abc91-42ba-44a4-91d7-02e23b5dc4da.lands.messages.lands.message.teleportation.already: >-
   &cDu kannst keine zweite Teleportation starten. Es ist bereits eine
   Teleportation im Gange. &7Bitte warte, bis sie beendet ist.
@@ -4673,7 +4792,8 @@ e1f93182-2f71-4b63-9d81-b3e61a31594c.lands.messages.lands.command.spawn.chunk: >
   diesem Anspruch verbunden ist.
     [T]&7✖ Umbenennen: &e/lands rename &8<&ename&8> &8[&8CLICK&8][SC]lands rename[/SC][H]&7Klick
    um diesen Befehl zu kopieren.[/H][/T]
-a2648df1-95e3-44af-9be4-d1d3ce53f624.huskhomeslocales.economy_action_public_home_teleport:
+a2648df1-95e3-44af-9be4-d1d3ce53f624.huskhomeslocales.economy_action_public_home_teleport: Teleported
+  to a public home
 ff99cd47-ad39-4b94-a595-e949fed79611.lands.messages.lands.command.wild.no-location: >-
   Wir konnten keinen sicheren Ort für dich finden, der mit dem Filter in der
   Konfiguration übereinstimmt. Bitte passe die Einstellungen für die maximale
@@ -4704,7 +4824,9 @@ f9677241-6d53-41ec-a562-f85f0bd0d356.gsitMessages.action-emote-stop-error: '[P]&
 38a68429-0a6c-431f-8b41-5bcfabf4a31b.dh.web.4: '&fVisit our &bWebsite&f to'
 124c70d5-55d4-4be2-bcdd-9f515985ac75.deathmessages.Mobs.pillager.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
-d9f50e30-6f07-49d3-bb6b-a9d15af26163.huskhomeslocales.edit_home_menu_privacy_button_private:
+d9f50e30-6f07-49d3-bb6b-a9d15af26163.huskhomeslocales.edit_home_menu_privacy_button_private: '[[∅
+  Make Private…]](&&#ff9f0f show_text=&7Click to make this home private run_command=/huskhomes:edithome
+  %1 privacy)'
 7f33dc87-61d1-4d3b-9314-8c51e293eea0.deathmessages.Mobs.parrot.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
 7de78409-d902-4e99-82ec-35dc6541b87d.deathmessages.Mobs.pillager.Solo.Contact.0: '%1
@@ -4760,7 +4882,8 @@ ce07efe2-086a-4772-aab5-0bf37b0601e2.cmd.rules.chat.1-6: >-
 
   &7Shops ist erlaubt, aber bitte unterlasse es, Werbe
    &7Nachrichten zu häufig zu wiederholen.
-c354b90a-0195-4ea7-ab54-6d5e655c401f.huskhomeslocales.delete_all_warps_success:
+c354b90a-0195-4ea7-ab54-6d5e655c401f.huskhomeslocales.delete_all_warps_success: '[Successfully
+  deleted](&&#00fb9a) [%1](&&#00fb9a bold) [server warp(s).](&&#00fb9a)'
 9103bc33-b5c0-472c-8609-abd7d410b8cf.tempflysystem.help_extended.0: '&6/tf gib [Spieler]
   [Zeit]'
 ced6785a-16dc-471f-a306-aab8aa42fc9b.tempflygeneral.time.purchased: '%1 &7Du hast
@@ -4776,11 +4899,14 @@ df83825e-d518-4290-bfa7-27c10677554e.deathmessages.Mobs.cod.Solo.Melee.0: '%1 wu
   über die Konsole ausgeführt werden'
 ab9f95be-59a1-47f1-a4a3-9b2c6c931242.lands.messages.lands.message.event.fly.counter: '#t#&6Fly-Mode
   Deaktivierung[newline]&7in &3%1 &7Sekunde(n)'
-7864f875-f2cd-4e5a-a31d-0ce2bfadcf22.huskhomeslocales.error_in_game_only:
+7864f875-f2cd-4e5a-a31d-0ce2bfadcf22.huskhomeslocales.error_in_game_only: 'Error:
+  That command can only be run in-game.'
 24fda94c-d5bf-42d1-9340-ca78c0d16061.glow.red.lock: "&f\n&cInformation\n &8| &7Color:
   &cRed\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n&c&l| &cᴄʟɪᴄᴋ ᴛᴏ
   ᴜɴʟᴏᴄᴋ"
-724cf310-b41c-48d7-8440-2474223b1ade.huskhomeslocales.error_home_description_characters:
+724cf310-b41c-48d7-8440-2474223b1ade.huskhomeslocales.error_home_description_characters: '[Error:](&&#ff3300)
+  [Home descriptions may only contain alphanumeric (A-Z, 0-9) characters, spaces,
+  hyphens (-) and underscores (_)](&&#ff7e5e)'
 85b508e5-46d8-4e93-bd71-43c88f599908.deathmessages.Mobs.armorstand.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 56e53466-7947-4db6-8720-f80c2c96dd2b.deathmessages.Mobs.squid.Gang.Projectile-Arrow.0: '%1
@@ -4807,7 +4933,8 @@ e42e8fc9-ff0f-475f-a494-8754dd10cdf3.deathmessages.Natural-Cause.Drowning.0: '%1
   &fticks'
 9da20257-6574-465a-a510-334423608e5f.advancedenchants.enchanter.successful-purchase: '&aPurchase
   successful!'
-eee10d78-b0c0-4607-bd18-3354c42c832b.huskhomeslocales.teleporting_other_complete_position:
+eee10d78-b0c0-4607-bd18-3354c42c832b.huskhomeslocales.teleporting_other_complete_position: '[Teleported
+  %1 to ⚐ x: %2, y: %3, z: %4.](&&#00fb9a)'
 5a17f733-c8a7-4fd8-8525-057ec5ee7a66.tempflygeneral.info.infinite: '&7Unendlich: &3&lDer
   Benutzer kann unbegrenzt fliegen!'
 7a2290a0-4b14-4912-9a8f-effbca3b5c21.ia.10.1: Handel mit Waren unter Verwendung
@@ -4815,7 +4942,8 @@ a33da2ef-5e97-4a2f-8f15-6c857dac8c8c.deathmessages.Basic-Mode.Gang.Melee.0: '%1 
   von einer Gruppe von %2''s erschlagen'
 7a2874af-dde8-44f8-b82a-7e48b56df945.deathmessages.Mobs.panda.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-0e5d8a41-446b-4ca5-af5d-65b1d662f18c.huskhomeslocales.tpahere_request_received:
+0e5d8a41-446b-4ca5-af5d-65b1d662f18c.huskhomeslocales.tpahere_request_received: '[%1](&&#00fb9a
+  bold) [has requested that you teleport to them.](&&#00fb9a)'
 cb740eb9-fb9c-4f48-b300-e8d5b02fbe77.excellentcratesCommand.Preview.Usage: '%1 [Spieler]'
 449e564b-1a1e-4f8a-ad75-0e1c9d2b5b8f.tempflycommand.base.pay.1: sende
 f84779b8-553d-46a4-a7db-e55b71c05462.excellentcratesEditor.CrateEditorType.CRATE_CREATE.Name: '#ffed6a&lEine
@@ -4849,7 +4977,8 @@ f0ad6bf4-bdb9-441a-b8e3-06c7a7c968db.deathmessages.Mobs.warden.Solo.Melee.0: '%1
 22ad8b51-2a8d-478d-b3ac-dbd5d2edc8c4.PlayerParticlesgui-edit-data-color-lime-green: '#32cd32Limettengrün'
 cf0a2a97-9bed-4ca7-88d1-5be853014f77.tempflygeneral.time.set_self: '%1 &7Deine Zeit
   wurde auf &f⌚%2&7 eingestellt.'
-f48a1016-0d8a-4625-8e80-31f6239ba5f5.huskhomeslocales.error_invalid_server:
+f48a1016-0d8a-4625-8e80-31f6239ba5f5.huskhomeslocales.error_invalid_server: '[Error:](&&#ff3300)
+  [Failed to finish teleportation as the target server could not be found or was offline.](&&#ff7e5e)'
 d153e833-8816-4b9c-a031-415125c0b2be.lands.messages.help.command.lands.view.here: >-
   [T]&e%1 %2 &8- &7Visualisiere Teilbereich[H]&7Visualisiere den Teilbereich, in
   dem du dich gerade befindest. &7Klicke zur Ausführung.[/H][C]%3[/C][/T]
@@ -4873,10 +5002,12 @@ c11d0006-288a-4dd0-b23a-0e394870829b.PlayerParticlesgui-toggle-visibility-info: 
   %1 &7wurde von&3 %2&7 geschaffen.'
 8403fb3f-a3c9-494e-89a5-106845f10f31.PlayerParticlesfixed-remove-args-invalid: '&7
   Kann nicht entfernt werden, die angegebene ID muss eine Zahl sein!'
-02f6d024-74d5-45fd-92e6-776ac47cfe93.huskhomeslocales.update_available:
+02f6d024-74d5-45fd-92e6-776ac47cfe93.huskhomeslocales.update_available: '[HuskHomes](&&#ff7e5e
+  bold) [| A new version of HuskHomes is available: v%1 (running: v%2).](&&#ff7e5e)'
 2d9e0c7a-f386-419a-b36b-3752cfe08fe1.mpdb.inventorySyncError: '&cFehler beim Laden
   Ihres Inventars! Kontaktieren Sie das Mitarbeiterteam.'
-62f3a643-cb86-4b3a-9ce2-3ba1ccfb5ffd.huskhomeslocales.phomelist_command_description:
+62f3a643-cb86-4b3a-9ce2-3ba1ccfb5ffd.huskhomeslocales.phomelist_command_description: View
+  the list of public homes
 9f7e91e6-64d7-4c5f-8e64-c1d032f85b38.deathmessages.Mobs.salmon.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 8329c043-f285-4690-868a-6f8502a1a4e5.cmd.settings.title.true.s39: '&bParticles &8|
@@ -4942,7 +5073,11 @@ bf2cc006-4884-4922-b1de-de0cabac4eb8.cmd.settings.title.unknown.s40: '&bTodesnac
   &c&n%1&c could not be found.'
 9c04bd51-065d-4005-be50-cc383d4bce1c.PlayerParticlesother-unknown-player: '&7Der Spieler
   &c%1 &7wurde nicht gefunden.'
-7f47e39c-6ed4-4f94-9ad3-c223606f2131.huskhomeslocales.delete_all_homes_confirm:
+7f47e39c-6ed4-4f94-9ad3-c223606f2131.huskhomeslocales.delete_all_homes_confirm: '[Warning:](&&#ff3300)
+  [Are you sure you want to delete all of your homes?](&&#ff7e5e)\n[Once you confirm,
+  it will not be possible to recover them.](gray)\n[→](gray) [[Confirm]](&&#ff3300
+  show_text=&&&#ff3300&Click to confirm deletion. This cannot be undone. run_command=/delhome
+  all confirm)'
 b234f1da-0ee0-46df-826d-70ffd8bd9a1d.PlayerParticlescommand-description-help: Zeigt
   das Hilfemenü an... Du bist angekommen
 ca78f9d0-2653-45ee-8d60-afa1a0cc8eb8.deathmessages.Mobs.chicken.Gang.Melee.0: '%1
@@ -5000,7 +5135,8 @@ d96727cf-4361-4318-95d9-311918d1f95d.dh.farmserver.menu.l2: '&7Ich bin dein Farm
   Manager.'
 a7013064-cfb7-40eb-9214-96afd4701127.tempflygeneral.time.given_self: '%1 &7Du hast
   &f⌚%2&7 erhalten.'
-cfbdf783-6891-4259-91eb-4997155ba3cc.huskhomeslocales.error_home_name_length:
+cfbdf783-6891-4259-91eb-4997155ba3cc.huskhomeslocales.error_home_name_length: '[Error:](&&#ff3300)
+  [Home names can only contain up to 16 characters!](&&#ff7e5e)'
 b0f5139f-56b7-4d13-a0e0-5204b39a3990.cmd.ref.click-to-buy: '&7ᴄʟɪᴄᴋ ᴛᴏ ʙᴜʏ'
 76f40ef7-0ffb-4481-90e6-4f43c656a021.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_NAME.Lore.1: '#bdc8c9
   Es wird in Nachrichten und GUIs verwendet.'
@@ -5089,7 +5225,9 @@ e9d22d8d-921d-44fb-8453-733e590c2a4f.advancedenchants.commands.offline-player: '
 585cbf47-6b2d-429e-b17e-083ac579993d.excellentcratesEditor.CrateEditorType.EDITOR_CRATES.Lore.2: '#bbff6a&lAktionen:'
 f316b912-1bbe-44f4-bd18-454ed4af1837.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_KEYS.Lore.11: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aAttach Key'
-0cf07ce0-6232-4337-8a40-80dce41b2532.huskhomeslocales.edit_warp_menu_use_buttons:
+0cf07ce0-6232-4337-8a40-80dce41b2532.huskhomeslocales.edit_warp_menu_use_buttons: '[Use:](gray)
+  [[⏩ Teleport…]](&&#00fb9a show_text=&7Click to teleport to this warp run_command=/huskhomes:warp
+  %1)'
 8b1ec9f8-fc7f-41a1-8a36-b7786a1adea3.lands.messages.help.command.lands.claimlist: >-
   [T]&e%1 %2 %3 &8- &7Liste der Ansprüche deines Landes[H]&7Dieser Befehl zeigt
   dir alle /Landansprüche deines Landes an. &7Klicke zum
@@ -5126,7 +5264,8 @@ d4b3afdd-0b3c-4597-bae5-870cd4b179e6.advancedenchants.commands.enchants.open-men
 808ba90c-269a-4f9e-b808-1e5e4c68b6b3.lands.messages.wars.command.declare.target: >-
   &7Der Feind %1 &7hat %2 &8(&7YOU&8)&7 den Krieg erklärt. Der Krieg wird in&5
   %3&7 beginnen.
-5593f161-44bd-45e9-a363-2a4fcc477983.huskhomeslocales.error_warp_invalid:
+5593f161-44bd-45e9-a363-2a4fcc477983.huskhomeslocales.error_warp_invalid: '[Error:](&&#ff3300)
+  [There is no warp set with the name "%1"](&&#ff7e5e)'
 2fcb79e7-715d-491c-9f6d-76b4c947febf.deathmessages.Mobs.player.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 fd76c022-26ff-4aa0-bca8-2c064f989583.deathmessages.Natural-Cause.Void.0: '%1 ist in
@@ -5242,7 +5381,8 @@ fc4b343f-9f7f-42ce-a2a7-05e9fd485898.advancedenchants.commands.main.pastetypes: 
   type list: %1'
 aa04cb42-6958-4516-977f-ddd3fb1e61fe.deathmessages.Mobs.wanderingtrader.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
-1c243494-9c5e-434e-8aee-0c70ba65f0db.huskhomeslocales.economy_action_spawn_teleport:
+1c243494-9c5e-434e-8aee-0c70ba65f0db.huskhomeslocales.economy_action_spawn_teleport: Teleported
+  to spawn
 f6d13b80-b443-4f6b-bdc1-53da76862af6.deathmessages.Mobs.donkey.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 d43a0c2d-a2b7-4eba-9578-420e33e66b78.cmd.languages.desc.s19: |-
@@ -5306,7 +5446,8 @@ f34ff767-008a-4746-a0b9-1c048b827bd5.deathmessages.Natural-Cause.Poison.0: '%1 h
   Claim[newline]&7Keep walking to claim chunks'
 a6f63799-4cec-40ac-9e70-471e17d14921.deathmessages.Mobs.turtle.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-96c7b3a2-bbcf-437a-9c18-ebb22ef35bcb.huskhomeslocales.edit_warp_update_location:
+96c7b3a2-bbcf-437a-9c18-ebb22ef35bcb.huskhomeslocales.edit_warp_update_location: '[Re-located
+  the warp](&&#00fb9a) [%1](&&#00fb9a bold) [to your current position.](&&#00fb9a)'
 68dfc95f-c53b-4c16-ada1-0cb407723c16.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_ITEMS.Lore.7: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aÖffnen'
 4a4741d8-50c7-4237-ac68-b81ca8b224c3.deathmessages.Mobs.pig.Gang.Projectile-Arrow.0: '%1
@@ -5349,11 +5490,13 @@ c8ae7442-7bf2-4a10-9871-c92125277ac7.lands.messages.lands.message.event.leave.ca
   Kopieren.[/H][SC]%4[/SC][/T]
 e4dbc5e3-dbd5-4b03-a06c-cb0f8a3b976d.deathmessages.Mobs.stray.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-0690c165-3441-4dac-97f2-9b19f15c746e.huskhomeslocales.error_home_description_length:
+0690c165-3441-4dac-97f2-9b19f15c746e.huskhomeslocales.error_home_description_length: '[Error:](&&#ff3300)
+  [Home descriptions must be less than 255 characters in length.](&&#ff7e5e)'
 c0b67756-7e22-44c1-b6f9-3bf892b00c36.lands.messages.lands.command.view.y-lock.disabled: >-
   &aGeschalteter Y-Lock-Modus: &7Die Landgrenzen folgen deiner Position nach
   oben und nach unten.
-05d80598-525c-4382-93db-43d5a54ee3ae.huskhomeslocales.tpa_request_sent:
+05d80598-525c-4382-93db-43d5a54ee3ae.huskhomeslocales.tpa_request_sent: '[You sent
+  a teleport request asking to teleport to](&&#00fb9a) [%1](&&#00fb9a bold)[.](&&#00fb9a)'
 dd77b007-df69-4532-b8d5-70b25d1586ee.cmd.settings.title.s12: '&bGlowing &8| &7[Toggle]'
 4a505e84-c635-401b-b0f9-ae888070382b.deathmessages.Mobs.zombiehorse.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
@@ -5380,8 +5523,12 @@ dc6b9c7f-ed1d-4b70-994f-2f2eda07f057.deathmessages.Mobs.giant.Gang.Weapon.0: '%1
   von ein paar %2 angegriffen! Einer schlug sie mit %3'
 5ff83eed-6878-4086-bed0-3ae0fbcc1e19.advancedenchants.commands.main.setsouls.success: "&cSet
   item's soul count to: %1"
-82e0cead-da81-4a99-a90d-f420c66a7350.huskhomeslocales.importer_list_item:
-b97db477-81c1-4f53-86e1-558996f031fa.huskhomeslocales.public_home_list_page_title:
+82e0cead-da81-4a99-a90d-f420c66a7350.huskhomeslocales.importer_list_item: '[%1](&&#00fb9a
+  show_text=&&&#00fb9a&Click to import data through this importer. suggest_command=/huskhomes:huskhomes
+  import start %2)    [⏩ %3](white show_text=&&&#00fb9a&This importer supports importing:\n&f%4
+  suggest_command=/huskhomes:huskhomes import start %5)'
+b97db477-81c1-4f53-86e1-558996f031fa.huskhomeslocales.public_home_list_page_title: '[☀
+  Public Homes:](&&#00fb9a) [(%1-%2 of](&&#00fb9a) [%3](&&#00fb9a bold)[)](&&#00fb9a)\n'
 50661fa1-9af2-4873-8f88-4f72405c0efe.deathmessages.Mobs.skeletonhorse.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 1c0574f7-4f30-403d-adac-71338eca2afc.advancedenchants.tinkerer.non-tradeable-item.0: "&cThe
@@ -5511,14 +5658,16 @@ a39faa17-9341-40bc-86ec-e3d228bcb1bf.advancedenchants.items.white-scroll.item-sa
   &7hat nicht genug &b&l%1&7 dafür, also wurde ihr Saldo auf &b0&7 gesetzt.'
 9115312f-a928-49b4-b57a-c50bf1f09187.deathmessages.Mobs.cod.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-2c61f222-f135-4e23-b60d-69df628687b7.huskhomeslocales.bulk_delete_homes_success:
+2c61f222-f135-4e23-b60d-69df628687b7.huskhomeslocales.bulk_delete_homes_success: '[Successfully
+  deleted](&&#00fb9a) [%1](&&#00fb9a bold) [homes.](&&#00fb9a)'
 8979341a-8331-4265-9698-e8edbdf269b7.excellentcratesCrate.Open.Error.NoRewards.1: '#fd5e5e&lWhoops!'
 254f38f3-46ab-456b-aaa1-f7d42dcfe55f.lands.messages.lands.message.combat.tag: '#b#[config]color:purple,style:solid[/config]&7Combat
   tag:&5 %1'
 429f1599-8d93-4e6c-ae3b-f52cb744957f.glow.darkgreen.lock: "&f\n&2Information\n &8|
   &7Color: &2Dark Green\n &8| &7Price: &c✪35\n &8| &7Status: &c&l❌ &cLocked\n&f\n
   &c&l| &cᴄʟɪᴄᴋ ᴛᴏ ᴜɴʟᴏᴄᴋ"
-df54ed44-ff00-4725-87b4-a0f9d9c59489.huskhomeslocales.error_edit_home_privacy_already_private:
+df54ed44-ff00-4725-87b4-a0f9d9c59489.huskhomeslocales.error_edit_home_privacy_already_private: '[Error:](&&#ff3300)
+  [This home is already set as private.](&&#ff7e5e)'
 2417e7d8-3b3d-4aca-bca4-18cdbf1bf1f3.tempflycommand.unit.hours.recognized.0: h
 cc508f86-8e6d-4464-844d-53e5c0453799.deathmessages.Mobs.illusioner.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
@@ -5540,7 +5689,8 @@ cc508f86-8e6d-4464-844d-53e5c0453799.deathmessages.Mobs.illusioner.Solo.Projecti
   nicht selbst bezahlen!'
 e0cbac33-ee45-40d7-9d2c-e6594da2d801.deathmessages.Mobs.witch.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-bd763582-9a63-4829-adbd-c790f331811f.huskhomeslocales.teleport_request_accepted:
+bd763582-9a63-4829-adbd-c790f331811f.huskhomeslocales.teleport_request_accepted: '[%1
+  has accepted your teleport request!](&&#00fb9a)'
 30ff85e1-ca6a-429b-8ea7-9bbeebc42851.deathmessages.Mobs.skeletonhorse.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 593bcf78-5d77-4874-938b-b3b35c9b21ee.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_CONFIG.Lore.15: '#bbff6a▪
@@ -5600,7 +5750,8 @@ c1c649f5-d523-4ccc-ad7d-77b6f237aea3.deathmessages.Mobs.goat.Gang.Melee.0: '%1 w
   &cDu kannst keinen Krieg führen, weil %1 &cmehr vertrauenswürdige Spieler
   benötigt werden. &7Das erforderliche Minimum für Angreifer, um den Krieg zu
   erklären, sind&3 %2 &7Spieler.
-4a266c49-23be-483f-8b69-c7b089bc5c3e.huskhomeslocales.edit_home_privacy_private_success_other:
+4a266c49-23be-483f-8b69-c7b089bc5c3e.huskhomeslocales.edit_home_privacy_private_success_other: "[Successfully
+  made %1's home,](&&#00fb9a) [%2](&&#00fb9a bold)[, private.](&&#00fb9a)"
 07056d40-05b1-401e-9e1b-c27483dcfd2f.lands.messages.lands.command.general.not-exist: '&cEs
   gibt kein solches Land oder Volk mit dem Namen&4 %1&c. &7Typo?'
 5170ac0b-3b27-4e64-bdde-f6ad7b571b49.advancedenchants.token.success: '&2&lx &aSuccessfully
@@ -5634,7 +5785,8 @@ d970d355-4e95-4634-bdf5-aaab0f4ba419.SuperVanishMessages.EntityHitDenied: '&b&l%
 82e6031e-9dcd-4e22-8894-7b319c9f0383.lands.messages.list.sign.rented.0: '&6&lVermietet'
 b1a99845-d46f-4409-85ca-2acf6ae235e4.advancedenchants.commands.main.zip.success: '&eA
   zip file containing all plugin data has been created at %1.'
-a1495424-1146-4e3c-a178-34be4253ea71.huskhomeslocales.economy_action_home_teleport:
+a1495424-1146-4e3c-a178-34be4253ea71.huskhomeslocales.economy_action_home_teleport: Teleported
+  to a home
 477bd285-4965-41e2-b391-ef957e1b62b6.deathmessages.Mobs.player.Solo.Melee.0: '%1 wurde
   von %2 erschlagen'
 5c092b26-91ef-41e0-8e5d-db6d718bf826.deathmessages.Mobs.pig.Solo.Projectile-Arrow.0: '%1
@@ -5657,7 +5809,8 @@ ab06172e-1299-4a47-914e-2e164420b5b9.ia.exp.2: Don't waste time grinding! Trade 
   usage! Proper usage: %1 <enchantment>'
 32adbb61-6598-466d-9a76-4d087e3fd96a.PlayerParticlescommand-description-worlds: 'Finde
   heraus, in welchen Welten Partikel deaktiviert sind'
-52f8b5b7-590f-4155-897a-983992ff242b.huskhomeslocales.error_no_public_homes_set:
+52f8b5b7-590f-4155-897a-983992ff242b.huskhomeslocales.error_no_public_homes_set: '[Error:](&&#ff3300)
+  [There are no public homes set!](&&#ff7e5e)'
 3c3bb5b7-f0f1-4b1f-8fcc-4ab7fefa5127.lands.messages.lands.message.event.inbox: '&eInbox
   &8- %1&8: %2'
 75019500-4a08-49ff-b5e8-f5a2f56c1af5.deathmessages.Mobs.mule.Gang.Projectile-Arrow.0: '%1
@@ -5674,7 +5827,8 @@ cc5b15c4-70ab-406e-9ee3-78ba4e890c56.lands.messages.help.command.lands.admin.lan
   Kopieren.[/H][SC]%4[/SC][/T]
 726995a4-d732-4e87-a219-0b70706166bf.deathmessages.Mobs.skeleton.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
-64dd0205-ddf8-454f-85ab-5912f6e8d72e.huskhomeslocales.home_command_description:
+64dd0205-ddf8-454f-85ab-5912f6e8d72e.huskhomeslocales.home_command_description: Teleport
+  to one of your homes
 7229285c-ff54-4670-b566-e0566d2c1360.lands.messages.wars.message.capture.place.y: >-
   &Cann hier keine Fangflagge platzieren. &7Sie muss zwischen&3 %1 &7und&3 %2
   &7Blöcken der Höhe platziert werden.
@@ -5708,14 +5862,16 @@ e8d62f0c-cb46-4a60-b248-60f0b92c6f2b.deathmessages.Mobs.ocelot.Gang.Weapon.0: '%
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 b70a901a-3979-4284-8ef7-5fd860bf978a.advancedenchants.sets.commands.invalid-set: '&cSet
   is invalid.'
-4dbb26ef-8a11-458c-976d-2b86ee594258.huskhomeslocales.economy_action_random_teleport:
+4dbb26ef-8a11-458c-976d-2b86ee594258.huskhomeslocales.economy_action_random_teleport: Used
+  the /rtp command
 0b0316f2-56f7-4e82-9dc1-9c22c61f27b9.PlayerParticlesadd-particle-applied: >-
   &7Ein neuer Partikel wurde mit dem Effekt &b%1&7, dem Stil &b%2&7 und den
   Daten &b%3&7 angewendet!
 b0202b9f-c1a7-4398-91b5-cfe0a3ae0720.deathmessages.Mobs.witherskeleton.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 08221cc0-911b-4da1-85a1-be4e6608ce6e.glow.darkred.title: '&4&l■ &8| &4Dark Red Glowing'
-e3c67141-a9fe-4a40-a6a7-b3d22b824269.huskhomeslocales.error_invalid_world:
+e3c67141-a9fe-4a40-a6a7-b3d22b824269.huskhomeslocales.error_invalid_world: '[Error:](&&#ff3300)
+  [Failed to finish teleportation as the target world could not be found.](&&#ff7e5e)'
 2c5d3db2-a17f-4d29-8924-8c1e9a24b662.lands.messages.lands.message.flags.attack_monster: >-
   &cDu darfst hier keine Monster angreifen (&cArea:&4 %1 &cLand:&4 %2&c). &7Sie
   können dich auch nicht angreifen. &8Flagge: %3
@@ -5821,7 +5977,8 @@ cbe4898b-f698-47ee-866a-a7f02b722b74.deathmessages.Mobs.villager.Solo.Melee.0: '
   #aefd5e[Text]'
 c1f73575-302e-41ff-8749-714f5ae90f33.deathmessages.Mobs.vex.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-9b48c374-59e5-47f7-b854-120fb64f45e2.huskhomeslocales.error_home_invalid:
+9b48c374-59e5-47f7-b854-120fb64f45e2.huskhomeslocales.error_home_invalid: '[Error:](&&#ff3300)
+  [You have not set a home with the name "%1"](&&#ff7e5e)'
 0026fcfa-af91-4b24-ad83-62e75ba569f2.deathmessages.Mobs.wanderingtrader.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 2a25b6aa-b06d-4a9c-8dc8-327d60d433df.ib.tilgis.menu: '&fMenu'
@@ -5891,7 +6048,8 @@ c4bfdb17-8523-4f2f-98f7-dce2839a864b.lands.messages.help.command.lands.relations
    &b| &7Wandle Token in Dinge um
    &b| &7das du brauchst, wie Punkte!
    &3| &fKlick zum Ansehen.
-089c836f-a244-4d29-b46a-4c9da3c8f761.huskhomeslocales.teleporting_warmup_start:
+089c836f-a244-4d29-b46a-4c9da3c8f761.huskhomeslocales.teleporting_warmup_start: '[You
+  will be teleported in](&&#00fb9a) [%1](&&#00fb9a bold) [seconds, please stand still…](&&#00fb9a)'
 9fb55997-f3e8-4041-9821-3a046a3b4f95.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.1: '#bdc8c9wenn
   du eine Vorschau siehst und die Kiste öffnest.'
 fed1c0ff-04d8-4632-b047-fbf6293c3dbd.lands.messages.list.sign.rent.3: '&8Max: %1'
@@ -5993,7 +6151,8 @@ c0ff24e7-b95e-44d4-bdcd-af9894b9617d.excellentcratesCommand.Open.Desc: 'Bringt [
 4da55d8f-c792-45c4-b769-b52f81e3159a.tempflycommand.base.give.1: hinzufügen
 84a61b5c-ee93-4bf9-9888-ff1965279527.PlayerParticlesfixed-teleport-no-permission: '&7Dazu
   haben Sie keine Berechtigung!'
-b3edd344-6307-4519-a3fd-d2d289ab3e1f.huskhomeslocales.homelist_command_description:
+b3edd344-6307-4519-a3fd-d2d289ab3e1f.huskhomeslocales.homelist_command_description: Get
+  a list of your homes
 15436d85-17f1-45ca-9354-8c4ddae61fd2.deathmessages.Mobs.zombie.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
 a8f77c4b-0314-40ea-9d5b-78b7309e4a5d.advancedenchants.sets.commands.weapon.success: '&eGave
@@ -6022,7 +6181,7 @@ c4631e20-ad5f-4075-99db-0afc90706aa0.lands.messages.lands.command.selection.stat
   wurde von einem %2 irgendwie mit %3 erschlagen'
 90d11097-2cfd-4512-93ab-89dce747b957.deathmessages.Mobs.skeletonhorse.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-3043366e-be71-4858-a8d2-4cb806b200f9.huskhomeslocales.home_is_public:
+3043366e-be71-4858-a8d2-4cb806b200f9.huskhomeslocales.home_is_public: '&&&#00fb9a&Public'
 e53ed917-4fd5-4f8c-baa1-664449759d1a.lands.messages.general.integration.bluemap.capital.spawn: >-
   <div class="\"infowindow\""><span style="font-size: 200%;"><span style="color:
   %1;">Hauptstädte Spawnpoint</span><br /></span> Dieser Spawn gehört zu der
@@ -6061,7 +6220,9 @@ c4645f69-c0eb-44fd-b518-1be148468ee6.ia.8.1: Laden Sie Ihre Freunde zum Spielen 
 ef46717a-8dba-4ac0-a78e-4bdec2e1a6fc.deathmessages.Mobs.player.Solo.CombatLogX-Kill.0: >-
   %1 hat sich während des Kampfes gegen %2 ausgeloggt, sie sind trotzdem
   gestorben -.-
-8cae368e-6861-4b6a-a0cf-265bce880c34.huskhomeslocales.return_by_death_notification:
+8cae368e-6861-4b6a-a0cf-265bce880c34.huskhomeslocales.return_by_death_notification: '[Return
+  to where you died?](gray) [[⏪ Teleport…]](&&#00fb9a show_text=&&&#00fb9a&Click to
+  teleport\n&7Return to where you died run_command=/huskhomes:back)'
 9f12fc1f-5705-4972-a7ea-aaea8f216346.PlayerParticlesfixed-no-permission: '&7Dazu haben
   Sie keine Berechtigung!'
 49875497-5e12-44de-94f8-a286f0035b92.deathmessages.Mobs.player.Solo.TNT.0: '%1 hat
@@ -6139,7 +6300,8 @@ b6df58af-c776-4241-a9d9-24783d0a0601.lands.messages.lands.command.leave.area.suc
   zum Kopieren.[/H][SC]nations setcapital[/SC][/T]
 e25a9d33-bd4d-42f8-b631-5e95ef6704d7.lands.messages.general.inbox.relation.enemy.offer: '&7%1
   &7wollt uns gegenüber neutral sein.'
-df150901-8a61-443e-b80c-46e1f9df7f9f.huskhomeslocales.edit_warp_update_name:
+df150901-8a61-443e-b80c-46e1f9df7f9f.huskhomeslocales.edit_warp_update_name: '[Successfully
+  renamed the warp: %1 →](&&#00fb9a) [%2](&&#00fb9a bold)'
 4a32a130-695e-4bbe-8a63-cf5c7e1fc6b9.lands.messages.lands.command.general.number: >-
   &cDeine Eingabe&4 %1 &cist keine Zahl. &7Das Argument&3 %2 &7muss eine Zahl
   sein.
@@ -6158,7 +6320,8 @@ b46f2180-7dd8-4eb9-bb92-48cfaf29bf32.advancedenchants.sets.commands.offline-play
 8ef51c5b-0f00-4c77-804e-f41487e91c45.lands.messages.help.command.lands.spawn: >-
   [T]&e%1 %2 %3 &8- &7Teleport an Land[H]&7Klick zum
   Kopieren.[/H][SC]%4[/SC][/T]
-d715c0d2-edf3-43f4-a75a-d7f3fec541f7.huskhomeslocales.economy_action_back_command:
+d715c0d2-edf3-43f4-a75a-d7f3fec541f7.huskhomeslocales.economy_action_back_command: Used
+  the /back command
 f8e2f6fb-882f-4427-b300-c679284a27a9.deathmessages.Mobs.guardian.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 b072208e-2922-44ac-8e1e-104f7b242f98.deathmessages.Mobs.dolphin.Solo.Melee.0: '%1
@@ -6239,7 +6402,8 @@ fc980123-ed61-4e46-a3bf-2705dd458c71.excellentcratesCommand.Key.Take.Notify: '#d
   basierend'
 64bc0c72-fc78-4240-9177-b5655951b9fc.dh.farmserver.menu.l4: '&7 verschiedene Materialien
   zu bewirtschaften, die'
-e8a92522-bce9-49ae-b203-3ffc97704648.huskhomeslocales.edit_home_update_name_other:
+e8a92522-bce9-49ae-b203-3ffc97704648.huskhomeslocales.edit_home_update_name_other: "[Successfully
+  renamed %1's home: %2 →](&&#00fb9a) [%3](&&#00fb9a bold)"
 f46c6e6e-4fd4-4ff4-adad-bc95e0634565.deathmessages.Natural-Cause.Melting.0: '%1 weggeschmolzen'
 ca0c1751-3188-4d75-b526-9f29a008c07a.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.1: '#bdc8c9Erfahre
   mehr über Belohnungsmöglichkeiten im Plugin-Wiki.'
@@ -6282,7 +6446,8 @@ b1a9cda1-8d56-4eca-9ae0-6e2ee6a9e46a.cmd.event.money: '&b&lGratisgeld &7(hol dir
   Geld!)'
 8510e4c9-9ee5-4f46-bfdb-4c662943dd6b.deathmessages.Mobs.pig.Solo.Weapon.0: '%1 wurde
   von einem %2 irgendwie mit %3 erschlagen'
-06b7230f-53b3-45fc-8333-9b9d18aaea40.huskhomeslocales.error_no_warps_set:
+06b7230f-53b3-45fc-8333-9b9d18aaea40.huskhomeslocales.error_no_warps_set: '[Error:](&&#ff3300)
+  [There are no warps set!](&&#ff7e5e)'
 c399e653-9706-498f-bb88-7c5c73ee95b6.lands.messages.lands.command.withdraw.failed: >-
   &cDie Abhebung ist fehlgeschlagen. &7Der Server begrenzt möglicherweise den
   Betrag, den du abheben kannst.
@@ -6290,7 +6455,8 @@ bfc5ff0c-9368-49be-a94d-67a9b354a63a.advancedenchants.combining.something-went-w
   went wrong with combining.'
 95b24131-328c-4b28-ae0b-e7e5cd02efd7.deathmessages.Mobs.dolphin.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-fcb1ef31-a876-4e96-a644-d45d7ba557c4.huskhomeslocales.teleporting_complete:
+fcb1ef31-a876-4e96-a644-d45d7ba557c4.huskhomeslocales.teleporting_complete: '[Teleportation
+  complete!](&&#00fb9a)'
 9cbdfe9e-7e7c-425d-9ae3-54108f0896f5.cmd.settings.title.false.s23: '&bScoreboard &8|
   &7[Deaktiviert]'
 a7204c68-5863-49b6-b030-2462da052011.cmd.settings.desc.true.s22: |2-
@@ -6416,7 +6582,8 @@ fb033e33-a884-4769-932f-c04226f2ceb4.dh.menu.l4: '&7do Jobs, besuche den Laden u
   mehr'
 8019a20b-9366-4e51-81b9-89b96691c7ea.cmd.settings.title.true.s20: '&bTeleport &8|
   &7[Aktiviert]'
-8dbbd5a5-7b31-477f-99ca-02cd5ffb016d.huskhomeslocales.tp_command_description:
+8dbbd5a5-7b31-477f-99ca-02cd5ffb016d.huskhomeslocales.tp_command_description: Teleport
+  to another player or location
 a3906af4-2f92-4b82-a37f-6c0a6836bb50.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_PREVIEW.Lore.6: '#bbff6a&lAktionen:'
 8882db3c-4297-4614-8028-78c5cc14cd73.advancedenchants.commands.main.enchant.upgraded: '&2Upgraded
   %1 from level %previous-level% to %2.'
@@ -6436,7 +6603,8 @@ c8ea2b3b-af62-4194-8d20-3fc6514da282.deathmessages.Mobs.traderllama.Solo.Project
   &f" Obsidian &7(36RP)
 ac01caf4-9aef-4d8b-9956-1c37b5bda91b.deathmessages.Mobs.donkey.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-86a521e8-620f-4f7a-a3bd-fd3e3b99f1ec.huskhomeslocales.tpall_command_description:
+86a521e8-620f-4f7a-a3bd-fd3e3b99f1ec.huskhomeslocales.tpall_command_description: Teleport
+  everyone to your position
 9926f047-cb19-4fc4-8497-0c62cc4c8ccd.lands.messages.help.command.lands.delete: >-
   [T]&e%1 löschen %2 &8- &7Land löschen[H]&7Klick zum
   Kopieren.[/H][SC]%3[/SC][/T]
@@ -6444,7 +6612,8 @@ ac01caf4-9aef-4d8b-9956-1c37b5bda91b.deathmessages.Mobs.donkey.Solo.Projectile-A
   &7Kann den festen Effekt nicht bearbeiten, die angegebenen Daten sind nicht
   korrekt! Verwende &b/pp Daten &3<Effekt> &7um das richtige Datenformat zu
   finden!
-703254df-28c7-448a-b0da-2da5e3f603d9.huskhomeslocales.error_command_disabled:
+703254df-28c7-448a-b0da-2da5e3f603d9.huskhomeslocales.error_command_disabled: '[Error:](&&#ff3300)
+  [That command is disabled!](&&#ff7e5e)'
 f46f81ca-3375-40c1-9c6f-c9fb718746e1.deathmessages.Mobs.player.Solo.Explosion.0: '%1
   hat %2 in die Luft gejagt'
 477ae21b-8bda-49d1-a8e9-dade121b846c.rules.2-2: "§x§2§0§F§7§0§72.2 – Skin Policy Compliance:\n
@@ -6477,7 +6646,10 @@ e897b0c6-95b0-4494-a40f-ea1f090ca934.lands.messages.nations.command.leave.confir
    [T]&2✔ Bestätige: &e/%3 &8[KLICK][H]&7Klicke hier, um diese Aktion zu bestätigen.[/H][C]%4[/C][/T]
 a47f625f-365a-4af3-821d-ad891938cf66.excellentenchantmentsFitItemType.UNIVERSAL: Universal
 9e53b009-fae2-40c9-a321-241de5714235.PlayerParticlesgui-edit-data-color-white: '#ffffffWeiß'
-57731f52-c94a-4078-9c79-103e2df6df9b.huskhomeslocales.edit_home_menu_metadata_public:
+57731f52-c94a-4078-9c79-103e2df6df9b.huskhomeslocales.edit_home_menu_metadata_public: '[⌚
+  %1](&#999999-&#ababab show_text=&7Set Timestamp:\n&8When the home was set)   [⚡
+  %2](&#ababab-&#c7c7c7 show_text=&7Home ID:\n&8%3)   [☀ Public Home](&#6fff00 show_text=&&#6fff00&Privacy:\n&8Anyone
+  can teleport to the home)'
 d520e877-12b4-4f03-b384-71087337182d.deathmessages.Mobs.irongolem.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 684d83b4-8767-4bd2-85de-56a52c779fe9.cmd.settings.title.true.s22: '&bChat &8| &7[Aktiviert]'
@@ -6523,7 +6695,11 @@ f4236096-5cb6-4204-bac9-5f7befef9ea3.deathmessages.Mobs.villager.Gang.Melee.0: '
   wurde von einer Bande von %2 erschlagen'
 ace8963d-93d5-49ef-b17b-50dbf2341b12.PlayerParticlesgui-edit-effect-description: '&bKlick
   &8|&7 bearbeite den Effekt dieses Partikels'
-63470a19-54f1-4772-b5ae-f3aa4cd6c1d6.huskhomeslocales.teleport_request_buttons:
+63470a19-54f1-4772-b5ae-f3aa4cd6c1d6.huskhomeslocales.teleport_request_buttons: "[Options:](gray)
+  [[✔ Accept…]](&&#00fb9a show_text=&&&#00fb9a&Accept teleport request\\n&8Click to
+  accept %1's request run_command=/huskhomes:tpaccept %2)   [[❌ Decline…]](&&#ff3300
+  show_text=&&&#ff3300&Decline teleport request\\n&8Click to decline %3's request
+  run_command=/huskhomes:tpdeny %4)"
 5a1ba98f-90fd-461a-9fdc-e1606706bb2a.lands.messages.list.hologram.rented.2: '&5%1
   &7Links'
 eb18b1a6-8826-4456-9b1b-e1dd67d5ca61.excellentcratesEditor.CrateEditorType.KEY_CHANGE_ITEM.Lore.8: '#bbff6a▪
@@ -6605,7 +6781,8 @@ baab14b8-3f84-420a-8000-2a2fe71814eb.excellentcratesEditor.CrateEditorType.EDITO
   &e&l| &eᴄʟɪᴄᴋ ᴛᴏ ᴡɪᴛʜᴅʀᴇᴡ
 efd21f60-e0f2-4460-9e2c-22c236ca6f71.deathmessages.Mobs.wolf.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-518954d1-3738-438d-9e25-45fc4d2b4c63.huskhomeslocales.economy_transaction_complete:
+518954d1-3738-438d-9e25-45fc4d2b4c63.huskhomeslocales.economy_transaction_complete: '[ℹ
+  %1 has been deducted from your account. (%2)](gray)'
 6855b6f3-0e79-4fbe-b063-1e30f09e643b.cmd.upgrade.choose.title.s29: '&b&lJobs'
 7466c79f-54d7-4fa0-b038-8beb363f7c4d.deathmessages.Mobs.endermite.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
@@ -6643,7 +6820,8 @@ efaf23c5-6744-4cd2-b075-8e32b91c09d6.tab.ani.2.3: '&fᴋᴀᴜғᴇ ʙᴇғᴇʜ
   &7Die nächste Veranstaltung ist vielleicht am &f01.12.2023
 32008c67-a584-484b-912f-885eabd17845.excellentcratesEditor.CrateEditorType.KEY_CHANGE_NAME.Lore.10: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aChange'
-f8398c82-35ed-4f6f-8265-02c47e917ed2.huskhomeslocales.edit_home_menu_description:
+f8398c82-35ed-4f6f-8265-02c47e917ed2.huskhomeslocales.edit_home_menu_description: '[ℹ
+  %1](&#c160ff-&#b43fff show_text=&&#c160ff&Description:\n&8%2)\n'
 8631ce1f-020d-4a8a-80c0-b06bedeceec1.deathmessages.Mobs.zombie.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 ce2db2d0-b0a3-4073-9bb1-fd3d2f225b0a.deathmessages.Mobs.blaze.Gang.Melee.0: '%1 wurde
@@ -6756,14 +6934,16 @@ d7c1dc60-4616-47c1-b661-af1ed5e3deb4.excellentcratesCommand.Editor.Desc: Öffne 
   &7In-Game-Namen oder Nachrichten im Chat ist verboten.
   &7das schließt &nMini-Modding&7 ein!
 f57ac9fa-dc5b-4ace-96d5-19294c2ce7d9.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_WIN_LIMITS.Lore.3: '#ffed6a&lAktuell:'
-9d093d3b-d55d-4470-ae65-5c911b3f36d1.huskhomeslocales.edit_home_menu_world:
+9d093d3b-d55d-4470-ae65-5c911b3f36d1.huskhomeslocales.edit_home_menu_world: '[⭘ %1](&#3b76ff-&#5286ff
+  show_text=&&#3b76ff&World:\n&8The world where the home is set)'
 18042ea1-25f4-4113-97f4-eab4dc522ca1.PlayerParticlesfixed-max-reached: '&6Du hast
   die maximal erlaubten festen Effekte erreicht!'
 b3deee56-0b5e-4a5e-aa5b-5f2ddbcc7b58.deathmessages.Mobs.polarbear.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 3eafa6d0-6baa-4616-9e9e-8ba1e8cc59e2.gsitMessages.action-emote-world-error: '[P]&c
   Du kannst in dieser Welt nicht emoten!'
-748b0132-8ec9-404d-a464-f0d64fa7bf33.huskhomeslocales.edit_warp_menu_title:
+748b0132-8ec9-404d-a464-f0d64fa7bf33.huskhomeslocales.edit_warp_menu_title: '[Viewing
+  details for the warp,](&&#00fb9a) [%1](&&#00fb9a bold)[:](&&#00fb9a)'
 da378925-4020-4601-a435-cb7a64a682cf.excellentcratesCrate.Open.Error.Cost.Money.1: '#fd5e5e&lWhoops!'
 a8b47715-b9d1-4d06-ac01-d7a97c48d144.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_EFFECT.Lore.11: '#bbff6a▪
   #bdc8c9[Q/Drop] Taste: #bbff6aToggle Model'
@@ -6778,7 +6958,8 @@ c38acaa9-a336-4f98-b00c-da02791da137.lands.messages.general.command.argument.typ
   von einer Bande von %2 erschlagen'
 8e6931cc-7ff3-4b36-ad70-3b777bd68f13.advancedenchants.orbs.cannot-apply: '&cCannot
   apply orb to this item!'
-2abe8508-1bf3-46e2-979f-6bd00d88c40e.huskhomeslocales.warp_list_page_title:
+2abe8508-1bf3-46e2-979f-6bd00d88c40e.huskhomeslocales.warp_list_page_title: '[Warps:](&&#00fb9a)
+  [(%1-%2 of](&&#00fb9a) [%3](&&#00fb9a bold)[)](&&#00fb9a)\n'
 39172408-eed2-427a-b431-5af9be076cc1.lands.messages.lands.message.teleportation.combat: >-
   Du kannst dich nicht teleportieren, während du in einen Kampf verwickelt bist.
   &7Warte bitte noch&5 %1 &7während du niemanden angreifst.
@@ -6843,7 +7024,8 @@ ae494d2e-150e-4ae3-a45b-5de991b63035.excellentcratesEditor.CrateEditorType.REWAR
 3437c0cc-4f71-480b-8509-57a53d0ba17d.PlayerParticlescommand-description-fixed-clear: >-
   &b/pp fixed clear &3<radius> &8-&f Löscht alle fixen Effekte aller Spieler
   innerhalb des angegebenen Radius
-7a197f45-2cca-4a84-8405-09565e3a94a8.huskhomeslocales.set_spawn_success:
+7a197f45-2cca-4a84-8405-09565e3a94a8.huskhomeslocales.set_spawn_success: '[Moved the
+  spawn position to your current location.](&&#00fb9a)'
 10d1d97e-59a6-4a2f-bd0e-8cc88f56c6d3.deathmessages.Mobs.creeper.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
 a47aa3df-99fc-459d-8138-381e9bba91f1.deathmessages.Mobs.horse.Solo.Weapon.0: '%1 wurde
@@ -6851,7 +7033,9 @@ a47aa3df-99fc-459d-8138-381e9bba91f1.deathmessages.Mobs.horse.Solo.Weapon.0: '%1
 1638ccea-d884-4ad0-9688-5abae1d86ec4.cmd.startmenu.allesandere.desc.rewards: cmd.startmenu.allesandere.title.rewards
 ada46cd6-d80c-451d-81e3-bb3bd33534a7.excellentcratesCrate.Error.Exists: '#fd5e5eCrate
   mit dieser ID ist bereits vorhanden!'
-62151c19-5215-4b00-b053-3c02dcb68fac.huskhomeslocales.edit_home_update_description:
+62151c19-5215-4b00-b053-3c02dcb68fac.huskhomeslocales.edit_home_update_description: '[Successfully
+  changed the description of your home, %1:](&&#00fb9a) \n[←](white) [Old:](&&#00fb9a)
+  ["%2"](gray)\n[→](white) [New:](&&#00fb9a) ["%3" ](gray)'
 3f811bd3-15ba-4d00-a6d3-b19c70e62fb3.excellentcratesEditor.Crate.BlockPushback.Lore.8: '#bbff6a▪
   #bdc8c9Left-Click: #bbff6aToggle'
 ef1086a8-3f2c-42d7-8bbd-4cc6adecebb9.gsitMessages.command-gcrawl-toggle-off: '[P]&a
@@ -6890,7 +7074,8 @@ e673250f-c691-45d8-aa1d-957ca9e5a141.deathmessages.Natural-Cause.Bed.0: '%1 hat 
 bfa1f4ba-0cf4-41aa-9a09-0a1f2458f149.lands.messages.lands.command.teleport.not-trusted: >-
   &cDu kannst dich nicht an diesen Ort teleportieren. &7Du bist nicht
   vertrauenswürdig im Land&2 %1&7.
-669e76ef-6266-4381-a3d8-1b1938c014a6.huskhomeslocales.error_warp_name_taken:
+669e76ef-6266-4381-a3d8-1b1938c014a6.huskhomeslocales.error_warp_name_taken: '[Error:](&&#ff3300)
+  [There is already a warp set with that name.](&&#ff7e5e)'
 558124b9-93a7-4303-8c9e-ceb6d4e06e67.cmd.red.29.done: Zurzeit ist kein Upgrade verfügbar.
 e039ea63-00d4-4eaf-8fd1-d2f8e987a04f.excellentcratesEditor.Reward.Enter.DisplayName: '#d4d9d8Eintrag
   #aefd5e[Anzeigename]'
@@ -6904,7 +7089,8 @@ e039ea63-00d4-4eaf-8fd1-d2f8e987a04f.excellentcratesEditor.Reward.Enter.DisplayN
   wurde von einer Bande von %2 erschlagen'
 090387c1-ebf1-45b3-8082-b67038c8006d.excellentenchantmentsCommand.TierBook.Done: Gib
   §6%1§7 verzaubertes Buch zu §6%2§7.
-fd19ce8e-b979-4643-ab63-1585238b1b00.huskhomeslocales.delete_all_homes_success:
+fd19ce8e-b979-4643-ab63-1585238b1b00.huskhomeslocales.delete_all_homes_success: '[Successfully
+  deleted](&&#00fb9a) [%1](&&#00fb9a bold) [home(s).](&&#00fb9a)'
 c3b0e6fb-55f9-4a91-b88d-04aad17d0272.deathmessages.Mobs.turtle.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
 2d1ccccd-1543-4b84-88b9-edf5adab1bca.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_HOLOGRAM.Lore.1: '#bdc8c9über
@@ -6980,7 +7166,8 @@ da321c8c-732c-431d-ae12-72105b5f6d77.deathmessages.Mobs.zombie.Gang.Projectile-A
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 3d1a6cf8-094a-4f34-a432-120a4c854897.playerpoints.command-pay-lacking-funds: '&7Dafür
   hast du nicht genug &b%1&7.'
-0f8ee12a-3def-4281-891d-5b980027fdd2.huskhomeslocales.error_rtp_restricted_world:
+0f8ee12a-3def-4281-891d-5b980027fdd2.huskhomeslocales.error_rtp_restricted_world: '[Error:](&&#ff3300)
+  [You cannot randomly teleport in this world.](&&#ff7e5e)'
 dbacba3e-31b1-453a-8cf1-75ae15890538.deathmessages.Mobs.witherskeleton.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 aa2d20b5-50ea-40f2-b995-f2b222602eb8.deathmessages.Mobs.magmacube.Solo.Melee.0: '%1
@@ -7010,7 +7197,8 @@ b3aa6a6e-10a6-4fce-a9a2-f0db29f01da0.bank.menu.interest: |2
 6421f1dd-9f95-4363-8d65-8049a6e8ee70.lands.messages.lands.command.claim.camp: |
   &cDein Lager&4 %1 &kann nicht erweitert werden.
    [T]&7✖ Land ändern: &e/Länder bearbeiten &8<&Land&8> &8[&8CLICK&8][SC]Länder bearbeiten[/SC][H]&7Klicke, um diesen Befehl zu kopieren.[/H][/T]
-5758e889-dcaa-4bbc-8a8c-9796222d581e.huskhomeslocales.error_no_players_online:
+5758e889-dcaa-4bbc-8a8c-9796222d581e.huskhomeslocales.error_no_players_online: '[Error:](&&#ff3300)
+  [There are no players online who could teleport to you.](&&#ff7e5e)'
 ac195706-afbc-415a-91c3-c2bd8aac9946.deathmessages.Mobs.creeper.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 021b03ff-2778-4899-b4d8-44d5f5d71a4a.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_ITEM.Lore.9: '#bbff6a▪
@@ -7091,7 +7279,8 @@ e747f4b8-3337-40ba-86ef-0b113f466dcb.advancedenchants.commands.main.givercbook.s
   toggle &8[&8CLICK&8][H]&7Klicke hier, um den Chatmodus zu
   deaktivieren.[/H][C]nations chat toggle[/C][/T] &7um den Nationenchat zu
   deaktivieren.
-5514008f-3668-4e75-8260-9f2e951bca22.huskhomeslocales.error_no_homes_set:
+5514008f-3668-4e75-8260-9f2e951bca22.huskhomeslocales.error_no_homes_set: '[Error:](&&#ff3300)
+  [You have not set any homes!](&&#ff7e5e)'
 215a4e79-0213-41d9-987f-b7334f831421.PlayerParticlesdata-invalid-color-transition: >-
   &7Die von dir eingegebenen Farbübergangsdaten sind ungültig! Format:
   &3<<0-255> <0-255> <0-255>>|<&brainbow>|<random> <<0-255> <0-255>
@@ -7110,8 +7299,11 @@ fdfa5f9b-2699-4570-b8e1-7a828300108d.cmd.main.title.s43: '&b&lSpielzeit'
   &b&l| &bᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ
 c2b1f390-436c-40a4-a41d-d1be38f596bd.deathmessages.Mobs.tropicalfish.Solo.Melee.0: '%1
   wurde von einem %2 erschlagen'
-3d186ff8-ef8c-4f42-bdf1-5b6d6a5ad8c0.huskhomeslocales.edit_warp_menu_description:
-0f6656ab-49d3-4590-b8fc-1a98281499fe.huskhomeslocales.edit_home_update_description_other:
+3d186ff8-ef8c-4f42-bdf1-5b6d6a5ad8c0.huskhomeslocales.edit_warp_menu_description: '[ℹ
+  %1](&#c160ff-&#b43fff show_text=&&#c160ff&Description:\n&8%2)\n'
+0f6656ab-49d3-4590-b8fc-1a98281499fe.huskhomeslocales.edit_home_update_description_other: "[Successfully
+  changed the description of %1's home, %2:](&&#00fb9a) \\n[←](white) [Old:](&&#00fb9a)
+  [\"%3\"](gray)\\n[→](white) [New:](&&#00fb9a) [\"%4\" ](gray)"
 f8335a0c-332e-4b7d-aff5-5f85ed4c69a6.deathmessages.Mobs.player.Solo.Weapon.0: '%1
   wurde von %2 irgendwie mit %3 erschlagen'
 a7b7138b-8833-43f0-b019-7e17234f70a4.tempflysystem.help.4: '&7- Verbleibende Flugzeit
@@ -7147,7 +7339,8 @@ d8291675-9e0c-471f-b880-3048338da190.deathmessages.Mobs.hoglin.Gang.Weapon.0: '%
 abd1f51c-afe4-485a-8d8c-ca8906cb9729.deathmessages.Mobs.endermite.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 f4c0e796-96aa-4299-9e6d-74dda4496d1c.lands.messages.general.time.minutes: Minute(n)
-7a0eb2c2-df9d-4488-845d-a78ca11b4472.huskhomeslocales.edit_home_update_location_other:
+7a0eb2c2-df9d-4488-845d-a78ca11b4472.huskhomeslocales.edit_home_update_location_other: "[Re-located
+  %1's home,](&&#00fb9a) [%2](&&#00fb9a bold)[, to your current position.](&&#00fb9a)"
 185b360b-f0ac-4db4-843c-9866cc77d142.lands.messages.help.command.lands.admin.land.menu: '[T]&e%1
   %2 &8- &7Landmenü öffnen[H]&7Klick zur Ausführung.[/H][C]%3[/C][/T]'
 01a3bb16-379b-4e6d-809f-6fa82723bf5c.rules.2-4: "§x§2§0§F§7§0§72.4 – No Exploitation
@@ -7158,14 +7351,16 @@ f4c0e796-96aa-4299-9e6d-74dda4496d1c.lands.messages.general.time.minutes: Minute
   den Anzeigenamen des Schlüssels.'
 14e6ba3c-4ea6-4dc9-a79b-6a64ef53136c.excellentcratesEditor.Crate.Enter.OpenCost.Money: '#d4d9d8Eintrag
   #aefd5e[Geldbetrag]'
-59857691-32f6-458a-8ae7-a63e8eaf0155.huskhomeslocales.economy_action_make_home_public:
+59857691-32f6-458a-8ae7-a63e8eaf0155.huskhomeslocales.economy_action_make_home_public: Made
+  a home public
 c802dc5b-002e-4c4e-827b-38c5423b8053.lands.messages.lands.command.merge.same: >-
   &cDu kannst kein Land&4 %1 &cinto selbst zusammenführen. &7Bitte gib ein
   anderes Land an.
 191dcc63-00ee-474e-a9d5-594ec49095ac.lands.messages.wars.command.declare.member: >-
   &cDu kannst %1&c nicht den Krieg erklären. &7Du oder der feindliche Anführer
   sind in gemeinsamen Ländern und / oder einer Nation vertrauenswürdig.
-51d90645-f3d7-4b14-902a-4c7e5d024277.huskhomeslocales.error_teleport_warmup_stand_still:
+51d90645-f3d7-4b14-902a-4c7e5d024277.huskhomeslocales.error_teleport_warmup_stand_still: '[Error:](&&#ff3300)
+  [You must be standing still before starting a teleport!](&&#ff7e5e)'
 e1141c7c-ed19-48d9-8841-3bd3babfab2c.deathmessages.Mobs.phantom.Solo.Weapon.0: '%1
   wurde von einem %2 irgendwie mit %3 erschlagen'
 025a494a-05d1-4029-8134-e4a60502510a.cmd.rank.amazonite.desc: |-
@@ -7253,7 +7448,8 @@ ae1135c1-b7a4-4685-af33-acba0faa709d.rules.2-8: "§x§2§0§F§7§0§72.8 – No
   von einer Bande von %2 erschlagen'
 b33b19e6-358f-4ac3-9444-3ab3a27a6c54.advancedenchants.commands.main.unenchant.invalid-usage: '&cInvalid
   usage: /ae unenchant <enchant>'
-e123b0ba-706d-4704-8f70-022d9993c5bb.huskhomeslocales.back_command_description:
+e123b0ba-706d-4704-8f70-022d9993c5bb.huskhomeslocales.back_command_description: Return
+  to your previous position, or where you died
 b02e3f4f-449c-4b0e-ba73-f428562044c6.deathmessages.Mobs.strider.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 9da91566-14e2-448b-a2a6-8a2709d4545e.lands.messages.list.hologram.rent.2: '&7Max Dauer:
@@ -7302,7 +7498,8 @@ abeb58c7-c9ad-42c6-a464-b7549bb9ca72.deathmessages.Mobs.bee.Solo.Weapon.0: '%1 w
 6e082aac-4eec-4947-b9c7-28c55007bf73.excellentenchantmentsFitItemType.CHESTPLATE: Brustharnisch
 8398b94d-563b-438f-b829-c653605a1ba3.deathmessages.Mobs.armorstand.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
-037c2155-4aae-4b3c-ba3d-b1c9ba249e38.huskhomeslocales.error_no_homes_set_other:
+037c2155-4aae-4b3c-ba3d-b1c9ba249e38.huskhomeslocales.error_no_homes_set_other: '[Error:](&&#ff3300)
+  [%1 has not set any homes!](&&#ff7e5e)'
 8e017bb0-5f94-46b9-922a-633fcd39a313.ia.shop.2: '&fThe §x§2§0§F§7§0§7[/shop] &foffers
   a wide variety of resources at fair prices.'
 f1a7ca00-baa0-42ec-9627-e283487d2dbd.lands.messages.lands.message.noaccess.combat.attacker: >-
@@ -7320,7 +7517,8 @@ c255e055-d57f-4de1-873d-3ced12325b69.lands.messages.general.command.argument.typ
   in diesem Gebiet befindet.
 16f67468-81c1-4bfb-b371-f5163d3dabb0.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.5: '#bbff6a▪
   #bdc8c9[Num 2]: #bbff6aBy Type'
-b19eb58c-4f94-478b-b020-862416869af7.huskhomeslocales.tpignore_on_notification:
+b19eb58c-4f94-478b-b020-862416869af7.huskhomeslocales.tpignore_on_notification: '[You
+  are currently ignoring incoming teleport requests!](gray) %1'
 27aeeec5-3da4-4f5a-88f5-7c5e241a4747.deathmessages.Mobs.player.Solo.Thorns.0: '%1
   hat versucht, mit %2''s Rüstung mit Dornen zu spielen'
 65110d83-d0df-4fcb-a4c8-7994601a3611.deathmessages.Mobs.tropicalfish.Gang.Weapon.0: '%1
@@ -7385,7 +7583,8 @@ e234c38d-9655-4ecd-a095-fd911691516b.deathmessages.Natural-Cause.Projectile-Egg.
   hat sich selbst geeiert'
 09f74142-dc7e-422b-a752-c5bacfb9e763.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.12: '#bbff6a▪
   #bdc8c9[Q/Drop] Schlüssel: #bbff6aOne-Timed'
-8b8bcf39-4c5f-429d-88ee-5d7ac36d1207.huskhomeslocales.error_warp_name_characters:
+8b8bcf39-4c5f-429d-88ee-5d7ac36d1207.huskhomeslocales.error_warp_name_characters: '[Error:](&&#ff3300)
+  [Warp names must be alphanumeric (A-Z,0-9, -_)](&&#ff7e5e)'
 fb99da9a-3bc4-4a25-94ff-c5bdd139ce3f.lands.messages.help.help.root.header: >-
   [NoPrefix][T]&7&l&m━━&e&l<<<<&7&l&m━[H]&7Klicke hier, um zur vorherigen Seite
   zu navigieren.[/H][C]%1 %2[/C][/T] &2Lands Commands &7Page&3 %3 &8/&3 %4
@@ -7412,7 +7611,11 @@ cbf0103e-f88e-4ee6-8151-5832a4044276.uar.COMMAND_FORCE_RESTART.title: NEUSTART E
 77fd87d0-ea6c-4c74-b263-32727f45259c.deathmessages.Mobs.vindicator.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 f2f6031f-4967-40bc-8dd3-6454c2f993fe.SuperVanishMessages.DynmapFakeQuit: '%1 Beenden'
-48db08e4-7e37-432b-97a9-411df6070869.huskhomeslocales.edit_home_menu_meta_edit_buttons:
+48db08e4-7e37-432b-97a9-411df6070869.huskhomeslocales.edit_home_menu_meta_edit_buttons: '[Edit:](gray)
+  [[✎ Rename…]](&#c160ff-&#bb50ff show_text=&7Click to suggest the rename command
+  suggest_command=/huskhomes:edithome %1 rename )   [[ℹ Description…]](&#bb50ff-&#b43fff
+  show_text=&7Click to suggest the edit description command suggest_command=/huskhomes:edithome
+  %2 description )'
 0c71cc9e-d445-4a07-a8a6-ad7ae5af2d0d.cmd.settings.desc.unknown.s39: |2
 
   &bBeschreibung
@@ -7490,7 +7693,8 @@ c342a1c9-c30d-493b-bfb3-315b77cd94e4.advancedenchants.commands.gedit.setdelay.in
   is not a valid integer!'
 8cacfe98-1518-4e18-9802-c726f78aa78a.deathmessages.Natural-Cause.Explosion.0: '%1
   ist explodiert'
-756b38e4-6514-495c-bce9-185a14c06287.huskhomeslocales.bulk_delete_warps_success:
+756b38e4-6514-495c-bce9-185a14c06287.huskhomeslocales.bulk_delete_warps_success: '[Successfully
+  deleted](&&#00fb9a) [%1](&&#00fb9a bold) [warps.](&&#00fb9a)'
 b175f4b5-26bd-4836-8166-bba4672dd5d5.lands.messages.help.command.lands.level: >-
   [T]&e%1 %2 &8- &7Levelfortschritt anzeigen[H]&7Betrachte den Fortschritt beim
   Freischalten des nächsten Levels und die Vorteile des aktuellen und des
@@ -7503,16 +7707,19 @@ b175f4b5-26bd-4836-8166-bba4672dd5d5.lands.messages.help.command.lands.level: >-
   &bAqua\n &8| &7Status: &a&l✔ &aUnlocked\n&f\n&e&l| &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴇʟᴇᴄᴛ"
 354ced10-44a0-4998-953e-b372f42a5ba2.deathmessages.Natural-Cause.Cramming.0: '%1 wurde
   in einem stark besiedelten Gebiet getötet'
-e1d8e6bb-c09d-47ed-ab53-64aaebbfeaa3.huskhomeslocales.error_teleport_request_self:
+e1d8e6bb-c09d-47ed-ab53-64aaebbfeaa3.huskhomeslocales.error_teleport_request_self: '[Error:](&&#ff3300)
+  [You cannot send a teleport request to yourself.](&&#ff7e5e)'
 241aa1e8-27bb-4bb5-b645-a53037593422.deathmessages.Basic-Mode.Gang.Magic.0: '%1 wurde
   von einer Gruppe von %2 mit Magie getötet'
-660b2aae-d780-4dcb-ae00-cf8747737657.huskhomeslocales.rtp_command_description:
+660b2aae-d780-4dcb-ae00-cf8747737657.huskhomeslocales.rtp_command_description: Teleport
+  randomly into the wild
 b83d324d-f0ae-4e51-a850-7863c6063915.glow.darkcyan.title: '&3&l■ &8| &3Dark Aqua Glowing'
 acc5db47-03ce-4ad5-9d2c-9b5925545fe7.tempflygeneral.fly.speed_self: '%1 &7Deine Fluggeschwindigkeit
   wurde auf &f%2&7 eingestellt.'
 6bcdf7fe-a4d9-4261-951e-0dc7ad848fcb.deathmessages.Mobs.drowned.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-d9ec9d7f-ca97-4acf-bb29-330444045995.huskhomeslocales.warp_deleted:
+d9ec9d7f-ca97-4acf-bb29-330444045995.huskhomeslocales.warp_deleted: '[Successfully
+  deleted the warp,](&&#00fb9a) [%1](&&#00fb9a bold)'
 9a5ce02f-d1c0-4e8a-a6fc-4e75ec1814e4.playerpoints.command-look-usage: '&cAnwendung:
   &b/points look &3<Spieler>'
 d7057522-10f5-478f-ac72-f609fbc04f3a.deathmessages.Mobs.wanderingtrader.Gang.Projectile-Arrow.0: '%1
@@ -7529,7 +7736,9 @@ c0096e65-5fd9-4cfe-8019-7b3337bf2b5a.tempflygeneral.fly.disabled_other: '%1 &f%2
   wurde von einer %2 gesprengt'
 bf4ce1fc-0c65-4fa0-be43-ffdbb4dd3b5e.tempflycommand.base.trail_set.0: trail
 5beb63b7-6478-4cd3-803e-4e5d0b97fbb6.lands.messages.general.map.others: '&c▉ '
-b1f11e24-a6eb-4d11-a80e-e6654262c839.huskhomeslocales.edit_warp_menu_coordinates:
+b1f11e24-a6eb-4d11-a80e-e6654262c839.huskhomeslocales.edit_warp_menu_coordinates: '[⚐
+  x: %1, y: %2, z: %3](&&#ffc43b-&#f5c962 show_text=&&&#ffc43b&Coordinates:\n&8Location
+  of the warp in the world\n&8yaw: %4, pitch: %5)\n'
 d6481256-c990-4ce8-ae22-889e7f70f61a.lands.messages.general.area.description.rented: Dieses
   Gebiet wird von Spieler %1 gemietet.
 24cf1a06-ebe8-4c7e-b6c8-0e64cbd0c345.tempflycommand.unit.minutes.tab_complete: Minute
@@ -7591,7 +7800,8 @@ c43e58a9-4f9f-4510-bddf-f95bebf08c10.cmd.main.desc.s16: |-
   must be positive.'
 14a5191b-c1c9-465e-ac63-0075d82a8b68.excellentcratesEditor.CrateEditorType.REWARD_SORT.Lore.1: '#bdc8c9specified
   Reihenfolge.'
-5a0090b0-5555-4c01-8144-dc5f824f98a8.huskhomeslocales.economy_action_accept_teleport_request:
+5a0090b0-5555-4c01-8144-dc5f824f98a8.huskhomeslocales.economy_action_accept_teleport_request: Accepted
+  a teleport request
 d3c79301-0f7e-4e06-ab5a-dd43e96563b7.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_NAME.Lore.3: '#ffed6a&lAktuell:'
 b5b174d6-63af-4db7-900c-5c081fe98b4e.advancedenchants.sets.commands.invalid-usage: '&cInvalid
   usage! Please reference /asets for the proper usage.'
@@ -7768,7 +7978,10 @@ c47be06e-04dc-4408-a7b4-65420a503c93.excellentcratesEditor.Crate.Enter.Block.Hol
 3ec3bcc8-a72b-4341-ac9a-281e763fea79.lands.messages.lands.command.unclaim.selection.empty: >-
   &cDu hast keine Chunks zurückgefordert, weil sie nicht beansprucht sind oder
   du sie nicht zurückfordern darfst.
-38878930-9cb7-4816-90c1-0d0a36271f3a.huskhomeslocales.edit_home_menu_metadata_private:
+38878930-9cb7-4816-90c1-0d0a36271f3a.huskhomeslocales.edit_home_menu_metadata_private: '[⌚
+  %1](&#999999-&#ababab show_text=&7Set Timestamp:\n&8When the home was set)   [⚡
+  %2](&#ababab-&#c7c7c7 show_text=&7Home ID:\n&8%3)   [∅ Private Home](&&#ff9f0f show_text=&&&#ff9f0f&Privacy:\n&8The
+  home is private to the owner)'
 0c204c47-7700-4cd5-89b8-e14831041367.PlayerParticlesgui-playerparticles: '&8Particles
   Menü'
 d376a5d8-47e5-4b45-98b5-d54d3752c3f3.deathmessages.Mobs.donkey.Solo.Melee.0: '%1 wurde
@@ -7835,7 +8048,8 @@ a6ca52db-d0fb-4c75-8849-893c47ee8337.lands.messages.help.command.lands.view.main
 b52bc725-5f05-4094-8d0c-e467cee961a5.lands.messages.help.command.lands.admin.import: >-
   [T]&e%1 %2 %3 &8- &7Importiere Ansprüche von Dritten[H]&7Klicke zum
   Kopieren.[/H][SC]%4[/SC][/T]
-7d9e84dd-ad5e-428c-bcf2-fe74814158ff.huskhomeslocales.spawn_command_description:
+7d9e84dd-ad5e-428c-bcf2-fe74814158ff.huskhomeslocales.spawn_command_description: Teleport
+  to spawn
 54857477-43a0-4e3b-98c4-b8b35f2c4e2a.cmd.settings.title.true.s38: '&bTrade &8| &7[Enabled]'
 655c0691-c873-42fa-9776-62bbc225ecd6.tempflygeneral.time.removed_other: '%1 &f%2 &7verloren
   &f⌚%3&7.'
@@ -7855,7 +8069,8 @@ f7f17540-49b0-4e7b-9f14-4b9255efc4d3.cmd.settings.title.unknown.s24: '&bVote Bro
   &8| &7[Toggle]'
 a5cf0bbe-6a8d-4adf-8b60-179af9c2c89b.excellentcratesEditor.CrateEditorType.REWARD_OBJECT.Lore.5: '#bbff6a▪
   #bdc8c9Shift-Left: #bbff6aMove Forward'
-11852252-45a1-416b-9a7a-c80469fdf257.huskhomeslocales.error_already_teleporting:
+11852252-45a1-416b-9a7a-c80469fdf257.huskhomeslocales.error_already_teleporting: '[Error:](&&#ff3300)
+  [Please wait for the current teleport to finish!](&&#ff7e5e)'
 05cd949d-dae6-461e-afe4-1c1cf72d4bf5.lands.messages.lands.command.claim.war: >-
   Du kannst keinen Anspruch erheben, während du dich im Krieg gegen %1&c
   befindest.
@@ -7920,7 +8135,7 @@ a6731cc3-04d5-444a-a211-c51326b985c4.deathmessages.Mobs.guardian.Gang.Projectile
   &b%1 &7erfordert &bitem &bdata&7! &7Format: &b<itemName>'
 a1461f0c-154a-43ec-a03e-78b5274cba1f.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_COOLDOWN.Lore.7: '#ffa76a▪
   #bdc8c9Negativer Wert macht die Kiste einmalig!'
-1024e118-5ee7-4880-ae73-bfb092f654da.huskhomeslocales.map_hook_warps_marker_set_name:
+1024e118-5ee7-4880-ae73-bfb092f654da.huskhomeslocales.map_hook_warps_marker_set_name: Warps
 8b4e3973-dacf-43ca-aadc-0ac3a725ee78.deathmessages.Basic-Mode.Gang.Projectile-Arrow.0: '%1
   wurde von einer Gruppe von %2 mit %3 erschossen'
 37562a0c-22a6-4f64-b2b9-02151b88fccb.cmd.languages.desc.s21: |-
@@ -8007,7 +8222,8 @@ c2fea39b-acc8-4f4a-ba1f-68b379464699.tempflygeneral.info.hours: '&fStunden: &b%1
   Sub-Befehl für &b/pp behoben&7!'
 66caf766-a05a-421a-be3b-8191d2f6728c.advancedenchants.commands.main.unenchant.does-not-have-enchant: "&cThat
   item doesn't have &4%1&c!"
-5f000449-cdc7-41c3-ba05-718bff8735b0.huskhomeslocales.tpaall_command_description:
+5f000449-cdc7-41c3-ba05-718bff8735b0.huskhomeslocales.tpaall_command_description: Request
+  that everyone teleports to you
 866b5cda-5917-4267-a6e2-14a605fa0721.deathmessages.Mobs.squid.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
 8faed297-a564-44f7-8289-43a66a9375c8.deathmessages.Mobs.ocelot.Gang.Melee.0: '%1 wurde
@@ -8074,7 +8290,8 @@ b900c269-8f5f-4f59-a5e0-0e67abcf32b7.advancedenchants.items.black-scroll.cannot-
   Effekte
 c95b2aaf-b6b5-4494-83f5-ec36b545ceff.ia.enchant.1: Unleash the hidden potential of
   your gear! Use [/enchanter] to add powerful enchantments with various tiers.
-04a10692-a968-4493-9b57-4f93e61b9a57.huskhomeslocales.teleport_request_declined:
+04a10692-a968-4493-9b57-4f93e61b9a57.huskhomeslocales.teleport_request_declined: '[%1
+  has declined your teleport request.](&&#ff7e5e)'
 ede30369-c353-433f-bdd7-6927b0d1765a.excellentenchantmentsFitItemType.TOOL: Werkzeug
 230a3b22-eff1-49c4-830b-54bac6f45045.lands.messages.list.sign.top.none.1: '&cKeine'
 e65224a0-4734-4b71-baa5-d368eb7a5f9e.PlayerParticlesfixed-remove-no-args: '&7Du hast
@@ -8105,7 +8322,8 @@ d8bf2bd1-f5ab-4ec4-9dbe-f94b6f1cbe4b.deathmessages.Mobs.hoglin.Solo.Weapon.0: '%
 4c1bcb91-f9a4-4f91-8379-4015a5f83825.lands.messages.lands.message.event.enter.land: '#t#[config]in:5,stay:40,out:2[/config]&2&l%1[newline]&3%2'
 896a5e69-8670-4a19-b4fb-12f477efa11a.deathmessages.Mobs.player.Solo.Respawn-Anchor.0: '%1
   stand zu nah an %2''s Respawn-Anker in der %3'
-a1748074-6b23-4b1c-9a87-c4d29b674b65.huskhomeslocales.teleport_request_declined_confirmation:
+a1748074-6b23-4b1c-9a87-c4d29b674b65.huskhomeslocales.teleport_request_declined_confirmation: "[You
+  declined %1's teleport request.](&&#ff7e5e)"
 0f01c37a-4f8a-49b0-a3e4-ead84a8b60ce.mycmd.nomoney: '&7Du brauchst &c%1&l$&7 um diesen
   Befehl auszuführen.'
 2777a4a5-077a-44b5-9d69-659b02d30956.deathmessages.Mobs.fox.Gang.Melee.0: '%1 wurde
@@ -8152,7 +8370,8 @@ a04c1fa4-7ee1-4b0b-a402-217e5a5b75ce.deathmessages.Mobs.pillager.Gang.Projectile
   zahlen, um'
 ee0785da-1c51-41af-836a-565b393affa6.PlayerParticlesgui-edit-data-color-purple: '#8a2be2Lila'
 9d2166d1-e37e-46cd-8973-aef2bd8c7e0d.excellentcratesEditor.CrateEditorType.Reward.Rarity.Name: '#ffed6a&lRarität'
-9de2c8d1-b0ce-416c-bae5-07bad47f021f.huskhomeslocales.teleporting_offline_player:
+9de2c8d1-b0ce-416c-bae5-07bad47f021f.huskhomeslocales.teleporting_offline_player: '[Teleporting
+  you to where %1 last logged out…](&&#00fb9a)'
 bff07833-6422-486e-8daf-dbff26bd1880.deathmessages.Mobs.zoglin.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 0d7cf737-28f3-4801-a247-73e29dcb6db2.glow.darkgreen.unlock: "&f\n&2Information\n &8|
@@ -8240,7 +8459,8 @@ c9e1eea0-5efb-4958-b5d1-16495a7ebc0d.deathmessages.Natural-Cause.Dragon-Breath.0
 a386274d-911c-45bb-a786-b3125faf7854.deathmessages.Mobs.elderguardian.Gang.Melee.0: '%1
   wurde von einer Bande von %2 erschlagen'
 c666b389-d6fd-4a70-9bd7-e07a2ab548dd.dh.settings.l4: ᴀ̈ɴᴅᴇʀᴇ ᴅᴇɪɴᴇ &#15CEFEᴇɪɴsᴛᴇʟʟᴜɴɢᴇɴ
-76e5ccf2-24e2-4197-8ce7-0f15bf6b2ae5.huskhomeslocales.home_list_item:
+76e5ccf2-24e2-4197-8ce7-0f15bf6b2ae5.huskhomeslocales.home_list_item: '[[%1]](show_text=&&&#00fb9a&%2\n&7Status:
+  %3\n&7ℹ %4 run_command=/huskhomes:edithome %5)'
 2bcbf53b-11df-4330-b251-183ebd7078fb.deathmessages.Mobs.pufferfish.Solo.Projectile-Arrow.0: '%1
   wurde von einem %2 irgendwie mit %3 erschossen'
 5b60396f-80c5-49ff-ba2b-f506d0822954.deathmessages.Mobs.ocelot.Gang.Projectile-Arrow.0: '%1
@@ -8249,7 +8469,8 @@ c666b389-d6fd-4a70-9bd7-e07a2ab548dd.dh.settings.l4: ᴀ̈ɴᴅᴇʀᴇ ᴅᴇɪ
   einige Argumente. &b/ppo &3<Spieler> <Befehl>'
 b433a5f0-ef4c-449a-abac-01cbc48c0639.advancedenchants.commands.main.greset.reset-all: '&aReset
   all GKits for %1!'
-92809955-31d9-4b13-9d52-70c6fa34bc3a.huskhomeslocales.home_deleted_other:
+92809955-31d9-4b13-9d52-70c6fa34bc3a.huskhomeslocales.home_deleted_other: "[Successfully
+  deleted %1's home,](&&#00fb9a) [%2](&&#00fb9a bold)"
 816f0364-2df8-424a-8b11-04fa990d1978.lands.messages.lands.command.relations.enemies.add.success: '&7Du
   &8(&7%1&8) &7und %2 &7sind jetzt Feinde.'
 5e396554-6d75-4a49-b4de-c9a2a149c082.cmd.main.title.s30: '&b&lRegeln'
@@ -8321,7 +8542,8 @@ ad72bdc0-a644-41b8-a524-6afa838218d9.deathmessages.Basic-Mode.Gang.Weapon.0: '%1
   &cᴄʟɪᴄᴋ ᴛᴏ ᴜɴʟᴏᴄᴋ"
 f02bf059-95c7-42ac-9479-7057aca818f4.deathmessages.Mobs.fox.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
-35fd51ce-ea8f-4a11-923a-8cbcf27f5d7b.huskhomeslocales.tpa_command_description:
+35fd51ce-ea8f-4a11-923a-8cbcf27f5d7b.huskhomeslocales.tpa_command_description: Request
+  to teleport to another player
 07c90ad5-5ce7-42f7-a4fe-4169679cbc75.deathmessages.Mobs.pig.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
 47a21a8b-3473-44d4-8a6f-7c05597d79a9.alonsotags.reloaded: >-
@@ -8357,7 +8579,8 @@ ea9d96c7-0e5a-4f1b-b177-3c3f7493562b.deathmessages.Mobs.phantom.Solo.Melee.0: '%
   wurde von einem %2 irgendwie mit %3 erschossen'
 aca3c2ce-8630-49ca-ba45-8626f505132a.excellentcratesEditor.Crate.BlockPushback.Lore.5: '#ffed6a▪
   #bdc8c9Enabled: #ffed6a%1'
-21b6587f-cee8-4103-8d2d-9b591105a70e.huskhomeslocales.error_teleport_request_expired:
+21b6587f-cee8-4103-8d2d-9b591105a70e.huskhomeslocales.error_teleport_request_expired: '[Error:](&&#ff3300)
+  [Your pending teleport request has expired.](&&#ff7e5e)'
 f8b9bcd4-7980-47f8-a9ff-e3baa7f735a9.lands.messages.lands.command.chat.activated: >-
   &7Aktivierter Land-Chat. Sende eine Nachricht im öffentlichen Chat, um mit
   deinem Land zu chatten.
@@ -8411,13 +8634,16 @@ aa2a5698-c9f3-4675-a133-79ff3809810a.advancedenchants.applying.applied: '&aEncha
 f38c4fcc-983b-4b7c-9dd9-510dc98d285c.deathmessages.Natural-Cause.End-Crystal.0: '%1
   ist explodiert! Sie haben mit einem Endkristall herumgespielt!'
 07a2f0a6-8da4-4968-9e1f-6013e33ebb22.ib.tilgis.top-lands: '&fTop Claims'
-3e4d7f23-5ddb-4517-9fec-fdfa5520d24d.huskhomeslocales.error_unknown_public_home:
+3e4d7f23-5ddb-4517-9fec-fdfa5520d24d.huskhomeslocales.error_unknown_public_home: '[Error:](&&#ff3300)
+  [Could not find a public home with the name "%1".](&&#ff7e5e)'
 a55ffa70-e276-47fb-a759-16df2c37b0d0.deathmessages.Mobs.player.Solo.End-Crystal.0: '%1
   hat %2 getötet, indem er einen Endkristall gesprengt hat!'
 d3d59e0d-bb36-4062-80c4-4b7afc72d24b.lands.messages.general.top.hologram.land.title: '&7&m━━━━━━━━━━━━━━<━&r
   &2Top 10 Länder &8(&7Gesamt: %1&8) &7&m━>━━━━━━━━━━━━━━'
 841f742d-5c20-4236-9c72-ef43052d08c3.excellentcratesEditor.CrateEditorType.CRATE_OBJECT.Lore.0: '#bbff6a&lAktionen:'
-3a5322ab-e8c8-4cbf-a4e6-d1ae9aa17526.huskhomeslocales.edit_warp_update_description:
+3a5322ab-e8c8-4cbf-a4e6-d1ae9aa17526.huskhomeslocales.edit_warp_update_description: '[Successfully
+  changed the description of the warp, %1:](&&#00fb9a) \n[←](white) [Old:](&&#00fb9a)
+  ["%2"](gray)\n[→](white) [New:](&&#00fb9a) ["%3" ](gray)'
 8888e838-dba9-4d51-855c-8974e0565af4.SuperVanishMessages.RecreationRequiredMsg: >-
   &b&l%1 &8&l┃ &7Deine SuperVanish-Dateien sind nicht auf dem neuesten Stand. Du
   kannst sie mit &f/sv recreatefiles&7 neu erstellen oder mit &f/sv
@@ -8462,7 +8688,8 @@ cf2da1aa-31e3-495d-a246-e7e69a06ae1d.excellentcratesEditor.CrateEditorType.CRATE
   #bdc8c9Right-Click: #bbff6aDisable'
 0f31effe-fc50-4bd6-afb7-ef286a7d3f40.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.7: '#bbff6a▪
   #bdc8c9Links-Klick: #bbff6aChange'
-4fa642c0-a21a-4ab7-ada9-38101326eaff.huskhomeslocales.error_set_home_maximum_homes:
+4fa642c0-a21a-4ab7-ada9-38101326eaff.huskhomeslocales.error_set_home_maximum_homes: '[Error:](&&#ff3300)
+  [You can only set a maximum of %1 homes!](&&#ff7e5e)'
 a7129dad-b3fd-49ac-87f5-b5229d05ae93.PlayerParticlescommand-description-fixed-clear-console: >-
   &b/pp fixed clear&3 <radius> <x> <y> <z> <world> &8-&f Löscht alle fixen
   Effekte aller Spieler innerhalb des angegebenen Radius
@@ -8556,7 +8783,8 @@ adc2a2ac-fcc3-4778-aeaf-eebabffa1e68.lands.messages.wars.command.declare.no-nati
   %1 does not exist!'
 a58c0e08-2ca8-41e3-8784-2bf459e98ad7.advancedenchants.commands.enchantment-info.open-menu-message: '&7Information
   about &e%1 &7enchantment.'
-ab20a35a-0e08-40fb-9bcd-32750d5fa125.huskhomeslocales.list_next_page_button:
+ab20a35a-0e08-40fb-9bcd-32750d5fa125.huskhomeslocales.list_next_page_button: ' [▶](white
+  show_text=&7View next page run_command=%1 %2)'
 ab997741-8189-4240-ba97-51f7260a85ef.lands.messages.lands.command.merge.max.chunks: >-
   &cDu kannst Land&4 %1 &cinto&4 %2&c nicht fusionieren. &7Ihre Gesamtanzahl
   an&3 %3 &7Blöcken übersteigt die Grenze von&3 %4 &7Blöcken für dein Land&2
@@ -8576,7 +8804,8 @@ f091d8b1-2251-410e-8782-195b9b7988f9.excellentcratesEditor.CrateEditorType.CRATE
   #bdc8c9Display Name: #ffed6a%1'
 1ffcdafc-247c-4b2c-ad4c-8090f5c2907e.deathmessages.Mobs.salmon.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-9070a837-13fd-458a-8f43-cde1ca084d96.huskhomeslocales.set_home_success:
+9070a837-13fd-458a-8f43-cde1ca084d96.huskhomeslocales.set_home_success: '[Successfully
+  set a new home called](&&#00fb9a) [%1](&&#00fb9a bold)'
 2c7341a8-c9bd-4a7b-8069-88294d7753fc.cmd.languages.title.s31: '&b&lItalienisch'
 084c37c7-8828-4a74-992d-23b844f1337d.deathmessages.Mobs.panda.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
@@ -8593,7 +8822,8 @@ d4615b57-252d-4ead-9e77-5855c786e8e8.lands.messages.lands.command.map.header: '&
 609a9014-24be-4b55-a5a2-6a7973efcdab.PlayerParticlesdata-usage-color: >-
   &7Der Effekt &b%1 &7erfordert &bFarbdaten&7 Format: &3<<0-255> <0-255>
   <0-255>>|<Regenbogen>|<Zufall>
-b0b710d2-fd02-41aa-9558-9a1119feb49f.huskhomeslocales.tpoffline_command_description:
+b0b710d2-fd02-41aa-9558-9a1119feb49f.huskhomeslocales.tpoffline_command_description: Teleport
+  to where a player was last online
 4ef6a01c-ea20-4fc8-8d7c-b58b94c9eebc.PlayerParticlesfixed-clear-no-permission: '&7Dazu
   haben Sie keine Berechtigung!'
 42d0fec1-c688-4832-a205-0145645b51b4.advancedenchants.applying.already-applied: '&cThe
@@ -8635,13 +8865,18 @@ e4bdb4bb-d027-40b6-a676-47851a4022e6.deathmessages.Mobs.player.Gang.Melee.0: '%1
   der Rolle ist höher oder gleich der deinen.
 649a62a5-3163-4fe9-924f-72fdcab5d173.deathmessages.Mobs.elderguardian.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
-d8a9bfa0-a1c1-44af-910b-cfd3e88e9f10.huskhomeslocales.bulk_delete_homes_confirm:
+d8a9bfa0-a1c1-44af-910b-cfd3e88e9f10.huskhomeslocales.bulk_delete_homes_confirm: '[Warning:](&&#ff3300)
+  [Are you sure you want to delete all homes in the world \"%1\"?](&&#ff7e5e)\n[This
+  action is irreversible.](gray)\n[→](gray) [[Confirm]](&&#ff3300 show_text=&&&#ff3300&Click
+  to confirm deletion. This cannot be undone. run_command=/huskhomes:huskhomes delete
+  homes %2 %3 confirm)'
 a61b34fa-3f9c-4c38-bad4-feadce08d944.ia.ah.2: Use [/ah] to create and manage your
   auctions.
 ffd4838c-1493-4a46-b36f-3e459a91271c.lands.messages.lands.command.wild.searching: '#t#&6Searching[newline]&7Destination...'
 d22d93dd-a3f3-41c2-b16e-bf8ee1d4267f.tempflygeneral.fly.already_disabled: '%1 &7Dein
   Flug ist bereits deaktiviert!'
-cca79e18-befb-454f-b8fa-29e0cac63376.huskhomeslocales.error_warp_name_length:
+cca79e18-befb-454f-b8fa-29e0cac63376.huskhomeslocales.error_warp_name_length: '[Error:](&&#ff3300)
+  [Warp names can only contain up to 16 characters!](&&#ff7e5e)'
 3dc96044-40b9-4d33-8f32-6ce4f66dd5e8.advancedenchants.gkits.no-permission: "&eYou
   don't have permissions to use &e%1&6 kit."
 c5ec662a-3d72-490e-8dd1-c8ca6d6cc786.excellentcratesEditor.CrateEditorType.REWARD_CHANGE_CHANCE.Lore.4: '#ffed6a▪
@@ -8697,13 +8932,17 @@ ccb69ffc-6c89-4e40-932e-b3db08c5c094.excellentcratesEditor.CrateEditorType.CRATE
 72a2a38b-a7f0-4ac0-9552-525ccd01ac16.deathmessages.Mobs.sheep.Solo.Weapon.0: '%1 wurde
   von einem %2 irgendwie mit %3 erschlagen'
 bb4f134a-451b-42b4-bf76-5250d81ec0b9.excellentcratesEditor.CrateEditorType.CRATE_CHANGE_BLOCK_LOCATION.Lore.5: '#bdc8c9#ffed6a%1'
-6d848f51-522a-47d2-98b1-f453c62d23d8.huskhomeslocales.edit_warp_menu_manage_buttons:
+6d848f51-522a-47d2-98b1-f453c62d23d8.huskhomeslocales.edit_warp_menu_manage_buttons: '[Manage:](gray)
+  [[❌ Delete…]](&&#ff3300 show_text=&7Click to delete this warp\n&&&#ff3300&⚠ This
+  cannot be undone! suggest_command=/huskhomes:delwarp %1)   [[⚐ Relocate…]](&&#ffc43b-&#f5c962
+  show_text=&7Click to relocate this warp to your position run_command=/huskhomes:editwarp
+  %2 relocate)'
 c3bc89eb-eaa6-4df0-93d1-d53e95bc765b.ia.reload: '&7Konfigurations- und Sprachdateien
   wurden neu geladen.'
 b4893461-ff6b-41e3-84d8-3cd9a000fbd5.PlayerParticlesgroup-save-success: >-
   &7Deine aktuellen Partikel wurden unter der Gruppe mit dem Namen &b%1&7
   gespeichert!
-c4a6c87d-4154-4609-8dea-372dd1728ed6.huskhomeslocales.teleporting_action_bar_processing:
+c4a6c87d-4154-4609-8dea-372dd1728ed6.huskhomeslocales.teleporting_action_bar_processing: '[Teleporting…](&&#00fb9a)'
 1506a3ab-18f3-4406-9c63-68e4da0eaff1.advancedenchants.commands.main.info.0: '&eInformation
   about &6%1 &eenchantment&7:'
 157b0398-4561-4a63-a469-934b52344c4c.cmd.main.title.s12: '&b&lPlayerWarps'
@@ -8732,7 +8971,8 @@ c346c7c4-1188-4a7c-bc61-1bf9a5cd26b2.lands.messages.lands.command.untrust.area.r
   oder Stil mit dem Namen &b%1 &7existiert nicht!'
 95a2c402-fa51-4b69-a930-bc0b5b62d5fe.deathmessages.Mobs.rabbit.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-15b21c1e-bdb5-4caf-93e5-538eb7c8a2f8.huskhomeslocales.error_spawn_not_set:
+15b21c1e-bdb5-4caf-93e5-538eb7c8a2f8.huskhomeslocales.error_spawn_not_set: '[Error:](&&#ff3300)
+  [The spawn position has not been set.](&&#ff7e5e)'
 70665cfb-7454-4275-aaf2-1dafe6e12e9d.deathmessages.Mobs.magmacube.Gang.Weapon.0: '%1
   wurde von ein paar %2 angegriffen! Einer schlug sie mit %3'
 8570fff1-b06e-487b-a34d-f56a787eb39b.deathmessages.Mobs.llama.Solo.Projectile-LlamaSpit.0: '%1
@@ -8813,7 +9053,8 @@ ff3535d1-b338-4cab-bfbe-cbd68ffad22d.excellentcratesEditor.CrateEditorType.REWAR
   von ein paar %2 angegriffen! Einer schlug sie mit %3'
 1a36903c-ba8b-421e-930f-f310a7165258.deathmessages.Mobs.fox.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
-984adc5f-ba0c-4119-9380-c445f222efc6.huskhomeslocales.economy_action_warp_teleport:
+984adc5f-ba0c-4119-9380-c445f222efc6.huskhomeslocales.economy_action_warp_teleport: Teleported
+  to a warp
 4ac64ed0-3a26-4003-9fa0-6f1d64d6ccce.deathmessages.Mobs.blaze.Solo.Weapon.0: '%1 wurde
   von einem %2 irgendwie mit %3 erschlagen'
 0e047666-3e71-4b36-8d82-22cc0987545b.advancedenchants.alchemist.cannot-afford: '&cYou
@@ -8873,7 +9114,7 @@ f6154943-4689-46be-b770-2e50e0bc7d18.deathmessages.Mobs.skeletonhorse.Solo.Proje
   ihre Spur auf &f%3&7 gesetzt!'
 932ec3f7-6ce7-4271-965c-4c9a584a0fd8.cmd.upgrade.buy: '&7You can buy upgrades of the
   type §x§2§0§F§7§0§7%1 for a total of ⛃%2 Tokens'
-bd3fa4b5-f025-435e-80d5-f7d4b945b3c9.huskhomeslocales.list_page_jumpers:
+bd3fa4b5-f025-435e-80d5-f7d4b945b3c9.huskhomeslocales.list_page_jumpers: (%1)
 b8e420e7-2c1a-4215-91f6-3ae024362f33.deathmessages.Mobs.bat.Solo.Melee.0: '%1 wurde
   von einem %2 erschlagen'
 0f9f4521-ec32-4f2a-9519-2c2174dd05f7.rules.2-9: "§x§2§0§F§7§0§72.9 – Protection of
@@ -8925,7 +9166,11 @@ c9093209-11f5-45c5-b6c8-bc9668f850fb.deathmessages.Mobs.ocelot.Gang.Melee.0: '%1
   von einer Bande von %2 erschlagen'
 61958bfc-20ba-4fac-9251-f975c5445b36.excellentenchantmentsCommand.TierBook.Error: §cUngültige
   Stufe!
-ce257c2a-e2f0-41b4-959d-3845948befb5.huskhomeslocales.bulk_delete_warps_confirm:
+ce257c2a-e2f0-41b4-959d-3845948befb5.huskhomeslocales.bulk_delete_warps_confirm: '[Warning:](&&#ff3300)
+  [Are you sure you want to delete all warps in the world \"%1\"?](&&#ff7e5e)\n[This
+  action is irreversible.](gray)\n[→](gray) [[Confirm]](&&#ff3300 show_text=&&&#ff3300&Click
+  to confirm deletion. This cannot be undone. run_command=/huskhomes:huskhomes delete
+  warps %2 %3 confirm)'
 8f8068a6-7f5f-41e1-bdf4-4c48d9b25450.deathmessages.Mobs.piglin.Gang.Melee.0: '%1 wurde
   von einer Bande von %2 erschlagen'
 48c45eb8-2170-4c80-a6df-58cc0658db5d.tempflygeneral.requirement.fail.default: '%1
@@ -8940,7 +9185,8 @@ b9d04968-f4f0-440d-b03d-ed3b4255ca9d.deathmessages.Mobs.donkey.Solo.Projectile-A
   wurde von einem %2 irgendwie mit %3 erschossen'
 6c7dc5bf-a334-4e8e-abab-e336b2b77a41.lands.messages.lands.command.relations.enemies.add.already: '&7%1
   &7 ist bereits ein Feind von %2&7.'
-7698fcc8-5e59-40c9-9961-78da3bbcbbf5.huskhomeslocales.map_hook_public_homes_marker_set_name:
+7698fcc8-5e59-40c9-9961-78da3bbcbbf5.huskhomeslocales.map_hook_public_homes_marker_set_name: Public
+  Homes
 739e775e-8caa-47a8-9abb-cb097cc6062f.dh.your-playtime: '&fDeine Spielzeit:'
 89586e9d-1860-4838-a376-6f908913bd9f.lands.messages.lands.command.accept.land.broadcast: '&2%1
   &8| &7Spieler&3 %2 &7ist jetzt ein Mitglied unseres Landes.'
@@ -8949,7 +9195,8 @@ b9d04968-f4f0-440d-b03d-ed3b4255ca9d.deathmessages.Mobs.donkey.Solo.Projectile-A
   Feind. Klicke zum Kopieren.[/H][SC]%4[/SC][/T]
 6ac1845d-47a4-4051-af67-6b24359d4b0d.deathmessages.Mobs.traderllama.Gang.Projectile-Arrow.0: '%1
   wurde von einigen %2 überfallen! Man erschoss sie mit %3'
-f3249ec8-cae7-4c36-b389-eb6484c47665.huskhomeslocales.edit_home_menu_title:
+f3249ec8-cae7-4c36-b389-eb6484c47665.huskhomeslocales.edit_home_menu_title: '[Viewing
+  details for your home,](&&#00fb9a) [%1](&&#00fb9a bold)[:](&&#00fb9a)'
 4839a86f-a1d5-4e71-8efc-719d1f32e935.deathmessages.Natural-Cause.Projectile-EnderPearl.0: '%1
   hat sich erschossen'
 5f60b81d-8830-4769-814a-76222ec41df1.deathmessages.Mobs.ghast.Gang.Melee.0: '%1 wurde
@@ -9005,3 +9252,29 @@ c00da470-4855-427d-b380-b7c09b31a44d.gsitPlugin.plugin-prefix: '&b&lsɪᴛ &8&l�
   nicht gefunden! &b"/help"&7 für weitere Informationen!'
 e96d92ed-52b8-47d5-903a-b2f497562538.lands.messages.general.inbox.relation.ally.remove: '&7Wir
   sind nicht länger mit %1&7 verbündet.'
+78f08e02-c7ad-4078-b2b0-e1fec041a716.dh.npc.spawn.panel.l4: §fᴍᴀɴᴀɢᴇ ʏᴏᴜʀ §x§d§1§3§7§F§7sᴜʀᴠɪᴠᴀʟ
+  ᴘᴀɴᴇʟ
+8a90a63b-6bfc-476a-8c4d-80ffaa1c4515.dh.npc.spawn.bank.l4: '&fᴘᴜᴛ ʏᴏᴜʀ ᴍᴏɴᴇʏ ɪɴ ᴛʜᴇ
+  §x§E§8§8§C§0§8ʙᴀɴᴋ'
+434bb4ce-6ed7-4674-a2af-2d55d84662e2.dh.npc.spawn.panel.l5: §fᴛᴏ ᴀᴄᴄᴇs ᴀʟʟ ᴏᴜʀ ғᴇᴀᴛᴜʀᴇs
+a40f7014-d987-4c38-a107-2253ab099d5c.dh.npc.spawn.daily.l5: '&fʏᴏᴜʀ &aᴅᴀɪʟʏ ʀᴇᴡᴀʀᴅs&f,
+  ᴋᴇᴇᴘ ʏᴏᴜʀ sᴛʀᴇᴀᴋ'
+a6f89c0e-f38f-4a7c-b83f-8655bd82a936.dh.npc.spawn.daily.l6: '&fᴛᴏ ɢᴇᴛ ᴀʟʟ ᴛʜᴇ &aaɢɪғᴛs
+  ᴡᴇ ᴏғғᴇʀ'
+a52bf6bd-72d7-4ab4-86c2-3e438369aee8.dh.npc.dimenstion_at_this_npc: ᴅɪᴍᴇɴsɪᴏɴ ᴀᴛ ᴛʜɪs
+  ɴᴘᴄ
+58296749-e296-4d0a-b8b6-739add380629.dh.npc.spawn.bank.l5: '&fᴀɴᴅ sᴀᴠᴇ ɪᴛ ᴜᴘ ғᴏʀ ʟᴀᴛᴇʀ'
+fb582c1a-4c2f-4241-8a14-894b1b0cde2c.bankplus.success-withdraw: Successfully withdrew
+  &a%1% &7money! &8(&b%2% &7lost in taxes&8)
+23e68495-64a8-4920-9ad1-e870036e7a4c.dh.npc.spawn.bank.l10: '&c(ᴛʜᴇ ʙᴀɴᴋ ᴡɪʟʟ ɴᴏᴛ
+  ᴘᴀʏ ʏᴏᴜʀ ᴄʟᴀɪᴍs)'
+af4ed799-0307-4ee7-9629-73c35a4bf463.dh.npc.spawn.bank.l7: '&fʙᴜᴛ ɪғ ʏᴏᴜ ᴀʀᴇ ʀɪᴄʜ,
+  ʏᴏᴜ ɢᴏᴛᴛᴀ ᴘᴀʏ'
+85405543-58d3-4d91-9618-7060ddd012c3.dh.npc.spawn.daily.l4: '&fɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ ᴛᴏ
+  ᴄʟᴀɪᴍ'
+6591deb7-f97f-466f-9195-a379f1cec41b.dh.npc.spawn.bank.l6: '&fʏᴏᴜ ᴍɪɢʜᴛ ᴍᴀᴋᴇ sᴏᴍᴇ
+  §x§E§8§8§C§0§8ᴍᴏɴᴇʏ'
+74aa7fb2-d9ba-4ecc-bdfe-10029ef5bc37.dh.npc.teleport_to_dimension: ᴛᴇʟᴇᴘᴏʀᴛ ᴛᴏ ᴛʜᴇ
+259d500a-4551-4a0d-be5d-a357b02ae175.dh.npc.spawn.bank.l8: sᴏᴍᴇ ʜɪɢʜ ᴛᴀxᴇs ᴛᴏ ᴋᴇᴇᴘ
+  ᴛʜᴇ §x§E§8§8§C§0§8ᴍᴏɴᴇʏ
+633f4ebd-2665-498f-9fb5-db5870461706.dh.npc.time_in_this_world: ᴛɪᴍᴇ ɪɴ ᴛʜɪs ᴡᴏʀʟᴅ
