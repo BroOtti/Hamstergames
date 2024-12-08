@@ -8022,3 +8022,471 @@ a63d1522-603d-4653-bd71-9f19deb47977.glow.yellow.title: '&e&l■ &8| &eYellow Gl
   includes names, addresses, telephone numbers or other personal information.\n&fRespect
   other players’ privacy and \n§x§2§0§F§7§0§7do not share&f information without their
   consent.\n&fAvoid harassing or stalking players by posting their personal information."
+8a037aea-0087-49ec-8265-97a2cfa60b01.huskhomeslocales.list_item_divider: ' [•](gray) '
+95c1ba49-b39f-4409-9efa-b94dd95f8d22.huskhomeslocales.tpdecline_command_description: Decline
+  a teleport request
+79211c0c-e2cf-4ecf-b2ef-cea3ab95b2a5.huskhomeslocales.list_page_jumper_button: '[%1](show_text=&7Jump
+  to page %2 run_command=%3 %4)'
+134bb0c2-0135-4614-86f1-22d0d03da391.huskhomeslocales.phome_command_description: Teleport
+  to a public home
+20dde544-42e9-4d4a-a8db-a5ab335b89a4.huskhomeslocales.list_footer: \n%1[Page](&&#00fb9a)
+  [%2](&&#00fb9a)/[%3](&&#00fb9a)%4   %5
+b275a364-330a-4d7b-a7ec-ca529336ef82.huskhomeslocales.list_page_jumper_group_separator: …
+4c5a251b-f20d-45b9-8203-268857a16a59.huskhomeslocales.error_insufficient_funds: '[Error:](&&#ff3300)
+  [You do not have enough money. (Cost: %1)](&&#ff7e5e)'
+05d80598-525c-4382-93db-43d5a54ee3ae.huskhomeslocales.tpa_request_sent: '[You sent
+  a teleport request asking to teleport to](&&#00fb9a) [%1](&&#00fb9a bold)[.](&&#00fb9a)'
+4dbb26ef-8a11-458c-976d-2b86ee594258.huskhomeslocales.economy_action_random_teleport: Used
+  the /rtp command
+7a197f45-2cca-4a84-8405-09565e3a94a8.huskhomeslocales.set_spawn_success: '[Moved the
+  spawn position to your current location.](&&#00fb9a)'
+35fd51ce-ea8f-4a11-923a-8cbcf27f5d7b.huskhomeslocales.tpa_command_description: Request
+  to teleport to another player
+ab20a35a-0e08-40fb-9bcd-32750d5fa125.huskhomeslocales.list_next_page_button: ' [▶](white
+  show_text=&7View next page run_command=%1 %2)'
+9070a837-13fd-458a-8f43-cde1ca084d96.huskhomeslocales.set_home_success: '[Successfully
+  set a new home called](&&#00fb9a) [%1](&&#00fb9a bold)'
+b0b710d2-fd02-41aa-9558-9a1119feb49f.huskhomeslocales.tpoffline_command_description: Teleport
+  to where a player was last online
+cca79e18-befb-454f-b8fa-29e0cac63376.huskhomeslocales.error_warp_name_length: '[Error:](&&#ff3300)
+  [Warp names can only contain up to 16 characters!](&&#ff7e5e)'
+95ddcb59-66e3-4cdc-9988-6dfd0dbdf847.huskhomeslocales.teleporting_all_players: '[Teleporting
+  all players to your position…](&&#00fb9a)'
+5f216da0-bf0d-4a4b-9217-a68e1e5c1ce3.huskhomeslocales.tphere_command_description: Teleport
+  another player to you
+7698fcc8-5e59-40c9-9961-78da3bbcbbf5.huskhomeslocales.map_hook_public_homes_marker_set_name: Public
+  Homes
+78f08e02-c7ad-4078-b2b0-e1fec041a716.dh.npc.spawn.panel.l4: §fᴍᴀɴᴀɢᴇ ʏᴏᴜʀ §x§d§1§3§7§F§7sᴜʀᴠɪᴠᴀʟ
+  ᴘᴀɴᴇʟ
+590447ce-79e1-4e69-812b-aeb07cf2ed6c.huskhomeslocales.edit_home_update_name: '[Successfully
+  renamed your home: %1 →](&&#00fb9a) [%2](&&#00fb9a bold)'
+d321cb30-c3cc-424c-8745-6b1725d24d9d.huskhomeslocales.list_previous_page_button: '[◀](white
+  show_text=&7View previous page run_command=%1 %2) '
+d268a570-6da5-4714-baad-921a353a927f.huskhomeslocales.error_public_home_invalid: '[Error:](&&#ff3300)
+  [Could not find a public home owned by %1 called %2.](&&#ff7e5e)'
+7df727da-c1db-4cba-9e7e-e1874cee9fe7.huskhomeslocales.edit_home_menu_privacy_button_public: '[[☀
+  Make Public…]](&#6fff00 show_text=&7Click to open this home to the public run_command=/huskhomes:edithome
+  %1 privacy)'
+cd4d3b7e-4894-4214-9aac-f3cb98be82ff.huskhomeslocales.warp_list_item: '[[%1]](show_text=&&&#00fb9a&%2\n&7ℹ
+  %3 run_command=/huskhomes:warp %4)'
+52ee260d-804e-46cc-a44d-dfd58d417f5c.huskhomeslocales.error_rtp_randomization_timeout: '[Error:](&&#ff3300)
+  [Failed to find a safe random location to teleport you.](&&#ff7e5e)'
+8a90a63b-6bfc-476a-8c4d-80ffaa1c4515.dh.npc.spawn.bank.l4: '&fᴘᴜᴛ ʏᴏᴜʀ ᴍᴏɴᴇʏ ɪɴ ᴛʜᴇ
+  §x§E§8§8§C§0§8ʙᴀɴᴋ'
+c1367117-2068-40b6-85ed-918238d6fef9.huskhomeslocales.tpa_request_received: '[%1](&&#00fb9a
+  bold) [has requested to teleport to you.](&&#00fb9a)'
+7fdfb484-f4e1-4b7c-ad8b-df9992c983dc.huskhomeslocales.up_to_date: '[HuskHomes](&&#00fb9a
+  bold) [| You are running the latest version of HuskHomes (v%1).](&&#00fb9a)'
+915482ea-b85b-40a1-a990-d7829ee0b647.huskhomeslocales.economy_action_send_teleport_request: Sent
+  a teleport request
+b573eff9-edad-4ddc-97de-6c42919634f7.huskhomeslocales.teleport_request_accepted_confirmation: "[You
+  accepted %1's teleport request!](&&#00fb9a)"
+aee3f6b9-ced8-4184-8ee1-ca9a49104002.huskhomeslocales.set_home_used_free_slots: '[ℹ
+  You have used all %1 of your free home slots. Setting additional homes will cost
+  %2 each.](gray)'
+3f35da37-682d-4aa0-81d8-b1b20173ac37.huskhomeslocales.home_deleted: '[Successfully
+  deleted your home,](&&#00fb9a) [%1](&&#00fb9a bold)'
+ba1b4ab6-ba51-4a67-b6f6-48fa344f3b1e.huskhomeslocales.error_warp_description_characters: '[Error:](&&#ff3300)
+  [Warp descriptions may only contain alphanumeric (A-Z, 0-9) characters, spaces,
+  hyphens (-) and underscores (_)](&&#ff7e5e)'
+7feffe58-54c5-4e69-8fd5-4069777e8eae.huskhomeslocales.teleporting_random_generation: '[Finding
+  a safe random position to teleport you to…](&&#00fb9a)'
+f2a02673-4fc9-476e-b6a1-b3df2d7a5a00.huskhomeslocales.teleporting_other_complete: '[Teleported
+  %1 to %2.](&&#00fb9a)'
+376326be-d036-44c2-a4c3-ed1cb3f08604.huskhomeslocales.error_no_offline_position: '[Error:](&&#ff3300)
+  [Could not find where %1 last logged out.](&&#ff7e5e)'
+c3f61709-d0ef-41cd-80d6-b9be03d3de09.huskhomeslocales.edit_home_privacy_private_success: '[Successfully
+  made your home,](&&#00fb9a) [%1](&&#00fb9a bold)[, private.](&&#00fb9a)'
+8244c46a-fa73-41be-8300-d1d7dea1352c.huskhomeslocales.teleporting_cancelled_movement: '[Teleportation
+  cancelled—you moved!](&&#ff7e5e)'
+49b5bfb6-1032-4e33-b667-3f8d533149cc.huskhomeslocales.error_ignoring_teleport_requests: '[Error:](&&#ff3300)
+  [You are currently ignoring teleport requests.](&&#ff7e5e) [[Stop Ignoring…]](&&#ff7e5e
+  show_text=&&&#ff7e5e&Click to listen for incoming teleport requests run_command=/huskhomes:tpignore)'
+b5072e9b-f53c-4def-9fa7-f128a66bf782.huskhomeslocales.command_list_title: '[HuskHomes](&&#00fb9a
+  bold) [| Command List](&&#00fb9a)\n'
+b9fdce87-ee47-4ed4-bf4a-32f746efb799.huskhomeslocales.error_invalid_syntax: '[Error:](&&#ff3300)
+  [Invalid syntax. Usage:](&&#ff7e5e) [%1](&&#ff7e5e italic show_text=&&&#ff7e5e&Click
+  to suggest suggest_command=%2)'
+6ebcae59-1381-487e-ab60-38a5f1aef295.huskhomeslocales.home_list_page_title: "[%1's
+  Homes:](&&#00fb9a) [(%2-%3 of](&&#00fb9a) [%4](&&#00fb9a bold)[)](&&#00fb9a)\\n"
+43d22597-40b4-452f-a153-bbd6b0d23c4e.huskhomeslocales.tpignore_command_description: Ignore
+  incoming teleport requests
+cb70082a-3037-4fa4-afb5-7f2d97c1a92a.huskhomeslocales.error_edit_home_maximum_public_homes: '[Error:](&&#ff3300)
+  [You can only make a maximum of %1 homes public.](&&#ff7e5e)'
+da6c7d1b-ffc9-4db1-923d-18fcbb84cea9.huskhomeslocales.error_illegal_target_coordinates: '[Error:](&&#ff3300)
+  [Cancelled teleport as it exceeds the possible game world limits.](&&#ff7e5e)'
+2dd3717f-9537-4eef-9ac3-b777c7cc3c10.huskhomeslocales.error_no_permission: '[Error:](&&#ff3300)
+  [You do not have permission to execute that command.](&&#ff7e5e)'
+0dd435d1-bc65-41cb-a0ad-49169dfdb8f0.huskhomeslocales.item_no_description: (No description)
+27c2080d-11dc-4db7-b1e1-863057d07e00.huskhomeslocales.error_teleport_request_sender_not_online: '[Error:](&&#ff3300)
+  [The sender of your pending teleport request is no longer online.](&&#ff7e5e)'
+75f57732-cc19-4810-ad88-a0980f986cd5.huskhomeslocales.error_edit_home_privacy_already_public: '[Error:](&&#ff3300)
+  [This home is already set as public.](&&#ff7e5e)'
+cbac25f6-a098-441f-b75e-cec07a451f38.huskhomeslocales.importer_list_title: '[HuskHomes](&&#00fb9a
+  bold) [| Available Data Importers:](&&#00fb9a)\n'
+235fd757-7a74-4dd1-acf8-9fb68d8be4ec.huskhomeslocales.setspawn_command_description: Set
+  the spawn position
+e6216360-790c-4c33-ac6a-f5e563d0feb6.huskhomeslocales.list_page_jumper_current_page: '[%1](&&#00fb9a)'
+cfa6efcc-b32a-4d0f-a486-77cf297f16a0.huskhomeslocales.edit_home_menu_use_buttons: '[Use:](gray)
+  [[⏩ Teleport…]](&&#00fb9a show_text=&7Click to teleport to this home run_command=/huskhomes:home
+  %1)'
+7f9c3242-5ab3-4cda-a506-39e5241f7362.huskhomeslocales.error_console_command_only: '[Error:](&&#ff3300)
+  [That command can only be run from the server console.](&&#ff7e5e)'
+c6389b47-6cda-4f7d-b384-9bd070063cb9.huskhomeslocales.edit_warp_menu_meta_edit_buttons: '[Edit:](gray)
+  [[✎ Rename…]](&#c160ff-&#bb50ff show_text=&7Click to suggest the rename command
+  suggest_command=/huskhomes:editwarp %1 rename )   [[ℹ Description…]](&#bb50ff-&#b43fff
+  show_text=&7Click to suggest the edit description command suggest_command=/huskhomes:editwarp
+  %2 description )'
+112afe31-64a6-4d2f-93c0-de75e0cf1081.huskhomeslocales.edit_home_menu_title_other: "[Viewing
+  details for %1's home,](&&#00fb9a) [%2](&&#00fb9a bold)[:](&&#00fb9a)"
+e6d25cec-a0b6-463f-817a-48d7660ee3d5.huskhomeslocales.command_list_item: '[/%1](&&#00fb9a
+  show_text=&7Click to suggest command suggest_command=/%2)   [%3](gray show_text=&&&#00fb9a&/%4\n&7%5)'
+0f20caaf-f7d4-4af9-bd58-39ae2706034c.huskhomeslocales.error_on_cooldown: '[Error:](&&#ff3300)
+  [You must wait %1 before doing that again.](&&#ff7e5e)'
+b70efd7c-11ad-483e-852d-4d3053f40f40.huskhomeslocales.tpaccept_command_description: Accept
+  a teleport request
+74a531f8-b0b7-4677-8d5c-f9ec9c4206ba.huskhomeslocales.edit_home_update_location: '[Re-located
+  your home](&&#00fb9a) [%1](&&#00fb9a bold) [to your current position.](&&#00fb9a)'
+49db9ece-9616-4df7-ba2d-22f79be0944a.huskhomeslocales.teleporting_action_bar_cancelled: '[Teleportation
+  cancelled!](&&#ff7e5e)'
+b8c17011-781f-4968-a8f9-2a596e7fe28a.huskhomeslocales.edit_home_menu_coordinates: '[⚐
+  x: %1, y: %2, z: %3](&&#ffc43b-&#f5c962 show_text=&&&#ffc43b&Coordinates:\n&8Location
+  of the home in the world\n&8yaw: %4, pitch: %5)\n'
+76819ee1-0c0f-4d38-888c-d6c423042cce.huskhomeslocales.teleporting_cancelled_damage: '[Teleportation
+  cancelled—you took damage!](&&#ff7e5e)'
+b3b90b0c-4565-4fc5-961e-ba359febdd60.huskhomeslocales.tpignore_toggle_button: '[[🔔
+  Toggle…]](&&#ffc43b show_text=&&&#ffc43b&Click to toggle:\n&7Toggle ignoring/listening
+  to incoming teleport requests run_command=/huskhomes:tpignore)'
+630c4671-8e36-4ea3-9c62-93173a8acd84.huskhomeslocales.public_home_list_item: '[[%1]](show_text=&&&#00fb9a&%2\n&7☻
+  %3\n&7ℹ %4 run_command=/huskhomes:phome %5)'
+dcfd1800-17ae-4e1b-823e-5612b7a199ff.huskhomeslocales.error_invalid_teleport_request: '[Error:](&&#ff3300)
+  [You do not have a pending teleport request from %1.](&&#ff7e5e)'
+715a6d32-b2e2-4ac7-ae4f-f56fc62d4bba.huskhomeslocales.error_home_invalid_other: '[Error:](&&#ff3300)
+  [%1 does not have a home set named "%2"](&&#ff7e5e)'
+20a652c3-1b79-42e4-aa95-9724fc1a854d.huskhomeslocales.tpignore_toggle_off: '[Now](&&#00fb9a)
+  [listening](&&#00fb9a bold) [to incoming teleport requests.](&&#00fb9a) %1'
+15c7fac6-c04e-4f83-88e5-a2eec0a05430.huskhomeslocales.tpaall_request_sent: '[You sent
+  a teleport request to every player asking them to teleport to you.](&&#00fb9a)'
+33a80f31-8862-48b0-a1fe-442e46213fb4.huskhomeslocales.error_warp_description_length: '[Error:](&&#ff3300)
+  [Warp descriptions must be less than 255 characters in length.](&&#ff7e5e)'
+380997bf-4afa-4dae-a897-73f5bfde9610.huskhomeslocales.error_target_not_found: '[Error:](&&#ff3300)
+  [Could not find the target player.](&&#ff7e5e)'
+434bb4ce-6ed7-4674-a2af-2d55d84662e2.dh.npc.spawn.panel.l5: §fᴛᴏ ᴀᴄᴄᴇs ᴀʟʟ ᴏᴜʀ ғᴇᴀᴛᴜʀᴇs
+66c5dc78-9d80-4d4b-99de-f19b19a419f3.huskhomeslocales.economy_action_additional_home_slot: Bought
+  an additional home slot
+10e1b9ae-bdbc-4f1f-97db-5bb6204e92ce.huskhomeslocales.tpignore_toggle_on: '[Now](&&#00fb9a)
+  [ignoring](&&#00fb9a bold) [incoming teleport requests.](&&#00fb9a) %1'
+dabf3011-47ac-4f10-a087-af31b95929eb.huskhomeslocales.error_home_name_taken: '[Error:](&&#ff3300)
+  [You already have a home set with that name.](&&#ff7e5e)'
+c2432b0d-1081-4adf-92aa-7db19169322c.huskhomeslocales.delete_player_confirm: "[Warning:](&&#ff3300)
+  [Are you sure you want to delete all of %1's data?](&&#ff7e5e)\\n[All associated
+  homes will also be deleted. This action is irreversible.](gray)\\n[→](gray) [[Confirm]](&&#ff3300
+  show_text=&&&#ff3300&Click to confirm deletion. This cannot be undone. run_command=/huskhomes:huskhomes
+  delete player %2 confirm)"
+a40f7014-d987-4c38-a107-2253ab099d5c.dh.npc.spawn.daily.l5: '&fʏᴏᴜʀ &aᴅᴀɪʟʏ ʀᴇᴡᴀʀᴅs&f,
+  ᴋᴇᴇᴘ ʏᴏᴜʀ sᴛʀᴇᴀᴋ'
+e60fa87f-492e-4891-8955-cedad4d73e99.huskhomeslocales.edit_home_menu_metadata: '[⌚
+  %1](&#999999-&#ababab show_text=&7Set Timestamp:\n&8When the warp was set)   [⚡
+  %2](&#ababab-&#c7c7c7 show_text=&7Warp ID:\n&8%3)'
+62d0bd7a-ed22-46c8-a048-bb1925a9b05c.huskhomeslocales.huskhomes_command_description: View
+  plugin information & reload configs
+60789e5a-927d-4535-9955-671881c241f7.huskhomeslocales.home_is_private: '&&#239e6f&Private'
+2445f318-8311-4062-aa36-0e1aebb05ea2.huskhomeslocales.tpahere_request_sent: '[You
+  sent a teleport request asking](&&#00fb9a) [%1](&&#00fb9a bold) [to teleport to
+  you.](&&#00fb9a)'
+cdc13982-3551-4c77-875d-ea5b2c79a8e9.huskhomeslocales.editwarp_command_description: Edit
+  a warp
+0fe1fd5d-e1f3-45b0-b9b1-bbb81146ea70.huskhomeslocales.teleporting_action_bar_warmup: '[Teleporting
+  in](&&#00fb9a) [%1](&&#00fb9a bold)[…](&&#00fb9a)'
+c348ffbb-1248-414c-a17e-159f3fc8003c.huskhomeslocales.error_player_not_found: '[Error:](&&#ff3300)
+  [Could not find the player %1.](&&#ff7e5e)'
+a0ae4a19-761f-409e-8ac2-19d64d19e720.huskhomeslocales.edit_home_privacy_public_success: '[Successfully
+  made your home,](&&#00fb9a) [%1](&&#00fb9a bold)[, open to the public.](&&#00fb9a)'
+a6f89c0e-f38f-4a7c-b83f-8655bd82a936.dh.npc.spawn.daily.l6: '&fᴛᴏ ɢᴇᴛ ᴀʟʟ ᴛʜᴇ &aaɢɪғᴛs
+  ᴡᴇ ᴏғғᴇʀ'
+c2d6bdaf-98c8-4662-95dc-93e725efa80d.huskhomeslocales.setwarp_command_description: Set
+  a new warp with given name
+5b8ccade-1095-4904-846e-cae27ed4ebfc.huskhomeslocales.tpahere_command_description: Request
+  another player to teleport to you
+bcd3e731-49f2-4387-9fca-37ed8ad4360d.huskhomeslocales.edit_home_privacy_public_success_other: "[Successfully
+  made %1's home,](&&#00fb9a) [%2](&&#00fb9a bold)[, open to the public.](&&#00fb9a)"
+07ea51bc-b9c5-4fcb-989c-dc3f758d984a.huskhomeslocales.warplist_command_description: View
+  the list of warps
+07ddd6e6-59c8-438d-8d26-97ef28a7e302.huskhomeslocales.delete_player_success: '[Successfully
+  deleted all player data for](&&#00fb9a) [%1](&&#00fb9a bold)[, including %2 home(s).](&&#00fb9a)'
+a52bf6bd-72d7-4ab4-86c2-3e438369aee8.dh.npc.dimenstion_at_this_npc: ᴅɪᴍᴇɴsɪᴏɴ ᴀᴛ ᴛʜɪs
+  ɴᴘᴄ
+fcfe1fb6-ced5-4057-8577-a59ebeffb9f5.huskhomeslocales.error_set_home_not_enough_slots: '[Error:](&&#ff3300)
+  [You have used all %1 of your free home slots!](&&#ff7e5e)'
+048714e5-985f-4e60-8690-f9c08a9704ca.huskhomeslocales.warp_command_description: Teleport
+  to a warp
+be586ea2-b5ad-4506-9060-f942c9d0c5a8.huskhomeslocales.edit_warp_menu_world: '[⭘ %1](&#3b76ff-&#5286ff
+  show_text=&&#3b76ff&World:\n&8The world where the warp is set)'
+fe3f3291-4c7c-4b5e-b630-e94d3d0113fd.huskhomeslocales.delhome_command_description: Delete
+  a home you previously set
+58296749-e296-4d0a-b8b6-739add380629.dh.npc.spawn.bank.l5: '&fᴀɴᴅ sᴀᴠᴇ ɪᴛ ᴜᴘ ғᴏʀ ʟᴀᴛᴇʀ'
+b8ef58cc-1aad-4a47-a404-19125eb57754.huskhomeslocales.spawn_warp_default_description: The
+  /spawn position of the server
+b26c3c24-907e-4fd5-944e-9cc3250d94a8.huskhomeslocales.edithome_command_description: Edit
+  one of your homes
+5b0224f6-5bcf-44a8-b519-60175725b6c9.huskhomeslocales.delete_all_warps_confirm: '[Warning:](&&#ff3300)
+  [Are you sure you want to delete every warp?](&&#ff7e5e)\n[Once you confirm, it
+  will not be possible to recover them.](gray)\n[→](gray) [[Confirm]](&&#ff3300 show_text=&&&#ff3300&Click
+  to confirm deletion. This cannot be undone. run_command=/delwarp all confirm)'
+5d606e28-f734-4125-a11e-dc6486eff5b1.huskhomeslocales.error_home_name_characters: '[Error:](&&#ff3300)
+  [Home names must be alphanumeric (A-Z, 0-9, -_)](&&#ff7e5e)'
+ff490d5d-1688-48e4-a83d-909649d3d693.huskhomeslocales.edit_home_menu_world_server: '[⭘
+  %1](&#3b76ff-&#477fff show_text=&&#3b76ff&World:\n&8The world where the home is
+  set)   [☁ %2](&#477fff-&#5286ff show_text=&&#3b76ff&Server:\n&8The server where
+  the home is set)'
+86685015-92cc-450b-9101-6f8c8d772f0c.huskhomeslocales.set_warp_success: '[Successfully
+  set a new warp called](&&#00fb9a) [%1](&&#00fb9a bold)'
+3b211fc2-7fff-46f7-b337-86257385b39a.huskhomeslocales.error_no_importers_available: '[Error:](&&#ff3300)
+  [No importers are currently available. Please check the](&&#ff7e5e) [plugin docs](&&#ff7e5e
+  italic show_text=&&&#ff7e5e&Click to open link open_url=https://william278.net/docs/huskhomes/importing-data)
+  [for more details.](&&#ff7e5e)'
+8c3a0dd0-101e-4dcc-9e68-d6fb7f24fdce.huskhomeslocales.error_no_teleport_requests: '[Error:](&&#ff3300)
+  [You do not have a pending teleport request.](&&#ff7e5e)'
+02197e86-a54d-48c0-ab17-386f8893823f.huskhomeslocales.edit_home_menu_manage_buttons: '[Manage:](gray)
+  [[❌ Delete…]](&&#ff3300 show_text=&7Click to delete this home\n&&&#ff3300&⚠ This
+  cannot be undone! suggest_command=/huskhomes:delhome %1)   [[⚐ Relocate…]](&&#ffc43b-&#f5c962
+  show_text=&7Click to relocate this home to your position run_command=/huskhomes:edithome
+  %2 relocate)   %3'
+a393eeef-1629-455a-ae42-7a5149d72530.huskhomeslocales.edit_warp_menu_world_server: '[⭘
+  %1](&#3b76ff-&#477fff show_text=&&#3b76ff&World:\n&8The world where the warp is
+  set)   [☁ %2](&#477fff-&#5286ff show_text=&&#3b76ff&Server:\n&8The server where
+  the warp is set)'
+833f28dd-cbca-4536-9e31-3a69be8fd8ba.huskhomeslocales.sethome_command_description: Set
+  a new home with given name
+fb582c1a-4c2f-4241-8a14-894b1b0cde2c.bankplus.success-withdraw: Successfully withdrew
+  &a%1% &7money! &8(&b%2% &7lost in taxes&8)
+23e68495-64a8-4920-9ad1-e870036e7a4c.dh.npc.spawn.bank.l10: '&c(ᴛʜᴇ ʙᴀɴᴋ ᴡɪʟʟ ɴᴏᴛ
+  ᴘᴀʏ ʏᴏᴜʀ ᴄʟᴀɪᴍs)'
+2fe49e4b-a6cb-4b4b-a003-e7cf8920eeef.huskhomeslocales.error_invalid_importer: '[Error:](&&#ff3300)
+  [Invalid importer. Please check the](&&#ff7e5e) [plugin docs](&&#ff7e5e italic show_text=&&&#ff7e5e&Click
+  to open link open_url=https://william278.net/docs/huskhomes/importing-data) [for
+  more details.](&&#ff7e5e)'
+d6f51769-6dfd-48b0-93fe-2f136adce96a.huskhomeslocales.delwarp_command_description: Delete
+  a warp
+05d2f445-917f-498c-b8ca-a52cbf2e71ce.huskhomeslocales.error_no_last_position: '[Error:](&&#ff3300)
+  [You have no last position to return to!](&&#ff7e5e)'
+a2648df1-95e3-44af-9be4-d1d3ce53f624.huskhomeslocales.economy_action_public_home_teleport: Teleported
+  to a public home
+d9f50e30-6f07-49d3-bb6b-a9d15af26163.huskhomeslocales.edit_home_menu_privacy_button_private: '[[∅
+  Make Private…]](&&#ff9f0f show_text=&7Click to make this home private run_command=/huskhomes:edithome
+  %1 privacy)'
+c354b90a-0195-4ea7-ab54-6d5e655c401f.huskhomeslocales.delete_all_warps_success: '[Successfully
+  deleted](&&#00fb9a) [%1](&&#00fb9a bold) [server warp(s).](&&#00fb9a)'
+7864f875-f2cd-4e5a-a31d-0ce2bfadcf22.huskhomeslocales.error_in_game_only: 'Error:
+  That command can only be run in-game.'
+724cf310-b41c-48d7-8440-2474223b1ade.huskhomeslocales.error_home_description_characters: '[Error:](&&#ff3300)
+  [Home descriptions may only contain alphanumeric (A-Z, 0-9) characters, spaces,
+  hyphens (-) and underscores (_)](&&#ff7e5e)'
+eee10d78-b0c0-4607-bd18-3354c42c832b.huskhomeslocales.teleporting_other_complete_position: '[Teleported
+  %1 to ⚐ x: %2, y: %3, z: %4.](&&#00fb9a)'
+0e5d8a41-446b-4ca5-af5d-65b1d662f18c.huskhomeslocales.tpahere_request_received: '[%1](&&#00fb9a
+  bold) [has requested that you teleport to them.](&&#00fb9a)'
+f48a1016-0d8a-4625-8e80-31f6239ba5f5.huskhomeslocales.error_invalid_server: '[Error:](&&#ff3300)
+  [Failed to finish teleportation as the target server could not be found or was offline.](&&#ff7e5e)'
+02f6d024-74d5-45fd-92e6-776ac47cfe93.huskhomeslocales.update_available: '[HuskHomes](&&#ff7e5e
+  bold) [| A new version of HuskHomes is available: v%1 (running: v%2).](&&#ff7e5e)'
+62f3a643-cb86-4b3a-9ce2-3ba1ccfb5ffd.huskhomeslocales.phomelist_command_description: View
+  the list of public homes
+7f47e39c-6ed4-4f94-9ad3-c223606f2131.huskhomeslocales.delete_all_homes_confirm: '[Warning:](&&#ff3300)
+  [Are you sure you want to delete all of your homes?](&&#ff7e5e)\n[Once you confirm,
+  it will not be possible to recover them.](gray)\n[→](gray) [[Confirm]](&&#ff3300
+  show_text=&&&#ff3300&Click to confirm deletion. This cannot be undone. run_command=/delhome
+  all confirm)'
+cfbdf783-6891-4259-91eb-4997155ba3cc.huskhomeslocales.error_home_name_length: '[Error:](&&#ff3300)
+  [Home names can only contain up to 16 characters!](&&#ff7e5e)'
+0cf07ce0-6232-4337-8a40-80dce41b2532.huskhomeslocales.edit_warp_menu_use_buttons: '[Use:](gray)
+  [[⏩ Teleport…]](&&#00fb9a show_text=&7Click to teleport to this warp run_command=/huskhomes:warp
+  %1)'
+5593f161-44bd-45e9-a363-2a4fcc477983.huskhomeslocales.error_warp_invalid: '[Error:](&&#ff3300)
+  [There is no warp set with the name "%1"](&&#ff7e5e)'
+1c243494-9c5e-434e-8aee-0c70ba65f0db.huskhomeslocales.economy_action_spawn_teleport: Teleported
+  to spawn
+af4ed799-0307-4ee7-9629-73c35a4bf463.dh.npc.spawn.bank.l7: '&fʙᴜᴛ ɪғ ʏᴏᴜ ᴀʀᴇ ʀɪᴄʜ,
+  ʏᴏᴜ ɢᴏᴛᴛᴀ ᴘᴀʏ'
+96c7b3a2-bbcf-437a-9c18-ebb22ef35bcb.huskhomeslocales.edit_warp_update_location: '[Re-located
+  the warp](&&#00fb9a) [%1](&&#00fb9a bold) [to your current position.](&&#00fb9a)'
+0690c165-3441-4dac-97f2-9b19f15c746e.huskhomeslocales.error_home_description_length: '[Error:](&&#ff3300)
+  [Home descriptions must be less than 255 characters in length.](&&#ff7e5e)'
+82e0cead-da81-4a99-a90d-f420c66a7350.huskhomeslocales.importer_list_item: '[%1](&&#00fb9a
+  show_text=&&&#00fb9a&Click to import data through this importer. suggest_command=/huskhomes:huskhomes
+  import start %2)    [⏩ %3](white show_text=&&&#00fb9a&This importer supports importing:\n&f%4
+  suggest_command=/huskhomes:huskhomes import start %5)'
+b97db477-81c1-4f53-86e1-558996f031fa.huskhomeslocales.public_home_list_page_title: '[☀
+  Public Homes:](&&#00fb9a) [(%1-%2 of](&&#00fb9a) [%3](&&#00fb9a bold)[)](&&#00fb9a)\n'
+2c61f222-f135-4e23-b60d-69df628687b7.huskhomeslocales.bulk_delete_homes_success: '[Successfully
+  deleted](&&#00fb9a) [%1](&&#00fb9a bold) [homes.](&&#00fb9a)'
+85405543-58d3-4d91-9618-7060ddd012c3.dh.npc.spawn.daily.l4: '&fɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ ᴛᴏ
+  ᴄʟᴀɪᴍ'
+df54ed44-ff00-4725-87b4-a0f9d9c59489.huskhomeslocales.error_edit_home_privacy_already_private: '[Error:](&&#ff3300)
+  [This home is already set as private.](&&#ff7e5e)'
+bd763582-9a63-4829-adbd-c790f331811f.huskhomeslocales.teleport_request_accepted: '[%1
+  has accepted your teleport request!](&&#00fb9a)'
+4a266c49-23be-483f-8b69-c7b089bc5c3e.huskhomeslocales.edit_home_privacy_private_success_other: "[Successfully
+  made %1's home,](&&#00fb9a) [%2](&&#00fb9a bold)[, private.](&&#00fb9a)"
+a1495424-1146-4e3c-a178-34be4253ea71.huskhomeslocales.economy_action_home_teleport: Teleported
+  to a home
+52f8b5b7-590f-4155-897a-983992ff242b.huskhomeslocales.error_no_public_homes_set: '[Error:](&&#ff3300)
+  [There are no public homes set!](&&#ff7e5e)'
+64dd0205-ddf8-454f-85ab-5912f6e8d72e.huskhomeslocales.home_command_description: Teleport
+  to one of your homes
+e3c67141-a9fe-4a40-a6a7-b3d22b824269.huskhomeslocales.error_invalid_world: '[Error:](&&#ff3300)
+  [Failed to finish teleportation as the target world could not be found.](&&#ff7e5e)'
+9b48c374-59e5-47f7-b854-120fb64f45e2.huskhomeslocales.error_home_invalid: '[Error:](&&#ff3300)
+  [You have not set a home with the name "%1"](&&#ff7e5e)'
+6591deb7-f97f-466f-9195-a379f1cec41b.dh.npc.spawn.bank.l6: '&fʏᴏᴜ ᴍɪɢʜᴛ ᴍᴀᴋᴇ sᴏᴍᴇ
+  §x§E§8§8§C§0§8ᴍᴏɴᴇʏ'
+74aa7fb2-d9ba-4ecc-bdfe-10029ef5bc37.dh.npc.teleport_to_dimension: ᴛᴇʟᴇᴘᴏʀᴛ ᴛᴏ ᴛʜᴇ
+089c836f-a244-4d29-b46a-4c9da3c8f761.huskhomeslocales.teleporting_warmup_start: '[You
+  will be teleported in](&&#00fb9a) [%1](&&#00fb9a bold) [seconds, please stand still…](&&#00fb9a)'
+b3edd344-6307-4519-a3fd-d2d289ab3e1f.huskhomeslocales.homelist_command_description: Get
+  a list of your homes
+3043366e-be71-4858-a8d2-4cb806b200f9.huskhomeslocales.home_is_public: '&&&#00fb9a&Public'
+8cae368e-6861-4b6a-a0cf-265bce880c34.huskhomeslocales.return_by_death_notification: '[Return
+  to where you died?](gray) [[⏪ Teleport…]](&&#00fb9a show_text=&&&#00fb9a&Click to
+  teleport\n&7Return to where you died run_command=/huskhomes:back)'
+df150901-8a61-443e-b80c-46e1f9df7f9f.huskhomeslocales.edit_warp_update_name: '[Successfully
+  renamed the warp: %1 →](&&#00fb9a) [%2](&&#00fb9a bold)'
+d715c0d2-edf3-43f4-a75a-d7f3fec541f7.huskhomeslocales.economy_action_back_command: Used
+  the /back command
+e8a92522-bce9-49ae-b203-3ffc97704648.huskhomeslocales.edit_home_update_name_other: "[Successfully
+  renamed %1's home: %2 →](&&#00fb9a) [%3](&&#00fb9a bold)"
+06b7230f-53b3-45fc-8333-9b9d18aaea40.huskhomeslocales.error_no_warps_set: '[Error:](&&#ff3300)
+  [There are no warps set!](&&#ff7e5e)'
+fcb1ef31-a876-4e96-a644-d45d7ba557c4.huskhomeslocales.teleporting_complete: '[Teleportation
+  complete!](&&#00fb9a)'
+8dbbd5a5-7b31-477f-99ca-02cd5ffb016d.huskhomeslocales.tp_command_description: Teleport
+  to another player or location
+86a521e8-620f-4f7a-a3bd-fd3e3b99f1ec.huskhomeslocales.tpall_command_description: Teleport
+  everyone to your position
+703254df-28c7-448a-b0da-2da5e3f603d9.huskhomeslocales.error_command_disabled: '[Error:](&&#ff3300)
+  [That command is disabled!](&&#ff7e5e)'
+57731f52-c94a-4078-9c79-103e2df6df9b.huskhomeslocales.edit_home_menu_metadata_public: '[⌚
+  %1](&#999999-&#ababab show_text=&7Set Timestamp:\n&8When the home was set)   [⚡
+  %2](&#ababab-&#c7c7c7 show_text=&7Home ID:\n&8%3)   [☀ Public Home](&#6fff00 show_text=&&#6fff00&Privacy:\n&8Anyone
+  can teleport to the home)'
+63470a19-54f1-4772-b5ae-f3aa4cd6c1d6.huskhomeslocales.teleport_request_buttons: "[Options:](gray)
+  [[✔ Accept…]](&&#00fb9a show_text=&&&#00fb9a&Accept teleport request\\n&8Click to
+  accept %1's request run_command=/huskhomes:tpaccept %2)   [[❌ Decline…]](&&#ff3300
+  show_text=&&&#ff3300&Decline teleport request\\n&8Click to decline %3's request
+  run_command=/huskhomes:tpdeny %4)"
+518954d1-3738-438d-9e25-45fc4d2b4c63.huskhomeslocales.economy_transaction_complete: '[ℹ
+  %1 has been deducted from your account. (%2)](gray)'
+f8398c82-35ed-4f6f-8265-02c47e917ed2.huskhomeslocales.edit_home_menu_description: '[ℹ
+  %1](&#c160ff-&#b43fff show_text=&&#c160ff&Description:\n&8%2)\n'
+9d093d3b-d55d-4470-ae65-5c911b3f36d1.huskhomeslocales.edit_home_menu_world: '[⭘ %1](&#3b76ff-&#5286ff
+  show_text=&&#3b76ff&World:\n&8The world where the home is set)'
+748b0132-8ec9-404d-a464-f0d64fa7bf33.huskhomeslocales.edit_warp_menu_title: '[Viewing
+  details for the warp,](&&#00fb9a) [%1](&&#00fb9a bold)[:](&&#00fb9a)'
+2abe8508-1bf3-46e2-979f-6bd00d88c40e.huskhomeslocales.warp_list_page_title: '[Warps:](&&#00fb9a)
+  [(%1-%2 of](&&#00fb9a) [%3](&&#00fb9a bold)[)](&&#00fb9a)\n'
+62151c19-5215-4b00-b053-3c02dcb68fac.huskhomeslocales.edit_home_update_description: '[Successfully
+  changed the description of your home, %1:](&&#00fb9a) \n[←](white) [Old:](&&#00fb9a)
+  ["%2"](gray)\n[→](white) [New:](&&#00fb9a) ["%3" ](gray)'
+669e76ef-6266-4381-a3d8-1b1938c014a6.huskhomeslocales.error_warp_name_taken: '[Error:](&&#ff3300)
+  [There is already a warp set with that name.](&&#ff7e5e)'
+fd19ce8e-b979-4643-ab63-1585238b1b00.huskhomeslocales.delete_all_homes_success: '[Successfully
+  deleted](&&#00fb9a) [%1](&&#00fb9a bold) [home(s).](&&#00fb9a)'
+0f8ee12a-3def-4281-891d-5b980027fdd2.huskhomeslocales.error_rtp_restricted_world: '[Error:](&&#ff3300)
+  [You cannot randomly teleport in this world.](&&#ff7e5e)'
+5758e889-dcaa-4bbc-8a8c-9796222d581e.huskhomeslocales.error_no_players_online: '[Error:](&&#ff3300)
+  [There are no players online who could teleport to you.](&&#ff7e5e)'
+5514008f-3668-4e75-8260-9f2e951bca22.huskhomeslocales.error_no_homes_set: '[Error:](&&#ff3300)
+  [You have not set any homes!](&&#ff7e5e)'
+3d186ff8-ef8c-4f42-bdf1-5b6d6a5ad8c0.huskhomeslocales.edit_warp_menu_description: '[ℹ
+  %1](&#c160ff-&#b43fff show_text=&&#c160ff&Description:\n&8%2)\n'
+0f6656ab-49d3-4590-b8fc-1a98281499fe.huskhomeslocales.edit_home_update_description_other: "[Successfully
+  changed the description of %1's home, %2:](&&#00fb9a) \\n[←](white) [Old:](&&#00fb9a)
+  [\"%3\"](gray)\\n[→](white) [New:](&&#00fb9a) [\"%4\" ](gray)"
+7a0eb2c2-df9d-4488-845d-a78ca11b4472.huskhomeslocales.edit_home_update_location_other: "[Re-located
+  %1's home,](&&#00fb9a) [%2](&&#00fb9a bold)[, to your current position.](&&#00fb9a)"
+59857691-32f6-458a-8ae7-a63e8eaf0155.huskhomeslocales.economy_action_make_home_public: Made
+  a home public
+51d90645-f3d7-4b14-902a-4c7e5d024277.huskhomeslocales.error_teleport_warmup_stand_still: '[Error:](&&#ff3300)
+  [You must be standing still before starting a teleport!](&&#ff7e5e)'
+e123b0ba-706d-4704-8f70-022d9993c5bb.huskhomeslocales.back_command_description: Return
+  to your previous position, or where you died
+037c2155-4aae-4b3c-ba3d-b1c9ba249e38.huskhomeslocales.error_no_homes_set_other: '[Error:](&&#ff3300)
+  [%1 has not set any homes!](&&#ff7e5e)'
+b19eb58c-4f94-478b-b020-862416869af7.huskhomeslocales.tpignore_on_notification: '[You
+  are currently ignoring incoming teleport requests!](gray) %1'
+8b8bcf39-4c5f-429d-88ee-5d7ac36d1207.huskhomeslocales.error_warp_name_characters: '[Error:](&&#ff3300)
+  [Warp names must be alphanumeric (A-Z,0-9, -_)](&&#ff7e5e)'
+48db08e4-7e37-432b-97a9-411df6070869.huskhomeslocales.edit_home_menu_meta_edit_buttons: '[Edit:](gray)
+  [[✎ Rename…]](&#c160ff-&#bb50ff show_text=&7Click to suggest the rename command
+  suggest_command=/huskhomes:edithome %1 rename )   [[ℹ Description…]](&#bb50ff-&#b43fff
+  show_text=&7Click to suggest the edit description command suggest_command=/huskhomes:edithome
+  %2 description )'
+756b38e4-6514-495c-bce9-185a14c06287.huskhomeslocales.bulk_delete_warps_success: '[Successfully
+  deleted](&&#00fb9a) [%1](&&#00fb9a bold) [warps.](&&#00fb9a)'
+e1d8e6bb-c09d-47ed-ab53-64aaebbfeaa3.huskhomeslocales.error_teleport_request_self: '[Error:](&&#ff3300)
+  [You cannot send a teleport request to yourself.](&&#ff7e5e)'
+660b2aae-d780-4dcb-ae00-cf8747737657.huskhomeslocales.rtp_command_description: Teleport
+  randomly into the wild
+d9ec9d7f-ca97-4acf-bb29-330444045995.huskhomeslocales.warp_deleted: '[Successfully
+  deleted the warp,](&&#00fb9a) [%1](&&#00fb9a bold)'
+b1f11e24-a6eb-4d11-a80e-e6654262c839.huskhomeslocales.edit_warp_menu_coordinates: '[⚐
+  x: %1, y: %2, z: %3](&&#ffc43b-&#f5c962 show_text=&&&#ffc43b&Coordinates:\n&8Location
+  of the warp in the world\n&8yaw: %4, pitch: %5)\n'
+5a0090b0-5555-4c01-8144-dc5f824f98a8.huskhomeslocales.economy_action_accept_teleport_request: Accepted
+  a teleport request
+38878930-9cb7-4816-90c1-0d0a36271f3a.huskhomeslocales.edit_home_menu_metadata_private: '[⌚
+  %1](&#999999-&#ababab show_text=&7Set Timestamp:\n&8When the home was set)   [⚡
+  %2](&#ababab-&#c7c7c7 show_text=&7Home ID:\n&8%3)   [∅ Private Home](&&#ff9f0f show_text=&&&#ff9f0f&Privacy:\n&8The
+  home is private to the owner)'
+259d500a-4551-4a0d-be5d-a357b02ae175.dh.npc.spawn.bank.l8: sᴏᴍᴇ ʜɪɢʜ ᴛᴀxᴇs ᴛᴏ ᴋᴇᴇᴘ
+  ᴛʜᴇ §x§E§8§8§C§0§8ᴍᴏɴᴇʏ
+7d9e84dd-ad5e-428c-bcf2-fe74814158ff.huskhomeslocales.spawn_command_description: Teleport
+  to spawn
+11852252-45a1-416b-9a7a-c80469fdf257.huskhomeslocales.error_already_teleporting: '[Error:](&&#ff3300)
+  [Please wait for the current teleport to finish!](&&#ff7e5e)'
+1024e118-5ee7-4880-ae73-bfb092f654da.huskhomeslocales.map_hook_warps_marker_set_name: Warps
+5f000449-cdc7-41c3-ba05-718bff8735b0.huskhomeslocales.tpaall_command_description: Request
+  that everyone teleports to you
+04a10692-a968-4493-9b57-4f93e61b9a57.huskhomeslocales.teleport_request_declined: '[%1
+  has declined your teleport request.](&&#ff7e5e)'
+a1748074-6b23-4b1c-9a87-c4d29b674b65.huskhomeslocales.teleport_request_declined_confirmation: "[You
+  declined %1's teleport request.](&&#ff7e5e)"
+9de2c8d1-b0ce-416c-bae5-07bad47f021f.huskhomeslocales.teleporting_offline_player: '[Teleporting
+  you to where %1 last logged out…](&&#00fb9a)'
+633f4ebd-2665-498f-9fb5-db5870461706.dh.npc.time_in_this_world: ᴛɪᴍᴇ ɪɴ ᴛʜɪs ᴡᴏʀʟᴅ
+76e5ccf2-24e2-4197-8ce7-0f15bf6b2ae5.huskhomeslocales.home_list_item: '[[%1]](show_text=&&&#00fb9a&%2\n&7Status:
+  %3\n&7ℹ %4 run_command=/huskhomes:edithome %5)'
+92809955-31d9-4b13-9d52-70c6fa34bc3a.huskhomeslocales.home_deleted_other: "[Successfully
+  deleted %1's home,](&&#00fb9a) [%2](&&#00fb9a bold)"
+21b6587f-cee8-4103-8d2d-9b591105a70e.huskhomeslocales.error_teleport_request_expired: '[Error:](&&#ff3300)
+  [Your pending teleport request has expired.](&&#ff7e5e)'
+3e4d7f23-5ddb-4517-9fec-fdfa5520d24d.huskhomeslocales.error_unknown_public_home: '[Error:](&&#ff3300)
+  [Could not find a public home with the name "%1".](&&#ff7e5e)'
+3a5322ab-e8c8-4cbf-a4e6-d1ae9aa17526.huskhomeslocales.edit_warp_update_description: '[Successfully
+  changed the description of the warp, %1:](&&#00fb9a) \n[←](white) [Old:](&&#00fb9a)
+  ["%2"](gray)\n[→](white) [New:](&&#00fb9a) ["%3" ](gray)'
+4fa642c0-a21a-4ab7-ada9-38101326eaff.huskhomeslocales.error_set_home_maximum_homes: '[Error:](&&#ff3300)
+  [You can only set a maximum of %1 homes!](&&#ff7e5e)'
+d8a9bfa0-a1c1-44af-910b-cfd3e88e9f10.huskhomeslocales.bulk_delete_homes_confirm: '[Warning:](&&#ff3300)
+  [Are you sure you want to delete all homes in the world \"%1\"?](&&#ff7e5e)\n[This
+  action is irreversible.](gray)\n[→](gray) [[Confirm]](&&#ff3300 show_text=&&&#ff3300&Click
+  to confirm deletion. This cannot be undone. run_command=/huskhomes:huskhomes delete
+  homes %2 %3 confirm)'
+6d848f51-522a-47d2-98b1-f453c62d23d8.huskhomeslocales.edit_warp_menu_manage_buttons: '[Manage:](gray)
+  [[❌ Delete…]](&&#ff3300 show_text=&7Click to delete this warp\n&&&#ff3300&⚠ This
+  cannot be undone! suggest_command=/huskhomes:delwarp %1)   [[⚐ Relocate…]](&&#ffc43b-&#f5c962
+  show_text=&7Click to relocate this warp to your position run_command=/huskhomes:editwarp
+  %2 relocate)'
+c4a6c87d-4154-4609-8dea-372dd1728ed6.huskhomeslocales.teleporting_action_bar_processing: '[Teleporting…](&&#00fb9a)'
+15b21c1e-bdb5-4caf-93e5-538eb7c8a2f8.huskhomeslocales.error_spawn_not_set: '[Error:](&&#ff3300)
+  [The spawn position has not been set.](&&#ff7e5e)'
+984adc5f-ba0c-4119-9380-c445f222efc6.huskhomeslocales.economy_action_warp_teleport: Teleported
+  to a warp
+bd3fa4b5-f025-435e-80d5-f7d4b945b3c9.huskhomeslocales.list_page_jumpers: (%1)
+ce257c2a-e2f0-41b4-959d-3845948befb5.huskhomeslocales.bulk_delete_warps_confirm: '[Warning:](&&#ff3300)
+  [Are you sure you want to delete all warps in the world \"%1\"?](&&#ff7e5e)\n[This
+  action is irreversible.](gray)\n[→](gray) [[Confirm]](&&#ff3300 show_text=&&&#ff3300&Click
+  to confirm deletion. This cannot be undone. run_command=/huskhomes:huskhomes delete
+  warps %2 %3 confirm)'
+f3249ec8-cae7-4c36-b389-eb6484c47665.huskhomeslocales.edit_home_menu_title: '[Viewing
+  details for your home,](&&#00fb9a) [%1](&&#00fb9a bold)[:](&&#00fb9a)'
